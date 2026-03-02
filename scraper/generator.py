@@ -127,15 +127,15 @@ class DataGenerator:
                     "{company}AR眼镜{product}开始量产，售价{amount}元"
                 ]
             },
-            "market": {
-                "name": "市场宏观",
-                "keywords": ["美联储", "央行", "通胀", "GDP", "利率", "股市", "牛市", "熊市"],
+            "gaming": {
+                "name": "游戏",
+                "keywords": ["游戏", "腾讯", "网易", "米哈游", "Steam", "手游", "端游", "电竞", "元宇宙游戏", "AI游戏"],
                 "templates": [
-                    "{country}Q{quarter} GDP增长{percent}%，超预期",
-                    "{organization}宣布{action}，影响{scope}",
-                    "{country}通胀率降至{percent}%，为{year}年来最低",
-                    "{market}指数突破{number}点，创{duration}新高",
-                    "{country}央行{action}，{scope}市场反应积极"
+                    "{company}游戏{product}全球收入突破{amount}亿美元",
+                    "{company}发布新游{product}，首周下载量达{number}万",
+                    "{company}与{company2}达成{product}发行合作",
+                    "{game}电竞赛事奖金池达{amount}万美元，创纪录",
+                    "{company}投资{amount}亿美元建设{location}游戏工作室"
                 ]
             }
         }
@@ -160,9 +160,9 @@ class DataGenerator:
             "ASML": {"name": "阿斯麦", "categories": ["semiconductor"]},
             "AVGO": {"name": "博通", "categories": ["semiconductor"]},
             "QCOM": {"name": "高通", "categories": ["semiconductor", "consumer"]},
-            "MSFT": {"name": "微软", "categories": ["ai", "market"]},
+            "MSFT": {"name": "微软", "categories": ["ai", "gaming"]},
             "GOOGL": {"name": "谷歌", "categories": ["ai", "robotics"]},
-            "AMZN": {"name": "亚马逊", "categories": ["ai", "market"]},
+            "AMZN": {"name": "亚马逊", "categories": ["ai", "gaming"]},
             "META": {"name": "Meta", "categories": ["ai", "consumer"]},
             "TSLA": {"name": "特斯拉", "categories": ["energy", "robotics", "consumer"]},
             "AAPL": {"name": "苹果", "categories": ["consumer", "ai"]},
@@ -182,7 +182,8 @@ class DataGenerator:
             "semiconductor": ["英伟达", "台积电", "Intel", "AMD", "ASML", "三星", "高通", "博通"],
             "energy": ["特斯拉", "比亚迪", "宁德时代", "隆基绿能", "通威股份", "First Solar", "Enphase"],
             "biotech": ["礼来", "诺和诺德", "强生", "辉瑞", "Moderna", "基因泰克", "安进"],
-            "space": ["SpaceX", "蓝色起源", "Rocket Lab", "星河动力", "星际荣耀", "长光卫星"]
+            "space": ["SpaceX", "蓝色起源", "Rocket Lab", "星河动力", "星际荣耀", "长光卫星"],
+            "gaming": ["腾讯", "网易", "米哈游", "Steam", "Epic Games", "动视暴雪", "EA", "任天堂"]
         }
     
     def random_date(self, days_back=30):
@@ -223,7 +224,8 @@ class DataGenerator:
             "{scope}": random.choice(["全球", "亚太", "欧美", "新兴市场"]),
             "{field}": random.choice(["制造业", "物流", "医疗", "农业", "服务业"]),
             "{capability}": random.choice(["自主导航", "人机协作", "复杂环境作业", "精密操作"]),
-            "{feature}": random.choice(["AI芯片", "卫星通信", "折叠屏", "超长续航"])
+            "{feature}": random.choice(["AI芯片", "卫星通信", "折叠屏", "超长续航"]),
+            "{game}": random.choice(["王者荣耀", "原神", "英雄联盟", "魔兽世界", "塞尔达", "GTA", "使命召唤"])
         }
         
         title = template
