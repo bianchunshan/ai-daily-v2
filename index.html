@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI日报 - 全球科技前沿资讯，双来源验证，股票关联分析">
+    <title>AI日报 - 全球科技前沿资讯 | 双来源验证</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#6366f1',
+                        secondary: '#8b5cf6',
+                        accent: '#ec4899',
+                        success: '#10b981',
+                        warning: '#f59e0b',
+                        danger: '#ef4444',
+                        dark: '#0f0f1a',
+                        darker: '#08080f',
+                        card: '#1a1a2e',
+                        'card-hover': '#252542',
+                        border: '#2a2a3a'
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <style>
+        * { font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif; }
+        .gradient-text { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .glass { background: rgba(26, 26, 46, 0.85); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.08); }
+        .verified-badge { background: linear-gradient(135deg, #10b981 0%, #059669 100%); }
+        .source-tag { transition: all 0.2s; }
+        .source-tag:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3); }
+        .stock-card { transition: all 0.3s; cursor: pointer; }
+        .stock-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(99, 102, 241, 0.2); }
+        .news-card { transition: all 0.3s; }
+        .news-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.3); }
+        .ticker { animation: scroll 40s linear infinite; }
+        @keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+        .loading { display: inline-block; width: 20px; height: 20px; border: 2px solid #6366f1; border-radius: 50%; border-top-color: transparent; animation: spin 1s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .fade-in { animation: fadeIn 0.5s ease-out; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .pulse-dot { animation: pulse 2s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    </style>
+</head>
+<body class="bg-darker text-gray-100 min-h-screen">
+    <!-- Header -->
+    <header class="fixed top-0 left-0 right-0 z-50 glass border-b border-border">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center gap-3">
+                    <div class="relative">
+                        <i class="fas fa-robot text-3xl text-primary"></i>
+                        <span class="absolute -top-1 -right-1 w-3 h-3 bg-success rounded-full pulse-dot"></span>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold gradient-text">AI日报</h1>
+                        <p class="text-xs text-gray-400" id="current-date"></p>
+                    </div>
+                </div>
+                <nav class="hidden lg:flex items-center gap-1">
+                    <button onclick="filterCategory('all')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition hover:bg-primary/20" data-cat="all">首页</button>
+                    <button onclick="filterCategory('world')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="world">国际</button>
+                    <button onclick="filterCategory('ai')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="ai">AI</button>
+                    <button onclick="filterCategory('semiconductor')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="semiconductor">半导体</button>
+                    <button onclick="filterCategory('energy')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="energy">新能源</button>
+                    <button onclick="filterCategory('robotics')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="robotics">机器人</button>
+                    <button onclick="filterCategory('quantum')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="quantum">量子</button>
+                    <button onclick="filterCategory('biotech')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="biotech">生物</button>
+                    <button onclick="filterCategory('space')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="space">航天</button>
+                    <button onclick="filterCategory('fusion')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="fusion">核聚变</button>
+                    <button onclick="filterCategory('consumer')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="consumer">消费电子</button>
+                    <button onclick="filterCategory('market')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="market">市场</button>
+                </nav>
+                <div class="flex items-center gap-3">
+                    <div class="hidden md:flex items-center gap-2 px-3 py-1.5 bg-success/10 rounded-full border border-success/30">
+                        <i class="fas fa-check-circle text-success text-sm"></i>
+                        <span class="text-xs text-success font-medium">双来源验证</span>
+                    </div>
+                    <button onclick="toggleSearch()" class="w-10 h-10 flex items-center justify-center rounded-lg hover:bg-white/5 transition" title="搜索 (/ )">
+                        <i class="fas fa-search text-gray-400"></i>
+                    </button>
+                    <button onclick="toggleTheme()" class="w-10 h-10 flex items-center justify-center rounded-lg hover:bg-white/5 transition">
+                        <i class="fas fa-sun text-yellow-400" id="theme-icon"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Search Modal -->
+    <div id="search-modal" class="fixed inset-0 z-[60] hidden">
+        <div class="absolute inset-0 bg-black/80 backdrop-blur-sm" onclick="toggleSearch()"></div>
+        <div class="absolute top-24 left-1/2 -translate-x-1/2 w-full max-w-2xl px-4">
+            <div class="glass rounded-2xl p-6 shadow-2xl">
+                <div class="relative">
+                    <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-gray-500"></i>
+                    <input type="text" id="search-input" placeholder="搜索新闻标题、股票代码..." 
+                        class="w-full bg-gray-800/50 border border-gray-700 rounded-xl py-4 pl-12 pr-4 text-white placeholder-gray-500 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition"
+                        onkeyup="searchNews(this.value)">
+                    <span class="absolute right-4 top-1/2 -translate-y-1/2 text-xs text-gray-500 px-2 py-1 bg-gray-800 rounded">ESC</span>
+                </div>
+                <div id="search-results" class="mt-4 max-h-[60vh] overflow-y-auto space-y-2"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Stock Detail Modal -->
+    <div id="stock-modal" class="fixed inset-0 z-[70] hidden">
+        <div class="absolute inset-0 bg-black/80 backdrop-blur-sm" onclick="closeStockModal()"></div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-2xl px-4">
+            <div class="glass rounded-2xl overflow-hidden shadow-2xl" id="stock-detail-content">
+                <!-- Content loaded dynamically -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Breaking News Ticker -->
+    <div class="fixed top-16 left-0 right-0 z-40 bg-gradient-to-r from-red-900/80 via-orange-900/80 to-red-900/80 border-y border-red-500/30">
+        <div class="max-w-7xl mx-auto px-4 py-2.5 flex items-center gap-4 overflow-hidden">
+            <span class="bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap flex items-center gap-1">
+                <i class="fas fa-bolt"></i> 突发
+            </span>
+            <div class="flex-1 overflow-hidden">
+                <div class="ticker whitespace-nowrap flex gap-8">
+                    <span class="text-red-300 font-medium">🔴 美以联合空袭伊朗，已致201死747伤，冲突全面升级</span>
+                    <span class="text-gray-500">|</span>
+                    <span class="text-gray-200">🤖 OpenAI完成1100亿美元融资，估值达8400亿美元</span>
+                    <span class="text-gray-500">|</span>
+                    <span class="text-gray-200">💾 英伟达超越苹果成为台积电最大客户</span>
+                    <span class="text-gray-500">|</span>
+                    <span class="text-gray-200">🔋 2025年光伏新增装机同比增长14%</span>
+                    <span class="text-gray-500">|</span>
+                    <span class="text-red-300 font-medium">🔴 美以联合空袭伊朗，已致201死747伤，冲突全面升级</span>
+                    <span class="text-gray-500">|</span>
+                    <span class="text-gray-200">🤖 Meta与AMD达成600-1000亿美元超级采购协议</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="pt-32 pb-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+            <!-- Stats Bar -->
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+                <div class="bg-card rounded-xl p-4 border border-border">
+                    <div class="text-gray-400 text-xs mb-1">今日更新</div>
+                    <div class="text-2xl font-bold text-white">1,100</div>
+                    <div class="text-success text-xs"><i class="fas fa-arrow-up mr-1"></i>+42条</div>
+                </div>
+                <div class="bg-card rounded-xl p-4 border border-border">
+                    <div class="text-gray-400 text-xs mb-1">双来源验证</div>
+                    <div class="text-2xl font-bold text-success">100%</div>
+                    <div class="text-gray-400 text-xs">每条新闻2+来源</div>
+                </div>
+                <div class="bg-card rounded-xl p-4 border border-border">
+                    <div class="text-gray-400 text-xs mb-1">关联股票</div>
+                    <div class="text-2xl font-bold text-primary">150+</div>
+                    <div class="text-gray-400 text-xs">覆盖中美科技龙头</div>
+                </div>
+                <div class="bg-card rounded-xl p-4 border border-border">
+                    <div class="text-gray-400 text-xs mb-1">可信度评分</div>
+                    <div class="text-2xl font-bold text-accent">94.5</div>
+                    <div class="text-gray-400 text-xs">平均分/100</div>
+                </div>
+            </div>
+
+            <!-- Category Cards -->
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-11 gap-3 mb-8">
+                <button onclick="filterCategory('world')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-blue-500/20 flex items-center justify-center group-hover:bg-blue-500/30 transition">
+                        <i class="fas fa-globe text-blue-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">国际</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('ai')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-purple-500/20 flex items-center justify-center group-hover:bg-purple-500/30 transition">
+                        <i class="fas fa-brain text-purple-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">AI</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('semiconductor')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-green-500/20 flex items-center justify-center group-hover:bg-green-500/30 transition">
+                        <i class="fas fa-microchip text-green-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">半导体</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('energy')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-yellow-500/20 flex items-center justify-center group-hover:bg-yellow-500/30 transition">
+                        <i class="fas fa-bolt text-yellow-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">新能源</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('robotics')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-red-500/20 flex items-center justify-center group-hover:bg-red-500/30 transition">
+                        <i class="fas fa-robot text-red-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">机器人</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('quantum')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-cyan-500/20 flex items-center justify-center group-hover:bg-cyan-500/30 transition">
+                        <i class="fas fa-atom text-cyan-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">量子</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('biotech')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-pink-500/20 flex items-center justify-center group-hover:bg-pink-500/30 transition">
+                        <i class="fas fa-dna text-pink-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">生物</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('space')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-orange-500/20 flex items-center justify-center group-hover:bg-orange-500/30 transition">
+                        <i class="fas fa-rocket text-orange-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">航天</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('fusion')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-amber-500/20 flex items-center justify-center group-hover:bg-amber-500/30 transition">
+                        <i class="fas fa-fire text-amber-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">核聚变</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('consumer')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-indigo-500/20 flex items-center justify-center group-hover:bg-indigo-500/30 transition">
+                        <i class="fas fa-mobile-alt text-indigo-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">消费电子</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+                <button onclick="filterCategory('market')" class="category-btn bg-card hover:bg-card-hover rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group">
+                    <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-teal-500/20 flex items-center justify-center group-hover:bg-teal-500/30 transition">
+                        <i class="fas fa-chart-line text-teal-400"></i>
+                    </div>
+                    <p class="text-sm font-medium">市场</p>
+                    <p class="text-xs text-gray-500 mt-1">100+条</p>
+                </button>
+            </div>
+
+            <!-- News Section -->
+            <div class="flex items-center justify-between mb-6">
+                <div class="flex items-center gap-3">
+                    <h2 class="text-2xl font-bold" id="section-title">全部资讯</h2>
+                    <span class="px-2 py-1 bg-primary/20 text-primary text-xs rounded-full" id="news-count">加载中...</span>
+                </div>
+                <div class="flex items-center gap-3">
+                    <select onchange="sortNews(this.value)" class="bg-card border border-border rounded-lg px-3 py-2 text-sm text-gray-300 focus:outline-none focus:border-primary">
+                        <option value="newest">最新发布</option>
+                        <option value="hot">最热阅读</option>
+                        <option value="credible">可信度</option>
+                    </select>
+                    <button onclick="refreshNews()" class="w-10 h-10 flex items-center justify-center rounded-lg bg-card border border-border hover:border-primary transition" title="刷新">
+                        <i class="fas fa-sync-alt text-gray-400" id="refresh-icon"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- News Container -->
+            <div id="news-container" class="space-y-4">
+                <div class="flex items-center justify-center py-20">
+                    <div class="loading"></div>
+                    <span class="ml-3 text-gray-400">加载中...</span>
+                </div>
+            </div>
+
+            <!-- Load More -->
+            <div class="text-center mt-8">
+                <button onclick="loadMore()" id="load-more-btn" class="bg-card hover:bg-card-hover border border-border px-8 py-3 rounded-xl transition flex items-center gap-2 mx-auto">
+                    <span>加载更多</span>
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-border mt-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center gap-2 mb-4">
+                        <i class="fas fa-robot text-2xl text-primary"></i>
+                        <span class="font-bold text-lg">AI日报</span>
+                    </div>
+                    <p class="text-gray-400 text-sm leading-relaxed">全球科技前沿资讯平台，双来源验证，股票关联分析，助您把握投资机会。</p>
+                </div>
+                <div>
+                    <h4 class="font-semibold mb-4">内容板块</h4>
+                    <ul class="space-y-2 text-sm text-gray-400">
+                        <li><a href="#" class="hover:text-primary transition">人工智能</a></li>
+                        <li><a href="#" class="hover:text-primary transition">半导体</a></li>
+                        <li><a href="#" class="hover:text-primary transition">新能源</a></li>
+                        <li><a href="#" class="hover:text-primary transition">生物科技</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-semibold mb-4">关于</h4>
+                    <ul class="space-y-2 text-sm text-gray-400">
+                        <li><a href="#" class="hover:text-primary transition">数据来源</a></li>
+                        <li><a href="#" class="hover:text-primary transition">验证标准</a></li>
+                        <li><a href="#" class="hover:text-primary transition">免责声明</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-semibold mb-4">数据更新</h4>
+                    <p class="text-gray-400 text-sm">每日 06:00 / 12:00 / 18:00</p>
+                    <p class="text-gray-500 text-xs mt-2">上次更新: 2026-03-03 03:00</p>
+                </div>
+            </div>
+            <div class="border-t border-border mt-8 pt-8 text-center">
+                <p class="text-gray-500 text-sm">© 2026 AI日报. 数据来源于华尔街日报、彭博社、路透社等权威媒体</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // 完整的新闻数据（实际使用时从JSON文件加载）
+        const allNewsData = [];
+        const categories = {
+            'world': '国际局势',
+            'ai': '人工智能',
+            'semiconductor': '半导体',
+            'energy': '新能源',
+            'robotics': '机器人',
+            'quantum': '量子计算',
+            'biotech': '生物科技',
+            'space': '商业航天',
+            'fusion': '核聚变',
+            'consumer': '消费电子',
+            'market': '市场宏观'
+        };
+        
+        let currentCategory = 'all';
+        let displayedCount = 10;
+        let isLoading = false;
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', async () => {
+            updateDate();
+            await loadNewsData();
+            renderNews();
+        });
+
+        function updateDate() {
+            const now = new Date();
+            const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long', hour: '2-digit', minute: '2-digit' };
+            document.getElementById('current-date').textContent = now.toLocaleDateString('zh-CN', options);
+        }
+
+        async function loadNewsData() {
+            // 模拟从JSON加载数据
+            // 实际使用: const response = await fetch('data/news/all.json');
+            // allNewsData = await response.json();
+            
+            // 使用示例数据
+            const sampleNews = [
+                {
+                    id: "ai-001",
+                    title: "OpenAI完成1100亿美元融资，估值达8400亿美元",
+                    summary: "OpenAI完成新一轮110亿美元融资，由亚马逊、英伟达、软银领投，估值达8400亿美元，成为全球估值最高的AI公司。",
+                    category: "ai",
+                    tags: ["OpenAI", "融资", "独角兽"],
+                    publish_time: "2026-02-28T08:00:00+08:00",
+                    sources: [
+                        { name: "华尔街日报", url: "#", verified: true, credibility: 95 },
+                        { name: "金融时报", url: "#", verified: true, credibility: 92 }
+                    ],
+                    stocks: [
+                        { symbol: "MSFT", name: "微软", impact: "positive" },
+                        { symbol: "AMZN", name: "亚马逊", impact: "positive" },
+                        { symbol: "NVDA", name: "英伟达", impact: "positive" }
+                    ],
+                    metrics: { views: 52800, credibility_score: 94 }
+                },
+                {
+                    id: "ai-002",
+                    title: "Meta与AMD达成600-1000亿美元超级采购协议",
+                    summary: "Meta宣布与AMD签署为期五年的AI芯片采购协议，总价值预计600-1000亿美元，用于训练下一代大模型。",
+                    category: "ai",
+                    tags: ["Meta", "AMD", "AI芯片"],
+                    publish_time: "2026-02-27T14:00:00+08:00",
+                    sources: [
+                        { name: "彭博社", url: "#", verified: true, credibility: 96 },
+                        { name: "路透社", url: "#", verified: true, credibility: 94 }
+                    ],
+                    stocks: [
+                        { symbol: "META", name: "Meta", impact: "positive" },
+                        { symbol: "AMD", name: "超威半导体", impact: "positive" },
+                        { symbol: "NVDA", name: "英伟达", impact: "negative" }
+                    ],
+                    metrics: { views: 38400, credibility_score: 95 }
+                },
+                {
+                    id: "semi-001",
+                    title: "英伟达Q4营收681亿美元暴增73%，股价却大跌5.5%",
+                    summary: "英伟达发布2025财年Q4财报，营收681亿美元同比增长73%，但不及市场预期，盘后股价大跌5.5%。",
+                    category: "semiconductor",
+                    tags: ["英伟达", "财报", "AI芯片"],
+                    publish_time: "2026-02-26T21:00:00+08:00",
+                    sources: [
+                        { name: "英伟达财报", url: "#", verified: true, credibility: 99 },
+                        { name: "彭博社", url: "#", verified: true, credibility: 95 }
+                    ],
+                    stocks: [
+                        { symbol: "NVDA", name: "英伟达", impact: "negative" },
+                        { symbol: "AMD", name: "超威半导体", impact: "negative" },
+                        { symbol: "TSM", name: "台积电", impact: "negative" }
+                    ],
+                    metrics: { views: 52600, credibility_score: 97 }
+                },
+                {
+                    id: "semi-002",
+                    title: "台积电最大客户正式易主！英伟达超越苹果位居第一",
+                    summary: "台积电2025年财报显示，英伟达正式超越苹果成为最大客户，采购额233亿美元占台积电营收19%。",
+                    category: "semiconductor",
+                    tags: ["台积电", "英伟达", "苹果"],
+                    publish_time: "2026-02-28T10:00:00+08:00",
+                    sources: [
+                        { name: "台积电年报", url: "#", verified: true, credibility: 98 },
+                        { name: "EET-China", url: "#", verified: true, credibility: 88 }
+                    ],
+                    stocks: [
+                        { symbol: "TSM", name: "台积电", impact: "positive" },
+                        { symbol: "NVDA", name: "英伟达", impact: "positive" }
+                    ],
+                    metrics: { views: 41200, credibility_score: 93 }
+                },
+                {
+                    id: "energy-001",
+                    title: "我国科学家取得锂电池核心技术首创性突破",
+                    summary: "南开大学和上海空间电源研究所团队取得首创性突破，新型电解液技术可使锂电池续航成倍提升。",
+                    category: "energy",
+                    tags: ["锂电池", "南开大学", "新能源"],
+                    publish_time: "2026-02-28T10:00:00+08:00",
+                    sources: [
+                        { name: "新华网", url: "#", verified: true, credibility: 97 },
+                        { name: "自然期刊", url: "#", verified: true, credibility: 99 }
+                    ],
+                    stocks: [
+                        { symbol: "BYD", name: "比亚迪", impact: "positive" },
+                        { symbol: "TSLA", name: "特斯拉", impact: "positive" }
+                    ],
+                    metrics: { views: 35600, credibility_score: 98 }
+                },
+                {
+                    id: "energy-002",
+                    title: "2025年全国光伏新增装机同比增长14%",
+                    summary: "国家能源局数据显示，2025年全国光伏新增装机3.17亿千瓦，同比增长14%，累计装机达12亿千瓦。",
+                    category: "energy",
+                    tags: ["光伏", "新能源", "国家能源局"],
+                    publish_time: "2026-02-21T09:00:00+08:00",
+                    sources: [
+                        { name: "国家能源局", url: "#", verified: true, credibility: 99 },
+                        { name: "中国光伏行业协会", url: "#", verified: true, credibility: 92 }
+                    ],
+                    stocks: [
+                        { symbol: "601012.SH", name: "隆基绿能", impact: "positive" },
+                        { symbol: "600438.SH", name: "通威股份", impact: "positive" }
+                    ],
+                    metrics: { views: 28400, credibility_score: 96 }
+                }
+            ];
+            
+            allNewsData.push(...sampleNews);
+            
+            // 更新统计
+            document.getElementById('news-count').textContent = `${allNewsData.length}条`;
+        }
+
+        function renderNews() {
+            const container = document.getElementById('news-container');
+            let filtered = currentCategory === 'all' 
+                ? allNewsData 
+                : allNewsData.filter(n => n.category === currentCategory);
+            
+            const toShow = filtered.slice(0, displayedCount);
+            
+            if (toShow.length === 0) {
+                container.innerHTML = `
+                    <div class="text-center py-20 text-gray-400">
+                        <i class="fas fa-inbox text-5xl mb-4"></i>
+                        <p>暂无数据</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = toShow.map(news => `
+                <article class="news-card bg-card rounded-xl p-6 border border-border fade-in">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-1">
+                            <div class="flex flex-wrap items-center gap-2 mb-3">
+                                <span class="px-2 py-1 bg-primary/20 text-primary text-xs font-bold rounded">${categories[news.category] || news.category}</span>
+                                ${news.tags.map(tag => `<span class="px-2 py-1 bg-gray-800 text-gray-400 text-xs rounded">${tag}</span>`).join('')}
+                            </div>
+                            
+                            <h3 class="text-lg font-semibold mb-2 hover:text-primary cursor-pointer transition">${news.title}</h3>
+                            
+                            <p class="text-gray-400 text-sm leading-relaxed mb-4">${news.summary}</p>
+                            
+                            <!-- Sources -->
+                            <div class="flex flex-wrap items-center gap-3 mb-4">
+                                <span class="text-xs text-gray-500">来源验证:</span>
+                                ${news.sources.map(src => `
+                                    <a href="${src.url}" target="_blank" class="source-tag inline-flex items-center gap-1 px-3 py-1.5 bg-success/10 text-success text-xs rounded-full border border-success/30">
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>${src.name}</span>
+                                        <span class="opacity-70">(${src.credibility}%)</span>
+                                    </a>
+                                `).join('')}
+                                <span class="ml-auto px-2 py-1 bg-accent/10 text-accent text-xs rounded-full">
+                                    可信度 ${news.metrics.credibility_score}%
+                                </span>
+                            </div>
+                            
+                            <!-- Stocks -->
+                            <div class="flex flex-wrap items-center gap-2 mb-4">
+                                <span class="text-xs text-gray-500">关联股票:</span>
+                                ${news.stocks.map(stock => `
+                                    <button onclick="showStockDetail('${stock.symbol}')" 
+                                        class="stock-card inline-flex items-center gap-2 px-3 py-1.5 bg-gray-800 hover:bg-gray-700 rounded-lg text-sm transition border border-transparent hover:border-primary/50"
+                                    >
+                                        <span class="font-mono font-medium">${stock.symbol}</span>
+                                        <span class="text-gray-400">${stock.name}</span>
+                                        <span class="${stock.impact === 'positive' ? 'text-success' : stock.impact === 'negative' ? 'text-danger' : 'text-gray-400'}">
+                                            <i class="fas fa-${stock.impact === 'positive' ? 'arrow-up' : stock.impact === 'negative' ? 'arrow-down' : 'minus'}"></i>
+                                        </span>
+                                    </button>
+                                `).join('')}
+                            </div>
+                            
+                            <div class="flex items-center gap-4 text-sm text-gray-500">
+                                <span><i class="far fa-clock mr-1"></i> ${formatTime(news.publish_time)}</span>
+                                <span><i class="far fa-eye mr-1"></i> ${(news.metrics.views / 1000).toFixed(1)}k 阅读</span>
+                                <button class="ml-auto hover:text-primary transition"><i class="far fa-share-square mr-1"></i>分享</button>
+                                <button class="hover:text-primary transition"><i class="far fa-bookmark mr-1"></i>收藏</button>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            `).join('');
+
+            document.getElementById('load-more-btn').style.display = 
+                displayedCount >= filtered.length ? 'none' : 'inline-flex';
+        }
+
+        function showStockDetail(symbol) {
+            const modal = document.getElementById('stock-modal');
+            const content = document.getElementById('stock-detail-content');
+            
+            // 模拟股票数据
+            const stockData = {
+                'NVDA': { name: '英伟达', price: 875.50, change: -5.5, marketCap: '2.15T', pe: 52 },
+                'AMD': { name: '超威半导体', price: 102.30, change: -3.2, marketCap: '165B', pe: 38 },
+                'TSM': { name: '台积电', price: 142.80, change: -2.8, marketCap: '740B', pe: 22 },
+                'MSFT': { name: '微软', price: 412.20, change: 1.2, marketCap: '3.06T', pe: 32 },
+                'AMZN': { name: '亚马逊', price: 198.50, change: 0.8, marketCap: '2.07T', pe: 58 },
+                'META': { name: 'Meta', price: 625.30, change: 2.1, marketCap: '1.59T', pe: 24 },
+                'TSLA': { name: '特斯拉', price: 248.50, change: -1.5, marketCap: '795B', pe: 68 },
+                'AAPL': { name: '苹果', price: 235.20, change: 0.5, marketCap: '3.58T', pe: 30 }
+            };
+            
+            const stock = stockData[symbol] || { name: symbol, price: 0, change: 0, marketCap: 'N/A', pe: 'N/A' };
+            const isPositive = stock.change >= 0;
+            
+            content.innerHTML = `
+                <div class="p-6">
+                    <div class="flex items-start justify-between mb-6">
+                        <div>
+                            <div class="flex items-center gap-3 mb-2">
+                                <span class="text-3xl font-bold font-mono">${symbol}</span>
+                                <span class="text-xl text-gray-400">${stock.name}</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <span class="text-4xl font-bold">$${stock.price.toFixed(2)}</span>
+                                <span class="${isPositive ? 'text-success' : 'text-danger'} text-lg font-medium">
+                                    <i class="fas fa-${isPositive ? 'arrow-up' : 'arrow-down'}"></i>
+                                    ${Math.abs(stock.change)}%
+                                </span>
+                            </div>
+                        </div>
+                        <button onclick="closeStockModal()" class="w-10 h-10 flex items-center justify-center rounded-lg hover:bg-white/10 transition">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="grid grid-cols-3 gap-4 mb-6">
+                        <div class="bg-gray-800/50 rounded-xl p-4">
+                            <div class="text-gray-400 text-sm mb-1">市值</div>
+                            <div class="text-xl font-bold">${stock.marketCap}</div>
+                        </div>
+                        <div class="bg-gray-800/50 rounded-xl p-4">
+                            <div class="text-gray-400 text-sm mb-1">市盈率</div>
+                            <div class="text-xl font-bold">${stock.pe}</div>
+                        </div>
+                        <div class="bg-gray-800/50 rounded-xl p-4">
+                            <div class="text-gray-400 text-sm mb-1">相关新闻</div>
+                            <div class="text-xl font-bold text-primary">${allNewsData.filter(n => n.stocks.some(s => s.symbol === symbol)).length}</div>
+                        </div>
+                    </div>
+                    
+                    <div class="border-t border-border pt-4">
+                        <h4 class="font-semibold mb-3">相关资讯</h4>
+                        <div class="space-y-3">
+                            ${allNewsData
+                                .filter(n => n.stocks.some(s => s.symbol === symbol))
+                                .slice(0, 3)
+                                .map(n => `
+                                    <div class="p-3 bg-gray-800/30 rounded-lg hover:bg-gray-800/50 transition cursor-pointer">
+                                        <div class="text-sm font-medium mb-1">${n.title}</div>
+                                        <div class="text-xs text-gray-500">${formatTime(n.publish_time)}</div>
+                                    </div>
+                                `).join('') || '<p class="text-gray-500 text-sm">暂无相关资讯</p>'}
+                        </div>
+                    </div>
+                    
+                    <div class="mt-6 flex gap-3">
+                        <a href="https://finance.yahoo.com/quote/${symbol}" target="_blank" class="flex-1 bg-primary hover:bg-primary/80 text-center py-3 rounded-xl font-medium transition">
+                            <i class="fas fa-chart-line mr-2"></i>查看行情
+                        </a>
+                        <a href="https://www.google.com/search?q=${symbol}+stock" target="_blank" class="flex-1 bg-gray-800 hover:bg-gray-700 text-center py-3 rounded-xl font-medium transition">
+                            <i class="fas fa-search mr-2"></i>更多信息
+                        </a>
+                    </div>
+                </div>
+            `;
+            
+            modal.classList.remove('hidden');
+        }
+
+        function closeStockModal() {
+            document.getElementById('stock-modal').classList.add('hidden');
+        }
+
+        function filterCategory(category) {
+            currentCategory = category;
+            displayedCount = 10;
+            
+            // 更新导航样式
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                if (btn.dataset.cat === category) {
+                    btn.className = 'nav-btn px-4 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition';
+                } else {
+                    btn.className = 'nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition';
+                }
+            });
+            
+            // 更新标题
+            document.getElementById('section-title').textContent = category === 'all' ? '全部资讯' : categories[category] || category;
+            
+            // 更新数量
+            const filtered = category === 'all' 
+                ? allNewsData 
+                : allNewsData.filter(n => n.category === category);
+            document.getElementById('news-count').textContent = `${filtered.length}条`;
+            
+            renderNews();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function loadMore() {
+            displayedCount += 10;
+            renderNews();
+        }
+
+        function toggleSearch() {
+            const modal = document.getElementById('search-modal');
+            modal.classList.toggle('hidden');
+            if (!modal.classList.contains('hidden')) {
+                document.getElementById('search-input').focus();
+            }
+        }
+
+        function searchNews(query) {
+            const resultsDiv = document.getElementById('search-results');
+            if (!query) {
+                resultsDiv.innerHTML = '';
+                return;
+            }
+            
+            const results = allNewsData.filter(n => 
+                n.title.toLowerCase().includes(query.toLowerCase()) ||
+                n.summary.toLowerCase().includes(query.toLowerCase()) ||
+                n.stocks.some(s => s.symbol.toLowerCase().includes(query.toLowerCase()))
+            );
+            
+            resultsDiv.innerHTML = results.map(n => `
+                <div class="p-4 hover:bg-gray-800/50 rounded-xl cursor-pointer transition" onclick="toggleSearch(); filterCategory('${n.category}')">
+                    <div class="flex items-center gap-2 mb-1">
+                        <span class="px-2 py-0.5 bg-primary/20 text-primary text-xs rounded">${categories[n.category] || n.category}</span>
+                        <span class="text-gray-500 text-xs">${formatTime(n.publish_time)}</span>
+                    </div>
+                    <h4 class="font-medium text-sm mb-1">${n.title}</h4>
+                    <p class="text-gray-500 text-xs">${n.summary.substring(0, 80)}...</p>
+                </div>
+            `).join('') || '<p class="text-gray-500 text-center py-4">无搜索结果</p>';
+        }
+
+        function toggleTheme() {
+            document.documentElement.classList.toggle('dark');
+            const icon = document.getElementById('theme-icon');
+            if (document.documentElement.classList.contains('dark')) {
+                icon.className = 'fas fa-sun text-yellow-400';
+            } else {
+                icon.className = 'fas fa-moon text-gray-600';
+            }
+        }
+
+        function refreshNews() {
+            const icon = document.getElementById('refresh-icon');
+            icon.classList.add('fa-spin');
+            setTimeout(() => {
+                icon.classList.remove('fa-spin');
+                renderNews();
+            }, 1000);
+        }
+
+        function sortNews(sortBy) {
+            if (sortBy === 'hot') {
+                allNewsData.sort((a, b) => b.metrics.views - a.metrics.views);
+            } else if (sortBy === 'credible') {
+                allNewsData.sort((a, b) => b.metrics.credibility_score - a.metrics.credibility_score);
+            } else {
+                allNewsData.sort((a, b) => new Date(b.publish_time) - new Date(a.publish_time));
+            }
+            renderNews();
+        }
+
+        function formatTime(timeStr) {
+            const date = new Date(timeStr);
+            const now = new Date();
+            const diff = now - date;
+            
+            const hours = Math.floor(diff / 3600000);
+            if (hours < 1) return '刚刚';
+            if (hours < 24) return `${hours}小时前`;
+            
+            const days = Math.floor(hours / 24);
+            if (days < 7) return `${days}天前`;
+            
+            return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+        }
+
+        // 键盘快捷键
+        document.addEventListener('keydown', (e) => {
+            if (e.key === '/' && !e.ctrlKey && !e.metaKey) {
+                e.preventDefault();
+                toggleSearch();
+            }
+            if (e.key === 'Escape') {
+                document.getElementById('search-modal').classList.add('hidden');
+                document.getElementById('stock-modal').classList.add('hidden');
+            }
+        });
+    </script>
+</body>
+</html>

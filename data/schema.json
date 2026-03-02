@@ -1,0 +1,53 @@
+{
+  "schema": "v2.0",
+  "description": "AI日报数据结构定义",
+  "updated": "2026-03-03",
+  
+  "news_item": {
+    "id": "string - 唯一标识符",
+    "title": "string - 新闻标题",
+    "summary": "string - 摘要（150字内）",
+    "content": "string - 完整内容",
+    "category": "string - 板块分类",
+    "tags": ["array - 标签"],
+    "publish_time": "string - 发布时间 ISO8601",
+    "sources": [
+      {
+        "name": "string - 来源名称",
+        "url": "string - 原文链接",
+        "verified": "boolean - 是否核实",
+        "verify_time": "string - 核实时间"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "string - 股票代码",
+        "name": "string - 公司名称",
+        "exchange": "string - 交易所",
+        "impact": "positive/negative/neutral - 影响",
+        "reason": "string - 关联原因"
+      }
+    ],
+    "metrics": {
+      "views": "number - 阅读量",
+      "shares": "number - 分享数",
+      "saves": "number - 收藏数",
+      "credibility_score": "number 0-100 - 可信度评分"
+    },
+    "status": "draft/published/archived"
+  },
+  
+  "categories": [
+    {"id": "world", "name": "国际局势", "icon": "globe", "priority": 1},
+    {"id": "ai", "name": "人工智能", "icon": "brain", "priority": 2},
+    {"id": "semiconductor", "name": "半导体", "icon": "microchip", "priority": 3},
+    {"id": "energy", "name": "新能源", "icon": "bolt", "priority": 4},
+    {"id": "robotics", "name": "机器人", "icon": "robot", "priority": 5},
+    {"id": "quantum", "name": "量子计算", "icon": "atom", "priority": 6},
+    {"id": "biotech", "name": "生物科技", "icon": "dna", "priority": 7},
+    {"id": "space", "name": "商业航天", "icon": "rocket", "priority": 8},
+    {"id": "fusion", "name": "核聚变", "icon": "fire", "priority": 9},
+    {"id": "consumer", "name": "消费电子", "icon": "mobile-alt", "priority": 10},
+    {"id": "market", "name": "市场宏观", "icon": "chart-line", "priority": 11}
+  ]
+}
