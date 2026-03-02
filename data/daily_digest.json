@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-03",
+  "type": "daily_digest",
+  "summary": {
+    "total_new": 154,
+    "breaking": 30,
+    "by_category": {
+      "world": 10,
+      "ai": 10,
+      "semiconductor": 12,
+      "energy": 17,
+      "robotics": 15,
+      "quantum": 12,
+      "biotech": 17,
+      "space": 14,
+      "fusion": 14,
+      "consumer": 12,
+      "gaming": 21
+    }
+  },
+  "top_news": [
+    {
+      "id": "biotech-0008",
+      "title": "礼来基因治疗药物新产品获FDA批准",
+      "category": "biotech",
+      "credibility": 96,
+      "stocks": [
+        "NVO",
+        "PFE",
+        "JNJ"
+      ]
+    },
+    {
+      "id": "robotics-0019",
+      "title": "能源公司投资10亿美元建设新产品生产线",
+      "category": "robotics",
+      "credibility": 96,
+      "stocks": [
+        "TSLA",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "energy-0094",
+      "title": "Enphase发布新一代新产品，续航提升170%",
+      "category": "energy",
+      "credibility": 96,
+      "stocks": [
+        "BYD"
+      ]
+    },
+    {
+      "id": "energy-0015",
+      "title": "比亚迪新一代技术产能突破5000GWh，全球领先",
+      "category": "energy",
+      "credibility": 96,
+      "stocks": [
+        "BYD"
+      ]
+    },
+    {
+      "id": "gaming-0080",
+      "title": "EA投资100亿美元建设新加坡游戏工作室",
+      "category": "gaming",
+      "credibility": 96,
+      "stocks": [
+        "AMZN"
+      ]
+    }
+  ],
+  "generated_at": "2026-03-03T03:40:22.529429"
+}
