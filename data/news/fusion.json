@@ -1,0 +1,5503 @@
+{
+  "version": "2.0",
+  "category": "fusion",
+  "name": "核聚变",
+  "total": 100,
+  "updated": "2026-03-03T03:28:38.964557",
+  "news": [
+    {
+      "id": "fusion-0001",
+      "title": "中国核聚变实验装置创新方案实现能量增益Q>1",
+      "summary": "最新数据显示，中国核聚变实验装置创新方案实现能量增益Q>1。相关公司股价盘前下跌约4%。",
+      "content": "据知情人士透露，中国核聚变实验装置创新方案实现能量增益Q>1，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "等离子体",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-24T21:57:49+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65831",
+          "verified": true,
+          "verify_time": "2026-03-02T12:50:17+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/82597",
+          "verified": true,
+          "verify_time": "2026-03-02T07:18:30+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/88346",
+          "verified": true,
+          "verify_time": "2026-03-02T10:49:20+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 56193,
+        "shares": 2832,
+        "saves": 450,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0002",
+      "title": "能源公司核聚变装置创新方案实现3600秒持续运行",
+      "summary": "能源公司核聚变装置创新方案实现3600秒持续运行。市场分析师认为此举将带来37%的增长潜力。",
+      "content": "据报道，能源公司核聚变装置创新方案实现3600秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "人造太阳",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-26T20:59:29+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/31867",
+          "verified": true,
+          "verify_time": "2026-03-02T06:26:39+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/74915",
+          "verified": true,
+          "verify_time": "2026-03-02T04:48:52+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 29119,
+        "shares": 2474,
+        "saves": 929,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0003",
+      "title": "科技公司完成1000亿美元融资，推进新一代技术商业化",
+      "summary": "科技公司完成1000亿美元融资，推进新一代技术商业化。市场分析师认为此举将带来36%的增长潜力。",
+      "content": "科技公司完成1000亿美元融资，推进新一代技术商业化。市场分析师认为此举将带来44%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "ITER"
+      ],
+      "publish_time": "2026-02-24T07:31:14+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/68858",
+          "verified": true,
+          "verify_time": "2026-03-02T07:38:55+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/61332",
+          "verified": true,
+          "verify_time": "2026-03-03T02:23:56+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 93338,
+        "shares": 4114,
+        "saves": 1029,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0004",
+      "title": "科技公司核聚变装置智能系统实现3600秒持续运行",
+      "summary": "科技公司核聚变装置智能系统实现3600秒持续运行。市场分析师认为此举将带来31%的增长潜力。",
+      "content": "据报道，科技公司核聚变装置智能系统实现3600秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "激光聚变",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T21:54:43+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/84692",
+          "verified": true,
+          "verify_time": "2026-03-02T20:40:42+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/83346",
+          "verified": true,
+          "verify_time": "2026-03-02T22:02:32+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/79923",
+          "verified": true,
+          "verify_time": "2026-03-02T05:27:08+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 82413,
+        "shares": 3466,
+        "saves": 1510,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0005",
+      "title": "日本核聚变实验装置智能系统实现能量增益Q>1",
+      "summary": "据官方透露，日本核聚变实验装置智能系统实现能量增益Q>1，这将显著影响相关行业发展。",
+      "content": "据报道，日本核聚变实验装置智能系统实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "人造太阳"
+      ],
+      "publish_time": "2026-03-02T23:47:29+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/91559",
+          "verified": true,
+          "verify_time": "2026-03-02T03:55:51+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/25110",
+          "verified": true,
+          "verify_time": "2026-03-02T14:21:53+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 97005,
+        "shares": 878,
+        "saves": 370,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0006",
+      "title": "科技公司与合作伙伴合作建设得克萨斯核聚变电站",
+      "summary": "据报道，科技公司与合作伙伴合作建设得克萨斯核聚变电站。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，科技公司与合作伙伴合作建设得克萨斯核聚变电站。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "ITER"
+      ],
+      "publish_time": "2026-03-02T21:09:27+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/31721",
+          "verified": true,
+          "verify_time": "2026-03-02T19:47:37+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/91723",
+          "verified": true,
+          "verify_time": "2026-03-02T12:51:32+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 53456,
+        "shares": 1987,
+        "saves": 1137,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0007",
+      "title": "科技公司完成100亿美元融资，推进智能系统商业化",
+      "summary": "据报道，科技公司完成100亿美元融资，推进智能系统商业化。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，科技公司完成100亿美元融资，推进智能系统商业化。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "等离子体",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-27T00:57:04+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/87497",
+          "verified": true,
+          "verify_time": "2026-03-02T05:44:00+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/28987",
+          "verified": true,
+          "verify_time": "2026-03-02T14:08:32+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/71980",
+          "verified": true,
+          "verify_time": "2026-03-02T17:57:59+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 9078,
+        "shares": 1519,
+        "saves": 1675,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0008",
+      "title": "科技公司与合作伙伴合作建设台湾核聚变电站",
+      "summary": "据报道，科技公司与合作伙伴合作建设台湾核聚变电站。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，科技公司与合作伙伴合作建设台湾核聚变电站。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-26T03:44:31+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/81387",
+          "verified": true,
+          "verify_time": "2026-03-02T17:23:18+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/29747",
+          "verified": true,
+          "verify_time": "2026-03-02T21:48:26+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 69799,
+        "shares": 3742,
+        "saves": 667,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0009",
+      "title": "科技公司核聚变装置创新方案实现1000秒持续运行",
+      "summary": "科技公司核聚变装置创新方案实现1000秒持续运行。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据知情人士透露，科技公司核聚变装置创新方案实现1000秒持续运行，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "托卡马克",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-27T21:06:22+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/18134",
+          "verified": true,
+          "verify_time": "2026-03-02T05:53:11+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/52929",
+          "verified": true,
+          "verify_time": "2026-03-03T01:47:18+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/54400",
+          "verified": true,
+          "verify_time": "2026-03-02T14:03:04+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 22073,
+        "shares": 1458,
+        "saves": 1129,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0010",
+      "title": "科技公司预计2027年实现核聚变并网发电",
+      "summary": "据报道，科技公司预计2027年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，科技公司预计2027年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "人造太阳",
+        "托卡马克"
+      ],
+      "publish_time": "2026-03-02T03:46:47+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/62478",
+          "verified": true,
+          "verify_time": "2026-03-02T05:08:28+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/78204",
+          "verified": true,
+          "verify_time": "2026-03-02T12:54:09+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/94782",
+          "verified": true,
+          "verify_time": "2026-03-02T16:28:34+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 68749,
+        "shares": 4036,
+        "saves": 1540,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0011",
+      "title": "日本核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "据官方透露，日本核聚变实验装置新产品实现能量增益Q>1，这将显著影响相关行业发展。",
+      "content": "最新数据显示，日本核聚变实验装置新产品实现能量增益Q>1。相关公司股价盘前下跌约10%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-03-01T09:19:56+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/99082",
+          "verified": true,
+          "verify_time": "2026-03-02T18:04:47+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/37072",
+          "verified": true,
+          "verify_time": "2026-03-02T04:58:16+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 85510,
+        "shares": 4571,
+        "saves": 1233,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0012",
+      "title": "科技公司与合作伙伴合作建设得克萨斯核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设得克萨斯核聚变电站。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据知情人士透露，科技公司与合作伙伴合作建设得克萨斯核聚变电站，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-02-24T22:48:38+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/72714",
+          "verified": true,
+          "verify_time": "2026-03-02T23:21:06+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/44537",
+          "verified": true,
+          "verify_time": "2026-03-02T08:43:31+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/80180",
+          "verified": true,
+          "verify_time": "2026-03-03T00:41:03+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 99248,
+        "shares": 1151,
+        "saves": 888,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0013",
+      "title": "能源公司预计2028年实现核聚变并网发电",
+      "summary": "最新数据显示，能源公司预计2028年实现核聚变并网发电。相关公司股价盘前上涨约7%。",
+      "content": "据报道，能源公司预计2028年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "托卡马克",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-26T08:43:54+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/42781",
+          "verified": true,
+          "verify_time": "2026-03-02T06:50:22+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/49363",
+          "verified": true,
+          "verify_time": "2026-03-02T18:07:10+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 48887,
+        "shares": 2794,
+        "saves": 332,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0014",
+      "title": "能源公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "据报道，能源公司与合作伙伴合作建设上海核聚变电站。这一进展标志着行业进入新的发展阶段。",
+      "content": "能源公司与合作伙伴合作建设上海核聚变电站。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "人造太阳",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-28T22:01:52+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/61501",
+          "verified": true,
+          "verify_time": "2026-03-02T21:26:38+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/41445",
+          "verified": true,
+          "verify_time": "2026-03-02T19:11:12+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/75114",
+          "verified": true,
+          "verify_time": "2026-03-02T08:26:34+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 75342,
+        "shares": 2905,
+        "saves": 1814,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0015",
+      "title": "科技公司预计2027年实现核聚变并网发电",
+      "summary": "科技公司预计2027年实现核聚变并网发电。市场分析师认为此举将带来20%的增长潜力。",
+      "content": "最新数据显示，科技公司预计2027年实现核聚变并网发电。相关公司股价盘前上涨约1%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-24T08:06:32+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/23772",
+          "verified": true,
+          "verify_time": "2026-03-03T02:17:41+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/24358",
+          "verified": true,
+          "verify_time": "2026-03-02T10:04:46+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/63731",
+          "verified": true,
+          "verify_time": "2026-03-02T03:38:39+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 50508,
+        "shares": 545,
+        "saves": 292,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0016",
+      "title": "科技公司核聚变装置新产品实现3600秒持续运行",
+      "summary": "科技公司核聚变装置新产品实现3600秒持续运行。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，科技公司核聚变装置新产品实现3600秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-25T07:34:10+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/88403",
+          "verified": true,
+          "verify_time": "2026-03-02T14:12:12+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/61418",
+          "verified": true,
+          "verify_time": "2026-03-03T01:00:26+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 38921,
+        "shares": 4075,
+        "saves": 1387,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0017",
+      "title": "科技公司预计2030年实现核聚变并网发电",
+      "summary": "科技公司预计2030年实现核聚变并网发电。业内人士预计该趋势将在未来1年内持续。",
+      "content": "科技公司预计2030年实现核聚变并网发电。市场分析师认为此举将带来16%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "托卡马克",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-28T22:02:17+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/65134",
+          "verified": true,
+          "verify_time": "2026-03-02T06:16:42+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/59114",
+          "verified": true,
+          "verify_time": "2026-03-02T09:35:13+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/79368",
+          "verified": true,
+          "verify_time": "2026-03-02T18:51:43+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 9384,
+        "shares": 4830,
+        "saves": 1481,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0018",
+      "title": "德国核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "德国核聚变实验装置新产品实现能量增益Q>1。市场分析师认为此举将带来44%的增长潜力。",
+      "content": "据报道，德国核聚变实验装置新产品实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "托卡马克",
+        "ITER"
+      ],
+      "publish_time": "2026-03-01T07:48:09+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/43895",
+          "verified": true,
+          "verify_time": "2026-03-02T17:09:38+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/57432",
+          "verified": true,
+          "verify_time": "2026-03-02T18:54:30+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/79694",
+          "verified": true,
+          "verify_time": "2026-03-02T09:35:05+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 97700,
+        "shares": 177,
+        "saves": 1536,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0019",
+      "title": "科技公司预计2028年实现核聚变并网发电",
+      "summary": "科技公司预计2028年实现核聚变并网发电。业内人士预计该趋势将在未来5年内持续。",
+      "content": "科技公司预计2028年实现核聚变并网发电。市场分析师认为此举将带来46%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "托卡马克",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-28T11:38:46+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/82185",
+          "verified": true,
+          "verify_time": "2026-03-02T19:34:54+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/56129",
+          "verified": true,
+          "verify_time": "2026-03-02T04:47:43+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/57421",
+          "verified": true,
+          "verify_time": "2026-03-02T16:59:59+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 21363,
+        "shares": 3734,
+        "saves": 159,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0020",
+      "title": "能源公司与合作伙伴合作建设亚利桑那核聚变电站",
+      "summary": "能源公司与合作伙伴合作建设亚利桑那核聚变电站。市场分析师认为此举将带来24%的增长潜力。",
+      "content": "最新数据显示，能源公司与合作伙伴合作建设亚利桑那核聚变电站。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "清洁能源",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-26T19:32:50+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/82096",
+          "verified": true,
+          "verify_time": "2026-03-02T08:27:01+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/42427",
+          "verified": true,
+          "verify_time": "2026-03-02T20:20:50+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 43043,
+        "shares": 3485,
+        "saves": 1324,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0021",
+      "title": "能源公司预计2030年实现核聚变并网发电",
+      "summary": "据报道，能源公司预计2030年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，能源公司预计2030年实现核聚变并网发电，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "激光聚变",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-24T21:24:15+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/89556",
+          "verified": true,
+          "verify_time": "2026-03-02T17:32:36+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/47354",
+          "verified": true,
+          "verify_time": "2026-03-02T06:39:54+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 39371,
+        "shares": 4225,
+        "saves": 868,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0022",
+      "title": "能源公司核聚变装置新一代技术实现3600秒持续运行",
+      "summary": "最新数据显示，能源公司核聚变装置新一代技术实现3600秒持续运行。相关公司股价盘前下跌约3%。",
+      "content": "据报道，能源公司核聚变装置新一代技术实现3600秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-24T19:58:50+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/21457",
+          "verified": true,
+          "verify_time": "2026-03-03T01:33:09+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/56776",
+          "verified": true,
+          "verify_time": "2026-03-02T03:59:34+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 70365,
+        "shares": 1671,
+        "saves": 634,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0023",
+      "title": "科技公司预计2028年实现核聚变并网发电",
+      "summary": "最新数据显示，科技公司预计2028年实现核聚变并网发电。相关公司股价盘前下跌约2%。",
+      "content": "最新数据显示，科技公司预计2028年实现核聚变并网发电。相关公司股价盘前下跌约9%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-02-27T12:09:57+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/41190",
+          "verified": true,
+          "verify_time": "2026-03-02T09:27:11+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/15289",
+          "verified": true,
+          "verify_time": "2026-03-03T00:25:54+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/70293",
+          "verified": true,
+          "verify_time": "2026-03-02T23:03:13+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 60904,
+        "shares": 2786,
+        "saves": 1974,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0024",
+      "title": "科技公司完成2000亿美元融资，推进新产品商业化",
+      "summary": "最新数据显示，科技公司完成2000亿美元融资，推进新产品商业化。相关公司股价盘前上涨约4%。",
+      "content": "科技公司完成2000亿美元融资，推进新产品商业化。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-02-25T23:04:20+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/20317",
+          "verified": true,
+          "verify_time": "2026-03-02T04:32:24+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/92795",
+          "verified": true,
+          "verify_time": "2026-03-02T07:01:48+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 6632,
+        "shares": 4356,
+        "saves": 1763,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0025",
+      "title": "美国核聚变实验装置智能系统实现能量增益Q>1",
+      "summary": "美国核聚变实验装置智能系统实现能量增益Q>1。市场分析师认为此举将带来35%的增长潜力。",
+      "content": "美国核聚变实验装置智能系统实现能量增益Q>1。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T20:12:12+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/62994",
+          "verified": true,
+          "verify_time": "2026-03-02T10:40:42+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/29438",
+          "verified": true,
+          "verify_time": "2026-03-02T07:34:56+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 50883,
+        "shares": 1801,
+        "saves": 1789,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0026",
+      "title": "科技公司核聚变装置新一代技术实现1000秒持续运行",
+      "summary": "科技公司核聚变装置新一代技术实现1000秒持续运行。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据知情人士透露，科技公司核聚变装置新一代技术实现1000秒持续运行，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-24T03:46:13+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/59259",
+          "verified": true,
+          "verify_time": "2026-03-02T08:27:46+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/93191",
+          "verified": true,
+          "verify_time": "2026-03-03T03:16:41+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 86284,
+        "shares": 4741,
+        "saves": 1371,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0027",
+      "title": "科技公司完成5000亿美元融资，推进新产品商业化",
+      "summary": "据官方透露，科技公司完成5000亿美元融资，推进新产品商业化，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，科技公司完成5000亿美元融资，推进新产品商业化，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "托卡马克",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-28T17:52:30+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/75760",
+          "verified": true,
+          "verify_time": "2026-03-02T23:37:43+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/57440",
+          "verified": true,
+          "verify_time": "2026-03-02T08:05:44+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/56484",
+          "verified": true,
+          "verify_time": "2026-03-02T04:58:34+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 93726,
+        "shares": 2412,
+        "saves": 953,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0028",
+      "title": "能源公司完成1000亿美元融资，推进新产品商业化",
+      "summary": "据报道，能源公司完成1000亿美元融资，推进新产品商业化。这一进展标志着行业进入新的发展阶段。",
+      "content": "能源公司完成1000亿美元融资，推进新产品商业化。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T11:56:57+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/41998",
+          "verified": true,
+          "verify_time": "2026-03-02T13:33:08+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/94604",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:54+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/24345",
+          "verified": true,
+          "verify_time": "2026-03-02T06:52:40+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 86469,
+        "shares": 268,
+        "saves": 806,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0029",
+      "title": "科技公司核聚变装置新一代技术实现500秒持续运行",
+      "summary": "科技公司核聚变装置新一代技术实现500秒持续运行。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "科技公司核聚变装置新一代技术实现500秒持续运行。市场分析师认为此举将带来46%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "等离子体",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T17:13:51+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/65900",
+          "verified": true,
+          "verify_time": "2026-03-02T14:06:12+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/33474",
+          "verified": true,
+          "verify_time": "2026-03-02T11:27:07+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 93059,
+        "shares": 3242,
+        "saves": 1112,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0030",
+      "title": "科技公司预计2030年实现核聚变并网发电",
+      "summary": "科技公司预计2030年实现核聚变并网发电。市场分析师认为此举将带来41%的增长潜力。",
+      "content": "据报道，科技公司预计2030年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "人造太阳",
+        "等离子体"
+      ],
+      "publish_time": "2026-03-01T02:00:51+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/18052",
+          "verified": true,
+          "verify_time": "2026-03-02T13:49:57+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/23453",
+          "verified": true,
+          "verify_time": "2026-03-02T20:53:32+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 17428,
+        "shares": 3974,
+        "saves": 420,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0031",
+      "title": "能源公司完成50亿美元融资，推进创新方案商业化",
+      "summary": "据分析师透露，能源公司完成50亿美元融资，推进创新方案商业化，这将显著影响相关行业发展。",
+      "content": "据分析师透露，能源公司完成50亿美元融资，推进创新方案商业化，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "托卡马克",
+        "ITER"
+      ],
+      "publish_time": "2026-02-28T00:01:39+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/89954",
+          "verified": true,
+          "verify_time": "2026-03-02T22:10:54+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/55072",
+          "verified": true,
+          "verify_time": "2026-03-02T19:05:56+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 53588,
+        "shares": 2367,
+        "saves": 1504,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0032",
+      "title": "能源公司核聚变装置智能系统实现500秒持续运行",
+      "summary": "能源公司核聚变装置智能系统实现500秒持续运行。市场分析师认为此举将带来12%的增长潜力。",
+      "content": "能源公司核聚变装置智能系统实现500秒持续运行。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-28T17:11:41+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/54465",
+          "verified": true,
+          "verify_time": "2026-03-03T01:14:14+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/25272",
+          "verified": true,
+          "verify_time": "2026-03-02T19:08:32+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/36154",
+          "verified": true,
+          "verify_time": "2026-03-03T01:31:51+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 14788,
+        "shares": 3455,
+        "saves": 1679,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0033",
+      "title": "科技公司核聚变装置新一代技术实现500秒持续运行",
+      "summary": "科技公司核聚变装置新一代技术实现500秒持续运行。业内人士预计该趋势将在未来4年内持续。",
+      "content": "科技公司核聚变装置新一代技术实现500秒持续运行。市场分析师认为此举将带来22%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "激光聚变",
+        "清洁能源"
+      ],
+      "publish_time": "2026-03-02T20:53:46+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/32096",
+          "verified": true,
+          "verify_time": "2026-03-02T03:40:00+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/88365",
+          "verified": true,
+          "verify_time": "2026-03-02T22:09:16+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 60527,
+        "shares": 4558,
+        "saves": 851,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0034",
+      "title": "能源公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "能源公司与合作伙伴合作建设上海核聚变电站。市场分析师认为此举将带来30%的增长潜力。",
+      "content": "能源公司与合作伙伴合作建设上海核聚变电站。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "激光聚变",
+        "等离子体"
+      ],
+      "publish_time": "2026-03-01T02:21:54+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/83480",
+          "verified": true,
+          "verify_time": "2026-03-02T12:52:50+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/11390",
+          "verified": true,
+          "verify_time": "2026-03-02T08:47:19+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66835",
+          "verified": true,
+          "verify_time": "2026-03-03T00:57:42+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 28201,
+        "shares": 4534,
+        "saves": 485,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0035",
+      "title": "能源公司完成500亿美元融资，推进新产品商业化",
+      "summary": "能源公司完成500亿美元融资，推进新产品商业化。业内人士预计该趋势将在未来2年内持续。",
+      "content": "能源公司完成500亿美元融资，推进新产品商业化。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-24T09:16:27+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/15257",
+          "verified": true,
+          "verify_time": "2026-03-02T06:42:26+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/13384",
+          "verified": true,
+          "verify_time": "2026-03-02T05:01:44+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/84468",
+          "verified": true,
+          "verify_time": "2026-03-02T15:59:42+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 69789,
+        "shares": 710,
+        "saves": 306,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0036",
+      "title": "德国核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "德国核聚变实验装置新产品实现能量增益Q>1。业内人士预计该趋势将在未来2年内持续。",
+      "content": "德国核聚变实验装置新产品实现能量增益Q>1。市场分析师认为此举将带来41%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "清洁能源",
+        "人造太阳"
+      ],
+      "publish_time": "2026-03-01T11:30:47+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/54233",
+          "verified": true,
+          "verify_time": "2026-03-02T14:27:53+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/23571",
+          "verified": true,
+          "verify_time": "2026-03-02T08:33:05+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14583",
+          "verified": true,
+          "verify_time": "2026-03-02T15:17:37+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 84627,
+        "shares": 1237,
+        "saves": 1910,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0037",
+      "title": "科技公司核聚变装置智能系统实现1000秒持续运行",
+      "summary": "科技公司核聚变装置智能系统实现1000秒持续运行。市场分析师认为此举将带来41%的增长潜力。",
+      "content": "科技公司核聚变装置智能系统实现1000秒持续运行。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "激光聚变",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T16:21:05+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/98377",
+          "verified": true,
+          "verify_time": "2026-03-02T03:44:51+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/47509",
+          "verified": true,
+          "verify_time": "2026-03-02T10:11:30+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 12166,
+        "shares": 2929,
+        "saves": 861,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0038",
+      "title": "中国核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "最新数据显示，中国核聚变实验装置新产品实现能量增益Q>1。相关公司股价盘前下跌约9%。",
+      "content": "据报道，中国核聚变实验装置新产品实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "托卡马克"
+      ],
+      "publish_time": "2026-03-01T16:06:45+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/65880",
+          "verified": true,
+          "verify_time": "2026-03-02T07:10:21+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14398",
+          "verified": true,
+          "verify_time": "2026-03-03T03:18:05+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/14770",
+          "verified": true,
+          "verify_time": "2026-03-02T09:19:54+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 19236,
+        "shares": 752,
+        "saves": 1055,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0039",
+      "title": "科技公司与合作伙伴合作建设台湾核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设台湾核聚变电站。业内人士预计该趋势将在未来4年内持续。",
+      "content": "科技公司与合作伙伴合作建设台湾核聚变电站。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "清洁能源",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-27T00:39:04+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/23874",
+          "verified": true,
+          "verify_time": "2026-03-02T12:31:52+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/86579",
+          "verified": true,
+          "verify_time": "2026-03-02T08:22:32+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/12376",
+          "verified": true,
+          "verify_time": "2026-03-02T12:00:12+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 68060,
+        "shares": 892,
+        "saves": 881,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0040",
+      "title": "能源公司预计2028年实现核聚变并网发电",
+      "summary": "据报道，能源公司预计2028年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，能源公司预计2028年实现核聚变并网发电，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "托卡马克",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-27T09:47:55+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/74655",
+          "verified": true,
+          "verify_time": "2026-03-02T05:47:55+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/36892",
+          "verified": true,
+          "verify_time": "2026-03-02T19:59:09+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 73394,
+        "shares": 1257,
+        "saves": 351,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0041",
+      "title": "科技公司完成50亿美元融资，推进新产品商业化",
+      "summary": "最新数据显示，科技公司完成50亿美元融资，推进新产品商业化。相关公司股价盘前上涨约7%。",
+      "content": "据知情人士透露，科技公司完成50亿美元融资，推进新产品商业化，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "人造太阳",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-25T00:06:52+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/69278",
+          "verified": true,
+          "verify_time": "2026-03-02T07:47:04+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/75598",
+          "verified": true,
+          "verify_time": "2026-03-02T16:18:52+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 20820,
+        "shares": 3443,
+        "saves": 1105,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0042",
+      "title": "能源公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "据知情人士透露，能源公司与合作伙伴合作建设上海核聚变电站，这将显著影响相关行业发展。",
+      "content": "能源公司与合作伙伴合作建设上海核聚变电站。市场分析师认为此举将带来33%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-25T21:19:03+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/96119",
+          "verified": true,
+          "verify_time": "2026-03-02T21:35:15+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/33677",
+          "verified": true,
+          "verify_time": "2026-03-02T18:26:17+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 71563,
+        "shares": 1633,
+        "saves": 536,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0043",
+      "title": "能源公司预计2028年实现核聚变并网发电",
+      "summary": "据知情人士透露，能源公司预计2028年实现核聚变并网发电，这将显著影响相关行业发展。",
+      "content": "据官方透露，能源公司预计2028年实现核聚变并网发电，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "托卡马克",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-26T01:22:53+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/33013",
+          "verified": true,
+          "verify_time": "2026-03-02T04:27:34+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/56781",
+          "verified": true,
+          "verify_time": "2026-03-02T06:45:32+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/85222",
+          "verified": true,
+          "verify_time": "2026-03-02T17:57:51+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 50568,
+        "shares": 110,
+        "saves": 205,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0044",
+      "title": "科技公司预计2030年实现核聚变并网发电",
+      "summary": "据报道，科技公司预计2030年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司预计2030年实现核聚变并网发电。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "激光聚变",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-24T15:09:10+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/35156",
+          "verified": true,
+          "verify_time": "2026-03-02T12:20:52+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/41622",
+          "verified": true,
+          "verify_time": "2026-03-02T16:03:30+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/90954",
+          "verified": true,
+          "verify_time": "2026-03-02T07:04:41+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 53101,
+        "shares": 1666,
+        "saves": 1514,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0045",
+      "title": "韩国核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "据报道，韩国核聚变实验装置新产品实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。",
+      "content": "韩国核聚变实验装置新产品实现能量增益Q>1。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "激光聚变",
+        "人造太阳"
+      ],
+      "publish_time": "2026-03-01T10:16:53+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/75453",
+          "verified": true,
+          "verify_time": "2026-03-02T08:54:28+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/93200",
+          "verified": true,
+          "verify_time": "2026-03-02T14:21:08+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/65612",
+          "verified": true,
+          "verify_time": "2026-03-02T13:27:26+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 79532,
+        "shares": 3609,
+        "saves": 315,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0046",
+      "title": "能源公司与合作伙伴合作建设得克萨斯核聚变电站",
+      "summary": "能源公司与合作伙伴合作建设得克萨斯核聚变电站。市场分析师认为此举将带来23%的增长潜力。",
+      "content": "最新数据显示，能源公司与合作伙伴合作建设得克萨斯核聚变电站。相关公司股价盘前上涨约9%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "ITER",
+        "激光聚变"
+      ],
+      "publish_time": "2026-03-02T13:15:19+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/25543",
+          "verified": true,
+          "verify_time": "2026-03-02T13:47:13+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/94976",
+          "verified": true,
+          "verify_time": "2026-03-02T13:01:24+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/27916",
+          "verified": true,
+          "verify_time": "2026-03-02T14:18:34+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        }
+      ],
+      "metrics": {
+        "views": 92986,
+        "shares": 1892,
+        "saves": 1525,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0047",
+      "title": "能源公司预计2028年实现核聚变并网发电",
+      "summary": "据报道，能源公司预计2028年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，能源公司预计2028年实现核聚变并网发电，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-25T12:00:19+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/95561",
+          "verified": true,
+          "verify_time": "2026-03-02T17:37:53+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/20839",
+          "verified": true,
+          "verify_time": "2026-03-02T19:28:46+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/14705",
+          "verified": true,
+          "verify_time": "2026-03-02T10:47:29+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 56483,
+        "shares": 3092,
+        "saves": 1301,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0048",
+      "title": "科技公司核聚变装置新一代技术实现3600秒持续运行",
+      "summary": "据报道，科技公司核聚变装置新一代技术实现3600秒持续运行。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，科技公司核聚变装置新一代技术实现3600秒持续运行，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "激光聚变"
+      ],
+      "publish_time": "2026-03-02T15:30:00+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/34947",
+          "verified": true,
+          "verify_time": "2026-03-02T19:17:57+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/99998",
+          "verified": true,
+          "verify_time": "2026-03-02T17:17:43+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 33947,
+        "shares": 817,
+        "saves": 439,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0049",
+      "title": "科技公司与合作伙伴合作建设新加坡核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设新加坡核聚变电站。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据官方透露，科技公司与合作伙伴合作建设新加坡核聚变电站，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "清洁能源",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-27T19:18:49+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/53287",
+          "verified": true,
+          "verify_time": "2026-03-03T00:25:15+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/97712",
+          "verified": true,
+          "verify_time": "2026-03-02T04:08:42+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 30908,
+        "shares": 4751,
+        "saves": 1138,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0050",
+      "title": "科技公司完成5000亿美元融资，推进智能系统商业化",
+      "summary": "据报道，科技公司完成5000亿美元融资，推进智能系统商业化。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，科技公司完成5000亿美元融资，推进智能系统商业化。相关公司股价盘前下跌约7%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-25T08:39:26+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/48910",
+          "verified": true,
+          "verify_time": "2026-03-02T23:14:05+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/30751",
+          "verified": true,
+          "verify_time": "2026-03-02T21:01:44+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 57355,
+        "shares": 4784,
+        "saves": 1336,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0051",
+      "title": "美国核聚变实验装置新一代技术实现能量增益Q>1",
+      "summary": "美国核聚变实验装置新一代技术实现能量增益Q>1。业内人士预计该趋势将在未来3年内持续。",
+      "content": "最新数据显示，美国核聚变实验装置新一代技术实现能量增益Q>1。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "托卡马克",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-25T23:01:29+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/82813",
+          "verified": true,
+          "verify_time": "2026-03-02T11:41:17+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/43361",
+          "verified": true,
+          "verify_time": "2026-03-03T00:57:39+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 84228,
+        "shares": 2096,
+        "saves": 1913,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0052",
+      "title": "科技公司与合作伙伴合作建设新加坡核聚变电站",
+      "summary": "据报道，科技公司与合作伙伴合作建设新加坡核聚变电站。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司与合作伙伴合作建设新加坡核聚变电站。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "托卡马克"
+      ],
+      "publish_time": "2026-03-01T13:24:51+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/91639",
+          "verified": true,
+          "verify_time": "2026-03-02T03:58:10+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/28676",
+          "verified": true,
+          "verify_time": "2026-03-02T07:09:49+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/30341",
+          "verified": true,
+          "verify_time": "2026-03-03T01:36:02+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 34722,
+        "shares": 1740,
+        "saves": 901,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0053",
+      "title": "日本核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "据报道，日本核聚变实验装置新产品实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，日本核聚变实验装置新产品实现能量增益Q>1，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-25T10:18:39+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/35109",
+          "verified": true,
+          "verify_time": "2026-03-02T20:36:25+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/97862",
+          "verified": true,
+          "verify_time": "2026-03-02T08:09:37+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/11740",
+          "verified": true,
+          "verify_time": "2026-03-02T08:59:47+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 45068,
+        "shares": 577,
+        "saves": 811,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0054",
+      "title": "科技公司预计2028年实现核聚变并网发电",
+      "summary": "科技公司预计2028年实现核聚变并网发电。市场分析师认为此举将带来40%的增长潜力。",
+      "content": "据分析师透露，科技公司预计2028年实现核聚变并网发电，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "ITER",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-25T14:45:14+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/56151",
+          "verified": true,
+          "verify_time": "2026-03-02T05:15:38+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/53931",
+          "verified": true,
+          "verify_time": "2026-03-02T18:53:43+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 82808,
+        "shares": 4121,
+        "saves": 1280,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0055",
+      "title": "科技公司预计2028年实现核聚变并网发电",
+      "summary": "最新数据显示，科技公司预计2028年实现核聚变并网发电。相关公司股价盘前下跌约10%。",
+      "content": "科技公司预计2028年实现核聚变并网发电。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "等离子体",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T17:10:40+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/48015",
+          "verified": true,
+          "verify_time": "2026-03-02T13:30:47+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/62502",
+          "verified": true,
+          "verify_time": "2026-03-03T02:23:05+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/20600",
+          "verified": true,
+          "verify_time": "2026-03-02T20:28:25+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 32015,
+        "shares": 4933,
+        "saves": 181,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0056",
+      "title": "能源公司核聚变装置智能系统实现3600秒持续运行",
+      "summary": "据分析师透露，能源公司核聚变装置智能系统实现3600秒持续运行，这将显著影响相关行业发展。",
+      "content": "最新数据显示，能源公司核聚变装置智能系统实现3600秒持续运行。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "激光聚变",
+        "等离子体"
+      ],
+      "publish_time": "2026-03-01T04:00:59+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/10787",
+          "verified": true,
+          "verify_time": "2026-03-02T05:49:18+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/98624",
+          "verified": true,
+          "verify_time": "2026-03-02T13:20:36+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 90841,
+        "shares": 1778,
+        "saves": 882,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0057",
+      "title": "科技公司核聚变装置创新方案实现100秒持续运行",
+      "summary": "科技公司核聚变装置创新方案实现100秒持续运行。市场分析师认为此举将带来25%的增长潜力。",
+      "content": "据报道，科技公司核聚变装置创新方案实现100秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "托卡马克",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-28T01:26:25+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/56166",
+          "verified": true,
+          "verify_time": "2026-03-02T21:27:18+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/75226",
+          "verified": true,
+          "verify_time": "2026-03-02T06:42:14+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 36526,
+        "shares": 4263,
+        "saves": 354,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0058",
+      "title": "欧盟核聚变实验装置创新方案实现能量增益Q>1",
+      "summary": "据报道，欧盟核聚变实验装置创新方案实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。",
+      "content": "欧盟核聚变实验装置创新方案实现能量增益Q>1。市场分析师认为此举将带来25%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "激光聚变",
+        "等离子体"
+      ],
+      "publish_time": "2026-03-02T01:32:55+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/98850",
+          "verified": true,
+          "verify_time": "2026-03-02T12:07:18+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/15852",
+          "verified": true,
+          "verify_time": "2026-03-02T14:50:33+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 73417,
+        "shares": 2983,
+        "saves": 148,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0059",
+      "title": "能源公司与合作伙伴合作建设新加坡核聚变电站",
+      "summary": "能源公司与合作伙伴合作建设新加坡核聚变电站。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据知情人士透露，能源公司与合作伙伴合作建设新加坡核聚变电站，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "ITER"
+      ],
+      "publish_time": "2026-03-02T20:48:19+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/80700",
+          "verified": true,
+          "verify_time": "2026-03-02T13:36:29+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/92888",
+          "verified": true,
+          "verify_time": "2026-03-02T06:25:17+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/26756",
+          "verified": true,
+          "verify_time": "2026-03-02T21:40:32+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 72263,
+        "shares": 3678,
+        "saves": 1327,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0060",
+      "title": "能源公司与合作伙伴合作建设得克萨斯核聚变电站",
+      "summary": "据分析师透露，能源公司与合作伙伴合作建设得克萨斯核聚变电站，这将显著影响相关行业发展。",
+      "content": "据官方透露，能源公司与合作伙伴合作建设得克萨斯核聚变电站，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-03-02T22:18:31+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/64918",
+          "verified": true,
+          "verify_time": "2026-03-02T14:36:59+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/28050",
+          "verified": true,
+          "verify_time": "2026-03-02T06:37:01+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/47624",
+          "verified": true,
+          "verify_time": "2026-03-02T13:39:38+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 65256,
+        "shares": 1247,
+        "saves": 1884,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0061",
+      "title": "科技公司预计2027年实现核聚变并网发电",
+      "summary": "据分析师透露，科技公司预计2027年实现核聚变并网发电，这将显著影响相关行业发展。",
+      "content": "最新数据显示，科技公司预计2027年实现核聚变并网发电。相关公司股价盘前下跌约7%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "托卡马克",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-24T10:08:03+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/84925",
+          "verified": true,
+          "verify_time": "2026-03-02T05:11:36+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/74452",
+          "verified": true,
+          "verify_time": "2026-03-02T07:31:31+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 49841,
+        "shares": 2650,
+        "saves": 522,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0062",
+      "title": "科技公司核聚变装置智能系统实现1000秒持续运行",
+      "summary": "据官方透露，科技公司核聚变装置智能系统实现1000秒持续运行，这将显著影响相关行业发展。",
+      "content": "科技公司核聚变装置智能系统实现1000秒持续运行。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "激光聚变",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-26T03:21:09+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/40876",
+          "verified": true,
+          "verify_time": "2026-03-03T01:28:23+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/90608",
+          "verified": true,
+          "verify_time": "2026-03-02T18:55:06+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/13806",
+          "verified": true,
+          "verify_time": "2026-03-02T11:37:34+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 8837,
+        "shares": 393,
+        "saves": 1338,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0063",
+      "title": "科技公司完成2000亿美元融资，推进创新方案商业化",
+      "summary": "据分析师透露，科技公司完成2000亿美元融资，推进创新方案商业化，这将显著影响相关行业发展。",
+      "content": "科技公司完成2000亿美元融资，推进创新方案商业化。市场分析师认为此举将带来21%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "激光聚变",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-24T05:52:56+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/65129",
+          "verified": true,
+          "verify_time": "2026-03-03T00:38:47+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/85774",
+          "verified": true,
+          "verify_time": "2026-03-02T18:09:54+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 26921,
+        "shares": 774,
+        "saves": 337,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0064",
+      "title": "韩国核聚变实验装置智能系统实现能量增益Q>1",
+      "summary": "韩国核聚变实验装置智能系统实现能量增益Q>1。市场分析师认为此举将带来41%的增长潜力。",
+      "content": "据报道，韩国核聚变实验装置智能系统实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "托卡马克",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-26T02:07:09+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/78796",
+          "verified": true,
+          "verify_time": "2026-03-03T03:18:07+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/45025",
+          "verified": true,
+          "verify_time": "2026-03-02T13:03:20+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "negative",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 67869,
+        "shares": 177,
+        "saves": 1039,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0065",
+      "title": "日本核聚变实验装置新一代技术实现能量增益Q>1",
+      "summary": "日本核聚变实验装置新一代技术实现能量增益Q>1。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "日本核聚变实验装置新一代技术实现能量增益Q>1。市场分析师认为此举将带来19%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "激光聚变",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-28T10:52:43+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/11039",
+          "verified": true,
+          "verify_time": "2026-03-02T07:16:14+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/98236",
+          "verified": true,
+          "verify_time": "2026-03-02T10:05:45+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 32183,
+        "shares": 2859,
+        "saves": 1711,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0066",
+      "title": "能源公司完成1000亿美元融资，推进新产品商业化",
+      "summary": "据报道，能源公司完成1000亿美元融资，推进新产品商业化。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，能源公司完成1000亿美元融资，推进新产品商业化。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "激光聚变",
+        "清洁能源"
+      ],
+      "publish_time": "2026-03-02T11:44:39+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/26781",
+          "verified": true,
+          "verify_time": "2026-03-02T07:47:35+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/93991",
+          "verified": true,
+          "verify_time": "2026-03-02T11:49:30+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 15985,
+        "shares": 1583,
+        "saves": 1332,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0067",
+      "title": "能源公司预计2030年实现核聚变并网发电",
+      "summary": "据报道，能源公司预计2030年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "能源公司预计2030年实现核聚变并网发电。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "清洁能源",
+        "托卡马克"
+      ],
+      "publish_time": "2026-03-01T14:13:48+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/38753",
+          "verified": true,
+          "verify_time": "2026-03-02T10:00:03+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/22364",
+          "verified": true,
+          "verify_time": "2026-03-02T19:42:38+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/86778",
+          "verified": true,
+          "verify_time": "2026-03-02T19:05:54+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 89364,
+        "shares": 1969,
+        "saves": 1873,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0068",
+      "title": "能源公司预计2027年实现核聚变并网发电",
+      "summary": "最新数据显示，能源公司预计2027年实现核聚变并网发电。相关公司股价盘前上涨约5%。",
+      "content": "能源公司预计2027年实现核聚变并网发电。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-24T11:29:51+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/62375",
+          "verified": true,
+          "verify_time": "2026-03-02T08:35:24+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/67116",
+          "verified": true,
+          "verify_time": "2026-03-02T08:41:43+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/18840",
+          "verified": true,
+          "verify_time": "2026-03-02T16:15:50+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 27823,
+        "shares": 2833,
+        "saves": 683,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0069",
+      "title": "能源公司预计2028年实现核聚变并网发电",
+      "summary": "据报道，能源公司预计2028年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，能源公司预计2028年实现核聚变并网发电。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "激光聚变",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-24T19:55:30+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/18296",
+          "verified": true,
+          "verify_time": "2026-03-02T16:12:10+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/42885",
+          "verified": true,
+          "verify_time": "2026-03-02T03:32:43+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/39493",
+          "verified": true,
+          "verify_time": "2026-03-03T01:57:43+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 87696,
+        "shares": 3698,
+        "saves": 1364,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0070",
+      "title": "美国核聚变实验装置创新方案实现能量增益Q>1",
+      "summary": "最新数据显示，美国核聚变实验装置创新方案实现能量增益Q>1。相关公司股价盘前上涨约4%。",
+      "content": "据官方透露，美国核聚变实验装置创新方案实现能量增益Q>1，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T13:05:46+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/72489",
+          "verified": true,
+          "verify_time": "2026-03-02T14:39:08+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67121",
+          "verified": true,
+          "verify_time": "2026-03-03T00:06:40+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/57967",
+          "verified": true,
+          "verify_time": "2026-03-02T06:35:27+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 48286,
+        "shares": 2634,
+        "saves": 1193,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0071",
+      "title": "科技公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "最新数据显示，科技公司与合作伙伴合作建设上海核聚变电站。相关公司股价盘前上涨约9%。",
+      "content": "科技公司与合作伙伴合作建设上海核聚变电站。市场分析师认为此举将带来47%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "等离子体",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-26T19:03:13+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/70120",
+          "verified": true,
+          "verify_time": "2026-03-02T03:50:37+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/64333",
+          "verified": true,
+          "verify_time": "2026-03-03T01:32:36+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 59394,
+        "shares": 2671,
+        "saves": 1532,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0072",
+      "title": "英国核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "最新数据显示，英国核聚变实验装置新产品实现能量增益Q>1。相关公司股价盘前上涨约9%。",
+      "content": "最新数据显示，英国核聚变实验装置新产品实现能量增益Q>1。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-03-02T06:48:00+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/82795",
+          "verified": true,
+          "verify_time": "2026-03-03T01:34:53+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/26345",
+          "verified": true,
+          "verify_time": "2026-03-02T22:40:12+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/81605",
+          "verified": true,
+          "verify_time": "2026-03-02T16:47:29+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 40848,
+        "shares": 4629,
+        "saves": 850,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0073",
+      "title": "科技公司完成2000亿美元融资，推进新产品商业化",
+      "summary": "最新数据显示，科技公司完成2000亿美元融资，推进新产品商业化。相关公司股价盘前下跌约6%。",
+      "content": "据报道，科技公司完成2000亿美元融资，推进新产品商业化。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "清洁能源",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-26T20:35:45+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/13887",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:22+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/25820",
+          "verified": true,
+          "verify_time": "2026-03-02T07:34:12+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/53006",
+          "verified": true,
+          "verify_time": "2026-03-02T04:51:22+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 90636,
+        "shares": 4785,
+        "saves": 884,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0074",
+      "title": "科技公司与合作伙伴合作建设亚利桑那核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设亚利桑那核聚变电站。市场分析师认为此举将带来49%的增长潜力。",
+      "content": "最新数据显示，科技公司与合作伙伴合作建设亚利桑那核聚变电站。相关公司股价盘前上涨约9%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "等离子体",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-24T07:42:43+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/76309",
+          "verified": true,
+          "verify_time": "2026-03-02T10:58:13+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/75092",
+          "verified": true,
+          "verify_time": "2026-03-02T19:42:24+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "neutral",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 91205,
+        "shares": 4716,
+        "saves": 691,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0075",
+      "title": "韩国核聚变实验装置创新方案实现能量增益Q>1",
+      "summary": "韩国核聚变实验装置创新方案实现能量增益Q>1。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，韩国核聚变实验装置创新方案实现能量增益Q>1。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "托卡马克",
+        "ITER"
+      ],
+      "publish_time": "2026-03-02T22:50:53+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/81223",
+          "verified": true,
+          "verify_time": "2026-03-02T22:50:01+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/10271",
+          "verified": true,
+          "verify_time": "2026-03-03T03:27:46+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63163",
+          "verified": true,
+          "verify_time": "2026-03-02T18:57:42+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 78697,
+        "shares": 1209,
+        "saves": 314,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0076",
+      "title": "能源公司核聚变装置新一代技术实现100秒持续运行",
+      "summary": "能源公司核聚变装置新一代技术实现100秒持续运行。业内人士预计该趋势将在未来5年内持续。",
+      "content": "最新数据显示，能源公司核聚变装置新一代技术实现100秒持续运行。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "人造太阳",
+        "ITER"
+      ],
+      "publish_time": "2026-02-28T23:16:08+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/64686",
+          "verified": true,
+          "verify_time": "2026-03-02T04:12:27+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/14374",
+          "verified": true,
+          "verify_time": "2026-03-02T09:58:39+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 11966,
+        "shares": 4410,
+        "saves": 645,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0077",
+      "title": "科技公司与合作伙伴合作建设台湾核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设台湾核聚变电站。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，科技公司与合作伙伴合作建设台湾核聚变电站。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "激光聚变",
+        "ITER"
+      ],
+      "publish_time": "2026-02-26T10:06:14+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/72262",
+          "verified": true,
+          "verify_time": "2026-03-03T00:59:01+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63390",
+          "verified": true,
+          "verify_time": "2026-03-02T11:15:29+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 28925,
+        "shares": 2389,
+        "saves": 343,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0078",
+      "title": "能源公司核聚变装置创新方案实现500秒持续运行",
+      "summary": "最新数据显示，能源公司核聚变装置创新方案实现500秒持续运行。相关公司股价盘前下跌约7%。",
+      "content": "能源公司核聚变装置创新方案实现500秒持续运行。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-03-01T04:27:07+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/39064",
+          "verified": true,
+          "verify_time": "2026-03-02T06:40:07+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/88887",
+          "verified": true,
+          "verify_time": "2026-03-02T22:33:14+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 12601,
+        "shares": 4901,
+        "saves": 525,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0079",
+      "title": "科技公司与合作伙伴合作建设亚利桑那核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设亚利桑那核聚变电站。市场分析师认为此举将带来39%的增长潜力。",
+      "content": "科技公司与合作伙伴合作建设亚利桑那核聚变电站。市场分析师认为此举将带来46%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "ITER"
+      ],
+      "publish_time": "2026-02-27T09:58:03+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/94909",
+          "verified": true,
+          "verify_time": "2026-03-02T14:44:29+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/44337",
+          "verified": true,
+          "verify_time": "2026-03-02T21:47:13+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 92178,
+        "shares": 2022,
+        "saves": 1403,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0080",
+      "title": "科技公司核聚变装置新产品实现1000秒持续运行",
+      "summary": "最新数据显示，科技公司核聚变装置新产品实现1000秒持续运行。相关公司股价盘前下跌约8%。",
+      "content": "据知情人士透露，科技公司核聚变装置新产品实现1000秒持续运行，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "ITER",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-28T02:08:18+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/39583",
+          "verified": true,
+          "verify_time": "2026-03-02T06:01:30+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/92130",
+          "verified": true,
+          "verify_time": "2026-03-02T15:22:40+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 61460,
+        "shares": 2148,
+        "saves": 515,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0081",
+      "title": "科技公司核聚变装置智能系统实现3600秒持续运行",
+      "summary": "科技公司核聚变装置智能系统实现3600秒持续运行。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据官方透露，科技公司核聚变装置智能系统实现3600秒持续运行，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "托卡马克",
+        "清洁能源"
+      ],
+      "publish_time": "2026-02-27T12:09:26+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66202",
+          "verified": true,
+          "verify_time": "2026-03-02T11:25:49+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/73656",
+          "verified": true,
+          "verify_time": "2026-03-02T15:46:16+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 15861,
+        "shares": 890,
+        "saves": 1222,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0082",
+      "title": "能源公司核聚变装置新产品实现100秒持续运行",
+      "summary": "能源公司核聚变装置新产品实现100秒持续运行。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据报道，能源公司核聚变装置新产品实现100秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "清洁能源",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-27T13:47:55+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/57309",
+          "verified": true,
+          "verify_time": "2026-03-02T11:57:43+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/39104",
+          "verified": true,
+          "verify_time": "2026-03-02T23:00:34+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 12021,
+        "shares": 4644,
+        "saves": 1193,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0083",
+      "title": "科技公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设上海核聚变电站。业内人士预计该趋势将在未来4年内持续。",
+      "content": "科技公司与合作伙伴合作建设上海核聚变电站。市场分析师认为此举将带来24%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "人造太阳",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-28T22:23:54+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/96319",
+          "verified": true,
+          "verify_time": "2026-03-02T14:09:19+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/94112",
+          "verified": true,
+          "verify_time": "2026-03-02T16:12:31+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 48049,
+        "shares": 2254,
+        "saves": 1894,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0084",
+      "title": "科技公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "最新数据显示，科技公司与合作伙伴合作建设上海核聚变电站。相关公司股价盘前上涨约3%。",
+      "content": "据知情人士透露，科技公司与合作伙伴合作建设上海核聚变电站，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "激光聚变"
+      ],
+      "publish_time": "2026-03-02T05:56:20+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/94731",
+          "verified": true,
+          "verify_time": "2026-03-02T23:27:51+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/99554",
+          "verified": true,
+          "verify_time": "2026-03-03T01:38:59+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 37310,
+        "shares": 3453,
+        "saves": 269,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0085",
+      "title": "能源公司预计2030年实现核聚变并网发电",
+      "summary": "据官方透露，能源公司预计2030年实现核聚变并网发电，这将显著影响相关行业发展。",
+      "content": "据报道，能源公司预计2030年实现核聚变并网发电。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-27T08:16:00+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/99812",
+          "verified": true,
+          "verify_time": "2026-03-02T06:37:00+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/39977",
+          "verified": true,
+          "verify_time": "2026-03-02T09:21:08+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 31376,
+        "shares": 2363,
+        "saves": 1543,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0086",
+      "title": "科技公司完成5000亿美元融资，推进创新方案商业化",
+      "summary": "科技公司完成5000亿美元融资，推进创新方案商业化。市场分析师认为此举将带来31%的增长潜力。",
+      "content": "科技公司完成5000亿美元融资，推进创新方案商业化。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "托卡马克",
+        "人造太阳"
+      ],
+      "publish_time": "2026-03-02T19:30:59+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/26134",
+          "verified": true,
+          "verify_time": "2026-03-02T20:22:53+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/89236",
+          "verified": true,
+          "verify_time": "2026-03-02T23:59:06+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 85722,
+        "shares": 2701,
+        "saves": 1202,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0087",
+      "title": "科技公司与合作伙伴合作建设新加坡核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设新加坡核聚变电站。业内人士预计该趋势将在未来4年内持续。",
+      "content": "最新数据显示，科技公司与合作伙伴合作建设新加坡核聚变电站。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "等离子体",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T00:30:15+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/97506",
+          "verified": true,
+          "verify_time": "2026-03-02T13:28:58+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/18912",
+          "verified": true,
+          "verify_time": "2026-03-02T21:08:49+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 10224,
+        "shares": 761,
+        "saves": 1085,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0088",
+      "title": "科技公司核聚变装置新一代技术实现500秒持续运行",
+      "summary": "最新数据显示，科技公司核聚变装置新一代技术实现500秒持续运行。相关公司股价盘前下跌约8%。",
+      "content": "科技公司核聚变装置新一代技术实现500秒持续运行。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "等离子体",
+        "清洁能源"
+      ],
+      "publish_time": "2026-03-01T22:35:35+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/70217",
+          "verified": true,
+          "verify_time": "2026-03-02T08:52:17+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/45509",
+          "verified": true,
+          "verify_time": "2026-03-02T08:53:55+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 99216,
+        "shares": 4615,
+        "saves": 989,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0089",
+      "title": "能源公司与合作伙伴合作建设新加坡核聚变电站",
+      "summary": "能源公司与合作伙伴合作建设新加坡核聚变电站。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，能源公司与合作伙伴合作建设新加坡核聚变电站。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "等离子体",
+        "清洁能源"
+      ],
+      "publish_time": "2026-03-01T08:51:23+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/95672",
+          "verified": true,
+          "verify_time": "2026-03-02T22:11:12+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/34145",
+          "verified": true,
+          "verify_time": "2026-03-02T05:12:49+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 95287,
+        "shares": 4406,
+        "saves": 1632,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0090",
+      "title": "能源公司预计2028年实现核聚变并网发电",
+      "summary": "能源公司预计2028年实现核聚变并网发电。市场分析师认为此举将带来25%的增长潜力。",
+      "content": "能源公司预计2028年实现核聚变并网发电。市场分析师认为此举将带来25%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "人造太阳",
+        "激光聚变"
+      ],
+      "publish_time": "2026-03-02T13:41:14+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/25060",
+          "verified": true,
+          "verify_time": "2026-03-02T05:42:37+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/65360",
+          "verified": true,
+          "verify_time": "2026-03-02T04:11:52+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 15087,
+        "shares": 3917,
+        "saves": 1479,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0091",
+      "title": "欧盟核聚变实验装置新一代技术实现能量增益Q>1",
+      "summary": "欧盟核聚变实验装置新一代技术实现能量增益Q>1。业内人士预计该趋势将在未来1年内持续。",
+      "content": "欧盟核聚变实验装置新一代技术实现能量增益Q>1。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "清洁能源",
+        "激光聚变"
+      ],
+      "publish_time": "2026-03-01T18:39:25+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/41628",
+          "verified": true,
+          "verify_time": "2026-03-02T15:39:41+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/26982",
+          "verified": true,
+          "verify_time": "2026-03-02T05:11:39+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/12558",
+          "verified": true,
+          "verify_time": "2026-03-02T21:04:07+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 6853,
+        "shares": 2739,
+        "saves": 336,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0092",
+      "title": "能源公司与合作伙伴合作建设新加坡核聚变电站",
+      "summary": "能源公司与合作伙伴合作建设新加坡核聚变电站。市场分析师认为此举将带来41%的增长潜力。",
+      "content": "能源公司与合作伙伴合作建设新加坡核聚变电站。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "ITER",
+        "托卡马克",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-26T23:03:52+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/88347",
+          "verified": true,
+          "verify_time": "2026-03-02T19:10:33+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/44132",
+          "verified": true,
+          "verify_time": "2026-03-02T16:17:51+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 63849,
+        "shares": 1914,
+        "saves": 443,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0093",
+      "title": "英国核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "英国核聚变实验装置新产品实现能量增益Q>1。业内人士预计该趋势将在未来2年内持续。",
+      "content": "最新数据显示，英国核聚变实验装置新产品实现能量增益Q>1。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "等离子体",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-28T17:42:13+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/20980",
+          "verified": true,
+          "verify_time": "2026-03-02T14:48:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/61579",
+          "verified": true,
+          "verify_time": "2026-03-02T07:24:12+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/56942",
+          "verified": true,
+          "verify_time": "2026-03-03T00:55:36+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "negative",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 73808,
+        "shares": 3663,
+        "saves": 1906,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0094",
+      "title": "韩国核聚变实验装置新一代技术实现能量增益Q>1",
+      "summary": "据知情人士透露，韩国核聚变实验装置新一代技术实现能量增益Q>1，这将显著影响相关行业发展。",
+      "content": "据分析师透露，韩国核聚变实验装置新一代技术实现能量增益Q>1，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "激光聚变",
+        "ITER",
+        "等离子体"
+      ],
+      "publish_time": "2026-02-24T13:10:52+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/76070",
+          "verified": true,
+          "verify_time": "2026-03-02T23:42:02+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/95899",
+          "verified": true,
+          "verify_time": "2026-03-02T05:04:24+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/36016",
+          "verified": true,
+          "verify_time": "2026-03-02T04:42:19+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 45317,
+        "shares": 3868,
+        "saves": 1311,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0095",
+      "title": "科技公司与合作伙伴合作建设上海核聚变电站",
+      "summary": "科技公司与合作伙伴合作建设上海核聚变电站。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据报道，科技公司与合作伙伴合作建设上海核聚变电站。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "托卡马克",
+        "人造太阳"
+      ],
+      "publish_time": "2026-02-25T18:46:00+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/16194",
+          "verified": true,
+          "verify_time": "2026-03-02T23:49:12+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/71456",
+          "verified": true,
+          "verify_time": "2026-03-02T23:09:23+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/47994",
+          "verified": true,
+          "verify_time": "2026-03-02T18:06:41+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 61428,
+        "shares": 4883,
+        "saves": 1387,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0096",
+      "title": "能源公司核聚变装置新一代技术实现3600秒持续运行",
+      "summary": "能源公司核聚变装置新一代技术实现3600秒持续运行。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，能源公司核聚变装置新一代技术实现3600秒持续运行。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "等离子体",
+        "激光聚变",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-27T21:21:20+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/60559",
+          "verified": true,
+          "verify_time": "2026-03-02T08:21:21+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/79009",
+          "verified": true,
+          "verify_time": "2026-03-02T23:19:21+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 57590,
+        "shares": 1479,
+        "saves": 426,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0097",
+      "title": "科技公司与合作伙伴合作建设得克萨斯核聚变电站",
+      "summary": "据分析师透露，科技公司与合作伙伴合作建设得克萨斯核聚变电站，这将显著影响相关行业发展。",
+      "content": "科技公司与合作伙伴合作建设得克萨斯核聚变电站。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "ITER",
+        "人造太阳"
+      ],
+      "publish_time": "2026-03-02T02:51:24+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/25804",
+          "verified": true,
+          "verify_time": "2026-03-03T03:03:59+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/36086",
+          "verified": true,
+          "verify_time": "2026-03-02T20:42:13+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/35658",
+          "verified": true,
+          "verify_time": "2026-03-02T23:43:24+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 13353,
+        "shares": 3240,
+        "saves": 1990,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0098",
+      "title": "欧盟核聚变实验装置新产品实现能量增益Q>1",
+      "summary": "据知情人士透露，欧盟核聚变实验装置新产品实现能量增益Q>1，这将显著影响相关行业发展。",
+      "content": "最新数据显示，欧盟核聚变实验装置新产品实现能量增益Q>1。相关公司股价盘前上涨约10%。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "清洁能源",
+        "人造太阳",
+        "托卡马克"
+      ],
+      "publish_time": "2026-02-25T16:39:27+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/15994",
+          "verified": true,
+          "verify_time": "2026-03-02T04:29:44+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/58771",
+          "verified": true,
+          "verify_time": "2026-03-02T17:40:29+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 16953,
+        "shares": 1119,
+        "saves": 1186,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0099",
+      "title": "科技公司核聚变装置新一代技术实现3600秒持续运行",
+      "summary": "科技公司核聚变装置新一代技术实现3600秒持续运行。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "据官方透露，科技公司核聚变装置新一代技术实现3600秒持续运行，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "托卡马克",
+        "ITER",
+        "激光聚变"
+      ],
+      "publish_time": "2026-02-28T17:31:32+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/61710",
+          "verified": true,
+          "verify_time": "2026-03-02T21:28:34+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/91591",
+          "verified": true,
+          "verify_time": "2026-03-02T09:18:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/12283",
+          "verified": true,
+          "verify_time": "2026-03-02T03:42:11+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 64270,
+        "shares": 3898,
+        "saves": 1440,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "fusion-0100",
+      "title": "能源公司与合作伙伴合作建设得克萨斯核聚变电站",
+      "summary": "最新数据显示，能源公司与合作伙伴合作建设得克萨斯核聚变电站。相关公司股价盘前上涨约10%。",
+      "content": "据报道，能源公司与合作伙伴合作建设得克萨斯核聚变电站。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "fusion",
+      "tags": [
+        "人造太阳",
+        "清洁能源",
+        "托卡马克"
+      ],
+      "publish_time": "2026-03-02T04:59:43+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/37300",
+          "verified": true,
+          "verify_time": "2026-03-02T19:15:58+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/24653",
+          "verified": true,
+          "verify_time": "2026-03-02T18:47:23+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 39889,
+        "shares": 693,
+        "saves": 973,
+        "credibility_score": 92
+      },
+      "status": "published"
+    }
+  ]
+}

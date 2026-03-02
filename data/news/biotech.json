@@ -1,0 +1,5833 @@
+{
+  "version": "2.0",
+  "category": "biotech",
+  "name": "生物科技",
+  "total": 100,
+  "updated": "2026-03-03T03:28:38.916484",
+  "news": [
+    {
+      "id": "biotech-0001",
+      "title": "辉瑞减肥药智能系统III期临床成功，减重90%",
+      "summary": "辉瑞减肥药智能系统III期临床成功，减重90%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "辉瑞减肥药智能系统III期临床成功，减重90%。市场分析师认为此举将带来46%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "癌症治疗",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-27T11:36:43+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/52906",
+          "verified": true,
+          "verify_time": "2026-03-02T21:22:57+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/41699",
+          "verified": true,
+          "verify_time": "2026-03-02T08:04:43+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 27801,
+        "shares": 4995,
+        "saves": 745,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0002",
+      "title": "强生基因治疗药物智能系统获FDA批准",
+      "summary": "据报道，强生基因治疗药物智能系统获FDA批准。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，强生基因治疗药物智能系统获FDA批准，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "创新药",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-03-01T09:51:35+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/53577",
+          "verified": true,
+          "verify_time": "2026-03-02T12:55:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/83823",
+          "verified": true,
+          "verify_time": "2026-03-02T06:47:12+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/71525",
+          "verified": true,
+          "verify_time": "2026-03-02T17:56:49+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 88352,
+        "shares": 4099,
+        "saves": 1776,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0003",
+      "title": "安进新药新一代技术获批上市，治疗罕见病",
+      "summary": "安进新药新一代技术获批上市，治疗罕见病。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据知情人士透露，安进新药新一代技术获批上市，治疗罕见病，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "基因治疗",
+        "创新药"
+      ],
+      "publish_time": "2026-03-02T22:56:25+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/39700",
+          "verified": true,
+          "verify_time": "2026-03-02T09:44:27+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/83118",
+          "verified": true,
+          "verify_time": "2026-03-03T02:40:25+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/40995",
+          "verified": true,
+          "verify_time": "2026-03-02T08:55:34+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 15180,
+        "shares": 814,
+        "saves": 387,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0004",
+      "title": "诺和诺德减肥药创新方案III期临床成功，减重25%",
+      "summary": "据分析师透露，诺和诺德减肥药创新方案III期临床成功，减重25%，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，诺和诺德减肥药创新方案III期临床成功，减重25%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "疫苗",
+        "礼来"
+      ],
+      "publish_time": "2026-02-26T12:48:10+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/61727",
+          "verified": true,
+          "verify_time": "2026-03-02T16:43:57+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/69453",
+          "verified": true,
+          "verify_time": "2026-03-02T03:41:49+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 77041,
+        "shares": 870,
+        "saves": 544,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0005",
+      "title": "Moderna与辉瑞达成10亿美元创新方案合作",
+      "summary": "Moderna与辉瑞达成10亿美元创新方案合作。市场分析师认为此举将带来23%的增长潜力。",
+      "content": "Moderna与辉瑞达成10亿美元创新方案合作。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "礼来",
+        "mRNA"
+      ],
+      "publish_time": "2026-03-01T06:07:09+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/89062",
+          "verified": true,
+          "verify_time": "2026-03-02T12:18:21+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/50911",
+          "verified": true,
+          "verify_time": "2026-03-02T20:02:04+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 93426,
+        "shares": 4199,
+        "saves": 478,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0006",
+      "title": "诺和诺德投资100亿美元建设新加坡研发中心",
+      "summary": "诺和诺德投资100亿美元建设新加坡研发中心。市场分析师认为此举将带来43%的增长潜力。",
+      "content": "诺和诺德投资100亿美元建设新加坡研发中心。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "mRNA",
+        "创新药"
+      ],
+      "publish_time": "2026-03-02T04:29:10+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/72060",
+          "verified": true,
+          "verify_time": "2026-03-02T15:36:52+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/94681",
+          "verified": true,
+          "verify_time": "2026-03-02T10:37:31+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/13955",
+          "verified": true,
+          "verify_time": "2026-03-02T21:00:42+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 48735,
+        "shares": 1772,
+        "saves": 1226,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0007",
+      "title": "基因泰克新药创新方案获批上市，治疗罕见病",
+      "summary": "据官方透露，基因泰克新药创新方案获批上市，治疗罕见病，这将显著影响相关行业发展。",
+      "content": "最新数据显示，基因泰克新药创新方案获批上市，治疗罕见病。相关公司股价盘前下跌约3%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "创新药",
+        "减肥药"
+      ],
+      "publish_time": "2026-02-26T06:53:24+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/21148",
+          "verified": true,
+          "verify_time": "2026-03-02T03:31:01+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/77632",
+          "verified": true,
+          "verify_time": "2026-03-02T13:00:46+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/76864",
+          "verified": true,
+          "verify_time": "2026-03-02T20:48:30+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 14040,
+        "shares": 4934,
+        "saves": 469,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0008",
+      "title": "安进减肥药智能系统III期临床成功，减重33%",
+      "summary": "据报道，安进减肥药智能系统III期临床成功，减重33%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，安进减肥药智能系统III期临床成功，减重33%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "疫苗",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-27T23:07:37+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/62463",
+          "verified": true,
+          "verify_time": "2026-03-02T22:13:41+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/89672",
+          "verified": true,
+          "verify_time": "2026-03-03T00:06:57+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 41216,
+        "shares": 1806,
+        "saves": 495,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0009",
+      "title": "安进减肥药智能系统III期临床成功，减重152%",
+      "summary": "最新数据显示，安进减肥药智能系统III期临床成功，减重152%。相关公司股价盘前下跌约9%。",
+      "content": "据报道，安进减肥药智能系统III期临床成功，减重152%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "礼来",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-27T23:58:13+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/73882",
+          "verified": true,
+          "verify_time": "2026-03-02T22:50:30+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/22445",
+          "verified": true,
+          "verify_time": "2026-03-03T00:12:09+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/72035",
+          "verified": true,
+          "verify_time": "2026-03-02T06:57:57+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 52247,
+        "shares": 1361,
+        "saves": 1680,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0010",
+      "title": "安进基因治疗药物创新方案获FDA批准",
+      "summary": "安进基因治疗药物创新方案获FDA批准。市场分析师认为此举将带来44%的增长潜力。",
+      "content": "据报道，安进基因治疗药物创新方案获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "诺和诺德",
+        "减肥药"
+      ],
+      "publish_time": "2026-03-02T07:58:13+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/70979",
+          "verified": true,
+          "verify_time": "2026-03-02T05:09:27+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/48650",
+          "verified": true,
+          "verify_time": "2026-03-02T04:07:40+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 10716,
+        "shares": 3441,
+        "saves": 1085,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0011",
+      "title": "礼来基因治疗药物创新方案获FDA批准",
+      "summary": "最新数据显示，礼来基因治疗药物创新方案获FDA批准。相关公司股价盘前上涨约10%。",
+      "content": "据官方透露，礼来基因治疗药物创新方案获FDA批准，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "减肥药",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-03-01T09:13:33+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/57881",
+          "verified": true,
+          "verify_time": "2026-03-02T16:42:47+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/84463",
+          "verified": true,
+          "verify_time": "2026-03-02T22:54:02+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 34575,
+        "shares": 189,
+        "saves": 1399,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0012",
+      "title": "基因泰克减肥药创新方案III期临床成功，减重176%",
+      "summary": "基因泰克减肥药创新方案III期临床成功，减重176%。业内人士预计该趋势将在未来3年内持续。",
+      "content": "最新数据显示，基因泰克减肥药创新方案III期临床成功，减重176%。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "诺和诺德",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-28T01:26:34+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/76458",
+          "verified": true,
+          "verify_time": "2026-03-02T12:09:27+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/68256",
+          "verified": true,
+          "verify_time": "2026-03-02T23:39:21+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 83454,
+        "shares": 3489,
+        "saves": 1107,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0013",
+      "title": "基因泰克投资500亿美元建设新加坡研发中心",
+      "summary": "据官方透露，基因泰克投资500亿美元建设新加坡研发中心，这将显著影响相关行业发展。",
+      "content": "据官方透露，基因泰克投资500亿美元建设新加坡研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "创新药",
+        "礼来"
+      ],
+      "publish_time": "2026-02-28T06:06:36+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/73833",
+          "verified": true,
+          "verify_time": "2026-03-03T01:54:04+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/42845",
+          "verified": true,
+          "verify_time": "2026-03-02T14:28:13+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 43635,
+        "shares": 2436,
+        "saves": 1781,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0014",
+      "title": "基因泰克基因治疗药物新产品获FDA批准",
+      "summary": "基因泰克基因治疗药物新产品获FDA批准。市场分析师认为此举将带来19%的增长潜力。",
+      "content": "据分析师透露，基因泰克基因治疗药物新产品获FDA批准，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "诺和诺德",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-03-01T01:06:32+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/27468",
+          "verified": true,
+          "verify_time": "2026-03-02T22:32:00+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/22367",
+          "verified": true,
+          "verify_time": "2026-03-02T17:52:58+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 62518,
+        "shares": 4616,
+        "saves": 204,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0015",
+      "title": "礼来与礼来达成5000亿美元智能系统合作",
+      "summary": "据分析师透露，礼来与礼来达成5000亿美元智能系统合作，这将显著影响相关行业发展。",
+      "content": "礼来与礼来达成5000亿美元智能系统合作。市场分析师认为此举将带来44%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "mRNA",
+        "礼来"
+      ],
+      "publish_time": "2026-03-01T08:13:53+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/21271",
+          "verified": true,
+          "verify_time": "2026-03-02T12:49:06+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/84748",
+          "verified": true,
+          "verify_time": "2026-03-03T00:30:38+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 14239,
+        "shares": 3043,
+        "saves": 1226,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0016",
+      "title": "辉瑞投资10亿美元建设北京研发中心",
+      "summary": "据官方透露，辉瑞投资10亿美元建设北京研发中心，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，辉瑞投资10亿美元建设北京研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "创新药",
+        "疫苗"
+      ],
+      "publish_time": "2026-03-02T11:52:40+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/47386",
+          "verified": true,
+          "verify_time": "2026-03-02T07:32:02+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/16849",
+          "verified": true,
+          "verify_time": "2026-03-02T17:03:39+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/37960",
+          "verified": true,
+          "verify_time": "2026-03-02T05:29:36+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 68411,
+        "shares": 4054,
+        "saves": 576,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0017",
+      "title": "Moderna减肥药新一代技术III期临床成功，减重21%",
+      "summary": "据知情人士透露，Moderna减肥药新一代技术III期临床成功，减重21%，这将显著影响相关行业发展。",
+      "content": "Moderna减肥药新一代技术III期临床成功，减重21%。市场分析师认为此举将带来30%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "癌症治疗",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-25T06:20:43+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/11200",
+          "verified": true,
+          "verify_time": "2026-03-02T07:28:09+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/59204",
+          "verified": true,
+          "verify_time": "2026-03-03T03:22:07+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/22786",
+          "verified": true,
+          "verify_time": "2026-03-02T20:02:58+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 47579,
+        "shares": 4525,
+        "saves": 1529,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0018",
+      "title": "辉瑞基因治疗药物智能系统获FDA批准",
+      "summary": "辉瑞基因治疗药物智能系统获FDA批准。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据官方透露，辉瑞基因治疗药物智能系统获FDA批准，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "诺和诺德",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T17:12:46+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/81460",
+          "verified": true,
+          "verify_time": "2026-03-03T00:46:34+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/72585",
+          "verified": true,
+          "verify_time": "2026-03-03T02:15:07+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/18754",
+          "verified": true,
+          "verify_time": "2026-03-02T16:20:33+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 23003,
+        "shares": 520,
+        "saves": 973,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0019",
+      "title": "礼来与辉瑞达成100亿美元新产品合作",
+      "summary": "最新数据显示，礼来与辉瑞达成100亿美元新产品合作。相关公司股价盘前下跌约3%。",
+      "content": "最新数据显示，礼来与辉瑞达成100亿美元新产品合作。相关公司股价盘前上涨约10%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "疫苗",
+        "礼来"
+      ],
+      "publish_time": "2026-02-24T19:00:49+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/30620",
+          "verified": true,
+          "verify_time": "2026-03-02T21:41:13+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/59472",
+          "verified": true,
+          "verify_time": "2026-03-02T20:18:47+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 49000,
+        "shares": 4210,
+        "saves": 320,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0020",
+      "title": "强生新药新一代技术获批上市，治疗罕见病",
+      "summary": "据报道，强生新药新一代技术获批上市，治疗罕见病。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，强生新药新一代技术获批上市，治疗罕见病。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "疫苗",
+        "礼来"
+      ],
+      "publish_time": "2026-03-01T20:07:54+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/49379",
+          "verified": true,
+          "verify_time": "2026-03-02T07:27:46+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/35293",
+          "verified": true,
+          "verify_time": "2026-03-03T03:21:45+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/20996",
+          "verified": true,
+          "verify_time": "2026-03-02T21:42:41+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 35803,
+        "shares": 3185,
+        "saves": 1692,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0021",
+      "title": "礼来新药新产品获批上市，治疗肥胖症",
+      "summary": "最新数据显示，礼来新药新产品获批上市，治疗肥胖症。相关公司股价盘前下跌约9%。",
+      "content": "据分析师透露，礼来新药新产品获批上市，治疗肥胖症，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "疫苗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-26T18:41:03+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14095",
+          "verified": true,
+          "verify_time": "2026-03-02T13:13:49+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/96687",
+          "verified": true,
+          "verify_time": "2026-03-02T16:23:25+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 88486,
+        "shares": 2441,
+        "saves": 682,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0022",
+      "title": "基因泰克与安进达成500亿美元创新方案合作",
+      "summary": "最新数据显示，基因泰克与安进达成500亿美元创新方案合作。相关公司股价盘前下跌约10%。",
+      "content": "最新数据显示，基因泰克与安进达成500亿美元创新方案合作。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "礼来",
+        "减肥药"
+      ],
+      "publish_time": "2026-03-01T15:05:46+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/22408",
+          "verified": true,
+          "verify_time": "2026-03-03T01:30:11+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/41011",
+          "verified": true,
+          "verify_time": "2026-03-02T13:35:08+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/51750",
+          "verified": true,
+          "verify_time": "2026-03-02T17:25:45+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 65165,
+        "shares": 1944,
+        "saves": 134,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0023",
+      "title": "礼来基因治疗药物新产品获FDA批准",
+      "summary": "礼来基因治疗药物新产品获FDA批准。业内人士预计该趋势将在未来2年内持续。",
+      "content": "礼来基因治疗药物新产品获FDA批准。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "基因治疗",
+        "疫苗"
+      ],
+      "publish_time": "2026-03-01T12:55:34+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/49760",
+          "verified": true,
+          "verify_time": "2026-03-02T15:54:49+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/83769",
+          "verified": true,
+          "verify_time": "2026-03-02T21:04:30+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/83678",
+          "verified": true,
+          "verify_time": "2026-03-02T14:30:16+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 34233,
+        "shares": 3982,
+        "saves": 404,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0024",
+      "title": "强生与基因泰克达成50亿美元新一代技术合作",
+      "summary": "据分析师透露，强生与基因泰克达成50亿美元新一代技术合作，这将显著影响相关行业发展。",
+      "content": "最新数据显示，强生与基因泰克达成50亿美元新一代技术合作。相关公司股价盘前上涨约8%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "癌症治疗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-27T11:31:13+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/95772",
+          "verified": true,
+          "verify_time": "2026-03-02T23:07:44+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/32420",
+          "verified": true,
+          "verify_time": "2026-03-03T03:26:43+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/54519",
+          "verified": true,
+          "verify_time": "2026-03-02T18:58:06+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 61755,
+        "shares": 744,
+        "saves": 358,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0025",
+      "title": "强生基因治疗药物新产品获FDA批准",
+      "summary": "据报道，强生基因治疗药物新产品获FDA批准。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，强生基因治疗药物新产品获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "mRNA",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T09:01:51+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/12457",
+          "verified": true,
+          "verify_time": "2026-03-02T14:37:14+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/57513",
+          "verified": true,
+          "verify_time": "2026-03-02T08:45:16+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/37406",
+          "verified": true,
+          "verify_time": "2026-03-03T00:14:20+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 25631,
+        "shares": 2441,
+        "saves": 1248,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0026",
+      "title": "诺和诺德与强生达成500亿美元创新方案合作",
+      "summary": "最新数据显示，诺和诺德与强生达成500亿美元创新方案合作。相关公司股价盘前上涨约7%。",
+      "content": "据分析师透露，诺和诺德与强生达成500亿美元创新方案合作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "减肥药",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-27T16:41:23+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/26012",
+          "verified": true,
+          "verify_time": "2026-03-02T21:44:35+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/69074",
+          "verified": true,
+          "verify_time": "2026-03-02T10:08:24+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 27427,
+        "shares": 924,
+        "saves": 459,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0027",
+      "title": "礼来新药智能系统获批上市，治疗肥胖症",
+      "summary": "据官方透露，礼来新药智能系统获批上市，治疗肥胖症，这将显著影响相关行业发展。",
+      "content": "最新数据显示，礼来新药智能系统获批上市，治疗肥胖症。相关公司股价盘前下跌约10%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "诺和诺德",
+        "疫苗"
+      ],
+      "publish_time": "2026-02-25T13:45:14+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/51337",
+          "verified": true,
+          "verify_time": "2026-03-02T18:02:51+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65431",
+          "verified": true,
+          "verify_time": "2026-03-02T11:33:25+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/26824",
+          "verified": true,
+          "verify_time": "2026-03-02T17:26:45+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 36766,
+        "shares": 1202,
+        "saves": 256,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0028",
+      "title": "基因泰克新药新一代技术获批上市，治疗糖尿病",
+      "summary": "基因泰克新药新一代技术获批上市，治疗糖尿病。业内人士预计该趋势将在未来1年内持续。",
+      "content": "基因泰克新药新一代技术获批上市，治疗糖尿病。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "减肥药",
+        "基因治疗"
+      ],
+      "publish_time": "2026-03-02T05:15:03+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/44834",
+          "verified": true,
+          "verify_time": "2026-03-02T14:23:45+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/63403",
+          "verified": true,
+          "verify_time": "2026-03-02T11:22:43+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/65985",
+          "verified": true,
+          "verify_time": "2026-03-02T19:50:31+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 92366,
+        "shares": 615,
+        "saves": 217,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0029",
+      "title": "基因泰克基因治疗药物新一代技术获FDA批准",
+      "summary": "据官方透露，基因泰克基因治疗药物新一代技术获FDA批准，这将显著影响相关行业发展。",
+      "content": "据官方透露，基因泰克基因治疗药物新一代技术获FDA批准，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "mRNA",
+        "礼来"
+      ],
+      "publish_time": "2026-02-25T16:12:12+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/94561",
+          "verified": true,
+          "verify_time": "2026-03-03T01:29:11+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/86060",
+          "verified": true,
+          "verify_time": "2026-03-02T19:11:54+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 14516,
+        "shares": 3886,
+        "saves": 1033,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0030",
+      "title": "礼来与基因泰克达成5000亿美元新产品合作",
+      "summary": "据分析师透露，礼来与基因泰克达成5000亿美元新产品合作，这将显著影响相关行业发展。",
+      "content": "礼来与基因泰克达成5000亿美元新产品合作。市场分析师认为此举将带来28%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "减肥药",
+        "基因治疗"
+      ],
+      "publish_time": "2026-03-01T06:46:29+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/76114",
+          "verified": true,
+          "verify_time": "2026-03-02T19:37:36+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/23518",
+          "verified": true,
+          "verify_time": "2026-03-03T00:03:34+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 71297,
+        "shares": 1577,
+        "saves": 986,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0031",
+      "title": "Moderna基因治疗药物智能系统获FDA批准",
+      "summary": "据官方透露，Moderna基因治疗药物智能系统获FDA批准，这将显著影响相关行业发展。",
+      "content": "据报道，Moderna基因治疗药物智能系统获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "癌症治疗",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-27T22:17:25+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/44034",
+          "verified": true,
+          "verify_time": "2026-03-02T21:43:26+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83741",
+          "verified": true,
+          "verify_time": "2026-03-02T08:22:50+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/49717",
+          "verified": true,
+          "verify_time": "2026-03-02T13:12:43+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 31192,
+        "shares": 4722,
+        "saves": 1812,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0032",
+      "title": "诺和诺德与安进达成50亿美元智能系统合作",
+      "summary": "最新数据显示，诺和诺德与安进达成50亿美元智能系统合作。相关公司股价盘前上涨约10%。",
+      "content": "诺和诺德与安进达成50亿美元智能系统合作。市场分析师认为此举将带来31%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "mRNA",
+        "创新药"
+      ],
+      "publish_time": "2026-03-02T06:06:05+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/67671",
+          "verified": true,
+          "verify_time": "2026-03-02T15:48:52+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/80759",
+          "verified": true,
+          "verify_time": "2026-03-02T06:55:16+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 31522,
+        "shares": 2311,
+        "saves": 1795,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0033",
+      "title": "Moderna基因治疗药物创新方案获FDA批准",
+      "summary": "最新数据显示，Moderna基因治疗药物创新方案获FDA批准。相关公司股价盘前上涨约7%。",
+      "content": "最新数据显示，Moderna基因治疗药物创新方案获FDA批准。相关公司股价盘前上涨约10%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "礼来",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-28T09:18:10+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/49851",
+          "verified": true,
+          "verify_time": "2026-03-02T22:13:38+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/93175",
+          "verified": true,
+          "verify_time": "2026-03-02T21:22:23+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 23998,
+        "shares": 411,
+        "saves": 680,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0034",
+      "title": "Moderna基因治疗药物创新方案获FDA批准",
+      "summary": "Moderna基因治疗药物创新方案获FDA批准。业内人士预计该趋势将在未来4年内持续。",
+      "content": "最新数据显示，Moderna基因治疗药物创新方案获FDA批准。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "mRNA",
+        "减肥药"
+      ],
+      "publish_time": "2026-03-01T02:00:29+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/16804",
+          "verified": true,
+          "verify_time": "2026-03-02T15:43:10+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/20870",
+          "verified": true,
+          "verify_time": "2026-03-02T09:16:13+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/28352",
+          "verified": true,
+          "verify_time": "2026-03-02T18:50:14+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 57339,
+        "shares": 1380,
+        "saves": 310,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0035",
+      "title": "礼来新药创新方案获批上市，治疗肥胖症",
+      "summary": "最新数据显示，礼来新药创新方案获批上市，治疗肥胖症。相关公司股价盘前上涨约9%。",
+      "content": "据知情人士透露，礼来新药创新方案获批上市，治疗肥胖症，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "基因治疗",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-28T13:04:45+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/80402",
+          "verified": true,
+          "verify_time": "2026-03-02T20:59:21+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/89125",
+          "verified": true,
+          "verify_time": "2026-03-03T01:43:36+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 28568,
+        "shares": 1207,
+        "saves": 937,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0036",
+      "title": "辉瑞与安进达成5000亿美元创新方案合作",
+      "summary": "辉瑞与安进达成5000亿美元创新方案合作。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，辉瑞与安进达成5000亿美元创新方案合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "mRNA",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-26T07:40:18+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/86773",
+          "verified": true,
+          "verify_time": "2026-03-02T17:45:25+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/25364",
+          "verified": true,
+          "verify_time": "2026-03-02T22:48:48+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 30021,
+        "shares": 2680,
+        "saves": 1968,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0037",
+      "title": "诺和诺德新药新产品获批上市，治疗癌症",
+      "summary": "诺和诺德新药新产品获批上市，治疗癌症。市场分析师认为此举将带来39%的增长潜力。",
+      "content": "诺和诺德新药新产品获批上市，治疗癌症。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "mRNA",
+        "礼来"
+      ],
+      "publish_time": "2026-03-01T06:23:31+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/33587",
+          "verified": true,
+          "verify_time": "2026-03-02T18:03:40+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/64887",
+          "verified": true,
+          "verify_time": "2026-03-02T17:26:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/37011",
+          "verified": true,
+          "verify_time": "2026-03-02T11:20:16+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 33357,
+        "shares": 905,
+        "saves": 1480,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0038",
+      "title": "强生减肥药创新方案III期临床成功，减重199%",
+      "summary": "据报道，强生减肥药创新方案III期临床成功，减重199%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，强生减肥药创新方案III期临床成功，减重199%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "创新药",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-24T09:18:43+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/53821",
+          "verified": true,
+          "verify_time": "2026-03-02T18:51:08+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/22614",
+          "verified": true,
+          "verify_time": "2026-03-02T12:50:18+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/52563",
+          "verified": true,
+          "verify_time": "2026-03-02T20:10:32+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 6485,
+        "shares": 3830,
+        "saves": 141,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0039",
+      "title": "辉瑞与辉瑞达成2000亿美元智能系统合作",
+      "summary": "据官方透露，辉瑞与辉瑞达成2000亿美元智能系统合作，这将显著影响相关行业发展。",
+      "content": "据报道，辉瑞与辉瑞达成2000亿美元智能系统合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "疫苗",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T02:53:00+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/18307",
+          "verified": true,
+          "verify_time": "2026-03-02T04:00:16+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/18299",
+          "verified": true,
+          "verify_time": "2026-03-02T23:27:43+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/94303",
+          "verified": true,
+          "verify_time": "2026-03-02T23:17:52+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 91312,
+        "shares": 4938,
+        "saves": 1890,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0040",
+      "title": "安进投资10亿美元建设新加坡研发中心",
+      "summary": "安进投资10亿美元建设新加坡研发中心。市场分析师认为此举将带来27%的增长潜力。",
+      "content": "安进投资10亿美元建设新加坡研发中心。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "癌症治疗",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-26T18:52:51+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/80075",
+          "verified": true,
+          "verify_time": "2026-03-02T03:46:58+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/93175",
+          "verified": true,
+          "verify_time": "2026-03-02T06:09:07+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 46268,
+        "shares": 888,
+        "saves": 230,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0041",
+      "title": "诺和诺德投资2000亿美元建设上海研发中心",
+      "summary": "据报道，诺和诺德投资2000亿美元建设上海研发中心。这一进展标志着行业进入新的发展阶段。",
+      "content": "诺和诺德投资2000亿美元建设上海研发中心。市场分析师认为此举将带来39%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "诺和诺德",
+        "mRNA"
+      ],
+      "publish_time": "2026-03-01T04:06:40+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/30085",
+          "verified": true,
+          "verify_time": "2026-03-02T08:06:42+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/76042",
+          "verified": true,
+          "verify_time": "2026-03-03T01:06:09+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 19653,
+        "shares": 4942,
+        "saves": 53,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0042",
+      "title": "诺和诺德减肥药新一代技术III期临床成功，减重33%",
+      "summary": "据报道，诺和诺德减肥药新一代技术III期临床成功，减重33%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，诺和诺德减肥药新一代技术III期临床成功，减重33%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "疫苗",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-26T16:10:29+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/97909",
+          "verified": true,
+          "verify_time": "2026-03-02T11:41:26+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/61291",
+          "verified": true,
+          "verify_time": "2026-03-02T17:33:04+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 81853,
+        "shares": 1513,
+        "saves": 55,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0043",
+      "title": "安进新药智能系统获批上市，治疗糖尿病",
+      "summary": "安进新药智能系统获批上市，治疗糖尿病。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据分析师透露，安进新药智能系统获批上市，治疗糖尿病，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "疫苗",
+        "创新药"
+      ],
+      "publish_time": "2026-02-24T22:34:45+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67547",
+          "verified": true,
+          "verify_time": "2026-03-02T15:19:43+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/97377",
+          "verified": true,
+          "verify_time": "2026-03-02T13:20:28+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 55051,
+        "shares": 3471,
+        "saves": 1137,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0044",
+      "title": "礼来新药智能系统获批上市，治疗罕见病",
+      "summary": "礼来新药智能系统获批上市，治疗罕见病。市场分析师认为此举将带来38%的增长潜力。",
+      "content": "礼来新药智能系统获批上市，治疗罕见病。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "基因治疗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-02T12:49:36+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/37726",
+          "verified": true,
+          "verify_time": "2026-03-02T19:59:22+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/56042",
+          "verified": true,
+          "verify_time": "2026-03-03T00:55:20+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/11756",
+          "verified": true,
+          "verify_time": "2026-03-02T03:33:55+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 57138,
+        "shares": 1449,
+        "saves": 1499,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0045",
+      "title": "Moderna基因治疗药物新产品获FDA批准",
+      "summary": "据报道，Moderna基因治疗药物新产品获FDA批准。这一进展标志着行业进入新的发展阶段。",
+      "content": "Moderna基因治疗药物新产品获FDA批准。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "诺和诺德",
+        "礼来"
+      ],
+      "publish_time": "2026-03-01T18:50:03+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/49513",
+          "verified": true,
+          "verify_time": "2026-03-02T12:16:11+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/47288",
+          "verified": true,
+          "verify_time": "2026-03-02T14:15:28+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67861",
+          "verified": true,
+          "verify_time": "2026-03-02T06:04:06+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 49054,
+        "shares": 3246,
+        "saves": 432,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0046",
+      "title": "强生投资10亿美元建设台湾研发中心",
+      "summary": "据分析师透露，强生投资10亿美元建设台湾研发中心，这将显著影响相关行业发展。",
+      "content": "据分析师透露，强生投资10亿美元建设台湾研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "礼来",
+        "减肥药"
+      ],
+      "publish_time": "2026-02-27T06:35:01+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38069",
+          "verified": true,
+          "verify_time": "2026-03-02T20:55:23+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/91372",
+          "verified": true,
+          "verify_time": "2026-03-02T17:35:54+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/30552",
+          "verified": true,
+          "verify_time": "2026-03-02T06:31:53+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 97824,
+        "shares": 854,
+        "saves": 589,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0047",
+      "title": "安进基因治疗药物创新方案获FDA批准",
+      "summary": "据分析师透露，安进基因治疗药物创新方案获FDA批准，这将显著影响相关行业发展。",
+      "content": "据报道，安进基因治疗药物创新方案获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "mRNA",
+        "创新药"
+      ],
+      "publish_time": "2026-03-03T03:11:15+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/39269",
+          "verified": true,
+          "verify_time": "2026-03-02T04:36:34+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/46474",
+          "verified": true,
+          "verify_time": "2026-03-02T05:23:25+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 51014,
+        "shares": 4370,
+        "saves": 1345,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0048",
+      "title": "Moderna投资2000亿美元建设新加坡研发中心",
+      "summary": "Moderna投资2000亿美元建设新加坡研发中心。市场分析师认为此举将带来50%的增长潜力。",
+      "content": "最新数据显示，Moderna投资2000亿美元建设新加坡研发中心。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "减肥药",
+        "礼来"
+      ],
+      "publish_time": "2026-02-24T18:19:07+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/30307",
+          "verified": true,
+          "verify_time": "2026-03-02T07:08:45+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/17225",
+          "verified": true,
+          "verify_time": "2026-03-02T23:01:41+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/80392",
+          "verified": true,
+          "verify_time": "2026-03-02T13:34:56+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 96715,
+        "shares": 3895,
+        "saves": 292,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0049",
+      "title": "礼来投资100亿美元建设台湾研发中心",
+      "summary": "礼来投资100亿美元建设台湾研发中心。业内人士预计该趋势将在未来5年内持续。",
+      "content": "最新数据显示，礼来投资100亿美元建设台湾研发中心。相关公司股价盘前下跌约7%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "癌症治疗",
+        "礼来"
+      ],
+      "publish_time": "2026-03-02T08:03:45+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/42954",
+          "verified": true,
+          "verify_time": "2026-03-02T09:40:20+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/11186",
+          "verified": true,
+          "verify_time": "2026-03-02T21:32:44+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 81865,
+        "shares": 722,
+        "saves": 1831,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0050",
+      "title": "辉瑞投资10亿美元建设得克萨斯研发中心",
+      "summary": "辉瑞投资10亿美元建设得克萨斯研发中心。业内人士预计该趋势将在未来2年内持续。",
+      "content": "最新数据显示，辉瑞投资10亿美元建设得克萨斯研发中心。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "mRNA",
+        "疫苗"
+      ],
+      "publish_time": "2026-02-24T05:04:02+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/75049",
+          "verified": true,
+          "verify_time": "2026-03-03T02:29:15+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/30690",
+          "verified": true,
+          "verify_time": "2026-03-02T10:52:29+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 54231,
+        "shares": 2020,
+        "saves": 350,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0051",
+      "title": "礼来减肥药新一代技术III期临床成功，减重76%",
+      "summary": "据知情人士透露，礼来减肥药新一代技术III期临床成功，减重76%，这将显著影响相关行业发展。",
+      "content": "据报道，礼来减肥药新一代技术III期临床成功，减重76%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "礼来",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-01T20:14:24+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/78908",
+          "verified": true,
+          "verify_time": "2026-03-02T12:22:40+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/78759",
+          "verified": true,
+          "verify_time": "2026-03-02T07:00:43+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 7347,
+        "shares": 3653,
+        "saves": 1980,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0052",
+      "title": "Moderna与强生达成1000亿美元新产品合作",
+      "summary": "最新数据显示，Moderna与强生达成1000亿美元新产品合作。相关公司股价盘前上涨约10%。",
+      "content": "最新数据显示，Moderna与强生达成1000亿美元新产品合作。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "减肥药",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T03:04:09+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/12085",
+          "verified": true,
+          "verify_time": "2026-03-03T01:35:49+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/79913",
+          "verified": true,
+          "verify_time": "2026-03-02T19:41:16+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/98869",
+          "verified": true,
+          "verify_time": "2026-03-02T07:56:03+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 40856,
+        "shares": 3415,
+        "saves": 1938,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0053",
+      "title": "辉瑞减肥药新产品III期临床成功，减重133%",
+      "summary": "最新数据显示，辉瑞减肥药新产品III期临床成功，减重133%。相关公司股价盘前上涨约10%。",
+      "content": "据官方透露，辉瑞减肥药新产品III期临床成功，减重133%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "癌症治疗",
+        "减肥药"
+      ],
+      "publish_time": "2026-03-02T10:51:14+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/46959",
+          "verified": true,
+          "verify_time": "2026-03-02T06:02:22+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/77936",
+          "verified": true,
+          "verify_time": "2026-03-02T14:54:10+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 11680,
+        "shares": 1201,
+        "saves": 1092,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0054",
+      "title": "Moderna减肥药创新方案III期临床成功，减重115%",
+      "summary": "Moderna减肥药创新方案III期临床成功，减重115%。市场分析师认为此举将带来33%的增长潜力。",
+      "content": "据报道，Moderna减肥药创新方案III期临床成功，减重115%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "礼来",
+        "创新药"
+      ],
+      "publish_time": "2026-02-28T17:37:42+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38877",
+          "verified": true,
+          "verify_time": "2026-03-02T15:12:11+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/38843",
+          "verified": true,
+          "verify_time": "2026-03-02T04:02:12+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 25110,
+        "shares": 2661,
+        "saves": 1071,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0055",
+      "title": "安进减肥药新一代技术III期临床成功，减重92%",
+      "summary": "安进减肥药新一代技术III期临床成功，减重92%。市场分析师认为此举将带来17%的增长潜力。",
+      "content": "安进减肥药新一代技术III期临床成功，减重92%。市场分析师认为此举将带来19%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "礼来",
+        "疫苗"
+      ],
+      "publish_time": "2026-02-25T22:59:24+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/53726",
+          "verified": true,
+          "verify_time": "2026-03-02T17:46:07+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/29144",
+          "verified": true,
+          "verify_time": "2026-03-02T15:52:11+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/92203",
+          "verified": true,
+          "verify_time": "2026-03-02T14:50:41+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 22032,
+        "shares": 2674,
+        "saves": 1706,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0056",
+      "title": "诺和诺德与诺和诺德达成50亿美元新产品合作",
+      "summary": "最新数据显示，诺和诺德与诺和诺德达成50亿美元新产品合作。相关公司股价盘前下跌约10%。",
+      "content": "据分析师透露，诺和诺德与诺和诺德达成50亿美元新产品合作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "诺和诺德",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-27T02:28:39+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/22400",
+          "verified": true,
+          "verify_time": "2026-03-03T02:31:51+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/38613",
+          "verified": true,
+          "verify_time": "2026-03-02T07:50:43+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/50468",
+          "verified": true,
+          "verify_time": "2026-03-02T18:51:12+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 81285,
+        "shares": 4572,
+        "saves": 728,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0057",
+      "title": "礼来与辉瑞达成100亿美元创新方案合作",
+      "summary": "据知情人士透露，礼来与辉瑞达成100亿美元创新方案合作，这将显著影响相关行业发展。",
+      "content": "据官方透露，礼来与辉瑞达成100亿美元创新方案合作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "mRNA",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-01T04:07:38+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/74602",
+          "verified": true,
+          "verify_time": "2026-03-02T23:48:49+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/24174",
+          "verified": true,
+          "verify_time": "2026-03-02T23:17:12+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 44489,
+        "shares": 2331,
+        "saves": 804,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0058",
+      "title": "基因泰克减肥药新产品III期临床成功，减重146%",
+      "summary": "据分析师透露，基因泰克减肥药新产品III期临床成功，减重146%，这将显著影响相关行业发展。",
+      "content": "据报道，基因泰克减肥药新产品III期临床成功，减重146%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "礼来",
+        "mRNA"
+      ],
+      "publish_time": "2026-03-01T19:19:55+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/96367",
+          "verified": true,
+          "verify_time": "2026-03-02T06:33:09+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/49862",
+          "verified": true,
+          "verify_time": "2026-03-03T02:07:51+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/42268",
+          "verified": true,
+          "verify_time": "2026-03-02T05:56:18+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 67188,
+        "shares": 4427,
+        "saves": 763,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0059",
+      "title": "强生减肥药新一代技术III期临床成功，减重179%",
+      "summary": "据知情人士透露，强生减肥药新一代技术III期临床成功，减重179%，这将显著影响相关行业发展。",
+      "content": "强生减肥药新一代技术III期临床成功，减重179%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "mRNA",
+        "疫苗"
+      ],
+      "publish_time": "2026-03-03T00:45:56+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/41825",
+          "verified": true,
+          "verify_time": "2026-03-02T06:06:32+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/35138",
+          "verified": true,
+          "verify_time": "2026-03-02T08:33:22+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/26242",
+          "verified": true,
+          "verify_time": "2026-03-02T07:47:30+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 13543,
+        "shares": 208,
+        "saves": 156,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0060",
+      "title": "安进减肥药创新方案III期临床成功，减重121%",
+      "summary": "据报道，安进减肥药创新方案III期临床成功，减重121%。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，安进减肥药创新方案III期临床成功，减重121%。相关公司股价盘前下跌约5%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "减肥药",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-27T16:50:41+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/27623",
+          "verified": true,
+          "verify_time": "2026-03-02T07:52:37+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/90017",
+          "verified": true,
+          "verify_time": "2026-03-02T19:13:46+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/30458",
+          "verified": true,
+          "verify_time": "2026-03-02T05:33:54+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 24701,
+        "shares": 447,
+        "saves": 529,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0061",
+      "title": "强生投资10亿美元建设台湾研发中心",
+      "summary": "强生投资10亿美元建设台湾研发中心。业内人士预计该趋势将在未来3年内持续。",
+      "content": "强生投资10亿美元建设台湾研发中心。市场分析师认为此举将带来25%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "mRNA",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-24T17:46:27+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/47103",
+          "verified": true,
+          "verify_time": "2026-03-02T14:45:29+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/98451",
+          "verified": true,
+          "verify_time": "2026-03-02T23:17:46+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 28387,
+        "shares": 1245,
+        "saves": 671,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0062",
+      "title": "辉瑞与辉瑞达成1000亿美元新产品合作",
+      "summary": "据分析师透露，辉瑞与辉瑞达成1000亿美元新产品合作，这将显著影响相关行业发展。",
+      "content": "据报道，辉瑞与辉瑞达成1000亿美元新产品合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "创新药",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-28T01:43:43+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/11114",
+          "verified": true,
+          "verify_time": "2026-03-02T05:26:24+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/15386",
+          "verified": true,
+          "verify_time": "2026-03-02T07:58:22+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 74775,
+        "shares": 3236,
+        "saves": 1383,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0063",
+      "title": "安进减肥药新一代技术III期临床成功，减重13%",
+      "summary": "安进减肥药新一代技术III期临床成功，减重13%。业内人士预计该趋势将在未来5年内持续。",
+      "content": "最新数据显示，安进减肥药新一代技术III期临床成功，减重13%。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "创新药",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-26T10:52:53+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/93542",
+          "verified": true,
+          "verify_time": "2026-03-02T05:56:42+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/55381",
+          "verified": true,
+          "verify_time": "2026-03-02T14:15:35+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 41362,
+        "shares": 1814,
+        "saves": 1786,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0064",
+      "title": "安进投资100亿美元建设台湾研发中心",
+      "summary": "安进投资100亿美元建设台湾研发中心。市场分析师认为此举将带来22%的增长潜力。",
+      "content": "安进投资100亿美元建设台湾研发中心。市场分析师认为此举将带来13%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "mRNA",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T15:03:10+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/92804",
+          "verified": true,
+          "verify_time": "2026-03-02T15:42:50+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/96948",
+          "verified": true,
+          "verify_time": "2026-03-02T13:41:31+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/73785",
+          "verified": true,
+          "verify_time": "2026-03-02T23:28:44+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 23060,
+        "shares": 4755,
+        "saves": 1406,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0065",
+      "title": "强生与安进达成2000亿美元创新方案合作",
+      "summary": "强生与安进达成2000亿美元创新方案合作。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据知情人士透露，强生与安进达成2000亿美元创新方案合作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "礼来",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-28T10:01:01+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/66796",
+          "verified": true,
+          "verify_time": "2026-03-02T14:07:21+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/83462",
+          "verified": true,
+          "verify_time": "2026-03-03T02:39:56+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 34176,
+        "shares": 3002,
+        "saves": 229,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0066",
+      "title": "基因泰克减肥药新产品III期临床成功，减重58%",
+      "summary": "据分析师透露，基因泰克减肥药新产品III期临床成功，减重58%，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，基因泰克减肥药新产品III期临床成功，减重58%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "创新药",
+        "礼来"
+      ],
+      "publish_time": "2026-02-25T23:44:05+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/48614",
+          "verified": true,
+          "verify_time": "2026-03-03T03:26:16+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/82271",
+          "verified": true,
+          "verify_time": "2026-03-02T13:48:53+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/73134",
+          "verified": true,
+          "verify_time": "2026-03-02T18:46:50+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 65564,
+        "shares": 4659,
+        "saves": 962,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0067",
+      "title": "礼来投资5000亿美元建设北京研发中心",
+      "summary": "礼来投资5000亿美元建设北京研发中心。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，礼来投资5000亿美元建设北京研发中心。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "创新药",
+        "基因治疗"
+      ],
+      "publish_time": "2026-02-24T07:36:23+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/59861",
+          "verified": true,
+          "verify_time": "2026-03-03T02:18:54+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/79322",
+          "verified": true,
+          "verify_time": "2026-03-03T00:09:28+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 48229,
+        "shares": 1559,
+        "saves": 1202,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0068",
+      "title": "礼来基因治疗药物新一代技术获FDA批准",
+      "summary": "最新数据显示，礼来基因治疗药物新一代技术获FDA批准。相关公司股价盘前上涨约1%。",
+      "content": "据报道，礼来基因治疗药物新一代技术获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "创新药",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-01T07:29:29+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/88421",
+          "verified": true,
+          "verify_time": "2026-03-02T19:02:03+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/43187",
+          "verified": true,
+          "verify_time": "2026-03-02T13:09:57+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/68132",
+          "verified": true,
+          "verify_time": "2026-03-03T01:36:52+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 20926,
+        "shares": 2166,
+        "saves": 1516,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0069",
+      "title": "安进与礼来达成500亿美元创新方案合作",
+      "summary": "最新数据显示，安进与礼来达成500亿美元创新方案合作。相关公司股价盘前下跌约8%。",
+      "content": "据报道，安进与礼来达成500亿美元创新方案合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "减肥药",
+        "创新药"
+      ],
+      "publish_time": "2026-02-28T15:09:34+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/59797",
+          "verified": true,
+          "verify_time": "2026-03-02T04:44:10+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/32220",
+          "verified": true,
+          "verify_time": "2026-03-02T20:04:00+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/87406",
+          "verified": true,
+          "verify_time": "2026-03-02T08:27:07+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 21717,
+        "shares": 3386,
+        "saves": 61,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0070",
+      "title": "安进投资100亿美元建设台湾研发中心",
+      "summary": "据知情人士透露，安进投资100亿美元建设台湾研发中心，这将显著影响相关行业发展。",
+      "content": "据分析师透露，安进投资100亿美元建设台湾研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "减肥药",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T07:40:34+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/74997",
+          "verified": true,
+          "verify_time": "2026-03-02T18:39:23+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/16354",
+          "verified": true,
+          "verify_time": "2026-03-02T17:48:34+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/37556",
+          "verified": true,
+          "verify_time": "2026-03-02T09:49:41+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 9455,
+        "shares": 2962,
+        "saves": 860,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0071",
+      "title": "辉瑞基因治疗药物新一代技术获FDA批准",
+      "summary": "辉瑞基因治疗药物新一代技术获FDA批准。市场分析师认为此举将带来40%的增长潜力。",
+      "content": "据知情人士透露，辉瑞基因治疗药物新一代技术获FDA批准，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "癌症治疗",
+        "创新药"
+      ],
+      "publish_time": "2026-02-25T07:13:26+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/88636",
+          "verified": true,
+          "verify_time": "2026-03-02T12:55:34+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/59474",
+          "verified": true,
+          "verify_time": "2026-03-02T23:10:53+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 94280,
+        "shares": 2565,
+        "saves": 1325,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0072",
+      "title": "强生减肥药新一代技术III期临床成功，减重115%",
+      "summary": "强生减肥药新一代技术III期临床成功，减重115%。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "强生减肥药新一代技术III期临床成功，减重115%。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "mRNA",
+        "疫苗"
+      ],
+      "publish_time": "2026-03-01T12:05:40+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/29689",
+          "verified": true,
+          "verify_time": "2026-03-02T04:18:03+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/59224",
+          "verified": true,
+          "verify_time": "2026-03-02T10:30:30+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65189",
+          "verified": true,
+          "verify_time": "2026-03-02T08:40:09+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 44537,
+        "shares": 1367,
+        "saves": 1493,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0073",
+      "title": "辉瑞投资10亿美元建设北京研发中心",
+      "summary": "辉瑞投资10亿美元建设北京研发中心。业内人士预计该趋势将在未来1年内持续。",
+      "content": "辉瑞投资10亿美元建设北京研发中心。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "基因治疗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-02T23:46:32+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/74142",
+          "verified": true,
+          "verify_time": "2026-03-02T13:25:37+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/16130",
+          "verified": true,
+          "verify_time": "2026-03-02T07:53:34+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 14623,
+        "shares": 3975,
+        "saves": 1532,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0074",
+      "title": "强生投资1000亿美元建设台湾研发中心",
+      "summary": "据报道，强生投资1000亿美元建设台湾研发中心。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，强生投资1000亿美元建设台湾研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "基因治疗",
+        "创新药"
+      ],
+      "publish_time": "2026-03-02T20:36:19+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/36714",
+          "verified": true,
+          "verify_time": "2026-03-02T04:23:46+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/31168",
+          "verified": true,
+          "verify_time": "2026-03-02T17:27:46+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/54073",
+          "verified": true,
+          "verify_time": "2026-03-02T07:59:19+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 52303,
+        "shares": 725,
+        "saves": 1717,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0075",
+      "title": "诺和诺德新药新一代技术获批上市，治疗罕见病",
+      "summary": "诺和诺德新药新一代技术获批上市，治疗罕见病。业内人士预计该趋势将在未来3年内持续。",
+      "content": "诺和诺德新药新一代技术获批上市，治疗罕见病。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "诺和诺德",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-27T01:49:24+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66816",
+          "verified": true,
+          "verify_time": "2026-03-02T17:59:43+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/39578",
+          "verified": true,
+          "verify_time": "2026-03-02T15:18:24+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/14741",
+          "verified": true,
+          "verify_time": "2026-03-02T11:56:42+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 57361,
+        "shares": 2088,
+        "saves": 693,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0076",
+      "title": "强生减肥药智能系统III期临床成功，减重43%",
+      "summary": "强生减肥药智能系统III期临床成功，减重43%。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据官方透露，强生减肥药智能系统III期临床成功，减重43%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "基因治疗",
+        "礼来"
+      ],
+      "publish_time": "2026-02-24T18:18:43+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/63996",
+          "verified": true,
+          "verify_time": "2026-03-02T05:38:34+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/50095",
+          "verified": true,
+          "verify_time": "2026-03-02T14:10:32+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/42434",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:32+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 59559,
+        "shares": 4557,
+        "saves": 545,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0077",
+      "title": "礼来基因治疗药物创新方案获FDA批准",
+      "summary": "据报道，礼来基因治疗药物创新方案获FDA批准。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，礼来基因治疗药物创新方案获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "礼来",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-27T11:51:32+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/50081",
+          "verified": true,
+          "verify_time": "2026-03-02T23:39:32+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/97124",
+          "verified": true,
+          "verify_time": "2026-03-02T05:58:10+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 84536,
+        "shares": 1152,
+        "saves": 592,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0078",
+      "title": "辉瑞减肥药新产品III期临床成功，减重40%",
+      "summary": "据报道，辉瑞减肥药新产品III期临床成功，减重40%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，辉瑞减肥药新产品III期临床成功，减重40%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "减肥药",
+        "创新药"
+      ],
+      "publish_time": "2026-02-26T15:38:58+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/58545",
+          "verified": true,
+          "verify_time": "2026-03-02T06:44:52+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/14711",
+          "verified": true,
+          "verify_time": "2026-03-02T20:29:15+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/97999",
+          "verified": true,
+          "verify_time": "2026-03-02T06:07:35+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 80541,
+        "shares": 1822,
+        "saves": 815,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0079",
+      "title": "安进新药智能系统获批上市，治疗肥胖症",
+      "summary": "安进新药智能系统获批上市，治疗肥胖症。业内人士预计该趋势将在未来1年内持续。",
+      "content": "安进新药智能系统获批上市，治疗肥胖症。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "癌症治疗",
+        "mRNA"
+      ],
+      "publish_time": "2026-02-24T11:12:16+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/71571",
+          "verified": true,
+          "verify_time": "2026-03-02T21:23:12+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/80409",
+          "verified": true,
+          "verify_time": "2026-03-02T07:06:26+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 49896,
+        "shares": 251,
+        "saves": 1802,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0080",
+      "title": "辉瑞减肥药创新方案III期临床成功，减重45%",
+      "summary": "辉瑞减肥药创新方案III期临床成功，减重45%。市场分析师认为此举将带来30%的增长潜力。",
+      "content": "辉瑞减肥药创新方案III期临床成功，减重45%。市场分析师认为此举将带来22%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "基因治疗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-26T11:01:36+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/63894",
+          "verified": true,
+          "verify_time": "2026-03-02T08:48:10+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/46976",
+          "verified": true,
+          "verify_time": "2026-03-02T23:04:10+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 26414,
+        "shares": 1134,
+        "saves": 746,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0081",
+      "title": "强生投资100亿美元建设台湾研发中心",
+      "summary": "据报道，强生投资100亿美元建设台湾研发中心。这一进展标志着行业进入新的发展阶段。",
+      "content": "强生投资100亿美元建设台湾研发中心。市场分析师认为此举将带来25%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "诺和诺德",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-25T07:06:11+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66520",
+          "verified": true,
+          "verify_time": "2026-03-02T04:26:07+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/77450",
+          "verified": true,
+          "verify_time": "2026-03-02T11:27:09+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/79543",
+          "verified": true,
+          "verify_time": "2026-03-02T13:35:42+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 70796,
+        "shares": 1516,
+        "saves": 1949,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0082",
+      "title": "安进投资50亿美元建设台湾研发中心",
+      "summary": "安进投资50亿美元建设台湾研发中心。市场分析师认为此举将带来31%的增长潜力。",
+      "content": "安进投资50亿美元建设台湾研发中心。市场分析师认为此举将带来28%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "癌症治疗",
+        "基因治疗"
+      ],
+      "publish_time": "2026-03-01T06:15:51+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/74328",
+          "verified": true,
+          "verify_time": "2026-03-02T10:19:48+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/96602",
+          "verified": true,
+          "verify_time": "2026-03-02T10:15:28+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 64479,
+        "shares": 1408,
+        "saves": 756,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0083",
+      "title": "礼来减肥药创新方案III期临床成功，减重125%",
+      "summary": "礼来减肥药创新方案III期临床成功，减重125%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "礼来减肥药创新方案III期临床成功，减重125%。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "基因治疗",
+        "减肥药"
+      ],
+      "publish_time": "2026-03-01T06:39:29+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/82700",
+          "verified": true,
+          "verify_time": "2026-03-03T01:48:19+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/99556",
+          "verified": true,
+          "verify_time": "2026-03-02T15:15:43+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/91948",
+          "verified": true,
+          "verify_time": "2026-03-02T12:33:56+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "neutral",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "negative",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 30795,
+        "shares": 4980,
+        "saves": 902,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0084",
+      "title": "礼来基因治疗药物创新方案获FDA批准",
+      "summary": "礼来基因治疗药物创新方案获FDA批准。市场分析师认为此举将带来45%的增长潜力。",
+      "content": "据报道，礼来基因治疗药物创新方案获FDA批准。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "礼来",
+        "创新药"
+      ],
+      "publish_time": "2026-02-24T22:25:57+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/97491",
+          "verified": true,
+          "verify_time": "2026-03-02T17:36:56+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/44120",
+          "verified": true,
+          "verify_time": "2026-03-02T17:06:50+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "neutral",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 19973,
+        "shares": 1042,
+        "saves": 175,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0085",
+      "title": "辉瑞投资5000亿美元建设新加坡研发中心",
+      "summary": "最新数据显示，辉瑞投资5000亿美元建设新加坡研发中心。相关公司股价盘前上涨约10%。",
+      "content": "辉瑞投资5000亿美元建设新加坡研发中心。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "诺和诺德",
+        "疫苗"
+      ],
+      "publish_time": "2026-02-26T02:01:37+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/66364",
+          "verified": true,
+          "verify_time": "2026-03-02T17:14:47+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/17975",
+          "verified": true,
+          "verify_time": "2026-03-02T18:10:36+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 62082,
+        "shares": 1962,
+        "saves": 847,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0086",
+      "title": "礼来投资5000亿美元建设亚利桑那研发中心",
+      "summary": "据分析师透露，礼来投资5000亿美元建设亚利桑那研发中心，这将显著影响相关行业发展。",
+      "content": "据报道，礼来投资5000亿美元建设亚利桑那研发中心。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "基因治疗",
+        "创新药"
+      ],
+      "publish_time": "2026-02-26T12:42:51+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/18565",
+          "verified": true,
+          "verify_time": "2026-03-02T05:24:12+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38823",
+          "verified": true,
+          "verify_time": "2026-03-03T02:13:24+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/80530",
+          "verified": true,
+          "verify_time": "2026-03-02T07:03:31+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 12339,
+        "shares": 2564,
+        "saves": 733,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0087",
+      "title": "礼来投资100亿美元建设亚利桑那研发中心",
+      "summary": "最新数据显示，礼来投资100亿美元建设亚利桑那研发中心。相关公司股价盘前上涨约7%。",
+      "content": "据分析师透露，礼来投资100亿美元建设亚利桑那研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "创新药",
+        "基因治疗",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-03-02T10:51:14+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/13332",
+          "verified": true,
+          "verify_time": "2026-03-02T11:19:52+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/27182",
+          "verified": true,
+          "verify_time": "2026-03-02T07:11:04+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 89809,
+        "shares": 2156,
+        "saves": 706,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0088",
+      "title": "礼来减肥药新一代技术III期临床成功，减重191%",
+      "summary": "礼来减肥药新一代技术III期临床成功，减重191%。市场分析师认为此举将带来15%的增长潜力。",
+      "content": "礼来减肥药新一代技术III期临床成功，减重191%。市场分析师认为此举将带来15%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "减肥药",
+        "癌症治疗",
+        "创新药"
+      ],
+      "publish_time": "2026-03-01T04:45:51+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/42132",
+          "verified": true,
+          "verify_time": "2026-03-03T01:15:21+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/65057",
+          "verified": true,
+          "verify_time": "2026-03-02T23:59:09+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/54993",
+          "verified": true,
+          "verify_time": "2026-03-02T13:27:39+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 11651,
+        "shares": 1591,
+        "saves": 1446,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0089",
+      "title": "诺和诺德投资2000亿美元建设亚利桑那研发中心",
+      "summary": "据报道，诺和诺德投资2000亿美元建设亚利桑那研发中心。这一进展标志着行业进入新的发展阶段。",
+      "content": "诺和诺德投资2000亿美元建设亚利桑那研发中心。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "礼来",
+        "疫苗"
+      ],
+      "publish_time": "2026-03-01T17:32:59+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/85411",
+          "verified": true,
+          "verify_time": "2026-03-02T16:00:44+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/69344",
+          "verified": true,
+          "verify_time": "2026-03-03T03:00:09+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 50269,
+        "shares": 3596,
+        "saves": 853,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0090",
+      "title": "基因泰克投资5000亿美元建设新加坡研发中心",
+      "summary": "基因泰克投资5000亿美元建设新加坡研发中心。市场分析师认为此举将带来43%的增长潜力。",
+      "content": "据知情人士透露，基因泰克投资5000亿美元建设新加坡研发中心，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "疫苗",
+        "mRNA"
+      ],
+      "publish_time": "2026-03-01T02:20:42+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/57756",
+          "verified": true,
+          "verify_time": "2026-03-02T12:48:03+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/90748",
+          "verified": true,
+          "verify_time": "2026-03-02T04:34:38+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/25584",
+          "verified": true,
+          "verify_time": "2026-03-02T03:57:31+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 34060,
+        "shares": 1940,
+        "saves": 1588,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0091",
+      "title": "基因泰克基因治疗药物智能系统获FDA批准",
+      "summary": "据分析师透露，基因泰克基因治疗药物智能系统获FDA批准，这将显著影响相关行业发展。",
+      "content": "最新数据显示，基因泰克基因治疗药物智能系统获FDA批准。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "诺和诺德",
+        "癌症治疗",
+        "礼来"
+      ],
+      "publish_time": "2026-02-25T14:50:01+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/55980",
+          "verified": true,
+          "verify_time": "2026-03-02T21:28:22+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/43707",
+          "verified": true,
+          "verify_time": "2026-03-02T14:06:54+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 68329,
+        "shares": 4347,
+        "saves": 204,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0092",
+      "title": "安进与辉瑞达成50亿美元智能系统合作",
+      "summary": "安进与辉瑞达成50亿美元智能系统合作。市场分析师认为此举将带来40%的增长潜力。",
+      "content": "据报道，安进与辉瑞达成50亿美元智能系统合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "基因治疗",
+        "疫苗",
+        "创新药"
+      ],
+      "publish_time": "2026-03-01T12:14:02+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/13972",
+          "verified": true,
+          "verify_time": "2026-03-02T12:19:10+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/32366",
+          "verified": true,
+          "verify_time": "2026-03-02T07:42:18+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/60857",
+          "verified": true,
+          "verify_time": "2026-03-02T11:27:27+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 47512,
+        "shares": 483,
+        "saves": 1302,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0093",
+      "title": "安进投资500亿美元建设得克萨斯研发中心",
+      "summary": "安进投资500亿美元建设得克萨斯研发中心。市场分析师认为此举将带来39%的增长潜力。",
+      "content": "据报道，安进投资500亿美元建设得克萨斯研发中心。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "诺和诺德",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-28T00:13:28+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/70387",
+          "verified": true,
+          "verify_time": "2026-03-02T22:49:57+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/41989",
+          "verified": true,
+          "verify_time": "2026-03-03T02:20:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/83348",
+          "verified": true,
+          "verify_time": "2026-03-02T17:10:07+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 34294,
+        "shares": 4175,
+        "saves": 1052,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0094",
+      "title": "安进减肥药智能系统III期临床成功，减重160%",
+      "summary": "据分析师透露，安进减肥药智能系统III期临床成功，减重160%，这将显著影响相关行业发展。",
+      "content": "据分析师透露，安进减肥药智能系统III期临床成功，减重160%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "减肥药",
+        "创新药"
+      ],
+      "publish_time": "2026-02-26T11:17:14+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/70844",
+          "verified": true,
+          "verify_time": "2026-03-02T22:20:21+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/84830",
+          "verified": true,
+          "verify_time": "2026-03-02T03:29:36+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/27471",
+          "verified": true,
+          "verify_time": "2026-03-02T04:31:15+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 15262,
+        "shares": 2594,
+        "saves": 471,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0095",
+      "title": "礼来投资5000亿美元建设新加坡研发中心",
+      "summary": "据报道，礼来投资5000亿美元建设新加坡研发中心。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，礼来投资5000亿美元建设新加坡研发中心。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "癌症治疗",
+        "创新药",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-01T16:42:06+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/34840",
+          "verified": true,
+          "verify_time": "2026-03-02T05:27:29+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/75573",
+          "verified": true,
+          "verify_time": "2026-03-02T10:31:11+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/42882",
+          "verified": true,
+          "verify_time": "2026-03-03T00:40:40+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 25993,
+        "shares": 3539,
+        "saves": 242,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0096",
+      "title": "安进投资10亿美元建设台湾研发中心",
+      "summary": "据报道，安进投资10亿美元建设台湾研发中心。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，安进投资10亿美元建设台湾研发中心。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "礼来",
+        "mRNA",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-02T16:08:39+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/27745",
+          "verified": true,
+          "verify_time": "2026-03-02T07:49:39+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/74834",
+          "verified": true,
+          "verify_time": "2026-03-02T22:45:37+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/66756",
+          "verified": true,
+          "verify_time": "2026-03-02T05:10:51+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 45021,
+        "shares": 4785,
+        "saves": 1267,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0097",
+      "title": "安进新药创新方案获批上市，治疗肥胖症",
+      "summary": "据报道，安进新药创新方案获批上市，治疗肥胖症。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，安进新药创新方案获批上市，治疗肥胖症。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "减肥药",
+        "癌症治疗"
+      ],
+      "publish_time": "2026-02-26T22:40:01+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/80298",
+          "verified": true,
+          "verify_time": "2026-03-02T10:48:42+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/26936",
+          "verified": true,
+          "verify_time": "2026-03-02T07:25:05+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 21674,
+        "shares": 4304,
+        "saves": 992,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0098",
+      "title": "礼来减肥药创新方案III期临床成功，减重97%",
+      "summary": "据报道，礼来减肥药创新方案III期临床成功，减重97%。这一进展标志着行业进入新的发展阶段。",
+      "content": "礼来减肥药创新方案III期临床成功，减重97%。市场分析师认为此举将带来14%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "诺和诺德",
+        "疫苗"
+      ],
+      "publish_time": "2026-02-25T20:13:10+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/98161",
+          "verified": true,
+          "verify_time": "2026-03-02T23:53:18+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/48908",
+          "verified": true,
+          "verify_time": "2026-03-02T15:01:54+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 25677,
+        "shares": 1393,
+        "saves": 735,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0099",
+      "title": "诺和诺德新药新一代技术获批上市，治疗罕见病",
+      "summary": "最新数据显示，诺和诺德新药新一代技术获批上市，治疗罕见病。相关公司股价盘前上涨约9%。",
+      "content": "诺和诺德新药新一代技术获批上市，治疗罕见病。市场分析师认为此举将带来26%的增长潜力。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "疫苗",
+        "基因治疗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-02-27T14:19:38+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/39566",
+          "verified": true,
+          "verify_time": "2026-03-02T22:01:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/71569",
+          "verified": true,
+          "verify_time": "2026-03-02T10:49:10+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 51731,
+        "shares": 4457,
+        "saves": 1981,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "biotech-0100",
+      "title": "辉瑞投资5000亿美元建设北京研发中心",
+      "summary": "据官方透露，辉瑞投资5000亿美元建设北京研发中心，这将显著影响相关行业发展。",
+      "content": "辉瑞投资5000亿美元建设北京研发中心。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "biotech",
+      "tags": [
+        "mRNA",
+        "疫苗",
+        "诺和诺德"
+      ],
+      "publish_time": "2026-03-02T11:21:56+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/37831",
+          "verified": true,
+          "verify_time": "2026-03-03T01:04:49+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/56313",
+          "verified": true,
+          "verify_time": "2026-03-03T02:43:56+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 63488,
+        "shares": 928,
+        "saves": 1123,
+        "credibility_score": 92
+      },
+      "status": "published"
+    }
+  ]
+}

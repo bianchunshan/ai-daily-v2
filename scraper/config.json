@@ -1,0 +1,182 @@
+{
+  "version": "2.0",
+  "description": "AI日报数据采集配置",
+  "update_interval": "3600",
+  "sources": {
+    "rss": [
+      {
+        "id": "bloomberg_tech",
+        "name": "彭博社科技",
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "category": "market",
+        "language": "en",
+        "priority": 1,
+        "credibility": 96
+      },
+      {
+        "id": "reuters_tech",
+        "name": "路透社科技",
+        "url": "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
+        "category": "market",
+        "language": "en",
+        "priority": 1,
+        "credibility": 94
+      },
+      {
+        "id": "wsj_tech",
+        "name": "华尔街日报科技",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "category": "market",
+        "language": "en",
+        "priority": 1,
+        "credibility": 95
+      },
+      {
+        "id": "ft_tech",
+        "name": "金融时报科技",
+        "url": "https://www.ft.com/?format=rss",
+        "category": "market",
+        "language": "en",
+        "priority": 2,
+        "credibility": 92
+      },
+      {
+        "id": "cnbc_tech",
+        "name": "CNBC科技",
+        "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+        "category": "market",
+        "language": "en",
+        "priority": 2,
+        "credibility": 90
+      },
+      {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "category": "ai",
+        "language": "en",
+        "priority": 2,
+        "credibility": 85
+      },
+      {
+        "id": "the_verge",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "category": "consumer",
+        "language": "en",
+        "priority": 2,
+        "credibility": 85
+      }
+    ],
+    "api": [
+      {
+        "id": "newsapi",
+        "name": "NewsAPI",
+        "url": "https://newsapi.org/v2/everything",
+        "category": "all",
+        "language": "en",
+        "priority": 1,
+        "credibility": 88,
+        "params": {
+          "q": "artificial intelligence OR semiconductor OR renewable energy",
+          "sortBy": "publishedAt",
+          "language": "en"
+        }
+      },
+      {
+        "id": "finnhub",
+        "name": "Finnhub",
+        "url": "https://finnhub.io/api/v1/news",
+        "category": "market",
+        "language": "en",
+        "priority": 1,
+        "credibility": 90,
+        "params": {
+          "category": "general"
+        }
+      }
+    ],
+    "web": [
+      {
+        "id": "xinhua",
+        "name": "新华网科技",
+        "url": "http://www.news.cn/tech/",
+        "category": "all",
+        "language": "zh",
+        "priority": 1,
+        "credibility": 97,
+        "selector": {
+          "list": ".news-list li",
+          "title": "h3 a",
+          "link": "h3 a",
+          "summary": ".summary",
+          "time": ".time"
+        }
+      },
+      {
+        "id": "cnbeta",
+        "name": "cnBeta",
+        "url": "https://www.cnbeta.com.tw/",
+        "category": "tech",
+        "language": "zh",
+        "priority": 2,
+        "credibility": 75
+      },
+      {
+        "id": "ithome",
+        "name": "IT之家",
+        "url": "https://www.ithome.com/",
+        "category": "tech",
+        "language": "zh",
+        "priority": 2,
+        "credibility": 80
+      }
+    ]
+  },
+  "categories": {
+    "keywords": {
+      "ai": ["artificial intelligence", "AI", "machine learning", "deep learning", "neural network", "GPT", "LLM", "大模型", "人工智能", "机器学习"],
+      "semiconductor": ["semiconductor", "chip", "TSMC", "NVIDIA", "Intel", "AMD", "台积电", "芯片", "半导体", "光刻机"],
+      "energy": ["renewable energy", "solar", "battery", "EV", " Tesla", "BYD", "光伏", "新能源", "储能", "锂电池"],
+      "robotics": ["robot", "robotics", "automation", "人形机器人", "工业机器人", "自动化"],
+      "biotech": ["biotech", "pharma", "drug", "vaccine", "生物", "医药", "疫苗", "创新药"],
+      "quantum": ["quantum", "qubit", "quantum computing", "量子", "量子计算"],
+      "space": ["space", "SpaceX", "satellite", "rocket", "航天", "卫星", "火箭"],
+      "market": ["stock", "market", "trading", "股市", "市场", "交易"]
+    }
+  },
+  "stocks": {
+    "mapping": {
+      "NVIDIA": ["NVDA"],
+      "Nvidia": ["NVDA"],
+      "AMD": ["AMD"],
+      "Intel": ["INTC"],
+      "台积电": ["TSM"],
+      "TSMC": ["TSM"],
+      "ASML": ["ASML"],
+      "Broadcom": ["AVGO"],
+      "Qualcomm": ["QCOM"],
+      "微软": ["MSFT"],
+      "Microsoft": ["MSFT"],
+      "谷歌": ["GOOGL"],
+      "Google": ["GOOGL"],
+      "Alphabet": ["GOOGL"],
+      "亚马逊": ["AMZN"],
+      "Amazon": ["AMZN"],
+      "Meta": ["META"],
+      "Facebook": ["META"],
+      "特斯拉": ["TSLA"],
+      "Tesla": ["TSLA"],
+      "苹果": ["AAPL"],
+      "Apple": ["AAPL"],
+      "比亚迪": ["BYD"],
+      "BYD": ["BYD"]
+    }
+  },
+  "validation": {
+    "min_sources": 2,
+    "min_credibility": 70,
+    "dedup_threshold": 0.85,
+    "required_fields": ["title", "summary", "sources", "category"]
+  }
+}

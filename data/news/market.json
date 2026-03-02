@@ -1,0 +1,5016 @@
+{
+  "version": "2.0",
+  "category": "market",
+  "name": "市场宏观",
+  "total": 100,
+  "updated": "2026-03-03T03:28:39.011085",
+  "news": [
+    {
+      "id": "market-0001",
+      "title": "标普500指数突破100点，创3600新高",
+      "summary": "据报道，标普500指数突破100点，创3600新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，标普500指数突破100点，创3600新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "利率",
+        "央行"
+      ],
+      "publish_time": "2026-02-28T00:24:16+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/17756",
+          "verified": true,
+          "verify_time": "2026-03-02T15:46:33+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/85779",
+          "verified": true,
+          "verify_time": "2026-03-02T16:37:28+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 15517,
+        "shares": 4641,
+        "saves": 1431,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0002",
+      "title": "英国央行制裁，新兴市场市场反应积极",
+      "summary": "英国央行制裁，新兴市场市场反应积极。市场分析师认为此举将带来46%的增长潜力。",
+      "content": "据报道，英国央行制裁，新兴市场市场反应积极。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "股市",
+        "牛市"
+      ],
+      "publish_time": "2026-02-27T10:39:53+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/53996",
+          "verified": true,
+          "verify_time": "2026-03-02T12:13:04+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/88828",
+          "verified": true,
+          "verify_time": "2026-03-02T07:06:13+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 43990,
+        "shares": 2564,
+        "saves": 879,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0003",
+      "title": "美国央行合作，全球市场反应积极",
+      "summary": "最新数据显示，美国央行合作，全球市场反应积极。相关公司股价盘前下跌约5%。",
+      "content": "据报道，美国央行合作，全球市场反应积极。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "利率",
+        "GDP"
+      ],
+      "publish_time": "2026-03-01T05:46:09+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/67680",
+          "verified": true,
+          "verify_time": "2026-03-02T08:39:51+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/59228",
+          "verified": true,
+          "verify_time": "2026-03-02T14:55:46+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/18442",
+          "verified": true,
+          "verify_time": "2026-03-02T06:49:42+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 75247,
+        "shares": 697,
+        "saves": 745,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0004",
+      "title": "世界银行宣布谈判，影响亚太",
+      "summary": "最新数据显示，世界银行宣布谈判，影响亚太。相关公司股价盘前上涨约1%。",
+      "content": "据报道，世界银行宣布谈判，影响亚太。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "美联储",
+        "利率"
+      ],
+      "publish_time": "2026-02-28T11:00:34+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/73331",
+          "verified": true,
+          "verify_time": "2026-03-02T21:43:16+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66285",
+          "verified": true,
+          "verify_time": "2026-03-03T02:46:25+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 99143,
+        "shares": 1084,
+        "saves": 108,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0005",
+      "title": "韩国通胀率降至56%，为2027年来最低",
+      "summary": "最新数据显示，韩国通胀率降至56%，为2027年来最低。相关公司股价盘前上涨约2%。",
+      "content": "据报道，韩国通胀率降至56%，为2027年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "通胀",
+        "美联储"
+      ],
+      "publish_time": "2026-02-25T06:34:27+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/95958",
+          "verified": true,
+          "verify_time": "2026-03-02T19:07:04+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/86441",
+          "verified": true,
+          "verify_time": "2026-03-03T02:19:40+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/48293",
+          "verified": true,
+          "verify_time": "2026-03-02T04:45:01+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 70901,
+        "shares": 4776,
+        "saves": 814,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0006",
+      "title": "WTO宣布投资，影响全球",
+      "summary": "WTO宣布投资，影响全球。市场分析师认为此举将带来48%的增长潜力。",
+      "content": "据官方透露，WTO宣布投资，影响全球，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "利率",
+        "GDP"
+      ],
+      "publish_time": "2026-02-25T03:37:05+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/12199",
+          "verified": true,
+          "verify_time": "2026-03-03T01:43:30+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/63457",
+          "verified": true,
+          "verify_time": "2026-03-02T16:16:36+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 40982,
+        "shares": 2717,
+        "saves": 1267,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0007",
+      "title": "中国Q4 GDP增长94%，超预期",
+      "summary": "中国Q4 GDP增长94%，超预期。业内人士预计该趋势将在未来1年内持续。",
+      "content": "中国Q4 GDP增长94%，超预期。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "股市",
+        "熊市"
+      ],
+      "publish_time": "2026-02-25T08:01:59+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/62927",
+          "verified": true,
+          "verify_time": "2026-03-02T17:35:48+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/96908",
+          "verified": true,
+          "verify_time": "2026-03-02T17:03:43+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 69978,
+        "shares": 1596,
+        "saves": 909,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0008",
+      "title": "中国通胀率降至17%，为2027年来最低",
+      "summary": "最新数据显示，中国通胀率降至17%，为2027年来最低。相关公司股价盘前下跌约6%。",
+      "content": "中国通胀率降至17%，为2027年来最低。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "熊市",
+        "美联储"
+      ],
+      "publish_time": "2026-03-02T04:21:22+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/86594",
+          "verified": true,
+          "verify_time": "2026-03-02T14:24:57+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/48076",
+          "verified": true,
+          "verify_time": "2026-03-02T13:11:37+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 95292,
+        "shares": 3120,
+        "saves": 933,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0009",
+      "title": "IMF宣布制裁，影响新兴市场",
+      "summary": "IMF宣布制裁，影响新兴市场。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据官方透露，IMF宣布制裁，影响新兴市场，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "通胀",
+        "股市"
+      ],
+      "publish_time": "2026-02-27T06:03:35+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/61171",
+          "verified": true,
+          "verify_time": "2026-03-02T21:35:36+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/55798",
+          "verified": true,
+          "verify_time": "2026-03-02T16:04:29+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/93471",
+          "verified": true,
+          "verify_time": "2026-03-03T02:18:29+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 97097,
+        "shares": 4386,
+        "saves": 951,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0010",
+      "title": "德国央行制裁，亚太市场反应积极",
+      "summary": "德国央行制裁，亚太市场反应积极。业内人士预计该趋势将在未来1年内持续。",
+      "content": "德国央行制裁，亚太市场反应积极。市场分析师认为此举将带来19%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "熊市",
+        "央行"
+      ],
+      "publish_time": "2026-02-27T14:02:08+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/49692",
+          "verified": true,
+          "verify_time": "2026-03-02T22:07:14+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/54903",
+          "verified": true,
+          "verify_time": "2026-03-02T15:57:54+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 58969,
+        "shares": 412,
+        "saves": 1032,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0011",
+      "title": "标普500指数突破500点，创500新高",
+      "summary": "据知情人士透露，标普500指数突破500点，创500新高，这将显著影响相关行业发展。",
+      "content": "标普500指数突破500点，创500新高。市场分析师认为此举将带来31%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "央行",
+        "GDP"
+      ],
+      "publish_time": "2026-03-01T21:17:10+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/75653",
+          "verified": true,
+          "verify_time": "2026-03-03T01:41:13+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/28993",
+          "verified": true,
+          "verify_time": "2026-03-02T10:02:34+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 63424,
+        "shares": 1575,
+        "saves": 527,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0012",
+      "title": "英国通胀率降至195%，为2028年来最低",
+      "summary": "英国通胀率降至195%，为2028年来最低。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据报道，英国通胀率降至195%，为2028年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "央行",
+        "通胀"
+      ],
+      "publish_time": "2026-03-02T20:15:20+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/41096",
+          "verified": true,
+          "verify_time": "2026-03-02T17:11:20+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/95571",
+          "verified": true,
+          "verify_time": "2026-03-02T13:41:58+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83208",
+          "verified": true,
+          "verify_time": "2026-03-03T01:57:18+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 89921,
+        "shares": 634,
+        "saves": 1055,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0013",
+      "title": "英国Q4 GDP增长197%，超预期",
+      "summary": "英国Q4 GDP增长197%，超预期。市场分析师认为此举将带来11%的增长潜力。",
+      "content": "据官方透露，英国Q4 GDP增长197%，超预期，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "央行",
+        "美联储"
+      ],
+      "publish_time": "2026-02-25T13:10:24+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/85213",
+          "verified": true,
+          "verify_time": "2026-03-02T10:26:48+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/61586",
+          "verified": true,
+          "verify_time": "2026-03-02T18:33:46+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 65755,
+        "shares": 672,
+        "saves": 962,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0014",
+      "title": "美国通胀率降至40%，为2027年来最低",
+      "summary": "据知情人士透露，美国通胀率降至40%，为2027年来最低，这将显著影响相关行业发展。",
+      "content": "据报道，美国通胀率降至40%，为2027年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "股市",
+        "利率"
+      ],
+      "publish_time": "2026-02-28T22:48:13+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/12513",
+          "verified": true,
+          "verify_time": "2026-03-03T01:06:52+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/40067",
+          "verified": true,
+          "verify_time": "2026-03-02T21:01:33+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 64748,
+        "shares": 2765,
+        "saves": 1212,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0015",
+      "title": "英国央行加征关税，全球市场反应积极",
+      "summary": "英国央行加征关税，全球市场反应积极。业内人士预计该趋势将在未来5年内持续。",
+      "content": "英国央行加征关税，全球市场反应积极。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "股市",
+        "通胀"
+      ],
+      "publish_time": "2026-02-24T10:16:16+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/27065",
+          "verified": true,
+          "verify_time": "2026-03-02T08:13:02+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/52822",
+          "verified": true,
+          "verify_time": "2026-03-02T16:38:15+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 86430,
+        "shares": 3887,
+        "saves": 656,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0016",
+      "title": "欧盟通胀率降至63%，为2030年来最低",
+      "summary": "最新数据显示，欧盟通胀率降至63%，为2030年来最低。相关公司股价盘前下跌约2%。",
+      "content": "据报道，欧盟通胀率降至63%，为2030年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "GDP",
+        "股市"
+      ],
+      "publish_time": "2026-02-28T02:35:51+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/79978",
+          "verified": true,
+          "verify_time": "2026-03-03T01:59:11+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/14537",
+          "verified": true,
+          "verify_time": "2026-03-02T07:08:45+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 17482,
+        "shares": 4123,
+        "saves": 710,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0017",
+      "title": "韩国Q3 GDP增长64%，超预期",
+      "summary": "据报道，韩国Q3 GDP增长64%，超预期。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，韩国Q3 GDP增长64%，超预期，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "股市",
+        "通胀"
+      ],
+      "publish_time": "2026-03-02T19:59:01+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/64557",
+          "verified": true,
+          "verify_time": "2026-03-02T08:09:13+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/49109",
+          "verified": true,
+          "verify_time": "2026-03-02T13:29:27+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/24111",
+          "verified": true,
+          "verify_time": "2026-03-02T23:23:28+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 90205,
+        "shares": 1436,
+        "saves": 982,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0018",
+      "title": "日本央行加征关税，全球市场反应积极",
+      "summary": "据报道，日本央行加征关税，全球市场反应积极。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，日本央行加征关税，全球市场反应积极。相关公司股价盘前上涨约10%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "央行",
+        "美联储"
+      ],
+      "publish_time": "2026-02-28T11:43:15+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/59041",
+          "verified": true,
+          "verify_time": "2026-03-02T21:41:32+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/52459",
+          "verified": true,
+          "verify_time": "2026-03-02T09:05:38+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 31406,
+        "shares": 4799,
+        "saves": 1719,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0019",
+      "title": "WTO宣布加征关税，影响欧美",
+      "summary": "最新数据显示，WTO宣布加征关税，影响欧美。相关公司股价盘前上涨约1%。",
+      "content": "据知情人士透露，WTO宣布加征关税，影响欧美，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "熊市",
+        "股市"
+      ],
+      "publish_time": "2026-03-02T17:23:07+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/15870",
+          "verified": true,
+          "verify_time": "2026-03-02T12:11:36+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/29255",
+          "verified": true,
+          "verify_time": "2026-03-02T07:28:50+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 22882,
+        "shares": 4259,
+        "saves": 1682,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0020",
+      "title": "纳斯达克指数突破1点，创1000新高",
+      "summary": "据报道，纳斯达克指数突破1点，创1000新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "纳斯达克指数突破1点，创1000新高。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "央行",
+        "股市"
+      ],
+      "publish_time": "2026-02-24T05:10:37+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/89813",
+          "verified": true,
+          "verify_time": "2026-03-02T06:35:28+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/37605",
+          "verified": true,
+          "verify_time": "2026-03-02T12:26:35+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/87272",
+          "verified": true,
+          "verify_time": "2026-03-02T17:36:26+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 5768,
+        "shares": 2672,
+        "saves": 1752,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0021",
+      "title": "WTO宣布合作，影响新兴市场",
+      "summary": "据知情人士透露，WTO宣布合作，影响新兴市场，这将显著影响相关行业发展。",
+      "content": "据报道，WTO宣布合作，影响新兴市场。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "熊市",
+        "利率"
+      ],
+      "publish_time": "2026-03-01T01:22:24+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/21414",
+          "verified": true,
+          "verify_time": "2026-03-02T21:31:09+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/93774",
+          "verified": true,
+          "verify_time": "2026-03-03T02:11:09+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/64766",
+          "verified": true,
+          "verify_time": "2026-03-03T01:29:32+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 22099,
+        "shares": 1997,
+        "saves": 1152,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0022",
+      "title": "德国Q3 GDP增长183%，超预期",
+      "summary": "最新数据显示，德国Q3 GDP增长183%，超预期。相关公司股价盘前上涨约9%。",
+      "content": "德国Q3 GDP增长183%，超预期。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "利率",
+        "央行"
+      ],
+      "publish_time": "2026-02-27T01:11:29+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/93559",
+          "verified": true,
+          "verify_time": "2026-03-02T16:04:00+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/92392",
+          "verified": true,
+          "verify_time": "2026-03-02T08:11:13+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/67708",
+          "verified": true,
+          "verify_time": "2026-03-02T23:36:14+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 30271,
+        "shares": 1368,
+        "saves": 162,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0023",
+      "title": "日本Q3 GDP增长28%，超预期",
+      "summary": "最新数据显示，日本Q3 GDP增长28%，超预期。相关公司股价盘前上涨约6%。",
+      "content": "据报道，日本Q3 GDP增长28%，超预期。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "股市",
+        "利率"
+      ],
+      "publish_time": "2026-02-27T12:16:02+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/16966",
+          "verified": true,
+          "verify_time": "2026-03-03T00:53:46+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/79025",
+          "verified": true,
+          "verify_time": "2026-03-02T06:57:49+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 28358,
+        "shares": 2582,
+        "saves": 1774,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0024",
+      "title": "中国通胀率降至154%，为2030年来最低",
+      "summary": "最新数据显示，中国通胀率降至154%，为2030年来最低。相关公司股价盘前上涨约6%。",
+      "content": "据报道，中国通胀率降至154%，为2030年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "GDP",
+        "央行"
+      ],
+      "publish_time": "2026-03-02T16:02:32+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/97059",
+          "verified": true,
+          "verify_time": "2026-03-02T18:52:35+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/54652",
+          "verified": true,
+          "verify_time": "2026-03-02T10:42:11+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 41888,
+        "shares": 893,
+        "saves": 429,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0025",
+      "title": "上证指数指数突破100点，创500新高",
+      "summary": "上证指数指数突破100点，创500新高。市场分析师认为此举将带来33%的增长潜力。",
+      "content": "上证指数指数突破100点，创500新高。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "通胀",
+        "股市"
+      ],
+      "publish_time": "2026-02-25T03:31:02+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/88223",
+          "verified": true,
+          "verify_time": "2026-03-02T18:00:24+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/43055",
+          "verified": true,
+          "verify_time": "2026-03-03T02:00:49+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 90851,
+        "shares": 3632,
+        "saves": 1528,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0026",
+      "title": "日本央行投资，亚太市场反应积极",
+      "summary": "最新数据显示，日本央行投资，亚太市场反应积极。相关公司股价盘前上涨约8%。",
+      "content": "日本央行投资，亚太市场反应积极。市场分析师认为此举将带来16%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "GDP",
+        "利率"
+      ],
+      "publish_time": "2026-02-24T20:25:46+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/54194",
+          "verified": true,
+          "verify_time": "2026-03-02T16:19:03+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/85125",
+          "verified": true,
+          "verify_time": "2026-03-02T16:22:04+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/95865",
+          "verified": true,
+          "verify_time": "2026-03-02T17:58:12+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 50827,
+        "shares": 2452,
+        "saves": 627,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0027",
+      "title": "英国央行制裁，欧美市场反应积极",
+      "summary": "据官方透露，英国央行制裁，欧美市场反应积极，这将显著影响相关行业发展。",
+      "content": "最新数据显示，英国央行制裁，欧美市场反应积极。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "通胀",
+        "利率"
+      ],
+      "publish_time": "2026-02-25T21:45:57+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/23985",
+          "verified": true,
+          "verify_time": "2026-03-02T15:05:56+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/27268",
+          "verified": true,
+          "verify_time": "2026-03-02T15:16:17+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/10879",
+          "verified": true,
+          "verify_time": "2026-03-02T06:21:35+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 14507,
+        "shares": 1988,
+        "saves": 1849,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0028",
+      "title": "韩国Q3 GDP增长54%，超预期",
+      "summary": "据分析师透露，韩国Q3 GDP增长54%，超预期，这将显著影响相关行业发展。",
+      "content": "最新数据显示，韩国Q3 GDP增长54%，超预期。相关公司股价盘前上涨约1%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "牛市",
+        "熊市"
+      ],
+      "publish_time": "2026-02-25T11:14:23+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/12078",
+          "verified": true,
+          "verify_time": "2026-03-02T04:46:00+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/91986",
+          "verified": true,
+          "verify_time": "2026-03-02T11:36:59+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 19967,
+        "shares": 1740,
+        "saves": 1831,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0029",
+      "title": "美国通胀率降至87%，为2030年来最低",
+      "summary": "美国通胀率降至87%，为2030年来最低。业内人士预计该趋势将在未来4年内持续。",
+      "content": "美国通胀率降至87%，为2030年来最低。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "美联储",
+        "央行"
+      ],
+      "publish_time": "2026-02-28T19:43:07+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/51653",
+          "verified": true,
+          "verify_time": "2026-03-02T05:54:00+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55013",
+          "verified": true,
+          "verify_time": "2026-03-02T11:40:45+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 60582,
+        "shares": 956,
+        "saves": 780,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0030",
+      "title": "WTO宣布合作，影响亚太",
+      "summary": "WTO宣布合作，影响亚太。业内人士预计该趋势将在未来4年内持续。",
+      "content": "最新数据显示，WTO宣布合作，影响亚太。相关公司股价盘前上涨约8%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "股市",
+        "利率"
+      ],
+      "publish_time": "2026-02-27T15:20:40+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/81763",
+          "verified": true,
+          "verify_time": "2026-03-02T09:15:29+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/97259",
+          "verified": true,
+          "verify_time": "2026-03-03T02:26:06+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/66183",
+          "verified": true,
+          "verify_time": "2026-03-02T07:33:56+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 84480,
+        "shares": 3979,
+        "saves": 1281,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0031",
+      "title": "G20宣布投资，影响欧美",
+      "summary": "最新数据显示，G20宣布投资，影响欧美。相关公司股价盘前上涨约1%。",
+      "content": "G20宣布投资，影响欧美。市场分析师认为此举将带来37%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "美联储",
+        "股市"
+      ],
+      "publish_time": "2026-03-02T07:24:36+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/48681",
+          "verified": true,
+          "verify_time": "2026-03-02T16:58:55+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/87388",
+          "verified": true,
+          "verify_time": "2026-03-02T07:27:03+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/75718",
+          "verified": true,
+          "verify_time": "2026-03-02T03:44:46+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 69938,
+        "shares": 4648,
+        "saves": 1817,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0032",
+      "title": "G20宣布合作，影响新兴市场",
+      "summary": "G20宣布合作，影响新兴市场。业内人士预计该趋势将在未来3年内持续。",
+      "content": "最新数据显示，G20宣布合作，影响新兴市场。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "通胀",
+        "利率"
+      ],
+      "publish_time": "2026-02-24T11:10:19+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/54984",
+          "verified": true,
+          "verify_time": "2026-03-02T05:32:55+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/34368",
+          "verified": true,
+          "verify_time": "2026-03-02T07:05:57+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 69957,
+        "shares": 2465,
+        "saves": 712,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0033",
+      "title": "英国央行合作，新兴市场市场反应积极",
+      "summary": "据报道，英国央行合作，新兴市场市场反应积极。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，英国央行合作，新兴市场市场反应积极，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "央行",
+        "股市"
+      ],
+      "publish_time": "2026-02-25T20:29:52+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/92707",
+          "verified": true,
+          "verify_time": "2026-03-02T09:32:40+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/36879",
+          "verified": true,
+          "verify_time": "2026-03-02T07:33:36+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 73065,
+        "shares": 4403,
+        "saves": 1677,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0034",
+      "title": "上证指数指数突破5点，创1000新高",
+      "summary": "最新数据显示，上证指数指数突破5点，创1000新高。相关公司股价盘前上涨约2%。",
+      "content": "上证指数指数突破5点，创1000新高。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "通胀",
+        "牛市"
+      ],
+      "publish_time": "2026-02-28T22:03:03+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/63449",
+          "verified": true,
+          "verify_time": "2026-03-02T12:32:50+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/82842",
+          "verified": true,
+          "verify_time": "2026-03-03T01:29:31+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 11697,
+        "shares": 3057,
+        "saves": 834,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0035",
+      "title": "日本Q4 GDP增长43%，超预期",
+      "summary": "据报道，日本Q4 GDP增长43%，超预期。这一进展标志着行业进入新的发展阶段。",
+      "content": "日本Q4 GDP增长43%，超预期。市场分析师认为此举将带来22%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "央行",
+        "牛市"
+      ],
+      "publish_time": "2026-02-27T19:09:21+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/62568",
+          "verified": true,
+          "verify_time": "2026-03-02T18:23:00+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/18289",
+          "verified": true,
+          "verify_time": "2026-03-02T04:10:25+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/28638",
+          "verified": true,
+          "verify_time": "2026-03-02T05:02:02+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 12948,
+        "shares": 1832,
+        "saves": 1355,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0036",
+      "title": "IMF宣布谈判，影响新兴市场",
+      "summary": "IMF宣布谈判，影响新兴市场。业内人士预计该趋势将在未来3年内持续。",
+      "content": "最新数据显示，IMF宣布谈判，影响新兴市场。相关公司股价盘前下跌约5%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "股市",
+        "熊市"
+      ],
+      "publish_time": "2026-03-02T04:47:26+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/89630",
+          "verified": true,
+          "verify_time": "2026-03-03T02:48:49+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/21278",
+          "verified": true,
+          "verify_time": "2026-03-02T10:13:33+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 18232,
+        "shares": 1671,
+        "saves": 1372,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0037",
+      "title": "WTO宣布加征关税，影响新兴市场",
+      "summary": "WTO宣布加征关税，影响新兴市场。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据报道，WTO宣布加征关税，影响新兴市场。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "牛市",
+        "通胀"
+      ],
+      "publish_time": "2026-02-27T22:38:20+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/30988",
+          "verified": true,
+          "verify_time": "2026-03-02T12:41:50+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/74874",
+          "verified": true,
+          "verify_time": "2026-03-02T05:05:14+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 25214,
+        "shares": 3179,
+        "saves": 621,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0038",
+      "title": "上证指数指数突破10点，创500新高",
+      "summary": "上证指数指数突破10点，创500新高。市场分析师认为此举将带来34%的增长潜力。",
+      "content": "最新数据显示，上证指数指数突破10点，创500新高。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "通胀",
+        "股市"
+      ],
+      "publish_time": "2026-02-25T16:22:38+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/74535",
+          "verified": true,
+          "verify_time": "2026-03-02T22:03:51+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/13516",
+          "verified": true,
+          "verify_time": "2026-03-02T21:20:17+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 26609,
+        "shares": 4995,
+        "saves": 971,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0039",
+      "title": "WTO宣布谈判，影响亚太",
+      "summary": "据报道，WTO宣布谈判，影响亚太。这一进展标志着行业进入新的发展阶段。",
+      "content": "WTO宣布谈判，影响亚太。市场分析师认为此举将带来50%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "美联储",
+        "央行"
+      ],
+      "publish_time": "2026-03-02T03:44:29+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/72429",
+          "verified": true,
+          "verify_time": "2026-03-03T00:07:49+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/44545",
+          "verified": true,
+          "verify_time": "2026-03-02T05:49:22+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/96398",
+          "verified": true,
+          "verify_time": "2026-03-03T01:19:27+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 86037,
+        "shares": 1814,
+        "saves": 1124,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0040",
+      "title": "欧盟Q3 GDP增长99%，超预期",
+      "summary": "据分析师透露，欧盟Q3 GDP增长99%，超预期，这将显著影响相关行业发展。",
+      "content": "据分析师透露，欧盟Q3 GDP增长99%，超预期，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "牛市",
+        "通胀"
+      ],
+      "publish_time": "2026-02-25T12:49:29+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/45477",
+          "verified": true,
+          "verify_time": "2026-03-02T11:00:09+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/31022",
+          "verified": true,
+          "verify_time": "2026-03-03T00:05:10+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 45426,
+        "shares": 2486,
+        "saves": 360,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0041",
+      "title": "联合国宣布投资，影响欧美",
+      "summary": "联合国宣布投资，影响欧美。市场分析师认为此举将带来11%的增长潜力。",
+      "content": "联合国宣布投资，影响欧美。市场分析师认为此举将带来12%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "利率",
+        "通胀"
+      ],
+      "publish_time": "2026-03-02T07:40:59+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55890",
+          "verified": true,
+          "verify_time": "2026-03-03T01:54:56+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/16044",
+          "verified": true,
+          "verify_time": "2026-03-02T12:59:51+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/64009",
+          "verified": true,
+          "verify_time": "2026-03-02T20:44:50+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 82142,
+        "shares": 1073,
+        "saves": 1123,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0042",
+      "title": "纳斯达克指数突破500点，创500新高",
+      "summary": "最新数据显示，纳斯达克指数突破500点，创500新高。相关公司股价盘前下跌约7%。",
+      "content": "据知情人士透露，纳斯达克指数突破500点，创500新高，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "熊市",
+        "央行"
+      ],
+      "publish_time": "2026-02-28T03:05:24+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/75848",
+          "verified": true,
+          "verify_time": "2026-03-02T09:40:16+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/82840",
+          "verified": true,
+          "verify_time": "2026-03-02T13:23:29+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 51275,
+        "shares": 3112,
+        "saves": 1201,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0043",
+      "title": "WTO宣布谈判，影响全球",
+      "summary": "WTO宣布谈判，影响全球。业内人士预计该趋势将在未来5年内持续。",
+      "content": "WTO宣布谈判，影响全球。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "利率",
+        "美联储"
+      ],
+      "publish_time": "2026-02-27T14:20:47+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/10904",
+          "verified": true,
+          "verify_time": "2026-03-02T18:02:22+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/79767",
+          "verified": true,
+          "verify_time": "2026-03-02T06:06:35+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/62803",
+          "verified": true,
+          "verify_time": "2026-03-03T03:11:08+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 65079,
+        "shares": 2158,
+        "saves": 1172,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0044",
+      "title": "G20宣布投资，影响全球",
+      "summary": "据报道，G20宣布投资，影响全球。这一进展标志着行业进入新的发展阶段。",
+      "content": "G20宣布投资，影响全球。市场分析师认为此举将带来25%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "美联储",
+        "利率"
+      ],
+      "publish_time": "2026-02-25T21:17:27+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/86286",
+          "verified": true,
+          "verify_time": "2026-03-02T14:51:48+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/14585",
+          "verified": true,
+          "verify_time": "2026-03-03T03:00:55+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 82123,
+        "shares": 1123,
+        "saves": 163,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0045",
+      "title": "日本央行制裁，欧美市场反应积极",
+      "summary": "日本央行制裁，欧美市场反应积极。业内人士预计该趋势将在未来5年内持续。",
+      "content": "日本央行制裁，欧美市场反应积极。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "央行",
+        "GDP"
+      ],
+      "publish_time": "2026-02-26T18:38:07+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/42293",
+          "verified": true,
+          "verify_time": "2026-03-02T17:22:07+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/77686",
+          "verified": true,
+          "verify_time": "2026-03-02T12:12:13+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 37591,
+        "shares": 3198,
+        "saves": 1040,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0046",
+      "title": "韩国Q3 GDP增长112%，超预期",
+      "summary": "据报道，韩国Q3 GDP增长112%，超预期。这一进展标志着行业进入新的发展阶段。",
+      "content": "韩国Q3 GDP增长112%，超预期。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "央行",
+        "美联储"
+      ],
+      "publish_time": "2026-02-24T22:01:42+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/79428",
+          "verified": true,
+          "verify_time": "2026-03-03T03:11:38+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/69696",
+          "verified": true,
+          "verify_time": "2026-03-02T19:30:51+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 23057,
+        "shares": 4627,
+        "saves": 1515,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0047",
+      "title": "美国通胀率降至44%，为2030年来最低",
+      "summary": "最新数据显示，美国通胀率降至44%，为2030年来最低。相关公司股价盘前上涨约3%。",
+      "content": "据知情人士透露，美国通胀率降至44%，为2030年来最低，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "GDP",
+        "利率"
+      ],
+      "publish_time": "2026-02-24T07:59:07+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/63952",
+          "verified": true,
+          "verify_time": "2026-03-03T01:03:54+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/87175",
+          "verified": true,
+          "verify_time": "2026-03-02T10:47:42+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 92064,
+        "shares": 457,
+        "saves": 606,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0048",
+      "title": "德国通胀率降至24%，为2030年来最低",
+      "summary": "最新数据显示，德国通胀率降至24%，为2030年来最低。相关公司股价盘前下跌约3%。",
+      "content": "德国通胀率降至24%，为2030年来最低。市场分析师认为此举将带来14%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "GDP",
+        "牛市"
+      ],
+      "publish_time": "2026-02-26T13:49:20+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/21542",
+          "verified": true,
+          "verify_time": "2026-03-02T07:51:37+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/61426",
+          "verified": true,
+          "verify_time": "2026-03-02T09:18:42+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/38294",
+          "verified": true,
+          "verify_time": "2026-03-02T04:09:25+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 67465,
+        "shares": 4786,
+        "saves": 1734,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0049",
+      "title": "纳斯达克指数突破50点，创1000新高",
+      "summary": "据知情人士透露，纳斯达克指数突破50点，创1000新高，这将显著影响相关行业发展。",
+      "content": "纳斯达克指数突破50点，创1000新高。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "GDP",
+        "通胀"
+      ],
+      "publish_time": "2026-03-01T21:25:45+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/96772",
+          "verified": true,
+          "verify_time": "2026-03-02T05:15:38+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/79392",
+          "verified": true,
+          "verify_time": "2026-03-03T01:25:08+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/56162",
+          "verified": true,
+          "verify_time": "2026-03-02T12:39:38+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 37412,
+        "shares": 4516,
+        "saves": 596,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0050",
+      "title": "美国央行投资，全球市场反应积极",
+      "summary": "据知情人士透露，美国央行投资，全球市场反应积极，这将显著影响相关行业发展。",
+      "content": "据报道，美国央行投资，全球市场反应积极。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "GDP",
+        "美联储"
+      ],
+      "publish_time": "2026-02-27T19:32:01+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/52618",
+          "verified": true,
+          "verify_time": "2026-03-03T01:53:34+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/93239",
+          "verified": true,
+          "verify_time": "2026-03-02T08:51:55+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 53564,
+        "shares": 2563,
+        "saves": 1231,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0051",
+      "title": "日本央行合作，新兴市场市场反应积极",
+      "summary": "据知情人士透露，日本央行合作，新兴市场市场反应积极，这将显著影响相关行业发展。",
+      "content": "日本央行合作，新兴市场市场反应积极。市场分析师认为此举将带来11%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "通胀",
+        "美联储"
+      ],
+      "publish_time": "2026-02-25T11:21:57+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/54802",
+          "verified": true,
+          "verify_time": "2026-03-03T00:40:50+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/10101",
+          "verified": true,
+          "verify_time": "2026-03-02T11:01:08+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/79372",
+          "verified": true,
+          "verify_time": "2026-03-02T23:20:29+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 52956,
+        "shares": 2039,
+        "saves": 576,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0052",
+      "title": "德国通胀率降至99%，为2028年来最低",
+      "summary": "据分析师透露，德国通胀率降至99%，为2028年来最低，这将显著影响相关行业发展。",
+      "content": "德国通胀率降至99%，为2028年来最低。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "熊市",
+        "利率"
+      ],
+      "publish_time": "2026-02-28T01:57:13+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/37432",
+          "verified": true,
+          "verify_time": "2026-03-02T09:36:14+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/47929",
+          "verified": true,
+          "verify_time": "2026-03-02T03:50:43+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 5085,
+        "shares": 1394,
+        "saves": 1122,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0053",
+      "title": "德国央行投资，全球市场反应积极",
+      "summary": "德国央行投资，全球市场反应积极。市场分析师认为此举将带来19%的增长潜力。",
+      "content": "德国央行投资，全球市场反应积极。市场分析师认为此举将带来48%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "股市",
+        "牛市"
+      ],
+      "publish_time": "2026-02-24T19:11:16+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/92767",
+          "verified": true,
+          "verify_time": "2026-03-03T01:23:54+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/61207",
+          "verified": true,
+          "verify_time": "2026-03-02T21:52:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/36604",
+          "verified": true,
+          "verify_time": "2026-03-02T13:53:51+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 6422,
+        "shares": 3518,
+        "saves": 838,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0054",
+      "title": "恒生指数指数突破5点，创1000新高",
+      "summary": "据分析师透露，恒生指数指数突破5点，创1000新高，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，恒生指数指数突破5点，创1000新高，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "熊市",
+        "股市"
+      ],
+      "publish_time": "2026-02-25T00:40:12+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/89408",
+          "verified": true,
+          "verify_time": "2026-03-02T04:10:04+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/51987",
+          "verified": true,
+          "verify_time": "2026-03-02T08:58:34+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 40990,
+        "shares": 1878,
+        "saves": 1006,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0055",
+      "title": "恒生指数指数突破5点，创1000新高",
+      "summary": "恒生指数指数突破5点，创1000新高。市场分析师认为此举将带来47%的增长潜力。",
+      "content": "恒生指数指数突破5点，创1000新高。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "通胀",
+        "利率"
+      ],
+      "publish_time": "2026-02-24T19:15:04+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/98425",
+          "verified": true,
+          "verify_time": "2026-03-02T14:06:43+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/61635",
+          "verified": true,
+          "verify_time": "2026-03-02T15:02:40+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 39117,
+        "shares": 234,
+        "saves": 1453,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0056",
+      "title": "美国央行加征关税，新兴市场市场反应积极",
+      "summary": "美国央行加征关税，新兴市场市场反应积极。市场分析师认为此举将带来12%的增长潜力。",
+      "content": "美国央行加征关税，新兴市场市场反应积极。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "股市",
+        "通胀"
+      ],
+      "publish_time": "2026-02-26T14:30:33+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/95090",
+          "verified": true,
+          "verify_time": "2026-03-02T09:32:31+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/34842",
+          "verified": true,
+          "verify_time": "2026-03-02T14:20:10+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 23232,
+        "shares": 1617,
+        "saves": 129,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0057",
+      "title": "中国Q1 GDP增长38%，超预期",
+      "summary": "最新数据显示，中国Q1 GDP增长38%，超预期。相关公司股价盘前上涨约7%。",
+      "content": "中国Q1 GDP增长38%，超预期。市场分析师认为此举将带来48%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "牛市",
+        "股市"
+      ],
+      "publish_time": "2026-02-25T12:55:22+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/12484",
+          "verified": true,
+          "verify_time": "2026-03-02T06:23:09+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/24724",
+          "verified": true,
+          "verify_time": "2026-03-02T06:01:54+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 43032,
+        "shares": 1268,
+        "saves": 1906,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0058",
+      "title": "联合国宣布合作，影响欧美",
+      "summary": "据知情人士透露，联合国宣布合作，影响欧美，这将显著影响相关行业发展。",
+      "content": "据报道，联合国宣布合作，影响欧美。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "通胀",
+        "牛市"
+      ],
+      "publish_time": "2026-02-28T15:31:17+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/18374",
+          "verified": true,
+          "verify_time": "2026-03-02T08:47:19+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/37388",
+          "verified": true,
+          "verify_time": "2026-03-02T11:04:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/96569",
+          "verified": true,
+          "verify_time": "2026-03-02T11:05:36+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 5756,
+        "shares": 3952,
+        "saves": 1677,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0059",
+      "title": "标普500指数突破1点，创500新高",
+      "summary": "标普500指数突破1点，创500新高。市场分析师认为此举将带来29%的增长潜力。",
+      "content": "标普500指数突破1点，创500新高。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "牛市",
+        "央行"
+      ],
+      "publish_time": "2026-03-02T19:43:11+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/66048",
+          "verified": true,
+          "verify_time": "2026-03-02T04:50:07+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/41033",
+          "verified": true,
+          "verify_time": "2026-03-02T12:03:10+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/10378",
+          "verified": true,
+          "verify_time": "2026-03-02T15:07:47+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 77427,
+        "shares": 2360,
+        "saves": 1699,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0060",
+      "title": "美国央行加征关税，亚太市场反应积极",
+      "summary": "美国央行加征关税，亚太市场反应积极。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据分析师透露，美国央行加征关税，亚太市场反应积极，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "股市",
+        "美联储"
+      ],
+      "publish_time": "2026-02-24T14:28:19+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/94351",
+          "verified": true,
+          "verify_time": "2026-03-02T09:31:37+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/18861",
+          "verified": true,
+          "verify_time": "2026-03-03T00:01:06+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 8101,
+        "shares": 4041,
+        "saves": 1722,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0061",
+      "title": "标普500指数突破500点，创1000新高",
+      "summary": "标普500指数突破500点，创1000新高。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据知情人士透露，标普500指数突破500点，创1000新高，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "利率",
+        "GDP"
+      ],
+      "publish_time": "2026-02-27T14:16:58+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/80011",
+          "verified": true,
+          "verify_time": "2026-03-02T09:04:07+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/34516",
+          "verified": true,
+          "verify_time": "2026-03-02T08:37:38+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/22128",
+          "verified": true,
+          "verify_time": "2026-03-03T03:15:55+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 5123,
+        "shares": 1406,
+        "saves": 119,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0062",
+      "title": "美国Q4 GDP增长37%，超预期",
+      "summary": "最新数据显示，美国Q4 GDP增长37%，超预期。相关公司股价盘前上涨约1%。",
+      "content": "美国Q4 GDP增长37%，超预期。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "央行",
+        "利率"
+      ],
+      "publish_time": "2026-02-28T22:13:54+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/17658",
+          "verified": true,
+          "verify_time": "2026-03-02T22:57:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/44776",
+          "verified": true,
+          "verify_time": "2026-03-02T16:06:13+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/46750",
+          "verified": true,
+          "verify_time": "2026-03-02T11:20:01+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 70341,
+        "shares": 3795,
+        "saves": 576,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0063",
+      "title": "英国通胀率降至24%，为2028年来最低",
+      "summary": "据报道，英国通胀率降至24%，为2028年来最低。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，英国通胀率降至24%，为2028年来最低，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "GDP",
+        "美联储"
+      ],
+      "publish_time": "2026-02-24T18:38:54+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/25750",
+          "verified": true,
+          "verify_time": "2026-03-03T00:35:48+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/12079",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:57+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/30371",
+          "verified": true,
+          "verify_time": "2026-03-02T19:58:06+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 16367,
+        "shares": 1253,
+        "saves": 629,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0064",
+      "title": "世界银行宣布加征关税，影响欧美",
+      "summary": "据分析师透露，世界银行宣布加征关税，影响欧美，这将显著影响相关行业发展。",
+      "content": "世界银行宣布加征关税，影响欧美。市场分析师认为此举将带来41%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "美联储",
+        "股市"
+      ],
+      "publish_time": "2026-03-02T09:17:34+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38941",
+          "verified": true,
+          "verify_time": "2026-03-02T18:27:17+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/31559",
+          "verified": true,
+          "verify_time": "2026-03-02T13:44:18+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/78813",
+          "verified": true,
+          "verify_time": "2026-03-02T21:53:44+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 25989,
+        "shares": 4771,
+        "saves": 1054,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0065",
+      "title": "德国Q3 GDP增长42%，超预期",
+      "summary": "德国Q3 GDP增长42%，超预期。市场分析师认为此举将带来46%的增长潜力。",
+      "content": "德国Q3 GDP增长42%，超预期。市场分析师认为此举将带来47%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "央行",
+        "熊市"
+      ],
+      "publish_time": "2026-03-02T22:55:41+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/32476",
+          "verified": true,
+          "verify_time": "2026-03-02T10:51:43+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/34338",
+          "verified": true,
+          "verify_time": "2026-03-02T16:47:46+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/85271",
+          "verified": true,
+          "verify_time": "2026-03-02T19:37:25+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 98313,
+        "shares": 2029,
+        "saves": 449,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0066",
+      "title": "标普500指数突破50点，创100新高",
+      "summary": "标普500指数突破50点，创100新高。业内人士预计该趋势将在未来3年内持续。",
+      "content": "标普500指数突破50点，创100新高。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "股市",
+        "牛市"
+      ],
+      "publish_time": "2026-02-24T15:31:12+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/26917",
+          "verified": true,
+          "verify_time": "2026-03-02T07:28:25+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/29764",
+          "verified": true,
+          "verify_time": "2026-03-02T08:06:30+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 57514,
+        "shares": 2507,
+        "saves": 1507,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0067",
+      "title": "标普500指数突破1点，创1000新高",
+      "summary": "标普500指数突破1点，创1000新高。市场分析师认为此举将带来36%的增长潜力。",
+      "content": "据报道，标普500指数突破1点，创1000新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "央行",
+        "通胀"
+      ],
+      "publish_time": "2026-02-24T20:10:19+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/39715",
+          "verified": true,
+          "verify_time": "2026-03-02T11:15:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/28027",
+          "verified": true,
+          "verify_time": "2026-03-02T23:10:30+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 65955,
+        "shares": 4286,
+        "saves": 1119,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0068",
+      "title": "中国Q4 GDP增长17%，超预期",
+      "summary": "最新数据显示，中国Q4 GDP增长17%，超预期。相关公司股价盘前下跌约4%。",
+      "content": "中国Q4 GDP增长17%，超预期。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "利率",
+        "GDP"
+      ],
+      "publish_time": "2026-03-02T05:19:01+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/10182",
+          "verified": true,
+          "verify_time": "2026-03-02T09:42:41+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/17770",
+          "verified": true,
+          "verify_time": "2026-03-02T09:42:44+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 71447,
+        "shares": 4151,
+        "saves": 1732,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0069",
+      "title": "世界银行宣布投资，影响新兴市场",
+      "summary": "最新数据显示，世界银行宣布投资，影响新兴市场。相关公司股价盘前下跌约10%。",
+      "content": "世界银行宣布投资，影响新兴市场。市场分析师认为此举将带来26%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "利率",
+        "熊市"
+      ],
+      "publish_time": "2026-02-26T16:53:55+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/88227",
+          "verified": true,
+          "verify_time": "2026-03-02T08:52:28+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/51701",
+          "verified": true,
+          "verify_time": "2026-03-02T19:16:36+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/69750",
+          "verified": true,
+          "verify_time": "2026-03-02T18:18:01+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 69606,
+        "shares": 2983,
+        "saves": 1815,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0070",
+      "title": "纳斯达克指数突破10点，创100新高",
+      "summary": "据报道，纳斯达克指数突破10点，创100新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，纳斯达克指数突破10点，创100新高，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "央行",
+        "牛市"
+      ],
+      "publish_time": "2026-02-27T13:19:44+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/38281",
+          "verified": true,
+          "verify_time": "2026-03-02T09:50:51+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/34489",
+          "verified": true,
+          "verify_time": "2026-03-02T19:45:20+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 21053,
+        "shares": 740,
+        "saves": 859,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0071",
+      "title": "恒生指数指数突破1点，创500新高",
+      "summary": "据报道，恒生指数指数突破1点，创500新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "恒生指数指数突破1点，创500新高。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "央行",
+        "牛市"
+      ],
+      "publish_time": "2026-02-26T12:48:46+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/16580",
+          "verified": true,
+          "verify_time": "2026-03-02T08:59:28+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/33006",
+          "verified": true,
+          "verify_time": "2026-03-02T14:14:22+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 32692,
+        "shares": 2997,
+        "saves": 1874,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0072",
+      "title": "中国通胀率降至54%，为2030年来最低",
+      "summary": "中国通胀率降至54%，为2030年来最低。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，中国通胀率降至54%，为2030年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "GDP",
+        "央行"
+      ],
+      "publish_time": "2026-02-26T18:16:12+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/89422",
+          "verified": true,
+          "verify_time": "2026-03-02T12:39:28+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/83002",
+          "verified": true,
+          "verify_time": "2026-03-02T23:49:30+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/27555",
+          "verified": true,
+          "verify_time": "2026-03-02T19:08:12+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 77996,
+        "shares": 1389,
+        "saves": 53,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0073",
+      "title": "标普500指数突破500点，创100新高",
+      "summary": "标普500指数突破500点，创100新高。市场分析师认为此举将带来46%的增长潜力。",
+      "content": "标普500指数突破500点，创100新高。市场分析师认为此举将带来46%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "股市",
+        "美联储"
+      ],
+      "publish_time": "2026-02-26T21:03:09+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66798",
+          "verified": true,
+          "verify_time": "2026-03-03T02:03:25+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/55562",
+          "verified": true,
+          "verify_time": "2026-03-03T00:35:40+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 65981,
+        "shares": 2721,
+        "saves": 1842,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0074",
+      "title": "上证指数指数突破100点，创500新高",
+      "summary": "上证指数指数突破100点，创500新高。市场分析师认为此举将带来50%的增长潜力。",
+      "content": "上证指数指数突破100点，创500新高。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "牛市",
+        "美联储"
+      ],
+      "publish_time": "2026-03-02T10:50:42+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/75989",
+          "verified": true,
+          "verify_time": "2026-03-02T16:04:48+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/98379",
+          "verified": true,
+          "verify_time": "2026-03-02T14:50:11+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 15059,
+        "shares": 2294,
+        "saves": 1930,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0075",
+      "title": "美国央行合作，欧美市场反应积极",
+      "summary": "最新数据显示，美国央行合作，欧美市场反应积极。相关公司股价盘前下跌约1%。",
+      "content": "美国央行合作，欧美市场反应积极。市场分析师认为此举将带来12%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "熊市",
+        "GDP"
+      ],
+      "publish_time": "2026-02-24T06:59:54+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/87062",
+          "verified": true,
+          "verify_time": "2026-03-02T07:13:38+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/37266",
+          "verified": true,
+          "verify_time": "2026-03-03T02:21:59+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 69066,
+        "shares": 1460,
+        "saves": 780,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0076",
+      "title": "联合国宣布加征关税，影响欧美",
+      "summary": "联合国宣布加征关税，影响欧美。市场分析师认为此举将带来31%的增长潜力。",
+      "content": "最新数据显示，联合国宣布加征关税，影响欧美。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "利率",
+        "股市"
+      ],
+      "publish_time": "2026-02-28T21:32:08+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/68890",
+          "verified": true,
+          "verify_time": "2026-03-03T02:41:06+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/90985",
+          "verified": true,
+          "verify_time": "2026-03-02T11:42:09+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/55190",
+          "verified": true,
+          "verify_time": "2026-03-02T23:37:55+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 58948,
+        "shares": 2924,
+        "saves": 100,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0077",
+      "title": "韩国Q1 GDP增长109%，超预期",
+      "summary": "韩国Q1 GDP增长109%，超预期。业内人士预计该趋势将在未来2年内持续。",
+      "content": "韩国Q1 GDP增长109%，超预期。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "牛市",
+        "美联储"
+      ],
+      "publish_time": "2026-02-25T19:46:10+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14249",
+          "verified": true,
+          "verify_time": "2026-03-02T05:44:46+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/74074",
+          "verified": true,
+          "verify_time": "2026-03-03T01:35:49+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 32068,
+        "shares": 3064,
+        "saves": 1124,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0078",
+      "title": "美国央行制裁，新兴市场市场反应积极",
+      "summary": "最新数据显示，美国央行制裁，新兴市场市场反应积极。相关公司股价盘前上涨约4%。",
+      "content": "据官方透露，美国央行制裁，新兴市场市场反应积极，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "通胀",
+        "GDP"
+      ],
+      "publish_time": "2026-02-28T01:27:58+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/73451",
+          "verified": true,
+          "verify_time": "2026-03-02T22:35:22+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/28936",
+          "verified": true,
+          "verify_time": "2026-03-03T02:49:29+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/30113",
+          "verified": true,
+          "verify_time": "2026-03-02T14:37:07+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 61449,
+        "shares": 4319,
+        "saves": 643,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0079",
+      "title": "WTO宣布投资，影响欧美",
+      "summary": "WTO宣布投资，影响欧美。市场分析师认为此举将带来24%的增长潜力。",
+      "content": "据分析师透露，WTO宣布投资，影响欧美，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "央行",
+        "通胀"
+      ],
+      "publish_time": "2026-02-25T03:36:03+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/13865",
+          "verified": true,
+          "verify_time": "2026-03-02T07:23:03+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/98595",
+          "verified": true,
+          "verify_time": "2026-03-02T10:10:07+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 38149,
+        "shares": 1388,
+        "saves": 1911,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0080",
+      "title": "日本通胀率降至27%，为2030年来最低",
+      "summary": "据知情人士透露，日本通胀率降至27%，为2030年来最低，这将显著影响相关行业发展。",
+      "content": "据报道，日本通胀率降至27%，为2030年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "利率",
+        "股市"
+      ],
+      "publish_time": "2026-02-24T09:05:11+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/17785",
+          "verified": true,
+          "verify_time": "2026-03-03T01:12:41+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/13292",
+          "verified": true,
+          "verify_time": "2026-03-02T21:05:22+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/88345",
+          "verified": true,
+          "verify_time": "2026-03-02T14:09:08+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 74844,
+        "shares": 1692,
+        "saves": 1719,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0081",
+      "title": "IMF宣布谈判，影响欧美",
+      "summary": "IMF宣布谈判，影响欧美。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据知情人士透露，IMF宣布谈判，影响欧美，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "股市",
+        "央行"
+      ],
+      "publish_time": "2026-03-02T21:53:31+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/19055",
+          "verified": true,
+          "verify_time": "2026-03-02T20:03:21+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/92930",
+          "verified": true,
+          "verify_time": "2026-03-02T20:18:42+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/91325",
+          "verified": true,
+          "verify_time": "2026-03-03T01:23:49+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 89566,
+        "shares": 4852,
+        "saves": 84,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0082",
+      "title": "德国通胀率降至30%，为2030年来最低",
+      "summary": "据知情人士透露，德国通胀率降至30%，为2030年来最低，这将显著影响相关行业发展。",
+      "content": "最新数据显示，德国通胀率降至30%，为2030年来最低。相关公司股价盘前上涨约8%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "美联储",
+        "股市"
+      ],
+      "publish_time": "2026-02-26T15:28:07+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/10218",
+          "verified": true,
+          "verify_time": "2026-03-02T05:36:00+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/94257",
+          "verified": true,
+          "verify_time": "2026-03-02T11:57:10+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/28541",
+          "verified": true,
+          "verify_time": "2026-03-02T14:53:12+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 22473,
+        "shares": 3558,
+        "saves": 1508,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0083",
+      "title": "德国通胀率降至104%，为2028年来最低",
+      "summary": "最新数据显示，德国通胀率降至104%，为2028年来最低。相关公司股价盘前上涨约7%。",
+      "content": "据官方透露，德国通胀率降至104%，为2028年来最低，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "熊市",
+        "利率"
+      ],
+      "publish_time": "2026-02-27T02:33:38+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/61450",
+          "verified": true,
+          "verify_time": "2026-03-02T20:01:15+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/96636",
+          "verified": true,
+          "verify_time": "2026-03-02T03:35:28+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 26109,
+        "shares": 3043,
+        "saves": 782,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0084",
+      "title": "欧盟Q3 GDP增长129%，超预期",
+      "summary": "欧盟Q3 GDP增长129%，超预期。业内人士预计该趋势将在未来2年内持续。",
+      "content": "欧盟Q3 GDP增长129%，超预期。市场分析师认为此举将带来49%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "央行",
+        "牛市"
+      ],
+      "publish_time": "2026-03-01T11:03:31+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/73783",
+          "verified": true,
+          "verify_time": "2026-03-02T16:10:39+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/66174",
+          "verified": true,
+          "verify_time": "2026-03-02T08:22:50+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/59414",
+          "verified": true,
+          "verify_time": "2026-03-02T23:07:08+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 32842,
+        "shares": 4068,
+        "saves": 1960,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0085",
+      "title": "韩国央行制裁，全球市场反应积极",
+      "summary": "韩国央行制裁，全球市场反应积极。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据官方透露，韩国央行制裁，全球市场反应积极，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "牛市",
+        "股市"
+      ],
+      "publish_time": "2026-02-28T12:40:11+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/46295",
+          "verified": true,
+          "verify_time": "2026-03-02T08:08:33+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/79714",
+          "verified": true,
+          "verify_time": "2026-03-02T07:24:16+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/81710",
+          "verified": true,
+          "verify_time": "2026-03-02T09:47:12+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 44100,
+        "shares": 4674,
+        "saves": 1588,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0086",
+      "title": "欧盟央行合作，亚太市场反应积极",
+      "summary": "最新数据显示，欧盟央行合作，亚太市场反应积极。相关公司股价盘前下跌约5%。",
+      "content": "最新数据显示，欧盟央行合作，亚太市场反应积极。相关公司股价盘前下跌约9%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "通胀",
+        "熊市"
+      ],
+      "publish_time": "2026-02-28T19:28:20+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65240",
+          "verified": true,
+          "verify_time": "2026-03-03T02:08:48+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/66174",
+          "verified": true,
+          "verify_time": "2026-03-02T06:23:11+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 68737,
+        "shares": 2149,
+        "saves": 405,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0087",
+      "title": "美国央行谈判，全球市场反应积极",
+      "summary": "美国央行谈判，全球市场反应积极。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据知情人士透露，美国央行谈判，全球市场反应积极，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "美联储",
+        "股市"
+      ],
+      "publish_time": "2026-02-24T08:09:09+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/41974",
+          "verified": true,
+          "verify_time": "2026-03-02T08:53:17+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/34676",
+          "verified": true,
+          "verify_time": "2026-03-02T17:33:09+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 37048,
+        "shares": 4772,
+        "saves": 1226,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0088",
+      "title": "欧盟通胀率降至33%，为2028年来最低",
+      "summary": "最新数据显示，欧盟通胀率降至33%，为2028年来最低。相关公司股价盘前下跌约8%。",
+      "content": "据报道，欧盟通胀率降至33%，为2028年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "股市",
+        "美联储"
+      ],
+      "publish_time": "2026-02-24T08:36:45+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/35621",
+          "verified": true,
+          "verify_time": "2026-03-02T13:34:35+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/22416",
+          "verified": true,
+          "verify_time": "2026-03-02T18:24:11+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 17961,
+        "shares": 1370,
+        "saves": 1077,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0089",
+      "title": "恒生指数指数突破5点，创100新高",
+      "summary": "据知情人士透露，恒生指数指数突破5点，创100新高，这将显著影响相关行业发展。",
+      "content": "恒生指数指数突破5点，创100新高。市场分析师认为此举将带来13%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "美联储",
+        "熊市"
+      ],
+      "publish_time": "2026-02-28T08:00:48+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/10418",
+          "verified": true,
+          "verify_time": "2026-03-02T15:46:50+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/86283",
+          "verified": true,
+          "verify_time": "2026-03-02T20:32:37+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/50414",
+          "verified": true,
+          "verify_time": "2026-03-03T02:14:15+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 93335,
+        "shares": 1239,
+        "saves": 577,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0090",
+      "title": "恒生指数指数突破100点，创1000新高",
+      "summary": "据报道，恒生指数指数突破100点，创1000新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "恒生指数指数突破100点，创1000新高。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "熊市",
+        "美联储"
+      ],
+      "publish_time": "2026-03-02T19:50:02+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67451",
+          "verified": true,
+          "verify_time": "2026-03-03T02:36:37+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/62520",
+          "verified": true,
+          "verify_time": "2026-03-02T13:02:38+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 34082,
+        "shares": 1614,
+        "saves": 260,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0091",
+      "title": "G20宣布制裁，影响新兴市场",
+      "summary": "据报道，G20宣布制裁，影响新兴市场。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，G20宣布制裁，影响新兴市场，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "通胀",
+        "GDP",
+        "牛市"
+      ],
+      "publish_time": "2026-03-01T15:19:07+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/64944",
+          "verified": true,
+          "verify_time": "2026-03-02T19:54:45+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83549",
+          "verified": true,
+          "verify_time": "2026-03-02T19:45:29+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/73475",
+          "verified": true,
+          "verify_time": "2026-03-02T18:07:27+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 22466,
+        "shares": 1178,
+        "saves": 1483,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0092",
+      "title": "纳斯达克指数突破1点，创100新高",
+      "summary": "最新数据显示，纳斯达克指数突破1点，创100新高。相关公司股价盘前下跌约10%。",
+      "content": "纳斯达克指数突破1点，创100新高。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "央行",
+        "股市",
+        "牛市"
+      ],
+      "publish_time": "2026-03-02T04:22:03+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/21904",
+          "verified": true,
+          "verify_time": "2026-03-02T06:13:02+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/13345",
+          "verified": true,
+          "verify_time": "2026-03-02T08:51:45+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 92846,
+        "shares": 4472,
+        "saves": 1605,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0093",
+      "title": "欧盟央行制裁，新兴市场市场反应积极",
+      "summary": "最新数据显示，欧盟央行制裁，新兴市场市场反应积极。相关公司股价盘前下跌约5%。",
+      "content": "最新数据显示，欧盟央行制裁，新兴市场市场反应积极。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "熊市",
+        "通胀",
+        "央行"
+      ],
+      "publish_time": "2026-03-03T02:38:11+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/56775",
+          "verified": true,
+          "verify_time": "2026-03-02T18:18:07+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/50008",
+          "verified": true,
+          "verify_time": "2026-03-02T19:00:29+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/48898",
+          "verified": true,
+          "verify_time": "2026-03-02T14:29:06+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 57903,
+        "shares": 178,
+        "saves": 336,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0094",
+      "title": "世界银行宣布合作，影响欧美",
+      "summary": "据报道，世界银行宣布合作，影响欧美。这一进展标志着行业进入新的发展阶段。",
+      "content": "世界银行宣布合作，影响欧美。市场分析师认为此举将带来17%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "美联储",
+        "通胀",
+        "GDP"
+      ],
+      "publish_time": "2026-03-02T20:08:30+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/64719",
+          "verified": true,
+          "verify_time": "2026-03-02T14:20:55+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55177",
+          "verified": true,
+          "verify_time": "2026-03-02T05:52:03+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 75804,
+        "shares": 1676,
+        "saves": 981,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0095",
+      "title": "日本通胀率降至54%，为2028年来最低",
+      "summary": "日本通胀率降至54%，为2028年来最低。业内人士预计该趋势将在未来3年内持续。",
+      "content": "日本通胀率降至54%，为2028年来最低。市场分析师认为此举将带来15%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "美联储",
+        "央行"
+      ],
+      "publish_time": "2026-02-26T17:00:07+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/18103",
+          "verified": true,
+          "verify_time": "2026-03-02T12:04:19+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/45736",
+          "verified": true,
+          "verify_time": "2026-03-02T17:59:52+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/35510",
+          "verified": true,
+          "verify_time": "2026-03-02T13:28:26+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 41462,
+        "shares": 1834,
+        "saves": 1574,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0096",
+      "title": "韩国Q4 GDP增长86%，超预期",
+      "summary": "据官方透露，韩国Q4 GDP增长86%，超预期，这将显著影响相关行业发展。",
+      "content": "韩国Q4 GDP增长86%，超预期。市场分析师认为此举将带来39%的增长潜力。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "GDP",
+        "股市",
+        "利率"
+      ],
+      "publish_time": "2026-03-02T10:20:12+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/80560",
+          "verified": true,
+          "verify_time": "2026-03-02T19:24:14+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/80328",
+          "verified": true,
+          "verify_time": "2026-03-02T22:19:49+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 6624,
+        "shares": 1512,
+        "saves": 1473,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0097",
+      "title": "德国通胀率降至109%，为2028年来最低",
+      "summary": "最新数据显示，德国通胀率降至109%，为2028年来最低。相关公司股价盘前下跌约10%。",
+      "content": "据报道，德国通胀率降至109%，为2028年来最低。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "利率",
+        "牛市",
+        "通胀"
+      ],
+      "publish_time": "2026-02-27T14:54:03+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/56691",
+          "verified": true,
+          "verify_time": "2026-03-02T13:31:48+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/47479",
+          "verified": true,
+          "verify_time": "2026-03-02T16:54:07+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/11206",
+          "verified": true,
+          "verify_time": "2026-03-02T15:51:12+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 81804,
+        "shares": 1660,
+        "saves": 196,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0098",
+      "title": "IMF宣布合作，影响欧美",
+      "summary": "IMF宣布合作，影响欧美。业内人士预计该趋势将在未来2年内持续。",
+      "content": "IMF宣布合作，影响欧美。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "通胀",
+        "GDP"
+      ],
+      "publish_time": "2026-03-01T04:31:02+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/68349",
+          "verified": true,
+          "verify_time": "2026-03-02T05:04:27+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/66072",
+          "verified": true,
+          "verify_time": "2026-03-02T05:42:26+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/16521",
+          "verified": true,
+          "verify_time": "2026-03-02T18:48:41+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 84953,
+        "shares": 4520,
+        "saves": 1695,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0099",
+      "title": "德国央行加征关税，新兴市场市场反应积极",
+      "summary": "德国央行加征关税，新兴市场市场反应积极。业内人士预计该趋势将在未来2年内持续。",
+      "content": "最新数据显示，德国央行加征关税，新兴市场市场反应积极。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "牛市",
+        "美联储",
+        "熊市"
+      ],
+      "publish_time": "2026-02-26T11:20:15+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/42363",
+          "verified": true,
+          "verify_time": "2026-03-02T17:50:25+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/88270",
+          "verified": true,
+          "verify_time": "2026-03-02T17:55:38+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 21212,
+        "shares": 3796,
+        "saves": 569,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "market-0100",
+      "title": "中国Q4 GDP增长157%，超预期",
+      "summary": "中国Q4 GDP增长157%，超预期。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据报道，中国Q4 GDP增长157%，超预期。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "market",
+      "tags": [
+        "股市",
+        "利率",
+        "牛市"
+      ],
+      "publish_time": "2026-02-25T23:30:26+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/72892",
+          "verified": true,
+          "verify_time": "2026-03-02T16:26:02+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/47208",
+          "verified": true,
+          "verify_time": "2026-03-02T17:48:11+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/73491",
+          "verified": true,
+          "verify_time": "2026-03-02T06:07:57+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 45760,
+        "shares": 3637,
+        "saves": 1296,
+        "credibility_score": 92
+      },
+      "status": "published"
+    }
+  ]
+}

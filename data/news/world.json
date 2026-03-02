@@ -1,0 +1,5775 @@
+{
+  "version": "2.0",
+  "category": "world",
+  "name": "国际局势",
+  "total": 100,
+  "updated": "2026-03-03T03:28:38.777736",
+  "news": [
+    {
+      "id": "world-0001",
+      "title": "IMF就外交发布最新声明",
+      "summary": "最新数据显示，IMF就外交发布最新声明。相关公司股价盘前上涨约9%。",
+      "content": "最新数据显示，IMF就外交发布最新声明。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中东",
+        "欧盟",
+        "俄罗斯"
+      ],
+      "publish_time": "2026-03-02T10:53:39+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/18480",
+          "verified": true,
+          "verify_time": "2026-03-03T00:35:59+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/10790",
+          "verified": true,
+          "verify_time": "2026-03-02T07:09:25+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38002",
+          "verified": true,
+          "verify_time": "2026-03-03T00:04:42+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 37829,
+        "shares": 4462,
+        "saves": 159,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0002",
+      "title": "中国与印度就中东达成共识",
+      "summary": "中国与印度就中东达成共识。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，中国与印度就中东达成共识。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "外交",
+        "制裁"
+      ],
+      "publish_time": "2026-03-01T15:43:43+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/73401",
+          "verified": true,
+          "verify_time": "2026-03-02T20:49:05+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/51749",
+          "verified": true,
+          "verify_time": "2026-03-02T17:38:02+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 89933,
+        "shares": 4897,
+        "saves": 166,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0003",
+      "title": "中国总统访问韩国，签署欧盟协议",
+      "summary": "最新数据显示，中国总统访问韩国，签署欧盟协议。相关公司股价盘前下跌约2%。",
+      "content": "据分析师透露，中国总统访问韩国，签署欧盟协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "制裁",
+        "日本"
+      ],
+      "publish_time": "2026-02-27T07:34:24+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/47104",
+          "verified": true,
+          "verify_time": "2026-03-02T10:46:33+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/63058",
+          "verified": true,
+          "verify_time": "2026-03-02T20:08:14+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 48340,
+        "shares": 377,
+        "saves": 392,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0004",
+      "title": "欧盟总统访问法国，签署美国协议",
+      "summary": "据报道，欧盟总统访问法国，签署美国协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，欧盟总统访问法国，签署美国协议。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "日本",
+        "美国"
+      ],
+      "publish_time": "2026-02-27T00:04:54+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/83443",
+          "verified": true,
+          "verify_time": "2026-03-02T18:45:21+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/54087",
+          "verified": true,
+          "verify_time": "2026-03-02T11:53:20+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/28561",
+          "verified": true,
+          "verify_time": "2026-03-03T00:26:07+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 14618,
+        "shares": 3546,
+        "saves": 905,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0005",
+      "title": "美国与印度就关税达成共识",
+      "summary": "据知情人士透露，美国与印度就关税达成共识，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，美国与印度就关税达成共识，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "日本",
+        "美国"
+      ],
+      "publish_time": "2026-02-25T10:34:22+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/33548",
+          "verified": true,
+          "verify_time": "2026-03-02T09:31:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/26546",
+          "verified": true,
+          "verify_time": "2026-03-02T04:36:06+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 57848,
+        "shares": 2115,
+        "saves": 1167,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0006",
+      "title": "中国与英国关税谈判取得进展",
+      "summary": "据报道，中国与英国关税谈判取得进展。这一进展标志着行业进入新的发展阶段。",
+      "content": "中国与英国关税谈判取得进展。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "制裁",
+        "外交"
+      ],
+      "publish_time": "2026-03-01T16:58:00+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/12041",
+          "verified": true,
+          "verify_time": "2026-03-03T01:30:18+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/69820",
+          "verified": true,
+          "verify_time": "2026-03-02T21:51:35+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 75009,
+        "shares": 4569,
+        "saves": 1907,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0007",
+      "title": "IMF就俄罗斯发布最新声明",
+      "summary": "据报道，IMF就俄罗斯发布最新声明。这一进展标志着行业进入新的发展阶段。",
+      "content": "IMF就俄罗斯发布最新声明。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "外交",
+        "贸易"
+      ],
+      "publish_time": "2026-03-02T04:56:45+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/52769",
+          "verified": true,
+          "verify_time": "2026-03-02T14:27:20+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/38152",
+          "verified": true,
+          "verify_time": "2026-03-02T18:09:43+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 83536,
+        "shares": 1569,
+        "saves": 1225,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0008",
+      "title": "中国宣布对日本实施投资",
+      "summary": "据报道，中国宣布对日本实施投资。这一进展标志着行业进入新的发展阶段。",
+      "content": "中国宣布对日本实施投资。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "制裁",
+        "美国"
+      ],
+      "publish_time": "2026-02-25T05:25:50+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/89146",
+          "verified": true,
+          "verify_time": "2026-03-03T01:10:20+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/16276",
+          "verified": true,
+          "verify_time": "2026-03-02T14:39:49+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/49489",
+          "verified": true,
+          "verify_time": "2026-03-02T11:24:33+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 85053,
+        "shares": 145,
+        "saves": 990,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0009",
+      "title": "欧盟宣布对英国实施合作",
+      "summary": "欧盟宣布对英国实施合作。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，欧盟宣布对英国实施合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "贸易",
+        "日本"
+      ],
+      "publish_time": "2026-02-27T17:07:13+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/81024",
+          "verified": true,
+          "verify_time": "2026-03-02T12:14:15+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/76620",
+          "verified": true,
+          "verify_time": "2026-03-03T00:28:28+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/12783",
+          "verified": true,
+          "verify_time": "2026-03-02T23:19:10+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "neutral",
+          "reason": "新闻提及IonQ"
+        }
+      ],
+      "metrics": {
+        "views": 31674,
+        "shares": 4547,
+        "saves": 1628,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0010",
+      "title": "中国总统访问韩国，签署关税协议",
+      "summary": "据官方透露，中国总统访问韩国，签署关税协议，这将显著影响相关行业发展。",
+      "content": "中国总统访问韩国，签署关税协议。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "俄罗斯",
+        "制裁"
+      ],
+      "publish_time": "2026-02-26T19:38:21+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/64411",
+          "verified": true,
+          "verify_time": "2026-03-02T09:49:10+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/85262",
+          "verified": true,
+          "verify_time": "2026-03-02T20:42:34+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 70681,
+        "shares": 1417,
+        "saves": 1855,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0011",
+      "title": "中国与法国就贸易达成共识",
+      "summary": "最新数据显示，中国与法国就贸易达成共识。相关公司股价盘前下跌约10%。",
+      "content": "中国与法国就贸易达成共识。市场分析师认为此举将带来43%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中东",
+        "关税",
+        "欧盟"
+      ],
+      "publish_time": "2026-02-26T03:44:47+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/21451",
+          "verified": true,
+          "verify_time": "2026-03-02T20:34:19+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/71552",
+          "verified": true,
+          "verify_time": "2026-03-02T06:19:22+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 19466,
+        "shares": 2249,
+        "saves": 1143,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0012",
+      "title": "美国总统访问法国，签署中东协议",
+      "summary": "美国总统访问法国，签署中东协议。市场分析师认为此举将带来19%的增长潜力。",
+      "content": "据报道，美国总统访问法国，签署中东协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "外交",
+        "制裁"
+      ],
+      "publish_time": "2026-02-28T22:07:22+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/98795",
+          "verified": true,
+          "verify_time": "2026-03-02T14:38:09+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/15900",
+          "verified": true,
+          "verify_time": "2026-03-02T06:12:20+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/56288",
+          "verified": true,
+          "verify_time": "2026-03-02T13:29:56+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 36101,
+        "shares": 3797,
+        "saves": 1611,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0013",
+      "title": "G20就关税发布最新声明",
+      "summary": "据官方透露，G20就关税发布最新声明，这将显著影响相关行业发展。",
+      "content": "G20就关税发布最新声明。市场分析师认为此举将带来11%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "贸易",
+        "制裁"
+      ],
+      "publish_time": "2026-02-26T13:29:43+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/77780",
+          "verified": true,
+          "verify_time": "2026-03-02T15:02:25+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/24143",
+          "verified": true,
+          "verify_time": "2026-03-02T18:22:27+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 91795,
+        "shares": 3545,
+        "saves": 1074,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0014",
+      "title": "欧盟宣布对法国实施谈判",
+      "summary": "最新数据显示，欧盟宣布对法国实施谈判。相关公司股价盘前上涨约9%。",
+      "content": "据分析师透露，欧盟宣布对法国实施谈判，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "中东",
+        "日本"
+      ],
+      "publish_time": "2026-03-01T23:03:01+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/22722",
+          "verified": true,
+          "verify_time": "2026-03-03T00:42:59+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/55583",
+          "verified": true,
+          "verify_time": "2026-03-02T14:06:01+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/68972",
+          "verified": true,
+          "verify_time": "2026-03-02T15:46:41+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 92961,
+        "shares": 2030,
+        "saves": 978,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0015",
+      "title": "中国与日本就中国达成共识",
+      "summary": "最新数据显示，中国与日本就中国达成共识。相关公司股价盘前下跌约8%。",
+      "content": "最新数据显示，中国与日本就中国达成共识。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "中国",
+        "外交"
+      ],
+      "publish_time": "2026-03-02T21:09:38+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/29783",
+          "verified": true,
+          "verify_time": "2026-03-02T20:11:20+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/91494",
+          "verified": true,
+          "verify_time": "2026-03-02T03:37:25+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/16785",
+          "verified": true,
+          "verify_time": "2026-03-02T17:40:24+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 6803,
+        "shares": 3046,
+        "saves": 1158,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0016",
+      "title": "美国宣布对法国实施谈判",
+      "summary": "最新数据显示，美国宣布对法国实施谈判。相关公司股价盘前上涨约10%。",
+      "content": "最新数据显示，美国宣布对法国实施谈判。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "美国",
+        "中国"
+      ],
+      "publish_time": "2026-03-01T19:45:10+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/24828",
+          "verified": true,
+          "verify_time": "2026-03-02T08:18:55+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/27595",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:03+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/43123",
+          "verified": true,
+          "verify_time": "2026-03-03T00:05:12+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 88605,
+        "shares": 3147,
+        "saves": 1283,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0017",
+      "title": "欧盟宣布对日本实施加征关税",
+      "summary": "欧盟宣布对日本实施加征关税。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "最新数据显示，欧盟宣布对日本实施加征关税。相关公司股价盘前下跌约3%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "贸易",
+        "美国"
+      ],
+      "publish_time": "2026-02-25T17:17:22+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/17293",
+          "verified": true,
+          "verify_time": "2026-03-02T15:51:31+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/39435",
+          "verified": true,
+          "verify_time": "2026-03-02T06:51:24+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 17520,
+        "shares": 4122,
+        "saves": 366,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0018",
+      "title": "中国宣布对英国实施加征关税",
+      "summary": "最新数据显示，中国宣布对英国实施加征关税。相关公司股价盘前下跌约4%。",
+      "content": "据知情人士透露，中国宣布对英国实施加征关税，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中东",
+        "关税",
+        "外交"
+      ],
+      "publish_time": "2026-02-28T22:11:59+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/50625",
+          "verified": true,
+          "verify_time": "2026-03-02T14:40:13+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/21733",
+          "verified": true,
+          "verify_time": "2026-03-02T08:51:38+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/72173",
+          "verified": true,
+          "verify_time": "2026-03-02T16:33:20+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 89678,
+        "shares": 4663,
+        "saves": 864,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0019",
+      "title": "欧盟与日本贸易谈判取得进展",
+      "summary": "最新数据显示，欧盟与日本贸易谈判取得进展。相关公司股价盘前下跌约8%。",
+      "content": "最新数据显示，欧盟与日本贸易谈判取得进展。相关公司股价盘前下跌约8%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中国",
+        "美国",
+        "制裁"
+      ],
+      "publish_time": "2026-03-01T16:11:37+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/28025",
+          "verified": true,
+          "verify_time": "2026-03-02T03:53:41+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/20515",
+          "verified": true,
+          "verify_time": "2026-03-03T00:26:13+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 50698,
+        "shares": 2904,
+        "saves": 1922,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0020",
+      "title": "欧盟总统访问韩国，签署美国协议",
+      "summary": "最新数据显示，欧盟总统访问韩国，签署美国协议。相关公司股价盘前下跌约2%。",
+      "content": "欧盟总统访问韩国，签署美国协议。市场分析师认为此举将带来13%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "美国",
+        "日本"
+      ],
+      "publish_time": "2026-02-26T08:16:23+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/27159",
+          "verified": true,
+          "verify_time": "2026-03-02T19:41:34+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/91817",
+          "verified": true,
+          "verify_time": "2026-03-02T17:20:38+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/52729",
+          "verified": true,
+          "verify_time": "2026-03-02T05:36:32+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 44481,
+        "shares": 683,
+        "saves": 795,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0021",
+      "title": "中国宣布对日本实施合作",
+      "summary": "中国宣布对日本实施合作。业内人士预计该趋势将在未来2年内持续。",
+      "content": "中国宣布对日本实施合作。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "俄罗斯",
+        "制裁"
+      ],
+      "publish_time": "2026-02-27T07:05:38+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/72155",
+          "verified": true,
+          "verify_time": "2026-03-02T16:23:47+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/45356",
+          "verified": true,
+          "verify_time": "2026-03-02T21:16:14+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "neutral",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 48731,
+        "shares": 993,
+        "saves": 1947,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0022",
+      "title": "美国总统访问韩国，签署美国协议",
+      "summary": "据知情人士透露，美国总统访问韩国，签署美国协议，这将显著影响相关行业发展。",
+      "content": "美国总统访问韩国，签署美国协议。市场分析师认为此举将带来35%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "中东",
+        "中国"
+      ],
+      "publish_time": "2026-03-02T16:31:33+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38649",
+          "verified": true,
+          "verify_time": "2026-03-02T08:16:03+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63409",
+          "verified": true,
+          "verify_time": "2026-03-02T07:09:48+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 78164,
+        "shares": 4751,
+        "saves": 1506,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0023",
+      "title": "欧盟与韩国就外交达成共识",
+      "summary": "据官方透露，欧盟与韩国就外交达成共识，这将显著影响相关行业发展。",
+      "content": "最新数据显示，欧盟与韩国就外交达成共识。相关公司股价盘前下跌约10%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "日本",
+        "制裁"
+      ],
+      "publish_time": "2026-02-24T15:00:08+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/21341",
+          "verified": true,
+          "verify_time": "2026-03-02T12:12:32+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/72221",
+          "verified": true,
+          "verify_time": "2026-03-02T07:41:01+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/38575",
+          "verified": true,
+          "verify_time": "2026-03-02T22:37:41+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 85600,
+        "shares": 4733,
+        "saves": 560,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0024",
+      "title": "美国宣布对印度实施制裁",
+      "summary": "据分析师透露，美国宣布对印度实施制裁，这将显著影响相关行业发展。",
+      "content": "美国宣布对印度实施制裁。市场分析师认为此举将带来11%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "关税",
+        "贸易"
+      ],
+      "publish_time": "2026-02-24T12:09:34+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/17674",
+          "verified": true,
+          "verify_time": "2026-03-02T21:15:12+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/99521",
+          "verified": true,
+          "verify_time": "2026-03-02T05:53:07+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 73669,
+        "shares": 231,
+        "saves": 737,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0025",
+      "title": "美国与韩国欧盟谈判取得进展",
+      "summary": "最新数据显示，美国与韩国欧盟谈判取得进展。相关公司股价盘前下跌约6%。",
+      "content": "美国与韩国欧盟谈判取得进展。市场分析师认为此举将带来49%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "外交",
+        "日本"
+      ],
+      "publish_time": "2026-03-01T18:46:04+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/45329",
+          "verified": true,
+          "verify_time": "2026-03-03T01:01:44+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/19716",
+          "verified": true,
+          "verify_time": "2026-03-02T17:09:42+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 88915,
+        "shares": 3425,
+        "saves": 1418,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0026",
+      "title": "G20就俄罗斯发布最新声明",
+      "summary": "最新数据显示，G20就俄罗斯发布最新声明。相关公司股价盘前下跌约8%。",
+      "content": "G20就俄罗斯发布最新声明。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "中东",
+        "关税"
+      ],
+      "publish_time": "2026-02-24T05:50:38+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/57660",
+          "verified": true,
+          "verify_time": "2026-03-02T15:16:02+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/92598",
+          "verified": true,
+          "verify_time": "2026-03-02T06:10:57+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/17502",
+          "verified": true,
+          "verify_time": "2026-03-02T19:47:23+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 13095,
+        "shares": 1027,
+        "saves": 1994,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0027",
+      "title": "美国与印度中国谈判取得进展",
+      "summary": "据报道，美国与印度中国谈判取得进展。这一进展标志着行业进入新的发展阶段。",
+      "content": "美国与印度中国谈判取得进展。市场分析师认为此举将带来48%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "制裁",
+        "中东"
+      ],
+      "publish_time": "2026-02-28T07:53:13+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/63665",
+          "verified": true,
+          "verify_time": "2026-03-02T15:58:35+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/77301",
+          "verified": true,
+          "verify_time": "2026-03-02T06:57:10+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/14639",
+          "verified": true,
+          "verify_time": "2026-03-02T21:51:51+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 95711,
+        "shares": 3445,
+        "saves": 223,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0028",
+      "title": "G20就欧盟发布最新声明",
+      "summary": "据报道，G20就欧盟发布最新声明。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，G20就欧盟发布最新声明，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "俄罗斯",
+        "欧盟"
+      ],
+      "publish_time": "2026-03-02T21:43:55+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/58009",
+          "verified": true,
+          "verify_time": "2026-03-02T22:25:32+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/78941",
+          "verified": true,
+          "verify_time": "2026-03-02T12:46:46+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 17117,
+        "shares": 4177,
+        "saves": 1055,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0029",
+      "title": "欧盟与法国外交谈判取得进展",
+      "summary": "据报道，欧盟与法国外交谈判取得进展。这一进展标志着行业进入新的发展阶段。",
+      "content": "欧盟与法国外交谈判取得进展。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "日本",
+        "欧盟"
+      ],
+      "publish_time": "2026-03-02T18:31:46+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/64252",
+          "verified": true,
+          "verify_time": "2026-03-02T06:43:13+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/80910",
+          "verified": true,
+          "verify_time": "2026-03-02T20:00:04+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/45609",
+          "verified": true,
+          "verify_time": "2026-03-02T15:37:26+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 31527,
+        "shares": 4244,
+        "saves": 1236,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0030",
+      "title": "欧盟与法国就美国达成共识",
+      "summary": "最新数据显示，欧盟与法国就美国达成共识。相关公司股价盘前上涨约4%。",
+      "content": "欧盟与法国就美国达成共识。市场分析师认为此举将带来33%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "外交",
+        "日本"
+      ],
+      "publish_time": "2026-03-01T09:35:09+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/92770",
+          "verified": true,
+          "verify_time": "2026-03-02T05:49:23+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/30257",
+          "verified": true,
+          "verify_time": "2026-03-02T19:10:09+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 19851,
+        "shares": 4318,
+        "saves": 1627,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0031",
+      "title": "中国与英国就中东达成共识",
+      "summary": "中国与英国就中东达成共识。市场分析师认为此举将带来12%的增长潜力。",
+      "content": "据分析师透露，中国与英国就中东达成共识，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "中国",
+        "中东"
+      ],
+      "publish_time": "2026-02-26T01:55:18+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/17471",
+          "verified": true,
+          "verify_time": "2026-03-03T00:25:13+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/89635",
+          "verified": true,
+          "verify_time": "2026-03-03T01:16:33+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/63663",
+          "verified": true,
+          "verify_time": "2026-03-02T03:50:48+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 94235,
+        "shares": 3729,
+        "saves": 765,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0032",
+      "title": "欧盟与法国中国谈判取得进展",
+      "summary": "据报道，欧盟与法国中国谈判取得进展。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，欧盟与法国中国谈判取得进展。相关公司股价盘前下跌约10%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "中东",
+        "关税"
+      ],
+      "publish_time": "2026-02-28T07:21:00+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/32617",
+          "verified": true,
+          "verify_time": "2026-03-03T01:58:35+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/55109",
+          "verified": true,
+          "verify_time": "2026-03-02T13:53:37+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/96055",
+          "verified": true,
+          "verify_time": "2026-03-02T23:49:44+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "neutral",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 32339,
+        "shares": 4437,
+        "saves": 1515,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0033",
+      "title": "欧盟宣布对日本实施制裁",
+      "summary": "据报道，欧盟宣布对日本实施制裁。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，欧盟宣布对日本实施制裁。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中东",
+        "中国",
+        "外交"
+      ],
+      "publish_time": "2026-02-26T22:34:31+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55937",
+          "verified": true,
+          "verify_time": "2026-03-02T14:03:59+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/43223",
+          "verified": true,
+          "verify_time": "2026-03-02T15:36:03+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 88429,
+        "shares": 943,
+        "saves": 1903,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0034",
+      "title": "IMF就美国发布最新声明",
+      "summary": "据报道，IMF就美国发布最新声明。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，IMF就美国发布最新声明。相关公司股价盘前下跌约8%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "制裁",
+        "贸易"
+      ],
+      "publish_time": "2026-02-27T07:29:47+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/39311",
+          "verified": true,
+          "verify_time": "2026-03-03T02:59:48+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/92882",
+          "verified": true,
+          "verify_time": "2026-03-02T12:56:40+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14171",
+          "verified": true,
+          "verify_time": "2026-03-02T17:16:41+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 12490,
+        "shares": 4287,
+        "saves": 516,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0035",
+      "title": "欧盟与英国中东谈判取得进展",
+      "summary": "欧盟与英国中东谈判取得进展。市场分析师认为此举将带来44%的增长潜力。",
+      "content": "最新数据显示，欧盟与英国中东谈判取得进展。相关公司股价盘前下跌约4%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中国",
+        "制裁",
+        "关税"
+      ],
+      "publish_time": "2026-02-26T05:49:18+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/92134",
+          "verified": true,
+          "verify_time": "2026-03-02T20:11:05+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/95657",
+          "verified": true,
+          "verify_time": "2026-03-03T02:39:28+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/15496",
+          "verified": true,
+          "verify_time": "2026-03-02T13:36:54+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 8207,
+        "shares": 371,
+        "saves": 1035,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0036",
+      "title": "联合国就美国发布最新声明",
+      "summary": "据报道，联合国就美国发布最新声明。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，联合国就美国发布最新声明。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "贸易",
+        "制裁"
+      ],
+      "publish_time": "2026-02-26T18:35:06+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/48845",
+          "verified": true,
+          "verify_time": "2026-03-02T21:26:46+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/96854",
+          "verified": true,
+          "verify_time": "2026-03-03T00:10:02+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67590",
+          "verified": true,
+          "verify_time": "2026-03-03T03:23:46+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 14799,
+        "shares": 1138,
+        "saves": 639,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0037",
+      "title": "中国与英国美国谈判取得进展",
+      "summary": "最新数据显示，中国与英国美国谈判取得进展。相关公司股价盘前下跌约8%。",
+      "content": "最新数据显示，中国与英国美国谈判取得进展。相关公司股价盘前上涨约1%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "贸易",
+        "美国"
+      ],
+      "publish_time": "2026-03-02T08:21:23+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/43128",
+          "verified": true,
+          "verify_time": "2026-03-02T08:34:57+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/46330",
+          "verified": true,
+          "verify_time": "2026-03-02T16:37:04+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 41775,
+        "shares": 2475,
+        "saves": 1507,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0038",
+      "title": "美国宣布对韩国实施加征关税",
+      "summary": "据官方透露，美国宣布对韩国实施加征关税，这将显著影响相关行业发展。",
+      "content": "据分析师透露，美国宣布对韩国实施加征关税，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "贸易",
+        "日本"
+      ],
+      "publish_time": "2026-03-01T02:59:26+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/22859",
+          "verified": true,
+          "verify_time": "2026-03-03T00:40:42+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/54636",
+          "verified": true,
+          "verify_time": "2026-03-03T01:41:09+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 66903,
+        "shares": 185,
+        "saves": 1154,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0039",
+      "title": "美国与韩国就制裁达成共识",
+      "summary": "据报道，美国与韩国就制裁达成共识。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，美国与韩国就制裁达成共识。相关公司股价盘前下跌约5%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "美国",
+        "制裁"
+      ],
+      "publish_time": "2026-02-27T20:39:40+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/62421",
+          "verified": true,
+          "verify_time": "2026-03-02T11:52:01+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/10420",
+          "verified": true,
+          "verify_time": "2026-03-02T09:16:32+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/84203",
+          "verified": true,
+          "verify_time": "2026-03-02T11:02:22+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 11555,
+        "shares": 1426,
+        "saves": 677,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0040",
+      "title": "中国与日本美国谈判取得进展",
+      "summary": "最新数据显示，中国与日本美国谈判取得进展。相关公司股价盘前上涨约6%。",
+      "content": "据报道，中国与日本美国谈判取得进展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "中东",
+        "日本"
+      ],
+      "publish_time": "2026-02-25T07:52:32+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/24062",
+          "verified": true,
+          "verify_time": "2026-03-02T03:49:06+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/56019",
+          "verified": true,
+          "verify_time": "2026-03-02T16:48:47+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/92932",
+          "verified": true,
+          "verify_time": "2026-03-02T19:43:14+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 95673,
+        "shares": 4205,
+        "saves": 383,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0041",
+      "title": "中国宣布对韩国实施谈判",
+      "summary": "最新数据显示，中国宣布对韩国实施谈判。相关公司股价盘前下跌约10%。",
+      "content": "据报道，中国宣布对韩国实施谈判。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "贸易",
+        "制裁"
+      ],
+      "publish_time": "2026-02-28T12:00:42+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/50566",
+          "verified": true,
+          "verify_time": "2026-03-03T01:10:13+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/32168",
+          "verified": true,
+          "verify_time": "2026-03-03T01:03:07+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 27690,
+        "shares": 4426,
+        "saves": 1558,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0042",
+      "title": "欧盟总统访问法国，签署欧盟协议",
+      "summary": "据报道，欧盟总统访问法国，签署欧盟协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "欧盟总统访问法国，签署欧盟协议。市场分析师认为此举将带来37%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中国",
+        "关税",
+        "美国"
+      ],
+      "publish_time": "2026-02-25T00:46:15+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/49580",
+          "verified": true,
+          "verify_time": "2026-03-03T03:18:02+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/87151",
+          "verified": true,
+          "verify_time": "2026-03-02T04:08:03+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/59504",
+          "verified": true,
+          "verify_time": "2026-03-02T05:23:11+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 40124,
+        "shares": 3075,
+        "saves": 666,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0043",
+      "title": "美国宣布对印度实施谈判",
+      "summary": "最新数据显示，美国宣布对印度实施谈判。相关公司股价盘前下跌约9%。",
+      "content": "美国宣布对印度实施谈判。市场分析师认为此举将带来36%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "贸易",
+        "欧盟"
+      ],
+      "publish_time": "2026-02-28T10:24:12+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/75094",
+          "verified": true,
+          "verify_time": "2026-03-02T13:48:32+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/79762",
+          "verified": true,
+          "verify_time": "2026-03-03T01:15:11+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/84731",
+          "verified": true,
+          "verify_time": "2026-03-02T03:39:11+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 41829,
+        "shares": 706,
+        "saves": 1130,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0044",
+      "title": "中国总统访问印度，签署制裁协议",
+      "summary": "最新数据显示，中国总统访问印度，签署制裁协议。相关公司股价盘前上涨约8%。",
+      "content": "据报道，中国总统访问印度，签署制裁协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "外交",
+        "美国"
+      ],
+      "publish_time": "2026-02-24T15:45:49+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/76214",
+          "verified": true,
+          "verify_time": "2026-03-02T06:05:11+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/55391",
+          "verified": true,
+          "verify_time": "2026-03-03T00:26:24+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/35710",
+          "verified": true,
+          "verify_time": "2026-03-02T11:30:06+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 29974,
+        "shares": 768,
+        "saves": 596,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0045",
+      "title": "美国总统访问日本，签署欧盟协议",
+      "summary": "据分析师透露，美国总统访问日本，签署欧盟协议，这将显著影响相关行业发展。",
+      "content": "据官方透露，美国总统访问日本，签署欧盟协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "中国",
+        "日本"
+      ],
+      "publish_time": "2026-02-28T14:49:13+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/34427",
+          "verified": true,
+          "verify_time": "2026-03-03T00:46:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/73070",
+          "verified": true,
+          "verify_time": "2026-03-02T05:34:53+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        }
+      ],
+      "metrics": {
+        "views": 14928,
+        "shares": 4120,
+        "saves": 1311,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0046",
+      "title": "中国宣布对英国实施谈判",
+      "summary": "中国宣布对英国实施谈判。市场分析师认为此举将带来35%的增长潜力。",
+      "content": "据分析师透露，中国宣布对英国实施谈判，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "外交",
+        "中东"
+      ],
+      "publish_time": "2026-03-02T21:49:11+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/66542",
+          "verified": true,
+          "verify_time": "2026-03-03T00:20:51+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/27350",
+          "verified": true,
+          "verify_time": "2026-03-02T03:30:08+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "positive",
+          "reason": "新闻提及IonQ"
+        }
+      ],
+      "metrics": {
+        "views": 95441,
+        "shares": 1524,
+        "saves": 778,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0047",
+      "title": "欧盟宣布对法国实施谈判",
+      "summary": "据报道，欧盟宣布对法国实施谈判。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，欧盟宣布对法国实施谈判。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "欧盟",
+        "贸易"
+      ],
+      "publish_time": "2026-02-26T09:32:53+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/13537",
+          "verified": true,
+          "verify_time": "2026-03-02T16:55:34+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/28319",
+          "verified": true,
+          "verify_time": "2026-03-02T04:01:39+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 6141,
+        "shares": 3602,
+        "saves": 109,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0048",
+      "title": "欧盟与英国就美国达成共识",
+      "summary": "最新数据显示，欧盟与英国就美国达成共识。相关公司股价盘前下跌约5%。",
+      "content": "欧盟与英国就美国达成共识。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "俄罗斯",
+        "中东"
+      ],
+      "publish_time": "2026-03-02T02:52:37+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/10541",
+          "verified": true,
+          "verify_time": "2026-03-02T18:55:16+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/23643",
+          "verified": true,
+          "verify_time": "2026-03-02T23:12:18+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/40508",
+          "verified": true,
+          "verify_time": "2026-03-02T06:30:15+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 62548,
+        "shares": 394,
+        "saves": 1883,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0049",
+      "title": "美国与英国就中国达成共识",
+      "summary": "美国与英国就中国达成共识。业内人士预计该趋势将在未来2年内持续。",
+      "content": "美国与英国就中国达成共识。市场分析师认为此举将带来28%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "欧盟",
+        "中国"
+      ],
+      "publish_time": "2026-03-02T21:10:39+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/44389",
+          "verified": true,
+          "verify_time": "2026-03-02T10:32:28+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/15935",
+          "verified": true,
+          "verify_time": "2026-03-02T20:11:45+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/18363",
+          "verified": true,
+          "verify_time": "2026-03-02T08:04:24+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 86223,
+        "shares": 1125,
+        "saves": 208,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0050",
+      "title": "欧盟宣布对法国实施谈判",
+      "summary": "欧盟宣布对法国实施谈判。业内人士预计该趋势将在未来2年内持续。",
+      "content": "欧盟宣布对法国实施谈判。市场分析师认为此举将带来32%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "贸易",
+        "中国"
+      ],
+      "publish_time": "2026-02-26T16:04:33+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/12047",
+          "verified": true,
+          "verify_time": "2026-03-03T02:10:33+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/15090",
+          "verified": true,
+          "verify_time": "2026-03-02T19:35:11+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 39206,
+        "shares": 943,
+        "saves": 1391,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0051",
+      "title": "中国与印度俄罗斯谈判取得进展",
+      "summary": "据官方透露，中国与印度俄罗斯谈判取得进展，这将显著影响相关行业发展。",
+      "content": "中国与印度俄罗斯谈判取得进展。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中国",
+        "俄罗斯",
+        "欧盟"
+      ],
+      "publish_time": "2026-02-28T11:45:11+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/75230",
+          "verified": true,
+          "verify_time": "2026-03-02T09:07:15+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/95689",
+          "verified": true,
+          "verify_time": "2026-03-03T01:19:14+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/35644",
+          "verified": true,
+          "verify_time": "2026-03-02T15:31:03+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 18982,
+        "shares": 113,
+        "saves": 1717,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0052",
+      "title": "WTO就中国发布最新声明",
+      "summary": "据知情人士透露，WTO就中国发布最新声明，这将显著影响相关行业发展。",
+      "content": "WTO就中国发布最新声明。市场分析师认为此举将带来35%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "日本",
+        "关税"
+      ],
+      "publish_time": "2026-02-25T21:49:41+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/69955",
+          "verified": true,
+          "verify_time": "2026-03-02T07:17:22+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/13809",
+          "verified": true,
+          "verify_time": "2026-03-02T05:18:22+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 20479,
+        "shares": 2413,
+        "saves": 716,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0053",
+      "title": "中国与英国就中国达成共识",
+      "summary": "据报道，中国与英国就中国达成共识。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，中国与英国就中国达成共识，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "贸易",
+        "美国"
+      ],
+      "publish_time": "2026-03-01T18:13:08+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/96388",
+          "verified": true,
+          "verify_time": "2026-03-02T15:29:24+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/12609",
+          "verified": true,
+          "verify_time": "2026-03-02T17:28:02+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "negative",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 24777,
+        "shares": 4312,
+        "saves": 1468,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0054",
+      "title": "中国宣布对日本实施谈判",
+      "summary": "最新数据显示，中国宣布对日本实施谈判。相关公司股价盘前上涨约9%。",
+      "content": "据报道，中国宣布对日本实施谈判。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "中东",
+        "日本"
+      ],
+      "publish_time": "2026-02-27T14:45:16+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/31808",
+          "verified": true,
+          "verify_time": "2026-03-02T16:07:38+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/70617",
+          "verified": true,
+          "verify_time": "2026-03-02T06:19:46+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/91679",
+          "verified": true,
+          "verify_time": "2026-03-02T20:58:18+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 24049,
+        "shares": 509,
+        "saves": 1853,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0055",
+      "title": "中国总统访问法国，签署美国协议",
+      "summary": "据分析师透露，中国总统访问法国，签署美国协议，这将显著影响相关行业发展。",
+      "content": "据分析师透露，中国总统访问法国，签署美国协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "中东",
+        "俄罗斯"
+      ],
+      "publish_time": "2026-02-25T10:17:50+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/29184",
+          "verified": true,
+          "verify_time": "2026-03-02T06:14:15+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/94122",
+          "verified": true,
+          "verify_time": "2026-03-02T06:12:49+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 81407,
+        "shares": 1894,
+        "saves": 253,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0056",
+      "title": "中国与英国欧盟谈判取得进展",
+      "summary": "最新数据显示，中国与英国欧盟谈判取得进展。相关公司股价盘前下跌约3%。",
+      "content": "据报道，中国与英国欧盟谈判取得进展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "欧盟",
+        "外交"
+      ],
+      "publish_time": "2026-02-27T02:38:53+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/53068",
+          "verified": true,
+          "verify_time": "2026-03-02T05:48:44+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/81552",
+          "verified": true,
+          "verify_time": "2026-03-02T04:42:08+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/12545",
+          "verified": true,
+          "verify_time": "2026-03-02T09:23:14+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 46147,
+        "shares": 915,
+        "saves": 1435,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0057",
+      "title": "IMF就贸易发布最新声明",
+      "summary": "IMF就贸易发布最新声明。市场分析师认为此举将带来25%的增长潜力。",
+      "content": "据分析师透露，IMF就贸易发布最新声明，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "中国",
+        "美国"
+      ],
+      "publish_time": "2026-02-27T00:06:45+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/76181",
+          "verified": true,
+          "verify_time": "2026-03-02T09:24:21+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/23061",
+          "verified": true,
+          "verify_time": "2026-03-02T13:02:59+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/70675",
+          "verified": true,
+          "verify_time": "2026-03-02T10:48:11+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "impact": "neutral",
+          "reason": "新闻提及IonQ"
+        }
+      ],
+      "metrics": {
+        "views": 84839,
+        "shares": 2724,
+        "saves": 564,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0058",
+      "title": "欧盟与法国中国谈判取得进展",
+      "summary": "欧盟与法国中国谈判取得进展。市场分析师认为此举将带来25%的增长潜力。",
+      "content": "欧盟与法国中国谈判取得进展。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "中国",
+        "制裁"
+      ],
+      "publish_time": "2026-02-27T12:31:57+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/29951",
+          "verified": true,
+          "verify_time": "2026-03-02T11:12:18+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/40301",
+          "verified": true,
+          "verify_time": "2026-03-02T23:24:21+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/40222",
+          "verified": true,
+          "verify_time": "2026-03-02T13:38:22+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 5816,
+        "shares": 2094,
+        "saves": 666,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0059",
+      "title": "美国总统访问法国，签署俄罗斯协议",
+      "summary": "最新数据显示，美国总统访问法国，签署俄罗斯协议。相关公司股价盘前下跌约10%。",
+      "content": "据分析师透露，美国总统访问法国，签署俄罗斯协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "中国",
+        "制裁"
+      ],
+      "publish_time": "2026-03-01T20:07:55+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/56231",
+          "verified": true,
+          "verify_time": "2026-03-02T06:03:29+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/14087",
+          "verified": true,
+          "verify_time": "2026-03-02T20:01:34+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/11742",
+          "verified": true,
+          "verify_time": "2026-03-02T16:55:08+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 64088,
+        "shares": 1194,
+        "saves": 403,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0060",
+      "title": "联合国就中东发布最新声明",
+      "summary": "最新数据显示，联合国就中东发布最新声明。相关公司股价盘前上涨约2%。",
+      "content": "据知情人士透露，联合国就中东发布最新声明，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "贸易",
+        "制裁"
+      ],
+      "publish_time": "2026-02-24T18:49:29+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/63515",
+          "verified": true,
+          "verify_time": "2026-03-02T06:39:11+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/31398",
+          "verified": true,
+          "verify_time": "2026-03-02T20:28:39+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/74978",
+          "verified": true,
+          "verify_time": "2026-03-02T06:55:12+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "negative",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 7860,
+        "shares": 172,
+        "saves": 1870,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0061",
+      "title": "中国总统访问日本，签署贸易协议",
+      "summary": "据分析师透露，中国总统访问日本，签署贸易协议，这将显著影响相关行业发展。",
+      "content": "中国总统访问日本，签署贸易协议。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "欧盟",
+        "制裁"
+      ],
+      "publish_time": "2026-02-28T16:01:59+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/58271",
+          "verified": true,
+          "verify_time": "2026-03-02T11:14:47+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/52612",
+          "verified": true,
+          "verify_time": "2026-03-02T06:24:00+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/83317",
+          "verified": true,
+          "verify_time": "2026-03-02T15:12:36+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 80314,
+        "shares": 4733,
+        "saves": 69,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0062",
+      "title": "欧盟与英国制裁谈判取得进展",
+      "summary": "欧盟与英国制裁谈判取得进展。业内人士预计该趋势将在未来1年内持续。",
+      "content": "欧盟与英国制裁谈判取得进展。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "美国",
+        "俄罗斯"
+      ],
+      "publish_time": "2026-02-25T14:37:19+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/77270",
+          "verified": true,
+          "verify_time": "2026-03-03T03:10:53+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65506",
+          "verified": true,
+          "verify_time": "2026-03-02T04:21:40+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 34680,
+        "shares": 2050,
+        "saves": 706,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0063",
+      "title": "美国与法国中国谈判取得进展",
+      "summary": "据官方透露，美国与法国中国谈判取得进展，这将显著影响相关行业发展。",
+      "content": "据报道，美国与法国中国谈判取得进展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "关税",
+        "日本"
+      ],
+      "publish_time": "2026-02-24T05:23:23+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/27038",
+          "verified": true,
+          "verify_time": "2026-03-03T02:05:25+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/96517",
+          "verified": true,
+          "verify_time": "2026-03-02T09:21:14+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 24212,
+        "shares": 2459,
+        "saves": 501,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0064",
+      "title": "中国与印度就制裁达成共识",
+      "summary": "中国与印度就制裁达成共识。市场分析师认为此举将带来41%的增长潜力。",
+      "content": "最新数据显示，中国与印度就制裁达成共识。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中东",
+        "贸易",
+        "日本"
+      ],
+      "publish_time": "2026-02-28T07:06:31+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/26603",
+          "verified": true,
+          "verify_time": "2026-03-02T22:05:18+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/88489",
+          "verified": true,
+          "verify_time": "2026-03-02T06:14:38+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/36437",
+          "verified": true,
+          "verify_time": "2026-03-02T13:04:23+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 35712,
+        "shares": 2310,
+        "saves": 565,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0065",
+      "title": "G20就关税发布最新声明",
+      "summary": "G20就关税发布最新声明。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，G20就关税发布最新声明。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "贸易",
+        "欧盟"
+      ],
+      "publish_time": "2026-02-28T16:36:28+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/93927",
+          "verified": true,
+          "verify_time": "2026-03-02T15:42:42+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/50782",
+          "verified": true,
+          "verify_time": "2026-03-02T12:28:16+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "neutral",
+          "reason": "新闻提及强生"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 85390,
+        "shares": 3452,
+        "saves": 459,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0066",
+      "title": "美国宣布对印度实施投资",
+      "summary": "美国宣布对印度实施投资。市场分析师认为此举将带来37%的增长潜力。",
+      "content": "据报道，美国宣布对印度实施投资。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "关税",
+        "欧盟"
+      ],
+      "publish_time": "2026-03-01T23:36:50+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/94181",
+          "verified": true,
+          "verify_time": "2026-03-02T10:14:20+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/98590",
+          "verified": true,
+          "verify_time": "2026-03-02T21:07:30+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 71261,
+        "shares": 3489,
+        "saves": 1325,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0067",
+      "title": "中国与印度就美国达成共识",
+      "summary": "据官方透露，中国与印度就美国达成共识，这将显著影响相关行业发展。",
+      "content": "最新数据显示，中国与印度就美国达成共识。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "贸易",
+        "制裁"
+      ],
+      "publish_time": "2026-02-24T15:06:02+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/13579",
+          "verified": true,
+          "verify_time": "2026-03-02T08:05:52+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/72390",
+          "verified": true,
+          "verify_time": "2026-03-02T05:58:59+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 95527,
+        "shares": 358,
+        "saves": 305,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0068",
+      "title": "中国宣布对英国实施制裁",
+      "summary": "据报道，中国宣布对英国实施制裁。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，中国宣布对英国实施制裁。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "欧盟",
+        "关税"
+      ],
+      "publish_time": "2026-02-25T03:12:29+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/31291",
+          "verified": true,
+          "verify_time": "2026-03-02T08:55:14+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/46214",
+          "verified": true,
+          "verify_time": "2026-03-03T00:49:55+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/84884",
+          "verified": true,
+          "verify_time": "2026-03-02T08:24:09+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 44430,
+        "shares": 3764,
+        "saves": 67,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0069",
+      "title": "欧盟与韩国就日本达成共识",
+      "summary": "欧盟与韩国就日本达成共识。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据报道，欧盟与韩国就日本达成共识。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "中东",
+        "美国"
+      ],
+      "publish_time": "2026-02-27T22:53:25+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/13208",
+          "verified": true,
+          "verify_time": "2026-03-02T08:51:27+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/42935",
+          "verified": true,
+          "verify_time": "2026-03-02T08:17:48+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 82556,
+        "shares": 3339,
+        "saves": 547,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0070",
+      "title": "美国与印度制裁谈判取得进展",
+      "summary": "美国与印度制裁谈判取得进展。业内人士预计该趋势将在未来4年内持续。",
+      "content": "美国与印度制裁谈判取得进展。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "俄罗斯",
+        "外交"
+      ],
+      "publish_time": "2026-03-02T13:17:55+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/96828",
+          "verified": true,
+          "verify_time": "2026-03-02T08:24:10+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/52238",
+          "verified": true,
+          "verify_time": "2026-03-02T09:31:34+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/20317",
+          "verified": true,
+          "verify_time": "2026-03-02T06:32:25+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        }
+      ],
+      "metrics": {
+        "views": 15786,
+        "shares": 2354,
+        "saves": 1529,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0071",
+      "title": "中国宣布对英国实施谈判",
+      "summary": "据知情人士透露，中国宣布对英国实施谈判，这将显著影响相关行业发展。",
+      "content": "最新数据显示，中国宣布对英国实施谈判。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "中国",
+        "日本"
+      ],
+      "publish_time": "2026-03-01T18:22:45+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/77300",
+          "verified": true,
+          "verify_time": "2026-03-02T13:41:51+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/85436",
+          "verified": true,
+          "verify_time": "2026-03-02T22:31:10+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 7248,
+        "shares": 4355,
+        "saves": 1684,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0072",
+      "title": "美国宣布对英国实施制裁",
+      "summary": "美国宣布对英国实施制裁。市场分析师认为此举将带来37%的增长潜力。",
+      "content": "最新数据显示，美国宣布对英国实施制裁。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "欧盟",
+        "俄罗斯"
+      ],
+      "publish_time": "2026-02-27T11:29:16+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/62731",
+          "verified": true,
+          "verify_time": "2026-03-02T08:40:29+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/23718",
+          "verified": true,
+          "verify_time": "2026-03-02T05:40:52+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 18470,
+        "shares": 728,
+        "saves": 347,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0073",
+      "title": "中国宣布对印度实施谈判",
+      "summary": "最新数据显示，中国宣布对印度实施谈判。相关公司股价盘前下跌约1%。",
+      "content": "最新数据显示，中国宣布对印度实施谈判。相关公司股价盘前下跌约3%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "制裁",
+        "中国"
+      ],
+      "publish_time": "2026-02-27T12:46:17+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/82038",
+          "verified": true,
+          "verify_time": "2026-03-02T04:06:25+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/88034",
+          "verified": true,
+          "verify_time": "2026-03-02T07:00:45+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/84531",
+          "verified": true,
+          "verify_time": "2026-03-02T06:43:07+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 43651,
+        "shares": 3623,
+        "saves": 106,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0074",
+      "title": "中国与印度外交谈判取得进展",
+      "summary": "最新数据显示，中国与印度外交谈判取得进展。相关公司股价盘前上涨约4%。",
+      "content": "中国与印度外交谈判取得进展。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "欧盟",
+        "中国"
+      ],
+      "publish_time": "2026-02-24T16:44:39+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/29979",
+          "verified": true,
+          "verify_time": "2026-03-02T11:20:29+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/81080",
+          "verified": true,
+          "verify_time": "2026-03-02T05:31:10+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/22067",
+          "verified": true,
+          "verify_time": "2026-03-02T10:15:09+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 69448,
+        "shares": 1530,
+        "saves": 1360,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0075",
+      "title": "美国与英国欧盟谈判取得进展",
+      "summary": "美国与英国欧盟谈判取得进展。业内人士预计该趋势将在未来3年内持续。",
+      "content": "最新数据显示，美国与英国欧盟谈判取得进展。相关公司股价盘前下跌约7%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "欧盟",
+        "关税"
+      ],
+      "publish_time": "2026-02-24T23:48:04+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/12071",
+          "verified": true,
+          "verify_time": "2026-03-02T05:48:35+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/20543",
+          "verified": true,
+          "verify_time": "2026-03-02T14:36:26+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/82993",
+          "verified": true,
+          "verify_time": "2026-03-02T22:11:02+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 13899,
+        "shares": 765,
+        "saves": 1010,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0076",
+      "title": "欧盟与印度就美国达成共识",
+      "summary": "欧盟与印度就美国达成共识。市场分析师认为此举将带来15%的增长潜力。",
+      "content": "最新数据显示，欧盟与印度就美国达成共识。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "欧盟",
+        "日本"
+      ],
+      "publish_time": "2026-02-27T00:48:02+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/80264",
+          "verified": true,
+          "verify_time": "2026-03-03T02:55:44+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/50899",
+          "verified": true,
+          "verify_time": "2026-03-02T06:20:13+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/38782",
+          "verified": true,
+          "verify_time": "2026-03-02T10:20:15+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "neutral",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 37728,
+        "shares": 2383,
+        "saves": 1960,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0077",
+      "title": "WTO就中东发布最新声明",
+      "summary": "据官方透露，WTO就中东发布最新声明，这将显著影响相关行业发展。",
+      "content": "据报道，WTO就中东发布最新声明。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "欧盟",
+        "制裁"
+      ],
+      "publish_time": "2026-02-25T05:34:05+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/69360",
+          "verified": true,
+          "verify_time": "2026-03-02T10:34:09+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/12811",
+          "verified": true,
+          "verify_time": "2026-03-02T15:36:38+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/15192",
+          "verified": true,
+          "verify_time": "2026-03-02T21:56:19+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 78958,
+        "shares": 528,
+        "saves": 170,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0078",
+      "title": "世界银行就日本发布最新声明",
+      "summary": "据分析师透露，世界银行就日本发布最新声明，这将显著影响相关行业发展。",
+      "content": "据报道，世界银行就日本发布最新声明。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "中东",
+        "中国",
+        "外交"
+      ],
+      "publish_time": "2026-02-24T20:46:20+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/91698",
+          "verified": true,
+          "verify_time": "2026-03-02T07:29:12+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/21259",
+          "verified": true,
+          "verify_time": "2026-03-03T01:09:07+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "positive",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 68356,
+        "shares": 2615,
+        "saves": 97,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0079",
+      "title": "中国与韩国贸易谈判取得进展",
+      "summary": "最新数据显示，中国与韩国贸易谈判取得进展。相关公司股价盘前下跌约2%。",
+      "content": "据官方透露，中国与韩国贸易谈判取得进展，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "美国",
+        "中国"
+      ],
+      "publish_time": "2026-02-25T08:15:27+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/87723",
+          "verified": true,
+          "verify_time": "2026-03-02T04:02:50+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/71995",
+          "verified": true,
+          "verify_time": "2026-03-02T19:52:12+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "negative",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 55640,
+        "shares": 3333,
+        "saves": 1899,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0080",
+      "title": "WTO就中东发布最新声明",
+      "summary": "最新数据显示，WTO就中东发布最新声明。相关公司股价盘前上涨约2%。",
+      "content": "WTO就中东发布最新声明。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "制裁",
+        "关税"
+      ],
+      "publish_time": "2026-02-25T17:35:07+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/55590",
+          "verified": true,
+          "verify_time": "2026-03-02T23:33:51+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/35979",
+          "verified": true,
+          "verify_time": "2026-03-02T20:48:53+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/93412",
+          "verified": true,
+          "verify_time": "2026-03-02T23:05:21+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 34057,
+        "shares": 2583,
+        "saves": 355,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0081",
+      "title": "中国宣布对日本实施制裁",
+      "summary": "据分析师透露，中国宣布对日本实施制裁，这将显著影响相关行业发展。",
+      "content": "中国宣布对日本实施制裁。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "欧盟",
+        "关税"
+      ],
+      "publish_time": "2026-02-25T20:20:21+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/45522",
+          "verified": true,
+          "verify_time": "2026-03-02T16:57:19+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/24025",
+          "verified": true,
+          "verify_time": "2026-03-02T23:42:58+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/60699",
+          "verified": true,
+          "verify_time": "2026-03-02T17:20:43+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 84311,
+        "shares": 4115,
+        "saves": 1186,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0082",
+      "title": "美国宣布对英国实施合作",
+      "summary": "据官方透露，美国宣布对英国实施合作，这将显著影响相关行业发展。",
+      "content": "美国宣布对英国实施合作。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "美国",
+        "日本"
+      ],
+      "publish_time": "2026-03-02T05:36:33+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/21169",
+          "verified": true,
+          "verify_time": "2026-03-02T08:20:46+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/18308",
+          "verified": true,
+          "verify_time": "2026-03-02T03:48:24+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63555",
+          "verified": true,
+          "verify_time": "2026-03-02T11:58:15+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 12366,
+        "shares": 461,
+        "saves": 787,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0083",
+      "title": "欧盟与韩国日本谈判取得进展",
+      "summary": "据报道，欧盟与韩国日本谈判取得进展。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，欧盟与韩国日本谈判取得进展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "美国",
+        "中国"
+      ],
+      "publish_time": "2026-02-26T23:38:55+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/73367",
+          "verified": true,
+          "verify_time": "2026-03-03T03:25:41+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/94347",
+          "verified": true,
+          "verify_time": "2026-03-02T23:41:10+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "impact": "neutral",
+          "reason": "新闻提及比亚迪"
+        }
+      ],
+      "metrics": {
+        "views": 11881,
+        "shares": 2752,
+        "saves": 434,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0084",
+      "title": "欧盟与韩国日本谈判取得进展",
+      "summary": "据报道，欧盟与韩国日本谈判取得进展。这一进展标志着行业进入新的发展阶段。",
+      "content": "欧盟与韩国日本谈判取得进展。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "欧盟",
+        "中东"
+      ],
+      "publish_time": "2026-03-02T04:34:31+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/26824",
+          "verified": true,
+          "verify_time": "2026-03-02T20:37:19+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/17002",
+          "verified": true,
+          "verify_time": "2026-03-02T13:42:11+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/41153",
+          "verified": true,
+          "verify_time": "2026-03-02T19:56:15+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 13419,
+        "shares": 1970,
+        "saves": 529,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0085",
+      "title": "美国宣布对日本实施合作",
+      "summary": "最新数据显示，美国宣布对日本实施合作。相关公司股价盘前下跌约4%。",
+      "content": "美国宣布对日本实施合作。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "美国",
+        "日本"
+      ],
+      "publish_time": "2026-02-25T09:48:03+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/87254",
+          "verified": true,
+          "verify_time": "2026-03-02T22:10:46+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/92218",
+          "verified": true,
+          "verify_time": "2026-03-02T16:07:13+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 30596,
+        "shares": 1358,
+        "saves": 1997,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0086",
+      "title": "美国总统访问英国，签署贸易协议",
+      "summary": "美国总统访问英国，签署贸易协议。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据报道，美国总统访问英国，签署贸易协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "日本",
+        "美国"
+      ],
+      "publish_time": "2026-02-28T20:18:45+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/57864",
+          "verified": true,
+          "verify_time": "2026-03-02T10:39:49+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/64980",
+          "verified": true,
+          "verify_time": "2026-03-02T16:49:48+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "impact": "positive",
+          "reason": "新闻提及辉瑞"
+        }
+      ],
+      "metrics": {
+        "views": 92244,
+        "shares": 1100,
+        "saves": 1847,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0087",
+      "title": "美国宣布对英国实施制裁",
+      "summary": "据报道，美国宣布对英国实施制裁。这一进展标志着行业进入新的发展阶段。",
+      "content": "美国宣布对英国实施制裁。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "制裁",
+        "美国",
+        "欧盟"
+      ],
+      "publish_time": "2026-02-28T13:39:40+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/81529",
+          "verified": true,
+          "verify_time": "2026-03-02T18:21:26+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/82216",
+          "verified": true,
+          "verify_time": "2026-03-02T07:42:10+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/79598",
+          "verified": true,
+          "verify_time": "2026-03-02T06:55:04+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 21201,
+        "shares": 4736,
+        "saves": 1094,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0088",
+      "title": "美国与印度就日本达成共识",
+      "summary": "据官方透露，美国与印度就日本达成共识，这将显著影响相关行业发展。",
+      "content": "最新数据显示，美国与印度就日本达成共识。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "欧盟",
+        "中东"
+      ],
+      "publish_time": "2026-03-02T06:32:28+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/37860",
+          "verified": true,
+          "verify_time": "2026-03-02T15:32:00+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/45546",
+          "verified": true,
+          "verify_time": "2026-03-02T23:40:28+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 79563,
+        "shares": 2903,
+        "saves": 438,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0089",
+      "title": "中国与日本中国谈判取得进展",
+      "summary": "据知情人士透露，中国与日本中国谈判取得进展，这将显著影响相关行业发展。",
+      "content": "中国与日本中国谈判取得进展。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "中国",
+        "中东"
+      ],
+      "publish_time": "2026-02-25T09:58:18+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/21317",
+          "verified": true,
+          "verify_time": "2026-03-02T23:57:13+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/58778",
+          "verified": true,
+          "verify_time": "2026-03-02T11:17:25+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "impact": "positive",
+          "reason": "新闻提及诺和诺德"
+        }
+      ],
+      "metrics": {
+        "views": 28893,
+        "shares": 4223,
+        "saves": 1768,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0090",
+      "title": "中国宣布对法国实施合作",
+      "summary": "据官方透露，中国宣布对法国实施合作，这将显著影响相关行业发展。",
+      "content": "据报道，中国宣布对法国实施合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "外交",
+        "俄罗斯"
+      ],
+      "publish_time": "2026-02-27T21:04:55+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/12521",
+          "verified": true,
+          "verify_time": "2026-03-03T02:50:57+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/73699",
+          "verified": true,
+          "verify_time": "2026-03-02T13:47:18+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/40316",
+          "verified": true,
+          "verify_time": "2026-03-02T21:24:22+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 65072,
+        "shares": 3388,
+        "saves": 1000,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0091",
+      "title": "美国总统访问印度，签署俄罗斯协议",
+      "summary": "最新数据显示，美国总统访问印度，签署俄罗斯协议。相关公司股价盘前下跌约10%。",
+      "content": "美国总统访问印度，签署俄罗斯协议。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "欧盟",
+        "俄罗斯"
+      ],
+      "publish_time": "2026-02-26T16:56:05+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/95939",
+          "verified": true,
+          "verify_time": "2026-03-02T08:40:34+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/98283",
+          "verified": true,
+          "verify_time": "2026-03-02T19:53:58+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 89770,
+        "shares": 3373,
+        "saves": 1985,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0092",
+      "title": "WTO就俄罗斯发布最新声明",
+      "summary": "据报道，WTO就俄罗斯发布最新声明。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，WTO就俄罗斯发布最新声明。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "制裁",
+        "中东"
+      ],
+      "publish_time": "2026-02-27T08:27:20+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/53205",
+          "verified": true,
+          "verify_time": "2026-03-02T14:27:42+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/70682",
+          "verified": true,
+          "verify_time": "2026-03-02T22:26:40+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 67889,
+        "shares": 4748,
+        "saves": 71,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0093",
+      "title": "美国与日本美国谈判取得进展",
+      "summary": "最新数据显示，美国与日本美国谈判取得进展。相关公司股价盘前下跌约3%。",
+      "content": "美国与日本美国谈判取得进展。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "日本",
+        "外交",
+        "美国"
+      ],
+      "publish_time": "2026-02-24T20:42:20+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/63713",
+          "verified": true,
+          "verify_time": "2026-03-03T02:40:29+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/19773",
+          "verified": true,
+          "verify_time": "2026-03-02T11:24:19+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/36027",
+          "verified": true,
+          "verify_time": "2026-03-02T17:57:36+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "negative",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 38915,
+        "shares": 1614,
+        "saves": 506,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0094",
+      "title": "美国与印度就日本达成共识",
+      "summary": "据报道，美国与印度就日本达成共识。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，美国与印度就日本达成共识，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "贸易",
+        "关税"
+      ],
+      "publish_time": "2026-02-24T10:14:20+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/23947",
+          "verified": true,
+          "verify_time": "2026-03-02T21:52:26+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/19928",
+          "verified": true,
+          "verify_time": "2026-03-02T11:42:49+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/12044",
+          "verified": true,
+          "verify_time": "2026-03-02T22:27:22+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 99393,
+        "shares": 4508,
+        "saves": 528,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0095",
+      "title": "美国与法国就中国达成共识",
+      "summary": "据报道，美国与法国就中国达成共识。这一进展标志着行业进入新的发展阶段。",
+      "content": "美国与法国就中国达成共识。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "俄罗斯",
+        "贸易",
+        "中东"
+      ],
+      "publish_time": "2026-02-28T23:09:45+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/22412",
+          "verified": true,
+          "verify_time": "2026-03-03T01:34:56+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/54571",
+          "verified": true,
+          "verify_time": "2026-03-02T09:53:51+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "impact": "positive",
+          "reason": "新闻提及强生"
+        }
+      ],
+      "metrics": {
+        "views": 56884,
+        "shares": 1892,
+        "saves": 504,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0096",
+      "title": "欧盟与日本就俄罗斯达成共识",
+      "summary": "最新数据显示，欧盟与日本就俄罗斯达成共识。相关公司股价盘前上涨约5%。",
+      "content": "据报道，欧盟与日本就俄罗斯达成共识。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "贸易",
+        "欧盟",
+        "外交"
+      ],
+      "publish_time": "2026-02-25T07:45:13+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/72908",
+          "verified": true,
+          "verify_time": "2026-03-02T13:09:22+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/25406",
+          "verified": true,
+          "verify_time": "2026-03-02T20:52:47+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/69915",
+          "verified": true,
+          "verify_time": "2026-03-02T13:13:18+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 37274,
+        "shares": 2173,
+        "saves": 1852,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0097",
+      "title": "欧盟宣布对英国实施合作",
+      "summary": "据报道，欧盟宣布对英国实施合作。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，欧盟宣布对英国实施合作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "欧盟",
+        "日本",
+        "关税"
+      ],
+      "publish_time": "2026-02-25T04:10:10+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/81323",
+          "verified": true,
+          "verify_time": "2026-03-02T19:15:55+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/57034",
+          "verified": true,
+          "verify_time": "2026-03-02T20:39:35+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "impact": "positive",
+          "reason": "新闻提及礼来"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 31278,
+        "shares": 4968,
+        "saves": 1560,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0098",
+      "title": "美国总统访问日本，签署美国协议",
+      "summary": "最新数据显示，美国总统访问日本，签署美国协议。相关公司股价盘前上涨约9%。",
+      "content": "据报道，美国总统访问日本，签署美国协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "外交",
+        "俄罗斯",
+        "贸易"
+      ],
+      "publish_time": "2026-02-28T11:47:43+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/64134",
+          "verified": true,
+          "verify_time": "2026-03-02T21:16:46+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/69875",
+          "verified": true,
+          "verify_time": "2026-03-02T17:51:21+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 83804,
+        "shares": 147,
+        "saves": 1065,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0099",
+      "title": "中国宣布对印度实施制裁",
+      "summary": "最新数据显示，中国宣布对印度实施制裁。相关公司股价盘前上涨约10%。",
+      "content": "据报道，中国宣布对印度实施制裁。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "美国",
+        "外交",
+        "中东"
+      ],
+      "publish_time": "2026-02-24T17:24:00+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/62253",
+          "verified": true,
+          "verify_time": "2026-03-02T14:14:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/47302",
+          "verified": true,
+          "verify_time": "2026-03-02T08:11:36+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 84961,
+        "shares": 2683,
+        "saves": 1212,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "world-0100",
+      "title": "欧盟与英国中国谈判取得进展",
+      "summary": "据知情人士透露，欧盟与英国中国谈判取得进展，这将显著影响相关行业发展。",
+      "content": "欧盟与英国中国谈判取得进展。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "world",
+      "tags": [
+        "关税",
+        "欧盟",
+        "中东"
+      ],
+      "publish_time": "2026-02-28T21:31:04+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/22730",
+          "verified": true,
+          "verify_time": "2026-03-02T20:22:49+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/39553",
+          "verified": true,
+          "verify_time": "2026-03-02T19:13:52+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/33521",
+          "verified": true,
+          "verify_time": "2026-03-02T23:14:10+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "impact": "positive",
+          "reason": "新闻提及Moderna"
+        }
+      ],
+      "metrics": {
+        "views": 44037,
+        "shares": 3240,
+        "saves": 1211,
+        "credibility_score": 94
+      },
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,5607 @@
+{
+  "version": "2.0",
+  "category": "semiconductor",
+  "name": "半导体",
+  "total": 100,
+  "updated": "2026-03-03T03:28:38.825484",
+  "news": [
+    {
+      "id": "semiconductor-0001",
+      "title": "高通Q2营收100亿美元，同比增长52%",
+      "summary": "据报道，高通Q2营收100亿美元，同比增长52%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，高通Q2营收100亿美元，同比增长52%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "台积电",
+        "AMD"
+      ],
+      "publish_time": "2026-03-01T13:41:12+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/85646",
+          "verified": true,
+          "verify_time": "2026-03-02T20:55:44+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/35215",
+          "verified": true,
+          "verify_time": "2026-03-03T02:07:35+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/34344",
+          "verified": true,
+          "verify_time": "2026-03-02T05:30:28+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 90967,
+        "shares": 3071,
+        "saves": 1964,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0002",
+      "title": "博通成功量产2nm制程芯片，领先竞争对手",
+      "summary": "据报道，博通成功量产2nm制程芯片，领先竞争对手。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，博通成功量产2nm制程芯片，领先竞争对手。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "英伟达",
+        "Intel"
+      ],
+      "publish_time": "2026-02-24T16:57:53+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/13292",
+          "verified": true,
+          "verify_time": "2026-03-03T02:42:40+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/16383",
+          "verified": true,
+          "verify_time": "2026-03-02T07:20:39+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/34934",
+          "verified": true,
+          "verify_time": "2026-03-02T17:38:27+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 12793,
+        "shares": 2646,
+        "saves": 1938,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0003",
+      "title": "高通发布新一代新产品，能效提升139%",
+      "summary": "据报道，高通发布新一代新产品，能效提升139%。这一进展标志着行业进入新的发展阶段。",
+      "content": "高通发布新一代新产品，能效提升139%。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "3nm",
+        "EUV"
+      ],
+      "publish_time": "2026-02-25T01:48:56+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/20781",
+          "verified": true,
+          "verify_time": "2026-03-02T08:31:58+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/49893",
+          "verified": true,
+          "verify_time": "2026-03-02T05:07:14+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 98293,
+        "shares": 1930,
+        "saves": 1177,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0004",
+      "title": "高通与英伟达签署10亿美元创新方案供应协议",
+      "summary": "高通与英伟达签署10亿美元创新方案供应协议。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，高通与英伟达签署10亿美元创新方案供应协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "Intel",
+        "AMD"
+      ],
+      "publish_time": "2026-02-24T12:43:40+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/24589",
+          "verified": true,
+          "verify_time": "2026-03-02T19:30:15+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/91560",
+          "verified": true,
+          "verify_time": "2026-03-02T12:19:58+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 92882,
+        "shares": 3816,
+        "saves": 1657,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0005",
+      "title": "Intel成功量产5nm制程芯片，领先竞争对手",
+      "summary": "Intel成功量产5nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来1年内持续。",
+      "content": "Intel成功量产5nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "AMD",
+        "Intel"
+      ],
+      "publish_time": "2026-02-26T12:10:26+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/41154",
+          "verified": true,
+          "verify_time": "2026-03-02T17:09:59+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/49229",
+          "verified": true,
+          "verify_time": "2026-03-02T14:17:02+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/70729",
+          "verified": true,
+          "verify_time": "2026-03-02T12:49:53+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 17741,
+        "shares": 4830,
+        "saves": 1043,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0006",
+      "title": "英伟达发布新一代创新方案，能效提升197%",
+      "summary": "据报道，英伟达发布新一代创新方案，能效提升197%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，英伟达发布新一代创新方案，能效提升197%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "英伟达",
+        "ASML"
+      ],
+      "publish_time": "2026-02-24T05:20:04+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/61052",
+          "verified": true,
+          "verify_time": "2026-03-02T12:34:29+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/28020",
+          "verified": true,
+          "verify_time": "2026-03-02T19:30:49+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/78240",
+          "verified": true,
+          "verify_time": "2026-03-03T00:01:09+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 20356,
+        "shares": 2671,
+        "saves": 815,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0007",
+      "title": "三星宣布投资2000亿美元建设得克萨斯新厂",
+      "summary": "最新数据显示，三星宣布投资2000亿美元建设得克萨斯新厂。相关公司股价盘前下跌约8%。",
+      "content": "三星宣布投资2000亿美元建设得克萨斯新厂。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "3nm",
+        "晶圆代工"
+      ],
+      "publish_time": "2026-02-28T04:14:34+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/59347",
+          "verified": true,
+          "verify_time": "2026-03-03T02:24:21+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/17932",
+          "verified": true,
+          "verify_time": "2026-03-02T23:12:47+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/33171",
+          "verified": true,
+          "verify_time": "2026-03-02T11:45:15+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 96258,
+        "shares": 3063,
+        "saves": 63,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0008",
+      "title": "高通发布新一代智能系统，能效提升60%",
+      "summary": "高通发布新一代智能系统，能效提升60%。市场分析师认为此举将带来50%的增长潜力。",
+      "content": "高通发布新一代智能系统，能效提升60%。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "3nm",
+        "英伟达"
+      ],
+      "publish_time": "2026-03-01T19:47:41+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/58540",
+          "verified": true,
+          "verify_time": "2026-03-02T04:07:30+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/66171",
+          "verified": true,
+          "verify_time": "2026-03-02T14:07:36+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 97886,
+        "shares": 1051,
+        "saves": 158,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0009",
+      "title": "高通成功量产5nm制程芯片，领先竞争对手",
+      "summary": "据知情人士透露，高通成功量产5nm制程芯片，领先竞争对手，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，高通成功量产5nm制程芯片，领先竞争对手，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "AMD",
+        "台积电"
+      ],
+      "publish_time": "2026-03-02T20:14:52+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/15463",
+          "verified": true,
+          "verify_time": "2026-03-03T00:55:51+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/13837",
+          "verified": true,
+          "verify_time": "2026-03-02T23:33:55+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 32275,
+        "shares": 1967,
+        "saves": 545,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0010",
+      "title": "台积电成功量产2nm制程芯片，领先竞争对手",
+      "summary": "据知情人士透露，台积电成功量产2nm制程芯片，领先竞争对手，这将显著影响相关行业发展。",
+      "content": "据报道，台积电成功量产2nm制程芯片，领先竞争对手。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "3nm",
+        "晶圆代工"
+      ],
+      "publish_time": "2026-02-26T21:59:21+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/58886",
+          "verified": true,
+          "verify_time": "2026-03-02T10:38:59+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/87154",
+          "verified": true,
+          "verify_time": "2026-03-02T14:09:23+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/97743",
+          "verified": true,
+          "verify_time": "2026-03-02T14:04:36+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 98905,
+        "shares": 4694,
+        "saves": 757,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0011",
+      "title": "AMD宣布投资50亿美元建设新加坡新厂",
+      "summary": "据报道，AMD宣布投资50亿美元建设新加坡新厂。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，AMD宣布投资50亿美元建设新加坡新厂，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "晶圆代工",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-25T22:48:15+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/86322",
+          "verified": true,
+          "verify_time": "2026-03-02T22:41:59+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14466",
+          "verified": true,
+          "verify_time": "2026-03-03T00:32:56+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/31538",
+          "verified": true,
+          "verify_time": "2026-03-03T00:25:03+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 87132,
+        "shares": 1170,
+        "saves": 1782,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0012",
+      "title": "Intel宣布投资100亿美元建设亚利桑那新厂",
+      "summary": "据分析师透露，Intel宣布投资100亿美元建设亚利桑那新厂，这将显著影响相关行业发展。",
+      "content": "Intel宣布投资100亿美元建设亚利桑那新厂。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "ASML",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-27T23:44:29+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/81771",
+          "verified": true,
+          "verify_time": "2026-03-02T12:18:54+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/43183",
+          "verified": true,
+          "verify_time": "2026-03-02T19:40:25+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 98893,
+        "shares": 753,
+        "saves": 668,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0013",
+      "title": "ASML发布新一代新一代技术，能效提升69%",
+      "summary": "据报道，ASML发布新一代新一代技术，能效提升69%。这一进展标志着行业进入新的发展阶段。",
+      "content": "ASML发布新一代新一代技术，能效提升69%。市场分析师认为此举将带来33%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "AMD",
+        "ASML"
+      ],
+      "publish_time": "2026-02-26T19:36:31+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/32601",
+          "verified": true,
+          "verify_time": "2026-03-02T11:12:07+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/64199",
+          "verified": true,
+          "verify_time": "2026-03-02T19:17:01+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 65809,
+        "shares": 1898,
+        "saves": 957,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0014",
+      "title": "AMD与ASML签署100亿美元智能系统供应协议",
+      "summary": "AMD与ASML签署100亿美元智能系统供应协议。市场分析师认为此举将带来11%的增长潜力。",
+      "content": "AMD与ASML签署100亿美元智能系统供应协议。市场分析师认为此举将带来27%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "晶圆代工",
+        "EUV"
+      ],
+      "publish_time": "2026-02-26T20:42:36+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/20597",
+          "verified": true,
+          "verify_time": "2026-03-02T18:29:16+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/11809",
+          "verified": true,
+          "verify_time": "2026-03-03T00:27:53+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/99978",
+          "verified": true,
+          "verify_time": "2026-03-02T23:54:53+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 31197,
+        "shares": 629,
+        "saves": 258,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0015",
+      "title": "三星Q1营收50亿美元，同比增长116%",
+      "summary": "三星Q1营收50亿美元，同比增长116%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "三星Q1营收50亿美元，同比增长116%。市场分析师认为此举将带来44%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "7nm",
+        "3nm"
+      ],
+      "publish_time": "2026-03-01T05:08:03+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/54406",
+          "verified": true,
+          "verify_time": "2026-03-02T23:50:27+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/81307",
+          "verified": true,
+          "verify_time": "2026-03-02T15:54:41+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 15717,
+        "shares": 3770,
+        "saves": 405,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0016",
+      "title": "英伟达与博通签署10亿美元创新方案供应协议",
+      "summary": "英伟达与博通签署10亿美元创新方案供应协议。业内人士预计该趋势将在未来1年内持续。",
+      "content": "英伟达与博通签署10亿美元创新方案供应协议。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "5nm",
+        "AMD"
+      ],
+      "publish_time": "2026-02-25T08:08:54+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/33241",
+          "verified": true,
+          "verify_time": "2026-03-02T21:45:12+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/97293",
+          "verified": true,
+          "verify_time": "2026-03-02T07:39:31+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 57749,
+        "shares": 2285,
+        "saves": 1694,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0017",
+      "title": "高通发布新一代创新方案，能效提升92%",
+      "summary": "高通发布新一代创新方案，能效提升92%。市场分析师认为此举将带来37%的增长潜力。",
+      "content": "高通发布新一代创新方案，能效提升92%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "Intel",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-24T05:24:42+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/32891",
+          "verified": true,
+          "verify_time": "2026-03-02T20:39:27+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/29698",
+          "verified": true,
+          "verify_time": "2026-03-02T18:34:01+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/60059",
+          "verified": true,
+          "verify_time": "2026-03-02T23:54:22+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 53071,
+        "shares": 2178,
+        "saves": 1628,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0018",
+      "title": "IntelQ4营收100亿美元，同比增长81%",
+      "summary": "IntelQ4营收100亿美元，同比增长81%。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据报道，IntelQ4营收100亿美元，同比增长81%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "晶圆代工",
+        "3nm"
+      ],
+      "publish_time": "2026-02-27T14:16:17+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/68116",
+          "verified": true,
+          "verify_time": "2026-03-02T10:12:11+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/14788",
+          "verified": true,
+          "verify_time": "2026-03-02T19:38:21+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 78936,
+        "shares": 1183,
+        "saves": 843,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0019",
+      "title": "ASML宣布投资1000亿美元建设台湾新厂",
+      "summary": "ASML宣布投资1000亿美元建设台湾新厂。业内人士预计该趋势将在未来4年内持续。",
+      "content": "ASML宣布投资1000亿美元建设台湾新厂。市场分析师认为此举将带来13%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "Intel",
+        "7nm",
+        "ASML"
+      ],
+      "publish_time": "2026-03-01T19:08:24+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/12201",
+          "verified": true,
+          "verify_time": "2026-03-02T11:38:10+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/66043",
+          "verified": true,
+          "verify_time": "2026-03-02T13:36:10+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/88858",
+          "verified": true,
+          "verify_time": "2026-03-02T23:02:15+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 82948,
+        "shares": 4404,
+        "saves": 1699,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0020",
+      "title": "Intel成功量产7nm制程芯片，领先竞争对手",
+      "summary": "Intel成功量产7nm制程芯片，领先竞争对手。市场分析师认为此举将带来40%的增长潜力。",
+      "content": "最新数据显示，Intel成功量产7nm制程芯片，领先竞争对手。相关公司股价盘前下跌约8%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "英伟达",
+        "晶圆代工"
+      ],
+      "publish_time": "2026-02-26T07:37:13+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/39666",
+          "verified": true,
+          "verify_time": "2026-03-02T21:56:05+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/56133",
+          "verified": true,
+          "verify_time": "2026-03-02T06:29:34+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 13233,
+        "shares": 4052,
+        "saves": 929,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0021",
+      "title": "三星发布新一代新一代技术，能效提升67%",
+      "summary": "三星发布新一代新一代技术，能效提升67%。业内人士预计该趋势将在未来5年内持续。",
+      "content": "最新数据显示，三星发布新一代新一代技术，能效提升67%。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "Intel",
+        "5nm"
+      ],
+      "publish_time": "2026-02-24T13:46:59+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/85157",
+          "verified": true,
+          "verify_time": "2026-03-02T23:37:26+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/16667",
+          "verified": true,
+          "verify_time": "2026-03-02T06:05:32+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 37579,
+        "shares": 3202,
+        "saves": 890,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0022",
+      "title": "高通Q2营收2000亿美元，同比增长67%",
+      "summary": "据报道，高通Q2营收2000亿美元，同比增长67%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，高通Q2营收2000亿美元，同比增长67%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "ASML",
+        "5nm"
+      ],
+      "publish_time": "2026-02-26T08:45:00+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/90421",
+          "verified": true,
+          "verify_time": "2026-03-02T14:57:22+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/58555",
+          "verified": true,
+          "verify_time": "2026-03-02T10:27:27+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 65405,
+        "shares": 1791,
+        "saves": 1759,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0023",
+      "title": "三星发布新一代新产品，能效提升34%",
+      "summary": "据报道，三星发布新一代新产品，能效提升34%。这一进展标志着行业进入新的发展阶段。",
+      "content": "三星发布新一代新产品，能效提升34%。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "AMD",
+        "Intel"
+      ],
+      "publish_time": "2026-02-25T00:14:17+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/77472",
+          "verified": true,
+          "verify_time": "2026-03-02T10:45:19+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/92528",
+          "verified": true,
+          "verify_time": "2026-03-02T07:05:03+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 82698,
+        "shares": 2161,
+        "saves": 528,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0024",
+      "title": "AMD与博通签署50亿美元新一代技术供应协议",
+      "summary": "AMD与博通签署50亿美元新一代技术供应协议。业内人士预计该趋势将在未来1年内持续。",
+      "content": "AMD与博通签署50亿美元新一代技术供应协议。市场分析师认为此举将带来40%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "ASML",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-26T18:27:26+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/19897",
+          "verified": true,
+          "verify_time": "2026-03-02T13:51:57+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/29777",
+          "verified": true,
+          "verify_time": "2026-03-02T18:47:51+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/93206",
+          "verified": true,
+          "verify_time": "2026-03-02T23:03:31+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 49657,
+        "shares": 4068,
+        "saves": 989,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0025",
+      "title": "台积电成功量产3nm制程芯片，领先竞争对手",
+      "summary": "台积电成功量产3nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，台积电成功量产3nm制程芯片，领先竞争对手。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "3nm",
+        "5nm",
+        "AMD"
+      ],
+      "publish_time": "2026-02-28T21:28:18+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/68314",
+          "verified": true,
+          "verify_time": "2026-03-03T00:29:33+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/93667",
+          "verified": true,
+          "verify_time": "2026-03-03T02:12:33+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 38395,
+        "shares": 2969,
+        "saves": 1066,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0026",
+      "title": "Intel发布新一代智能系统，能效提升25%",
+      "summary": "据分析师透露，Intel发布新一代智能系统，能效提升25%，这将显著影响相关行业发展。",
+      "content": "Intel发布新一代智能系统，能效提升25%。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "AMD",
+        "晶圆代工"
+      ],
+      "publish_time": "2026-02-24T23:18:25+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/76125",
+          "verified": true,
+          "verify_time": "2026-03-02T11:10:10+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/20834",
+          "verified": true,
+          "verify_time": "2026-03-02T08:17:52+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/73485",
+          "verified": true,
+          "verify_time": "2026-03-02T22:47:00+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 95518,
+        "shares": 426,
+        "saves": 848,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0027",
+      "title": "台积电成功量产2nm制程芯片，领先竞争对手",
+      "summary": "台积电成功量产2nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，台积电成功量产2nm制程芯片，领先竞争对手。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "英伟达",
+        "3nm"
+      ],
+      "publish_time": "2026-02-26T23:19:51+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/49525",
+          "verified": true,
+          "verify_time": "2026-03-02T20:25:11+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/86930",
+          "verified": true,
+          "verify_time": "2026-03-02T09:05:20+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/66258",
+          "verified": true,
+          "verify_time": "2026-03-02T10:51:34+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 48761,
+        "shares": 2585,
+        "saves": 1789,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0028",
+      "title": "IntelQ3营收2000亿美元，同比增长12%",
+      "summary": "据分析师透露，IntelQ3营收2000亿美元，同比增长12%，这将显著影响相关行业发展。",
+      "content": "IntelQ3营收2000亿美元，同比增长12%。市场分析师认为此举将带来14%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "Intel",
+        "ASML"
+      ],
+      "publish_time": "2026-03-02T14:01:03+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/18939",
+          "verified": true,
+          "verify_time": "2026-03-02T17:54:34+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/52447",
+          "verified": true,
+          "verify_time": "2026-03-02T16:29:22+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 65562,
+        "shares": 3713,
+        "saves": 1867,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0029",
+      "title": "Intel宣布投资10亿美元建设北京新厂",
+      "summary": "最新数据显示，Intel宣布投资10亿美元建设北京新厂。相关公司股价盘前下跌约8%。",
+      "content": "最新数据显示，Intel宣布投资10亿美元建设北京新厂。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "3nm",
+        "台积电"
+      ],
+      "publish_time": "2026-02-24T05:31:47+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/33248",
+          "verified": true,
+          "verify_time": "2026-03-02T18:41:21+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/55277",
+          "verified": true,
+          "verify_time": "2026-03-02T13:15:43+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 51478,
+        "shares": 1855,
+        "saves": 1825,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0030",
+      "title": "高通成功量产3nm制程芯片，领先竞争对手",
+      "summary": "最新数据显示，高通成功量产3nm制程芯片，领先竞争对手。相关公司股价盘前下跌约6%。",
+      "content": "高通成功量产3nm制程芯片，领先竞争对手。市场分析师认为此举将带来21%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "3nm",
+        "5nm",
+        "台积电"
+      ],
+      "publish_time": "2026-02-28T07:59:28+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/16169",
+          "verified": true,
+          "verify_time": "2026-03-03T03:28:31+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/25852",
+          "verified": true,
+          "verify_time": "2026-03-02T06:07:46+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 88970,
+        "shares": 3217,
+        "saves": 461,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0031",
+      "title": "台积电与英伟达签署2000亿美元智能系统供应协议",
+      "summary": "据报道，台积电与英伟达签署2000亿美元智能系统供应协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "据官方透露，台积电与英伟达签署2000亿美元智能系统供应协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "ASML",
+        "台积电"
+      ],
+      "publish_time": "2026-02-26T04:54:18+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/67740",
+          "verified": true,
+          "verify_time": "2026-03-02T10:27:51+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/20437",
+          "verified": true,
+          "verify_time": "2026-03-02T16:32:53+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/14817",
+          "verified": true,
+          "verify_time": "2026-03-02T19:43:37+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 7233,
+        "shares": 3852,
+        "saves": 1426,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0032",
+      "title": "英伟达Q2营收50亿美元，同比增长84%",
+      "summary": "据报道，英伟达Q2营收50亿美元，同比增长84%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，英伟达Q2营收50亿美元，同比增长84%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "Intel",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-26T10:53:27+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/48834",
+          "verified": true,
+          "verify_time": "2026-03-02T14:55:31+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/73411",
+          "verified": true,
+          "verify_time": "2026-03-02T17:28:36+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/35643",
+          "verified": true,
+          "verify_time": "2026-03-03T00:32:02+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 94942,
+        "shares": 3704,
+        "saves": 1397,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0033",
+      "title": "IntelQ4营收50亿美元，同比增长199%",
+      "summary": "据报道，IntelQ4营收50亿美元，同比增长199%。这一进展标志着行业进入新的发展阶段。",
+      "content": "IntelQ4营收50亿美元，同比增长199%。市场分析师认为此举将带来41%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "7nm",
+        "英伟达"
+      ],
+      "publish_time": "2026-03-01T17:36:09+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/15298",
+          "verified": true,
+          "verify_time": "2026-03-02T16:30:09+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/32150",
+          "verified": true,
+          "verify_time": "2026-03-02T16:55:08+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 59717,
+        "shares": 2774,
+        "saves": 1390,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0034",
+      "title": "Intel宣布投资50亿美元建设北京新厂",
+      "summary": "Intel宣布投资50亿美元建设北京新厂。业内人士预计该趋势将在未来3年内持续。",
+      "content": "Intel宣布投资50亿美元建设北京新厂。市场分析师认为此举将带来31%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "5nm",
+        "3nm"
+      ],
+      "publish_time": "2026-02-24T09:33:56+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/25769",
+          "verified": true,
+          "verify_time": "2026-03-02T08:30:37+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/75187",
+          "verified": true,
+          "verify_time": "2026-03-02T16:27:59+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 10473,
+        "shares": 590,
+        "saves": 85,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0035",
+      "title": "三星与英伟达签署100亿美元创新方案供应协议",
+      "summary": "最新数据显示，三星与英伟达签署100亿美元创新方案供应协议。相关公司股价盘前下跌约6%。",
+      "content": "三星与英伟达签署100亿美元创新方案供应协议。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "Intel",
+        "EUV"
+      ],
+      "publish_time": "2026-03-01T20:12:28+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/55497",
+          "verified": true,
+          "verify_time": "2026-03-03T03:03:45+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/30726",
+          "verified": true,
+          "verify_time": "2026-03-03T00:44:13+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/97278",
+          "verified": true,
+          "verify_time": "2026-03-02T14:19:33+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 10272,
+        "shares": 2965,
+        "saves": 1362,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0036",
+      "title": "高通发布新一代新一代技术，能效提升195%",
+      "summary": "据报道，高通发布新一代新一代技术，能效提升195%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，高通发布新一代新一代技术，能效提升195%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "台积电",
+        "Intel"
+      ],
+      "publish_time": "2026-02-25T15:04:46+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/94863",
+          "verified": true,
+          "verify_time": "2026-03-02T06:21:47+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/55995",
+          "verified": true,
+          "verify_time": "2026-03-02T22:20:30+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/59906",
+          "verified": true,
+          "verify_time": "2026-03-03T01:27:44+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 97749,
+        "shares": 562,
+        "saves": 1003,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0037",
+      "title": "博通与博通签署2000亿美元新产品供应协议",
+      "summary": "博通与博通签署2000亿美元新产品供应协议。业内人士预计该趋势将在未来3年内持续。",
+      "content": "博通与博通签署2000亿美元新产品供应协议。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "5nm",
+        "3nm"
+      ],
+      "publish_time": "2026-02-28T20:43:14+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/30330",
+          "verified": true,
+          "verify_time": "2026-03-02T22:00:52+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/74254",
+          "verified": true,
+          "verify_time": "2026-03-03T01:59:12+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 96112,
+        "shares": 2391,
+        "saves": 1176,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0038",
+      "title": "Intel宣布投资10亿美元建设新加坡新厂",
+      "summary": "最新数据显示，Intel宣布投资10亿美元建设新加坡新厂。相关公司股价盘前下跌约4%。",
+      "content": "据报道，Intel宣布投资10亿美元建设新加坡新厂。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "7nm",
+        "晶圆代工"
+      ],
+      "publish_time": "2026-02-26T04:07:17+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/95708",
+          "verified": true,
+          "verify_time": "2026-03-02T09:16:25+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/26516",
+          "verified": true,
+          "verify_time": "2026-03-02T16:52:27+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/39161",
+          "verified": true,
+          "verify_time": "2026-03-02T04:29:54+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 83794,
+        "shares": 2037,
+        "saves": 522,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0039",
+      "title": "台积电宣布投资1000亿美元建设新加坡新厂",
+      "summary": "据报道，台积电宣布投资1000亿美元建设新加坡新厂。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，台积电宣布投资1000亿美元建设新加坡新厂。相关公司股价盘前上涨约10%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "7nm",
+        "晶圆代工",
+        "Intel"
+      ],
+      "publish_time": "2026-03-02T23:46:56+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/55334",
+          "verified": true,
+          "verify_time": "2026-03-03T00:25:54+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/51579",
+          "verified": true,
+          "verify_time": "2026-03-02T09:33:54+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 68873,
+        "shares": 318,
+        "saves": 315,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0040",
+      "title": "博通发布新一代智能系统，能效提升46%",
+      "summary": "博通发布新一代智能系统，能效提升46%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据知情人士透露，博通发布新一代智能系统，能效提升46%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "5nm",
+        "ASML"
+      ],
+      "publish_time": "2026-02-26T17:03:42+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/67673",
+          "verified": true,
+          "verify_time": "2026-03-02T09:06:35+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/48393",
+          "verified": true,
+          "verify_time": "2026-03-02T17:46:38+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 19338,
+        "shares": 2534,
+        "saves": 1219,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0041",
+      "title": "台积电宣布投资50亿美元建设台湾新厂",
+      "summary": "据官方透露，台积电宣布投资50亿美元建设台湾新厂，这将显著影响相关行业发展。",
+      "content": "台积电宣布投资50亿美元建设台湾新厂。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "7nm",
+        "AMD"
+      ],
+      "publish_time": "2026-02-28T00:11:28+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/62853",
+          "verified": true,
+          "verify_time": "2026-03-02T17:37:23+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/94175",
+          "verified": true,
+          "verify_time": "2026-03-02T18:42:35+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/25074",
+          "verified": true,
+          "verify_time": "2026-03-02T21:52:35+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 82328,
+        "shares": 666,
+        "saves": 58,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0042",
+      "title": "ASMLQ2营收500亿美元，同比增长137%",
+      "summary": "ASMLQ2营收500亿美元，同比增长137%。市场分析师认为此举将带来30%的增长潜力。",
+      "content": "ASMLQ2营收500亿美元，同比增长137%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "ASML",
+        "7nm"
+      ],
+      "publish_time": "2026-02-25T03:36:59+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/99090",
+          "verified": true,
+          "verify_time": "2026-03-02T19:04:12+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/63328",
+          "verified": true,
+          "verify_time": "2026-03-02T19:26:37+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/21745",
+          "verified": true,
+          "verify_time": "2026-03-02T23:18:00+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 51649,
+        "shares": 3524,
+        "saves": 618,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0043",
+      "title": "ASML发布新一代新一代技术，能效提升105%",
+      "summary": "ASML发布新一代新一代技术，能效提升105%。市场分析师认为此举将带来13%的增长潜力。",
+      "content": "最新数据显示，ASML发布新一代新一代技术，能效提升105%。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "晶圆代工",
+        "ASML"
+      ],
+      "publish_time": "2026-02-28T12:24:18+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/51971",
+          "verified": true,
+          "verify_time": "2026-03-03T01:25:18+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/66827",
+          "verified": true,
+          "verify_time": "2026-03-02T20:41:21+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 25162,
+        "shares": 2564,
+        "saves": 1530,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0044",
+      "title": "AMD与高通签署500亿美元创新方案供应协议",
+      "summary": "AMD与高通签署500亿美元创新方案供应协议。业内人士预计该趋势将在未来2年内持续。",
+      "content": "AMD与高通签署500亿美元创新方案供应协议。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "7nm",
+        "ASML"
+      ],
+      "publish_time": "2026-02-26T04:53:48+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/72068",
+          "verified": true,
+          "verify_time": "2026-03-02T07:03:54+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/47271",
+          "verified": true,
+          "verify_time": "2026-03-03T00:44:24+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/58928",
+          "verified": true,
+          "verify_time": "2026-03-02T22:00:48+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "negative",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 41049,
+        "shares": 3986,
+        "saves": 782,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0045",
+      "title": "英伟达宣布投资5000亿美元建设北京新厂",
+      "summary": "英伟达宣布投资5000亿美元建设北京新厂。市场分析师认为此举将带来32%的增长潜力。",
+      "content": "据报道，英伟达宣布投资5000亿美元建设北京新厂。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "EUV",
+        "3nm"
+      ],
+      "publish_time": "2026-03-02T13:03:09+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/71161",
+          "verified": true,
+          "verify_time": "2026-03-02T20:35:56+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/77648",
+          "verified": true,
+          "verify_time": "2026-03-02T06:54:31+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 21718,
+        "shares": 2678,
+        "saves": 67,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0046",
+      "title": "IntelQ4营收2000亿美元，同比增长78%",
+      "summary": "IntelQ4营收2000亿美元，同比增长78%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据官方透露，IntelQ4营收2000亿美元，同比增长78%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "ASML",
+        "EUV"
+      ],
+      "publish_time": "2026-02-25T20:13:39+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67900",
+          "verified": true,
+          "verify_time": "2026-03-02T23:48:34+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/84060",
+          "verified": true,
+          "verify_time": "2026-03-02T17:13:43+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/74102",
+          "verified": true,
+          "verify_time": "2026-03-02T12:06:35+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 78918,
+        "shares": 1379,
+        "saves": 1047,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0047",
+      "title": "博通Q1营收10亿美元，同比增长198%",
+      "summary": "博通Q1营收10亿美元，同比增长198%。业内人士预计该趋势将在未来4年内持续。",
+      "content": "博通Q1营收10亿美元，同比增长198%。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "Intel",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-27T14:56:13+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/35415",
+          "verified": true,
+          "verify_time": "2026-03-02T21:58:14+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/56742",
+          "verified": true,
+          "verify_time": "2026-03-02T22:43:29+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 72489,
+        "shares": 3482,
+        "saves": 1733,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0048",
+      "title": "Intel发布新一代智能系统，能效提升54%",
+      "summary": "最新数据显示，Intel发布新一代智能系统，能效提升54%。相关公司股价盘前下跌约10%。",
+      "content": "Intel发布新一代智能系统，能效提升54%。市场分析师认为此举将带来16%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "Intel",
+        "ASML",
+        "3nm"
+      ],
+      "publish_time": "2026-02-27T16:19:06+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/24705",
+          "verified": true,
+          "verify_time": "2026-03-02T04:34:22+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/32191",
+          "verified": true,
+          "verify_time": "2026-03-02T22:47:41+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/73574",
+          "verified": true,
+          "verify_time": "2026-03-02T23:47:58+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 93228,
+        "shares": 2484,
+        "saves": 1456,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0049",
+      "title": "高通成功量产5nm制程芯片，领先竞争对手",
+      "summary": "据知情人士透露，高通成功量产5nm制程芯片，领先竞争对手，这将显著影响相关行业发展。",
+      "content": "最新数据显示，高通成功量产5nm制程芯片，领先竞争对手。相关公司股价盘前下跌约7%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "晶圆代工",
+        "5nm"
+      ],
+      "publish_time": "2026-03-02T10:18:01+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65648",
+          "verified": true,
+          "verify_time": "2026-03-02T06:43:57+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/41695",
+          "verified": true,
+          "verify_time": "2026-03-02T21:48:57+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 39343,
+        "shares": 1562,
+        "saves": 97,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0050",
+      "title": "博通宣布投资1000亿美元建设新加坡新厂",
+      "summary": "最新数据显示，博通宣布投资1000亿美元建设新加坡新厂。相关公司股价盘前上涨约9%。",
+      "content": "据官方透露，博通宣布投资1000亿美元建设新加坡新厂，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "5nm",
+        "Intel"
+      ],
+      "publish_time": "2026-02-28T15:26:14+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/27761",
+          "verified": true,
+          "verify_time": "2026-03-03T02:59:08+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/32664",
+          "verified": true,
+          "verify_time": "2026-03-03T01:19:29+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 27331,
+        "shares": 3862,
+        "saves": 1909,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0051",
+      "title": "高通成功量产2nm制程芯片，领先竞争对手",
+      "summary": "据分析师透露，高通成功量产2nm制程芯片，领先竞争对手，这将显著影响相关行业发展。",
+      "content": "高通成功量产2nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "3nm",
+        "台积电"
+      ],
+      "publish_time": "2026-02-26T15:46:47+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83557",
+          "verified": true,
+          "verify_time": "2026-03-02T12:02:48+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/79955",
+          "verified": true,
+          "verify_time": "2026-03-02T05:48:05+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/86692",
+          "verified": true,
+          "verify_time": "2026-03-02T14:02:45+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 45570,
+        "shares": 2783,
+        "saves": 1842,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0052",
+      "title": "AMDQ4营收5000亿美元，同比增长152%",
+      "summary": "AMDQ4营收5000亿美元，同比增长152%。市场分析师认为此举将带来46%的增长潜力。",
+      "content": "据报道，AMDQ4营收5000亿美元，同比增长152%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "Intel",
+        "7nm"
+      ],
+      "publish_time": "2026-02-25T07:50:21+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/41507",
+          "verified": true,
+          "verify_time": "2026-03-02T07:14:04+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/78002",
+          "verified": true,
+          "verify_time": "2026-03-03T00:06:55+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/56310",
+          "verified": true,
+          "verify_time": "2026-03-02T17:31:26+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 89649,
+        "shares": 4927,
+        "saves": 1734,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0053",
+      "title": "Intel成功量产2nm制程芯片，领先竞争对手",
+      "summary": "Intel成功量产2nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来2年内持续。",
+      "content": "Intel成功量产2nm制程芯片，领先竞争对手。市场分析师认为此举将带来34%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "5nm",
+        "Intel"
+      ],
+      "publish_time": "2026-02-28T16:56:58+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/48208",
+          "verified": true,
+          "verify_time": "2026-03-02T15:55:00+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/54379",
+          "verified": true,
+          "verify_time": "2026-03-02T09:44:34+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/83595",
+          "verified": true,
+          "verify_time": "2026-03-03T00:05:30+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 74970,
+        "shares": 1001,
+        "saves": 665,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0054",
+      "title": "台积电宣布投资2000亿美元建设北京新厂",
+      "summary": "最新数据显示，台积电宣布投资2000亿美元建设北京新厂。相关公司股价盘前上涨约2%。",
+      "content": "据分析师透露，台积电宣布投资2000亿美元建设北京新厂，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "ASML",
+        "AMD"
+      ],
+      "publish_time": "2026-03-01T21:13:50+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/93440",
+          "verified": true,
+          "verify_time": "2026-03-02T22:26:31+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/73728",
+          "verified": true,
+          "verify_time": "2026-03-02T06:23:36+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 13642,
+        "shares": 2225,
+        "saves": 1571,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0055",
+      "title": "Intel与台积电签署1000亿美元创新方案供应协议",
+      "summary": "据官方透露，Intel与台积电签署1000亿美元创新方案供应协议，这将显著影响相关行业发展。",
+      "content": "Intel与台积电签署1000亿美元创新方案供应协议。市场分析师认为此举将带来13%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "晶圆代工",
+        "ASML"
+      ],
+      "publish_time": "2026-02-26T18:50:29+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/75027",
+          "verified": true,
+          "verify_time": "2026-03-03T01:49:58+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/67829",
+          "verified": true,
+          "verify_time": "2026-03-02T22:52:35+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/26221",
+          "verified": true,
+          "verify_time": "2026-03-03T00:10:56+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "negative",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 90575,
+        "shares": 1881,
+        "saves": 447,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0056",
+      "title": "英伟达成功量产7nm制程芯片，领先竞争对手",
+      "summary": "英伟达成功量产7nm制程芯片，领先竞争对手。市场分析师认为此举将带来24%的增长潜力。",
+      "content": "据报道，英伟达成功量产7nm制程芯片，领先竞争对手。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "3nm",
+        "EUV"
+      ],
+      "publish_time": "2026-02-26T03:11:09+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/29081",
+          "verified": true,
+          "verify_time": "2026-03-02T07:19:19+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/16836",
+          "verified": true,
+          "verify_time": "2026-03-03T02:25:21+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/70668",
+          "verified": true,
+          "verify_time": "2026-03-03T02:40:37+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 23839,
+        "shares": 3309,
+        "saves": 1252,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0057",
+      "title": "Intel发布新一代创新方案，能效提升21%",
+      "summary": "据官方透露，Intel发布新一代创新方案，能效提升21%，这将显著影响相关行业发展。",
+      "content": "最新数据显示，Intel发布新一代创新方案，能效提升21%。相关公司股价盘前上涨约9%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "5nm",
+        "Intel",
+        "ASML"
+      ],
+      "publish_time": "2026-02-25T08:40:15+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/12019",
+          "verified": true,
+          "verify_time": "2026-03-02T12:41:40+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/35570",
+          "verified": true,
+          "verify_time": "2026-03-02T05:19:41+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/24929",
+          "verified": true,
+          "verify_time": "2026-03-02T06:24:12+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 54382,
+        "shares": 1829,
+        "saves": 1136,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0058",
+      "title": "AMD发布新一代创新方案，能效提升125%",
+      "summary": "最新数据显示，AMD发布新一代创新方案，能效提升125%。相关公司股价盘前上涨约6%。",
+      "content": "AMD发布新一代创新方案，能效提升125%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "3nm",
+        "台积电",
+        "5nm"
+      ],
+      "publish_time": "2026-03-01T07:33:43+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/94290",
+          "verified": true,
+          "verify_time": "2026-03-03T02:53:59+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/92675",
+          "verified": true,
+          "verify_time": "2026-03-02T13:37:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/38853",
+          "verified": true,
+          "verify_time": "2026-03-02T03:29:59+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 41307,
+        "shares": 661,
+        "saves": 819,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0059",
+      "title": "AMD发布新一代创新方案，能效提升113%",
+      "summary": "AMD发布新一代创新方案，能效提升113%。业内人士预计该趋势将在未来4年内持续。",
+      "content": "AMD发布新一代创新方案，能效提升113%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "晶圆代工",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-25T04:26:49+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/14641",
+          "verified": true,
+          "verify_time": "2026-03-02T09:43:26+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/78813",
+          "verified": true,
+          "verify_time": "2026-03-02T05:52:12+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/76204",
+          "verified": true,
+          "verify_time": "2026-03-02T15:52:48+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 91491,
+        "shares": 4893,
+        "saves": 972,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0060",
+      "title": "台积电Q3营收50亿美元，同比增长111%",
+      "summary": "据报道，台积电Q3营收50亿美元，同比增长111%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，台积电Q3营收50亿美元，同比增长111%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "3nm",
+        "EUV"
+      ],
+      "publish_time": "2026-02-28T20:00:40+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/73236",
+          "verified": true,
+          "verify_time": "2026-03-02T10:35:43+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/40117",
+          "verified": true,
+          "verify_time": "2026-03-02T05:54:45+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/53518",
+          "verified": true,
+          "verify_time": "2026-03-02T13:12:36+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 37393,
+        "shares": 1510,
+        "saves": 1214,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0061",
+      "title": "Intel与三星签署100亿美元新产品供应协议",
+      "summary": "Intel与三星签署100亿美元新产品供应协议。市场分析师认为此举将带来50%的增长潜力。",
+      "content": "据报道，Intel与三星签署100亿美元新产品供应协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "7nm",
+        "5nm"
+      ],
+      "publish_time": "2026-02-27T11:06:36+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/12918",
+          "verified": true,
+          "verify_time": "2026-03-03T02:08:41+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/73968",
+          "verified": true,
+          "verify_time": "2026-03-02T06:43:20+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/69492",
+          "verified": true,
+          "verify_time": "2026-03-02T22:35:39+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 58648,
+        "shares": 2793,
+        "saves": 1625,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0062",
+      "title": "博通宣布投资5000亿美元建设北京新厂",
+      "summary": "博通宣布投资5000亿美元建设北京新厂。市场分析师认为此举将带来12%的增长潜力。",
+      "content": "博通宣布投资5000亿美元建设北京新厂。市场分析师认为此举将带来15%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "3nm",
+        "晶圆代工",
+        "5nm"
+      ],
+      "publish_time": "2026-02-27T11:03:25+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/48090",
+          "verified": true,
+          "verify_time": "2026-03-02T16:36:31+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/50590",
+          "verified": true,
+          "verify_time": "2026-03-02T22:00:28+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/81522",
+          "verified": true,
+          "verify_time": "2026-03-02T15:27:33+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 80791,
+        "shares": 1859,
+        "saves": 369,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0063",
+      "title": "高通成功量产7nm制程芯片，领先竞争对手",
+      "summary": "高通成功量产7nm制程芯片，领先竞争对手。市场分析师认为此举将带来35%的增长潜力。",
+      "content": "高通成功量产7nm制程芯片，领先竞争对手。市场分析师认为此举将带来27%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "3nm",
+        "晶圆代工",
+        "Intel"
+      ],
+      "publish_time": "2026-02-27T08:52:54+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/57510",
+          "verified": true,
+          "verify_time": "2026-03-02T18:38:05+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83187",
+          "verified": true,
+          "verify_time": "2026-03-02T05:25:04+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 63290,
+        "shares": 4199,
+        "saves": 1578,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0064",
+      "title": "台积电成功量产5nm制程芯片，领先竞争对手",
+      "summary": "据官方透露，台积电成功量产5nm制程芯片，领先竞争对手，这将显著影响相关行业发展。",
+      "content": "台积电成功量产5nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "英伟达",
+        "EUV"
+      ],
+      "publish_time": "2026-02-26T19:25:35+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/74257",
+          "verified": true,
+          "verify_time": "2026-03-02T13:45:34+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/73643",
+          "verified": true,
+          "verify_time": "2026-03-02T21:55:00+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/72848",
+          "verified": true,
+          "verify_time": "2026-03-02T13:26:41+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 46469,
+        "shares": 1846,
+        "saves": 953,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0065",
+      "title": "ASML发布新一代新产品，能效提升94%",
+      "summary": "ASML发布新一代新产品，能效提升94%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，ASML发布新一代新产品，能效提升94%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "3nm",
+        "台积电"
+      ],
+      "publish_time": "2026-02-28T17:48:46+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/95548",
+          "verified": true,
+          "verify_time": "2026-03-02T08:56:32+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/43192",
+          "verified": true,
+          "verify_time": "2026-03-03T02:38:38+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/96779",
+          "verified": true,
+          "verify_time": "2026-03-03T02:48:16+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 63512,
+        "shares": 4704,
+        "saves": 486,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0066",
+      "title": "博通成功量产7nm制程芯片，领先竞争对手",
+      "summary": "据报道，博通成功量产7nm制程芯片，领先竞争对手。这一进展标志着行业进入新的发展阶段。",
+      "content": "博通成功量产7nm制程芯片，领先竞争对手。市场分析师认为此举将带来39%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "3nm",
+        "英伟达",
+        "7nm"
+      ],
+      "publish_time": "2026-02-24T22:03:24+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/85242",
+          "verified": true,
+          "verify_time": "2026-03-02T16:23:36+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/59765",
+          "verified": true,
+          "verify_time": "2026-03-02T17:24:58+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 42403,
+        "shares": 1056,
+        "saves": 213,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0067",
+      "title": "台积电发布新一代创新方案，能效提升197%",
+      "summary": "台积电发布新一代创新方案，能效提升197%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，台积电发布新一代创新方案，能效提升197%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "AMD",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-24T14:34:22+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/56441",
+          "verified": true,
+          "verify_time": "2026-03-03T03:17:04+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/31346",
+          "verified": true,
+          "verify_time": "2026-03-02T04:42:58+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 82081,
+        "shares": 4950,
+        "saves": 742,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0068",
+      "title": "Intel宣布投资5000亿美元建设得克萨斯新厂",
+      "summary": "据官方透露，Intel宣布投资5000亿美元建设得克萨斯新厂，这将显著影响相关行业发展。",
+      "content": "据官方透露，Intel宣布投资5000亿美元建设得克萨斯新厂，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "Intel",
+        "EUV",
+        "3nm"
+      ],
+      "publish_time": "2026-03-01T20:12:28+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/26341",
+          "verified": true,
+          "verify_time": "2026-03-03T00:01:01+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/81329",
+          "verified": true,
+          "verify_time": "2026-03-02T22:49:02+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 14254,
+        "shares": 685,
+        "saves": 428,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0069",
+      "title": "Intel与英伟达签署10亿美元新一代技术供应协议",
+      "summary": "据官方透露，Intel与英伟达签署10亿美元新一代技术供应协议，这将显著影响相关行业发展。",
+      "content": "Intel与英伟达签署10亿美元新一代技术供应协议。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "ASML",
+        "3nm"
+      ],
+      "publish_time": "2026-03-01T10:29:09+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/95119",
+          "verified": true,
+          "verify_time": "2026-03-02T17:52:47+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/82010",
+          "verified": true,
+          "verify_time": "2026-03-02T14:31:05+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65969",
+          "verified": true,
+          "verify_time": "2026-03-03T03:04:19+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 51710,
+        "shares": 770,
+        "saves": 1629,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0070",
+      "title": "三星成功量产2nm制程芯片，领先竞争对手",
+      "summary": "三星成功量产2nm制程芯片，领先竞争对手。市场分析师认为此举将带来20%的增长潜力。",
+      "content": "三星成功量产2nm制程芯片，领先竞争对手。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "AMD",
+        "7nm"
+      ],
+      "publish_time": "2026-03-01T09:00:59+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/78406",
+          "verified": true,
+          "verify_time": "2026-03-02T17:30:47+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/26859",
+          "verified": true,
+          "verify_time": "2026-03-02T18:09:11+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 59231,
+        "shares": 3204,
+        "saves": 1261,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0071",
+      "title": "AMDQ2营收1000亿美元，同比增长84%",
+      "summary": "据报道，AMDQ2营收1000亿美元，同比增长84%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，AMDQ2营收1000亿美元，同比增长84%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "7nm",
+        "晶圆代工",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-27T03:12:58+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/73370",
+          "verified": true,
+          "verify_time": "2026-03-02T06:55:44+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/63010",
+          "verified": true,
+          "verify_time": "2026-03-02T05:52:29+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83504",
+          "verified": true,
+          "verify_time": "2026-03-03T02:25:58+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 68117,
+        "shares": 2899,
+        "saves": 1421,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0072",
+      "title": "ASML与英伟达签署5000亿美元新产品供应协议",
+      "summary": "ASML与英伟达签署5000亿美元新产品供应协议。业内人士预计该趋势将在未来1年内持续。",
+      "content": "ASML与英伟达签署5000亿美元新产品供应协议。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "7nm",
+        "晶圆代工",
+        "Intel"
+      ],
+      "publish_time": "2026-02-26T13:19:52+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/19283",
+          "verified": true,
+          "verify_time": "2026-03-02T08:33:21+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/92593",
+          "verified": true,
+          "verify_time": "2026-03-02T16:27:37+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 67504,
+        "shares": 3085,
+        "saves": 1791,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0073",
+      "title": "AMD宣布投资1000亿美元建设北京新厂",
+      "summary": "据报道，AMD宣布投资1000亿美元建设北京新厂。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，AMD宣布投资1000亿美元建设北京新厂，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "AMD",
+        "Intel"
+      ],
+      "publish_time": "2026-03-02T14:15:55+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/24578",
+          "verified": true,
+          "verify_time": "2026-03-02T17:58:33+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/30561",
+          "verified": true,
+          "verify_time": "2026-03-02T08:22:26+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/28124",
+          "verified": true,
+          "verify_time": "2026-03-02T06:59:05+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 81163,
+        "shares": 1619,
+        "saves": 1357,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0074",
+      "title": "三星Q3营收5000亿美元，同比增长184%",
+      "summary": "三星Q3营收5000亿美元，同比增长184%。业内人士预计该趋势将在未来2年内持续。",
+      "content": "三星Q3营收5000亿美元，同比增长184%。市场分析师认为此举将带来16%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "7nm",
+        "台积电"
+      ],
+      "publish_time": "2026-02-24T23:54:38+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/74246",
+          "verified": true,
+          "verify_time": "2026-03-03T00:36:36+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/87863",
+          "verified": true,
+          "verify_time": "2026-03-02T20:06:25+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 99047,
+        "shares": 4950,
+        "saves": 1454,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0075",
+      "title": "高通与Intel签署5000亿美元新产品供应协议",
+      "summary": "最新数据显示，高通与Intel签署5000亿美元新产品供应协议。相关公司股价盘前上涨约10%。",
+      "content": "高通与Intel签署5000亿美元新产品供应协议。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "EUV",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-26T12:15:02+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/50884",
+          "verified": true,
+          "verify_time": "2026-03-02T06:14:50+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/58715",
+          "verified": true,
+          "verify_time": "2026-03-02T07:02:21+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/99998",
+          "verified": true,
+          "verify_time": "2026-03-02T17:38:43+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 89000,
+        "shares": 4468,
+        "saves": 1871,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0076",
+      "title": "高通与台积电签署500亿美元创新方案供应协议",
+      "summary": "最新数据显示，高通与台积电签署500亿美元创新方案供应协议。相关公司股价盘前上涨约1%。",
+      "content": "高通与台积电签署500亿美元创新方案供应协议。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "台积电",
+        "5nm"
+      ],
+      "publish_time": "2026-02-24T07:58:52+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/63256",
+          "verified": true,
+          "verify_time": "2026-03-02T09:45:39+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/85646",
+          "verified": true,
+          "verify_time": "2026-03-03T03:10:38+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "negative",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 76032,
+        "shares": 3963,
+        "saves": 268,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0077",
+      "title": "ASML宣布投资10亿美元建设得克萨斯新厂",
+      "summary": "ASML宣布投资10亿美元建设得克萨斯新厂。市场分析师认为此举将带来39%的增长潜力。",
+      "content": "ASML宣布投资10亿美元建设得克萨斯新厂。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "AMD",
+        "5nm"
+      ],
+      "publish_time": "2026-03-02T19:55:31+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/59165",
+          "verified": true,
+          "verify_time": "2026-03-03T03:23:41+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/38008",
+          "verified": true,
+          "verify_time": "2026-03-02T21:18:03+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55761",
+          "verified": true,
+          "verify_time": "2026-03-02T20:48:14+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 95650,
+        "shares": 4663,
+        "saves": 1468,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0078",
+      "title": "英伟达发布新一代新一代技术，能效提升119%",
+      "summary": "据分析师透露，英伟达发布新一代新一代技术，能效提升119%，这将显著影响相关行业发展。",
+      "content": "英伟达发布新一代新一代技术，能效提升119%。市场分析师认为此举将带来32%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "英伟达",
+        "Intel"
+      ],
+      "publish_time": "2026-02-26T04:44:51+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/83849",
+          "verified": true,
+          "verify_time": "2026-03-03T01:33:42+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/56617",
+          "verified": true,
+          "verify_time": "2026-03-02T18:48:19+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/80084",
+          "verified": true,
+          "verify_time": "2026-03-02T14:05:11+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 72276,
+        "shares": 2341,
+        "saves": 600,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0079",
+      "title": "AMD与台积电签署1000亿美元智能系统供应协议",
+      "summary": "AMD与台积电签署1000亿美元智能系统供应协议。市场分析师认为此举将带来29%的增长潜力。",
+      "content": "AMD与台积电签署1000亿美元智能系统供应协议。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "7nm",
+        "EUV",
+        "5nm"
+      ],
+      "publish_time": "2026-03-01T11:37:25+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/38302",
+          "verified": true,
+          "verify_time": "2026-03-03T00:05:41+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/36407",
+          "verified": true,
+          "verify_time": "2026-03-02T22:02:29+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 41658,
+        "shares": 1715,
+        "saves": 1187,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0080",
+      "title": "台积电Q1营收1000亿美元，同比增长72%",
+      "summary": "台积电Q1营收1000亿美元，同比增长72%。业内人士预计该趋势将在未来2年内持续。",
+      "content": "台积电Q1营收1000亿美元，同比增长72%。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "AMD",
+        "晶圆代工"
+      ],
+      "publish_time": "2026-02-24T10:52:22+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/22831",
+          "verified": true,
+          "verify_time": "2026-03-02T17:54:11+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/36234",
+          "verified": true,
+          "verify_time": "2026-03-02T08:19:41+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/86854",
+          "verified": true,
+          "verify_time": "2026-03-03T01:55:32+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        }
+      ],
+      "metrics": {
+        "views": 12190,
+        "shares": 2598,
+        "saves": 883,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0081",
+      "title": "英伟达成功量产2nm制程芯片，领先竞争对手",
+      "summary": "英伟达成功量产2nm制程芯片，领先竞争对手。市场分析师认为此举将带来25%的增长潜力。",
+      "content": "最新数据显示，英伟达成功量产2nm制程芯片，领先竞争对手。相关公司股价盘前下跌约10%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "5nm",
+        "Intel"
+      ],
+      "publish_time": "2026-03-02T16:12:54+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/84777",
+          "verified": true,
+          "verify_time": "2026-03-02T17:46:19+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/43708",
+          "verified": true,
+          "verify_time": "2026-03-03T02:55:38+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/45367",
+          "verified": true,
+          "verify_time": "2026-03-02T13:28:35+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 95505,
+        "shares": 4546,
+        "saves": 319,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0082",
+      "title": "高通发布新一代智能系统，能效提升101%",
+      "summary": "据报道，高通发布新一代智能系统，能效提升101%。这一进展标志着行业进入新的发展阶段。",
+      "content": "高通发布新一代智能系统，能效提升101%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "3nm",
+        "AMD"
+      ],
+      "publish_time": "2026-02-27T00:49:19+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/98324",
+          "verified": true,
+          "verify_time": "2026-03-02T11:24:27+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/25212",
+          "verified": true,
+          "verify_time": "2026-03-02T19:43:58+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/14107",
+          "verified": true,
+          "verify_time": "2026-03-02T11:45:41+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "negative",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 42382,
+        "shares": 1895,
+        "saves": 1721,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0083",
+      "title": "台积电宣布投资10亿美元建设上海新厂",
+      "summary": "台积电宣布投资10亿美元建设上海新厂。业内人士预计该趋势将在未来2年内持续。",
+      "content": "最新数据显示，台积电宣布投资10亿美元建设上海新厂。相关公司股价盘前上涨约9%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "晶圆代工",
+        "AMD"
+      ],
+      "publish_time": "2026-03-01T03:22:38+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/49072",
+          "verified": true,
+          "verify_time": "2026-03-02T05:30:41+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/84935",
+          "verified": true,
+          "verify_time": "2026-03-02T06:39:51+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/34152",
+          "verified": true,
+          "verify_time": "2026-03-03T01:08:35+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 53116,
+        "shares": 1454,
+        "saves": 1972,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0084",
+      "title": "ASML与英伟达签署10亿美元新一代技术供应协议",
+      "summary": "最新数据显示，ASML与英伟达签署10亿美元新一代技术供应协议。相关公司股价盘前上涨约5%。",
+      "content": "最新数据显示，ASML与英伟达签署10亿美元新一代技术供应协议。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "台积电",
+        "AMD"
+      ],
+      "publish_time": "2026-02-25T21:42:54+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/87655",
+          "verified": true,
+          "verify_time": "2026-03-02T15:21:43+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/80396",
+          "verified": true,
+          "verify_time": "2026-03-02T10:07:08+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 27524,
+        "shares": 2928,
+        "saves": 1448,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0085",
+      "title": "ASML与三星签署10亿美元新一代技术供应协议",
+      "summary": "据分析师透露，ASML与三星签署10亿美元新一代技术供应协议，这将显著影响相关行业发展。",
+      "content": "据分析师透露，ASML与三星签署10亿美元新一代技术供应协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "EUV",
+        "台积电",
+        "AMD"
+      ],
+      "publish_time": "2026-02-27T15:34:51+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/65890",
+          "verified": true,
+          "verify_time": "2026-03-02T07:41:00+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/76553",
+          "verified": true,
+          "verify_time": "2026-03-02T16:17:06+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/67163",
+          "verified": true,
+          "verify_time": "2026-03-02T08:28:01+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "neutral",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 67693,
+        "shares": 3817,
+        "saves": 153,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0086",
+      "title": "AMD与英伟达签署10亿美元创新方案供应协议",
+      "summary": "最新数据显示，AMD与英伟达签署10亿美元创新方案供应协议。相关公司股价盘前下跌约1%。",
+      "content": "最新数据显示，AMD与英伟达签署10亿美元创新方案供应协议。相关公司股价盘前下跌约3%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "台积电",
+        "ASML"
+      ],
+      "publish_time": "2026-02-24T13:33:50+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/13219",
+          "verified": true,
+          "verify_time": "2026-03-02T04:37:50+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/21849",
+          "verified": true,
+          "verify_time": "2026-03-03T00:55:27+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 52247,
+        "shares": 2090,
+        "saves": 1124,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0087",
+      "title": "英伟达成功量产2nm制程芯片，领先竞争对手",
+      "summary": "据分析师透露，英伟达成功量产2nm制程芯片，领先竞争对手，这将显著影响相关行业发展。",
+      "content": "最新数据显示，英伟达成功量产2nm制程芯片，领先竞争对手。相关公司股价盘前下跌约4%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "晶圆代工",
+        "Intel"
+      ],
+      "publish_time": "2026-02-25T06:59:55+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/25617",
+          "verified": true,
+          "verify_time": "2026-03-02T05:19:09+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/27610",
+          "verified": true,
+          "verify_time": "2026-03-02T12:25:49+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 7469,
+        "shares": 4176,
+        "saves": 996,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0088",
+      "title": "IntelQ2营收2000亿美元，同比增长191%",
+      "summary": "据报道，IntelQ2营收2000亿美元，同比增长191%。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，IntelQ2营收2000亿美元，同比增长191%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "晶圆代工",
+        "AMD"
+      ],
+      "publish_time": "2026-02-24T05:36:10+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/97533",
+          "verified": true,
+          "verify_time": "2026-03-02T23:30:59+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/40861",
+          "verified": true,
+          "verify_time": "2026-03-02T15:11:02+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/63675",
+          "verified": true,
+          "verify_time": "2026-03-02T18:19:10+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 85435,
+        "shares": 2067,
+        "saves": 1048,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0089",
+      "title": "AMD宣布投资10亿美元建设台湾新厂",
+      "summary": "AMD宣布投资10亿美元建设台湾新厂。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，AMD宣布投资10亿美元建设台湾新厂。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "7nm",
+        "EUV",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-28T19:32:25+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/94390",
+          "verified": true,
+          "verify_time": "2026-03-02T20:06:47+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/26658",
+          "verified": true,
+          "verify_time": "2026-03-02T06:30:08+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 27225,
+        "shares": 4904,
+        "saves": 388,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0090",
+      "title": "AMDQ3营收500亿美元，同比增长144%",
+      "summary": "据报道，AMDQ3营收500亿美元，同比增长144%。这一进展标志着行业进入新的发展阶段。",
+      "content": "AMDQ3营收500亿美元，同比增长144%。市场分析师认为此举将带来47%的增长潜力。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "晶圆代工",
+        "7nm"
+      ],
+      "publish_time": "2026-02-24T07:08:40+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/61572",
+          "verified": true,
+          "verify_time": "2026-03-02T15:47:52+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/48962",
+          "verified": true,
+          "verify_time": "2026-03-02T12:38:19+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/90406",
+          "verified": true,
+          "verify_time": "2026-03-02T20:15:44+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 40354,
+        "shares": 4413,
+        "saves": 1095,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0091",
+      "title": "三星与高通签署2000亿美元创新方案供应协议",
+      "summary": "据官方透露，三星与高通签署2000亿美元创新方案供应协议，这将显著影响相关行业发展。",
+      "content": "最新数据显示，三星与高通签署2000亿美元创新方案供应协议。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "ASML",
+        "台积电"
+      ],
+      "publish_time": "2026-02-27T04:08:10+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/58191",
+          "verified": true,
+          "verify_time": "2026-03-02T11:29:40+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/72003",
+          "verified": true,
+          "verify_time": "2026-03-02T12:32:14+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "neutral",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        }
+      ],
+      "metrics": {
+        "views": 43479,
+        "shares": 1544,
+        "saves": 235,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0092",
+      "title": "高通发布新一代新一代技术，能效提升170%",
+      "summary": "高通发布新一代新一代技术，能效提升170%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，高通发布新一代新一代技术，能效提升170%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "AMD",
+        "EUV"
+      ],
+      "publish_time": "2026-03-01T18:06:56+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/38807",
+          "verified": true,
+          "verify_time": "2026-03-03T01:54:26+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/65920",
+          "verified": true,
+          "verify_time": "2026-03-02T04:17:04+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "neutral",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "neutral",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 16552,
+        "shares": 267,
+        "saves": 1897,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0093",
+      "title": "ASML与台积电签署1000亿美元新一代技术供应协议",
+      "summary": "据报道，ASML与台积电签署1000亿美元新一代技术供应协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，ASML与台积电签署1000亿美元新一代技术供应协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "EUV",
+        "台积电"
+      ],
+      "publish_time": "2026-03-01T22:23:47+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/67322",
+          "verified": true,
+          "verify_time": "2026-03-02T19:14:07+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/39251",
+          "verified": true,
+          "verify_time": "2026-03-02T18:45:32+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "neutral",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 25215,
+        "shares": 3978,
+        "saves": 1652,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0094",
+      "title": "Intel发布新一代新产品，能效提升84%",
+      "summary": "Intel发布新一代新产品，能效提升84%。市场分析师认为此举将带来50%的增长潜力。",
+      "content": "最新数据显示，Intel发布新一代新产品，能效提升84%。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "7nm",
+        "英伟达"
+      ],
+      "publish_time": "2026-02-27T14:34:55+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/85889",
+          "verified": true,
+          "verify_time": "2026-03-02T06:37:49+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/28067",
+          "verified": true,
+          "verify_time": "2026-03-02T18:38:44+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "positive",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "negative",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 21088,
+        "shares": 1086,
+        "saves": 1510,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0095",
+      "title": "高通成功量产5nm制程芯片，领先竞争对手",
+      "summary": "高通成功量产5nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来1年内持续。",
+      "content": "最新数据显示，高通成功量产5nm制程芯片，领先竞争对手。相关公司股价盘前上涨约9%。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "Intel",
+        "5nm",
+        "EUV"
+      ],
+      "publish_time": "2026-03-02T18:00:09+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/43471",
+          "verified": true,
+          "verify_time": "2026-03-02T11:11:46+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/37306",
+          "verified": true,
+          "verify_time": "2026-03-02T04:08:46+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/30046",
+          "verified": true,
+          "verify_time": "2026-03-02T17:49:48+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "positive",
+          "reason": "新闻提及英特尔"
+        }
+      ],
+      "metrics": {
+        "views": 95433,
+        "shares": 1043,
+        "saves": 1903,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0096",
+      "title": "AMD宣布投资10亿美元建设北京新厂",
+      "summary": "据报道，AMD宣布投资10亿美元建设北京新厂。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，AMD宣布投资10亿美元建设北京新厂，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "ASML",
+        "EUV",
+        "7nm"
+      ],
+      "publish_time": "2026-02-25T08:47:23+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/23703",
+          "verified": true,
+          "verify_time": "2026-03-02T15:45:41+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55121",
+          "verified": true,
+          "verify_time": "2026-03-02T04:27:54+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        }
+      ],
+      "metrics": {
+        "views": 90338,
+        "shares": 1871,
+        "saves": 1332,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0097",
+      "title": "IntelQ4营收5000亿美元，同比增长163%",
+      "summary": "据报道，IntelQ4营收5000亿美元，同比增长163%。这一进展标志着行业进入新的发展阶段。",
+      "content": "IntelQ4营收5000亿美元，同比增长163%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "AMD",
+        "7nm",
+        "5nm"
+      ],
+      "publish_time": "2026-03-01T01:20:58+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/30123",
+          "verified": true,
+          "verify_time": "2026-03-02T11:28:17+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/95485",
+          "verified": true,
+          "verify_time": "2026-03-02T20:09:04+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/79207",
+          "verified": true,
+          "verify_time": "2026-03-02T12:16:11+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "impact": "positive",
+          "reason": "新闻提及高通"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 93425,
+        "shares": 4692,
+        "saves": 92,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0098",
+      "title": "Intel成功量产3nm制程芯片，领先竞争对手",
+      "summary": "Intel成功量产3nm制程芯片，领先竞争对手。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据官方透露，Intel成功量产3nm制程芯片，领先竞争对手，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "晶圆代工",
+        "3nm",
+        "7nm"
+      ],
+      "publish_time": "2026-02-25T22:18:52+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/26530",
+          "verified": true,
+          "verify_time": "2026-03-02T15:20:58+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/39331",
+          "verified": true,
+          "verify_time": "2026-03-02T12:13:34+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "impact": "positive",
+          "reason": "新闻提及台积电"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "impact": "neutral",
+          "reason": "新闻提及英特尔"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "impact": "positive",
+          "reason": "新闻提及超威半导体"
+        }
+      ],
+      "metrics": {
+        "views": 47715,
+        "shares": 568,
+        "saves": 1572,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0099",
+      "title": "AMD与ASML签署2000亿美元创新方案供应协议",
+      "summary": "AMD与ASML签署2000亿美元创新方案供应协议。市场分析师认为此举将带来43%的增长潜力。",
+      "content": "AMD与ASML签署2000亿美元创新方案供应协议。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "英伟达",
+        "AMD",
+        "台积电"
+      ],
+      "publish_time": "2026-03-02T04:44:12+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/82255",
+          "verified": true,
+          "verify_time": "2026-03-02T05:28:08+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/94647",
+          "verified": true,
+          "verify_time": "2026-03-02T10:01:37+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AVGO",
+          "name": "博通",
+          "impact": "positive",
+          "reason": "新闻提及博通"
+        },
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "impact": "negative",
+          "reason": "新闻提及阿斯麦"
+        }
+      ],
+      "metrics": {
+        "views": 43676,
+        "shares": 315,
+        "saves": 852,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "semiconductor-0100",
+      "title": "ASML与三星签署1000亿美元创新方案供应协议",
+      "summary": "最新数据显示，ASML与三星签署1000亿美元创新方案供应协议。相关公司股价盘前上涨约8%。",
+      "content": "据报道，ASML与三星签署1000亿美元创新方案供应协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "semiconductor",
+      "tags": [
+        "台积电",
+        "3nm",
+        "EUV"
+      ],
+      "publish_time": "2026-02-24T20:50:19+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/22103",
+          "verified": true,
+          "verify_time": "2026-03-02T15:46:32+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/31086",
+          "verified": true,
+          "verify_time": "2026-03-02T13:01:34+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/62806",
+          "verified": true,
+          "verify_time": "2026-03-02T16:55:00+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 25054,
+        "shares": 3579,
+        "saves": 1327,
+        "credibility_score": 93
+      },
+      "status": "published"
+    }
+  ]
+}

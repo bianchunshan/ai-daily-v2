@@ -1,0 +1,5671 @@
+{
+  "version": "2.0",
+  "category": "ai",
+  "name": "人工智能",
+  "total": 100,
+  "updated": "2026-03-03T03:28:38.801762",
+  "news": [
+    {
+      "id": "ai-0001",
+      "title": "阿里巴巴完成1000亿美元融资，估值达10000亿美元",
+      "summary": "据知情人士透露，阿里巴巴完成1000亿美元融资，估值达10000亿美元，这将显著影响相关行业发展。",
+      "content": "据报道，阿里巴巴完成1000亿美元融资，估值达10000亿美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "Google",
+        "Meta"
+      ],
+      "publish_time": "2026-03-01T16:04:35+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/84310",
+          "verified": true,
+          "verify_time": "2026-03-02T23:09:27+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/42607",
+          "verified": true,
+          "verify_time": "2026-03-02T13:25:20+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 76263,
+        "shares": 1110,
+        "saves": 1259,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0002",
+      "title": "Anthropic开源新一代技术，推动OpenAI发展",
+      "summary": "Anthropic开源新一代技术，推动OpenAI发展。市场分析师认为此举将带来39%的增长潜力。",
+      "content": "据报道，Anthropic开源新一代技术，推动OpenAI发展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "微软",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-25T07:57:08+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63188",
+          "verified": true,
+          "verify_time": "2026-03-02T04:30:26+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/82683",
+          "verified": true,
+          "verify_time": "2026-03-02T21:33:13+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/29591",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:36+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 80477,
+        "shares": 3875,
+        "saves": 1629,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0003",
+      "title": "字节跳动完成500亿美元融资，估值达10000亿美元",
+      "summary": "字节跳动完成500亿美元融资，估值达10000亿美元。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据分析师透露，字节跳动完成500亿美元融资，估值达10000亿美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "自动驾驶",
+        "算力"
+      ],
+      "publish_time": "2026-02-28T18:45:04+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/25882",
+          "verified": true,
+          "verify_time": "2026-03-02T09:07:46+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/42250",
+          "verified": true,
+          "verify_time": "2026-03-03T03:16:34+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 46519,
+        "shares": 1220,
+        "saves": 1909,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0004",
+      "title": "Google开源新一代技术，推动AI芯片发展",
+      "summary": "Google开源新一代技术，推动AI芯片发展。市场分析师认为此举将带来13%的增长潜力。",
+      "content": "据知情人士透露，Google开源新一代技术，推动AI芯片发展，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "OpenAI",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-24T13:41:17+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/21012",
+          "verified": true,
+          "verify_time": "2026-03-02T08:37:00+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/29271",
+          "verified": true,
+          "verify_time": "2026-03-02T17:52:09+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/76807",
+          "verified": true,
+          "verify_time": "2026-03-03T02:50:41+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 21624,
+        "shares": 2481,
+        "saves": 582,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0005",
+      "title": "Google完成500亿美元融资，估值达50000亿美元",
+      "summary": "据报道，Google完成500亿美元融资，估值达50000亿美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "Google完成500亿美元融资，估值达50000亿美元。市场分析师认为此举将带来34%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "自动驾驶",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-01T12:10:51+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/88051",
+          "verified": true,
+          "verify_time": "2026-03-03T00:44:11+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/86138",
+          "verified": true,
+          "verify_time": "2026-03-02T20:35:57+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/46369",
+          "verified": true,
+          "verify_time": "2026-03-02T18:05:26+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 51728,
+        "shares": 2567,
+        "saves": 1766,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0006",
+      "title": "Google开源创新方案，推动自动驾驶发展",
+      "summary": "据官方透露，Google开源创新方案，推动自动驾驶发展，这将显著影响相关行业发展。",
+      "content": "据报道，Google开源创新方案，推动自动驾驶发展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "Meta",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-28T10:22:33+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/41233",
+          "verified": true,
+          "verify_time": "2026-03-02T05:53:28+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/69718",
+          "verified": true,
+          "verify_time": "2026-03-02T11:31:42+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 23706,
+        "shares": 1932,
+        "saves": 789,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0007",
+      "title": "微软发布新一代新产品，性能提升90%",
+      "summary": "微软发布新一代新产品，性能提升90%。市场分析师认为此举将带来35%的增长潜力。",
+      "content": "微软发布新一代新产品，性能提升90%。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "Meta",
+        "Google"
+      ],
+      "publish_time": "2026-03-02T22:53:41+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/88872",
+          "verified": true,
+          "verify_time": "2026-03-02T06:46:25+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/91236",
+          "verified": true,
+          "verify_time": "2026-03-02T12:16:21+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 62794,
+        "shares": 205,
+        "saves": 1437,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0008",
+      "title": "新一代技术月活用户突破100亿，创行业新高",
+      "summary": "最新数据显示，新一代技术月活用户突破100亿，创行业新高。相关公司股价盘前上涨约1%。",
+      "content": "新一代技术月活用户突破100亿，创行业新高。市场分析师认为此举将带来29%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "Google",
+        "微软"
+      ],
+      "publish_time": "2026-02-24T17:50:28+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/82878",
+          "verified": true,
+          "verify_time": "2026-03-02T16:20:31+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/13844",
+          "verified": true,
+          "verify_time": "2026-03-02T09:47:07+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 11344,
+        "shares": 4521,
+        "saves": 692,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0009",
+      "title": "Google发布新一代智能系统，性能提升79%",
+      "summary": "Google发布新一代智能系统，性能提升79%。市场分析师认为此举将带来31%的增长潜力。",
+      "content": "最新数据显示，Google发布新一代智能系统，性能提升79%。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "OpenAI",
+        "算力"
+      ],
+      "publish_time": "2026-03-01T18:44:40+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/93962",
+          "verified": true,
+          "verify_time": "2026-03-02T18:41:47+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/75636",
+          "verified": true,
+          "verify_time": "2026-03-02T21:37:23+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/21038",
+          "verified": true,
+          "verify_time": "2026-03-02T11:34:41+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 89997,
+        "shares": 401,
+        "saves": 1302,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0010",
+      "title": "字节跳动与Anthropic达成微软合作协议",
+      "summary": "据分析师透露，字节跳动与Anthropic达成微软合作协议，这将显著影响相关行业发展。",
+      "content": "据报道，字节跳动与Anthropic达成微软合作协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "AI芯片",
+        "Meta"
+      ],
+      "publish_time": "2026-03-02T22:00:39+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/67147",
+          "verified": true,
+          "verify_time": "2026-03-02T04:00:57+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/29095",
+          "verified": true,
+          "verify_time": "2026-03-02T21:39:11+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 76838,
+        "shares": 3454,
+        "saves": 1799,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0011",
+      "title": "微软完成1000亿美元融资，估值达100亿美元",
+      "summary": "微软完成1000亿美元融资，估值达100亿美元。市场分析师认为此举将带来28%的增长潜力。",
+      "content": "微软完成1000亿美元融资，估值达100亿美元。市场分析师认为此举将带来22%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "GPT",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-25T08:04:01+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/20574",
+          "verified": true,
+          "verify_time": "2026-03-02T10:16:55+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/68830",
+          "verified": true,
+          "verify_time": "2026-03-02T04:59:42+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 26240,
+        "shares": 3258,
+        "saves": 721,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0012",
+      "title": "Google完成50亿美元融资，估值达10000亿美元",
+      "summary": "据报道，Google完成50亿美元融资，估值达10000亿美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "Google完成50亿美元融资，估值达10000亿美元。市场分析师认为此举将带来30%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "生成式AI",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-25T12:43:39+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/69221",
+          "verified": true,
+          "verify_time": "2026-03-02T03:56:53+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/80187",
+          "verified": true,
+          "verify_time": "2026-03-02T12:48:00+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/72677",
+          "verified": true,
+          "verify_time": "2026-03-02T20:41:03+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 32669,
+        "shares": 3654,
+        "saves": 1506,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0013",
+      "title": "阿里巴巴与Google达成GPT合作协议",
+      "summary": "据报道，阿里巴巴与Google达成GPT合作协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，阿里巴巴与Google达成GPT合作协议。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "Meta",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-03-03T00:16:23+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/59769",
+          "verified": true,
+          "verify_time": "2026-03-02T22:47:31+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/29254",
+          "verified": true,
+          "verify_time": "2026-03-02T23:37:46+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/71985",
+          "verified": true,
+          "verify_time": "2026-03-02T21:12:23+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 83531,
+        "shares": 884,
+        "saves": 1083,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0014",
+      "title": "微软发布新一代创新方案，性能提升53%",
+      "summary": "据报道，微软发布新一代创新方案，性能提升53%。这一进展标志着行业进入新的发展阶段。",
+      "content": "微软发布新一代创新方案，性能提升53%。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "GPT",
+        "算力"
+      ],
+      "publish_time": "2026-02-27T22:02:09+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/22271",
+          "verified": true,
+          "verify_time": "2026-03-02T15:38:53+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/26895",
+          "verified": true,
+          "verify_time": "2026-03-03T00:39:46+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 12449,
+        "shares": 369,
+        "saves": 214,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0015",
+      "title": "微软完成100亿美元融资，估值达10000亿美元",
+      "summary": "据报道，微软完成100亿美元融资，估值达10000亿美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，微软完成100亿美元融资，估值达10000亿美元。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "Meta",
+        "大模型"
+      ],
+      "publish_time": "2026-02-26T18:43:15+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/47504",
+          "verified": true,
+          "verify_time": "2026-03-02T03:29:11+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/67163",
+          "verified": true,
+          "verify_time": "2026-03-02T20:14:10+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/68145",
+          "verified": true,
+          "verify_time": "2026-03-02T22:25:05+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 53242,
+        "shares": 188,
+        "saves": 1815,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0016",
+      "title": "阿里巴巴开源新一代技术，推动微软发展",
+      "summary": "据报道，阿里巴巴开源新一代技术，推动微软发展。这一进展标志着行业进入新的发展阶段。",
+      "content": "阿里巴巴开源新一代技术，推动微软发展。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "GPT",
+        "大模型",
+        "Google"
+      ],
+      "publish_time": "2026-02-25T02:42:38+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/76106",
+          "verified": true,
+          "verify_time": "2026-03-02T20:46:26+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/30075",
+          "verified": true,
+          "verify_time": "2026-03-02T13:48:48+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/63058",
+          "verified": true,
+          "verify_time": "2026-03-02T23:41:36+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 31495,
+        "shares": 775,
+        "saves": 1822,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0017",
+      "title": "微软开源新产品，推动算力发展",
+      "summary": "据报道，微软开源新产品，推动算力发展。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，微软开源新产品，推动算力发展。相关公司股价盘前下跌约5%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "生成式AI",
+        "AI芯片",
+        "大模型"
+      ],
+      "publish_time": "2026-02-24T09:12:01+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/87249",
+          "verified": true,
+          "verify_time": "2026-03-02T19:48:46+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/91834",
+          "verified": true,
+          "verify_time": "2026-03-02T10:51:40+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 76531,
+        "shares": 811,
+        "saves": 1590,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0018",
+      "title": "OpenAI开源智能系统，推动生成式AI发展",
+      "summary": "最新数据显示，OpenAI开源智能系统，推动生成式AI发展。相关公司股价盘前上涨约10%。",
+      "content": "OpenAI开源智能系统，推动生成式AI发展。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "Meta",
+        "OpenAI"
+      ],
+      "publish_time": "2026-03-02T08:52:54+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/34654",
+          "verified": true,
+          "verify_time": "2026-03-03T02:12:18+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/59600",
+          "verified": true,
+          "verify_time": "2026-03-02T20:35:29+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/86614",
+          "verified": true,
+          "verify_time": "2026-03-02T04:36:47+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 47203,
+        "shares": 2086,
+        "saves": 1083,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0019",
+      "title": "字节跳动完成2000亿美元融资，估值达10000亿美元",
+      "summary": "字节跳动完成2000亿美元融资，估值达10000亿美元。业内人士预计该趋势将在未来5年内持续。",
+      "content": "最新数据显示，字节跳动完成2000亿美元融资，估值达10000亿美元。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "Google",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-28T19:40:34+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/78196",
+          "verified": true,
+          "verify_time": "2026-03-02T15:40:05+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/91648",
+          "verified": true,
+          "verify_time": "2026-03-02T18:02:13+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/82088",
+          "verified": true,
+          "verify_time": "2026-03-02T13:54:59+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 24516,
+        "shares": 1693,
+        "saves": 144,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0020",
+      "title": "Google开源新产品，推动Meta发展",
+      "summary": "据知情人士透露，Google开源新产品，推动Meta发展，这将显著影响相关行业发展。",
+      "content": "据报道，Google开源新产品，推动Meta发展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "自动驾驶",
+        "大模型"
+      ],
+      "publish_time": "2026-03-02T08:06:12+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/97163",
+          "verified": true,
+          "verify_time": "2026-03-02T04:19:59+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/29084",
+          "verified": true,
+          "verify_time": "2026-03-02T09:42:55+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/88514",
+          "verified": true,
+          "verify_time": "2026-03-02T12:00:52+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 23437,
+        "shares": 4546,
+        "saves": 641,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0021",
+      "title": "新一代技术月活用户突破1亿，创行业新高",
+      "summary": "据报道，新一代技术月活用户突破1亿，创行业新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，新一代技术月活用户突破1亿，创行业新高，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "AI芯片",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-24T11:33:00+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/56086",
+          "verified": true,
+          "verify_time": "2026-03-02T17:47:29+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/99667",
+          "verified": true,
+          "verify_time": "2026-03-02T18:13:21+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 15540,
+        "shares": 4852,
+        "saves": 1577,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0022",
+      "title": "新产品月活用户突破10亿，创行业新高",
+      "summary": "新产品月活用户突破10亿，创行业新高。业内人士预计该趋势将在未来1年内持续。",
+      "content": "新产品月活用户突破10亿，创行业新高。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "AI芯片",
+        "GPT"
+      ],
+      "publish_time": "2026-02-28T13:56:25+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/77664",
+          "verified": true,
+          "verify_time": "2026-03-02T12:40:31+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/56780",
+          "verified": true,
+          "verify_time": "2026-03-03T00:36:58+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/88488",
+          "verified": true,
+          "verify_time": "2026-03-02T19:30:58+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 65936,
+        "shares": 3642,
+        "saves": 1100,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0023",
+      "title": "新产品月活用户突破10亿，创行业新高",
+      "summary": "据知情人士透露，新产品月活用户突破10亿，创行业新高，这将显著影响相关行业发展。",
+      "content": "新产品月活用户突破10亿，创行业新高。市场分析师认为此举将带来24%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "生成式AI",
+        "算力"
+      ],
+      "publish_time": "2026-03-02T11:50:45+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/63898",
+          "verified": true,
+          "verify_time": "2026-03-02T16:48:14+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/36452",
+          "verified": true,
+          "verify_time": "2026-03-02T06:14:42+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 16446,
+        "shares": 4776,
+        "saves": 975,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0024",
+      "title": "Meta完成1000亿美元融资，估值达10000亿美元",
+      "summary": "最新数据显示，Meta完成1000亿美元融资，估值达10000亿美元。相关公司股价盘前下跌约3%。",
+      "content": "据报道，Meta完成1000亿美元融资，估值达10000亿美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "微软",
+        "算力"
+      ],
+      "publish_time": "2026-02-26T03:34:01+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/56093",
+          "verified": true,
+          "verify_time": "2026-03-02T06:18:26+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/52754",
+          "verified": true,
+          "verify_time": "2026-03-02T07:25:11+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 11276,
+        "shares": 1911,
+        "saves": 1751,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0025",
+      "title": "智能系统月活用户突破5亿，创行业新高",
+      "summary": "据知情人士透露，智能系统月活用户突破5亿，创行业新高，这将显著影响相关行业发展。",
+      "content": "最新数据显示，智能系统月活用户突破5亿，创行业新高。相关公司股价盘前上涨约10%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "Google",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-25T15:42:33+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/82578",
+          "verified": true,
+          "verify_time": "2026-03-02T15:51:35+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/67203",
+          "verified": true,
+          "verify_time": "2026-03-02T16:18:02+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 88312,
+        "shares": 3021,
+        "saves": 869,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0026",
+      "title": "Google发布新一代新一代技术，性能提升77%",
+      "summary": "据知情人士透露，Google发布新一代新一代技术，性能提升77%，这将显著影响相关行业发展。",
+      "content": "最新数据显示，Google发布新一代新一代技术，性能提升77%。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "GPT",
+        "大模型"
+      ],
+      "publish_time": "2026-02-24T18:52:32+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/31868",
+          "verified": true,
+          "verify_time": "2026-03-02T06:58:03+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67015",
+          "verified": true,
+          "verify_time": "2026-03-02T12:52:26+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 57833,
+        "shares": 4900,
+        "saves": 381,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0027",
+      "title": "阿里巴巴完成5000亿美元融资，估值达10000亿美元",
+      "summary": "据报道，阿里巴巴完成5000亿美元融资，估值达10000亿美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "阿里巴巴完成5000亿美元融资，估值达10000亿美元。市场分析师认为此举将带来16%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "大模型",
+        "Google"
+      ],
+      "publish_time": "2026-02-26T08:37:22+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/87125",
+          "verified": true,
+          "verify_time": "2026-03-02T10:22:20+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/55023",
+          "verified": true,
+          "verify_time": "2026-03-02T21:46:09+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/29394",
+          "verified": true,
+          "verify_time": "2026-03-03T01:08:46+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 17657,
+        "shares": 1769,
+        "saves": 1594,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0028",
+      "title": "阿里巴巴完成100亿美元融资，估值达5000亿美元",
+      "summary": "阿里巴巴完成100亿美元融资，估值达5000亿美元。市场分析师认为此举将带来29%的增长潜力。",
+      "content": "阿里巴巴完成100亿美元融资，估值达5000亿美元。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "大模型",
+        "GPT"
+      ],
+      "publish_time": "2026-03-01T13:10:12+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/47464",
+          "verified": true,
+          "verify_time": "2026-03-02T15:06:46+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/54730",
+          "verified": true,
+          "verify_time": "2026-03-02T11:42:59+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/96496",
+          "verified": true,
+          "verify_time": "2026-03-02T12:00:25+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 17707,
+        "shares": 2555,
+        "saves": 1136,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0029",
+      "title": "Meta完成50亿美元融资，估值达100亿美元",
+      "summary": "最新数据显示，Meta完成50亿美元融资，估值达100亿美元。相关公司股价盘前下跌约4%。",
+      "content": "据报道，Meta完成50亿美元融资，估值达100亿美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "OpenAI",
+        "Google"
+      ],
+      "publish_time": "2026-02-27T10:54:27+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/48810",
+          "verified": true,
+          "verify_time": "2026-03-02T13:15:52+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/23911",
+          "verified": true,
+          "verify_time": "2026-03-02T06:29:46+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/33322",
+          "verified": true,
+          "verify_time": "2026-03-02T22:07:14+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 38532,
+        "shares": 4783,
+        "saves": 1502,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0030",
+      "title": "OpenAI发布新一代创新方案，性能提升126%",
+      "summary": "OpenAI发布新一代创新方案，性能提升126%。业内人士预计该趋势将在未来2年内持续。",
+      "content": "OpenAI发布新一代创新方案，性能提升126%。市场分析师认为此举将带来35%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "GPT",
+        "Meta"
+      ],
+      "publish_time": "2026-02-25T17:39:05+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/92052",
+          "verified": true,
+          "verify_time": "2026-03-02T06:15:14+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/69832",
+          "verified": true,
+          "verify_time": "2026-03-02T06:27:23+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 83209,
+        "shares": 4634,
+        "saves": 1599,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0031",
+      "title": "新一代技术月活用户突破10亿，创行业新高",
+      "summary": "最新数据显示，新一代技术月活用户突破10亿，创行业新高。相关公司股价盘前上涨约5%。",
+      "content": "新一代技术月活用户突破10亿，创行业新高。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "AI芯片",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-02T03:43:37+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/38141",
+          "verified": true,
+          "verify_time": "2026-03-02T05:51:40+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/29903",
+          "verified": true,
+          "verify_time": "2026-03-02T20:31:18+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 47414,
+        "shares": 4563,
+        "saves": 337,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0032",
+      "title": "新产品月活用户突破100亿，创行业新高",
+      "summary": "最新数据显示，新产品月活用户突破100亿，创行业新高。相关公司股价盘前下跌约6%。",
+      "content": "新产品月活用户突破100亿，创行业新高。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "生成式AI",
+        "Meta",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-25T09:16:05+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/68155",
+          "verified": true,
+          "verify_time": "2026-03-03T01:52:45+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/57153",
+          "verified": true,
+          "verify_time": "2026-03-02T14:54:49+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/34732",
+          "verified": true,
+          "verify_time": "2026-03-03T01:56:50+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 87475,
+        "shares": 2519,
+        "saves": 636,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0033",
+      "title": "阿里巴巴与百度达成微软合作协议",
+      "summary": "据报道，阿里巴巴与百度达成微软合作协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "阿里巴巴与百度达成微软合作协议。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "生成式AI",
+        "AI芯片",
+        "GPT"
+      ],
+      "publish_time": "2026-03-02T15:31:00+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/65486",
+          "verified": true,
+          "verify_time": "2026-03-02T04:16:15+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/61429",
+          "verified": true,
+          "verify_time": "2026-03-03T03:23:33+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 15416,
+        "shares": 3190,
+        "saves": 590,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0034",
+      "title": "字节跳动发布新一代创新方案，性能提升149%",
+      "summary": "最新数据显示，字节跳动发布新一代创新方案，性能提升149%。相关公司股价盘前上涨约3%。",
+      "content": "最新数据显示，字节跳动发布新一代创新方案，性能提升149%。相关公司股价盘前下跌约5%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "大模型",
+        "OpenAI"
+      ],
+      "publish_time": "2026-03-01T17:49:41+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/34313",
+          "verified": true,
+          "verify_time": "2026-03-02T10:51:04+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/34420",
+          "verified": true,
+          "verify_time": "2026-03-02T10:57:37+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 11207,
+        "shares": 1033,
+        "saves": 459,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0035",
+      "title": "字节跳动开源新一代技术，推动Meta发展",
+      "summary": "最新数据显示，字节跳动开源新一代技术，推动Meta发展。相关公司股价盘前上涨约2%。",
+      "content": "据分析师透露，字节跳动开源新一代技术，推动Meta发展，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "自动驾驶",
+        "AI芯片"
+      ],
+      "publish_time": "2026-02-25T03:07:57+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/69181",
+          "verified": true,
+          "verify_time": "2026-03-02T12:02:10+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/81764",
+          "verified": true,
+          "verify_time": "2026-03-02T14:19:44+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/51283",
+          "verified": true,
+          "verify_time": "2026-03-03T01:20:24+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 24836,
+        "shares": 604,
+        "saves": 398,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0036",
+      "title": "阿里巴巴完成1000亿美元融资，估值达5000亿美元",
+      "summary": "据报道，阿里巴巴完成1000亿美元融资，估值达5000亿美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，阿里巴巴完成1000亿美元融资，估值达5000亿美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "GPT",
+        "AI芯片"
+      ],
+      "publish_time": "2026-02-26T23:00:00+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/55198",
+          "verified": true,
+          "verify_time": "2026-03-02T04:59:45+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/66535",
+          "verified": true,
+          "verify_time": "2026-03-02T20:05:30+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 52609,
+        "shares": 192,
+        "saves": 381,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0037",
+      "title": "百度发布新一代新一代技术，性能提升30%",
+      "summary": "百度发布新一代新一代技术，性能提升30%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "百度发布新一代新一代技术，性能提升30%。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "AI芯片",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-27T04:49:22+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/99467",
+          "verified": true,
+          "verify_time": "2026-03-02T16:19:41+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/99651",
+          "verified": true,
+          "verify_time": "2026-03-02T17:39:39+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/64616",
+          "verified": true,
+          "verify_time": "2026-03-02T13:03:13+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 77000,
+        "shares": 3438,
+        "saves": 1843,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0038",
+      "title": "Meta完成50亿美元融资，估值达10000亿美元",
+      "summary": "Meta完成50亿美元融资，估值达10000亿美元。业内人士预计该趋势将在未来4年内持续。",
+      "content": "Meta完成50亿美元融资，估值达10000亿美元。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "微软",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-24T07:11:46+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/62934",
+          "verified": true,
+          "verify_time": "2026-03-02T08:35:19+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/22192",
+          "verified": true,
+          "verify_time": "2026-03-02T14:11:21+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/83734",
+          "verified": true,
+          "verify_time": "2026-03-02T06:19:07+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 23001,
+        "shares": 1222,
+        "saves": 716,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0039",
+      "title": "智能系统月活用户突破50亿，创行业新高",
+      "summary": "据分析师透露，智能系统月活用户突破50亿，创行业新高，这将显著影响相关行业发展。",
+      "content": "智能系统月活用户突破50亿，创行业新高。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "GPT",
+        "大模型",
+        "AI芯片"
+      ],
+      "publish_time": "2026-03-01T04:12:16+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/59522",
+          "verified": true,
+          "verify_time": "2026-03-02T13:39:32+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/82977",
+          "verified": true,
+          "verify_time": "2026-03-02T05:44:05+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 63949,
+        "shares": 3605,
+        "saves": 959,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0040",
+      "title": "微软开源创新方案，推动大模型发展",
+      "summary": "微软开源创新方案，推动大模型发展。业内人士预计该趋势将在未来5年内持续。",
+      "content": "微软开源创新方案，推动大模型发展。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "生成式AI",
+        "GPT"
+      ],
+      "publish_time": "2026-03-02T16:32:06+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/10921",
+          "verified": true,
+          "verify_time": "2026-03-03T00:54:44+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/19851",
+          "verified": true,
+          "verify_time": "2026-03-02T07:49:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/42827",
+          "verified": true,
+          "verify_time": "2026-03-02T06:06:50+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 54756,
+        "shares": 872,
+        "saves": 1721,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0041",
+      "title": "Google发布新一代智能系统，性能提升122%",
+      "summary": "最新数据显示，Google发布新一代智能系统，性能提升122%。相关公司股价盘前上涨约1%。",
+      "content": "Google发布新一代智能系统，性能提升122%。市场分析师认为此举将带来12%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "GPT",
+        "OpenAI",
+        "算力"
+      ],
+      "publish_time": "2026-02-28T09:31:03+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/84130",
+          "verified": true,
+          "verify_time": "2026-03-03T02:14:39+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/83626",
+          "verified": true,
+          "verify_time": "2026-03-02T21:18:16+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 38235,
+        "shares": 885,
+        "saves": 995,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0042",
+      "title": "微软开源新产品，推动大模型发展",
+      "summary": "微软开源新产品，推动大模型发展。市场分析师认为此举将带来42%的增长潜力。",
+      "content": "微软开源新产品，推动大模型发展。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "Google",
+        "Meta"
+      ],
+      "publish_time": "2026-02-24T03:34:42+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/40120",
+          "verified": true,
+          "verify_time": "2026-03-02T08:30:38+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/79516",
+          "verified": true,
+          "verify_time": "2026-03-02T19:04:16+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 98644,
+        "shares": 1708,
+        "saves": 1781,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0043",
+      "title": "百度发布新一代智能系统，性能提升75%",
+      "summary": "最新数据显示，百度发布新一代智能系统，性能提升75%。相关公司股价盘前上涨约6%。",
+      "content": "百度发布新一代智能系统，性能提升75%。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "自动驾驶",
+        "大模型"
+      ],
+      "publish_time": "2026-02-28T19:45:18+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/10524",
+          "verified": true,
+          "verify_time": "2026-03-02T13:18:15+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/84506",
+          "verified": true,
+          "verify_time": "2026-03-03T02:21:03+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/24051",
+          "verified": true,
+          "verify_time": "2026-03-02T21:58:44+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 77974,
+        "shares": 2412,
+        "saves": 693,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0044",
+      "title": "新一代技术月活用户突破500亿，创行业新高",
+      "summary": "据报道，新一代技术月活用户突破500亿，创行业新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，新一代技术月活用户突破500亿，创行业新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "生成式AI",
+        "AI芯片"
+      ],
+      "publish_time": "2026-02-26T08:56:12+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/88065",
+          "verified": true,
+          "verify_time": "2026-03-02T11:12:07+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/69097",
+          "verified": true,
+          "verify_time": "2026-03-02T17:40:42+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 48116,
+        "shares": 408,
+        "saves": 1214,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0045",
+      "title": "阿里巴巴开源智能系统，推动GPT发展",
+      "summary": "阿里巴巴开源智能系统，推动GPT发展。市场分析师认为此举将带来47%的增长潜力。",
+      "content": "据知情人士透露，阿里巴巴开源智能系统，推动GPT发展，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "Meta",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-02-25T07:18:39+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/73820",
+          "verified": true,
+          "verify_time": "2026-03-02T23:28:16+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/54939",
+          "verified": true,
+          "verify_time": "2026-03-02T07:46:10+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 37925,
+        "shares": 1621,
+        "saves": 1112,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0046",
+      "title": "新一代技术月活用户突破1亿，创行业新高",
+      "summary": "据知情人士透露，新一代技术月活用户突破1亿，创行业新高，这将显著影响相关行业发展。",
+      "content": "新一代技术月活用户突破1亿，创行业新高。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "算力",
+        "GPT"
+      ],
+      "publish_time": "2026-02-24T16:29:10+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/96350",
+          "verified": true,
+          "verify_time": "2026-03-02T12:16:21+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/51934",
+          "verified": true,
+          "verify_time": "2026-03-03T00:31:39+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 42481,
+        "shares": 1829,
+        "saves": 1961,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0047",
+      "title": "微软发布新一代智能系统，性能提升71%",
+      "summary": "据分析师透露，微软发布新一代智能系统，性能提升71%，这将显著影响相关行业发展。",
+      "content": "据官方透露，微软发布新一代智能系统，性能提升71%，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "算力",
+        "GPT"
+      ],
+      "publish_time": "2026-03-01T14:41:44+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/34786",
+          "verified": true,
+          "verify_time": "2026-03-02T14:29:49+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/46373",
+          "verified": true,
+          "verify_time": "2026-03-02T12:02:04+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/44352",
+          "verified": true,
+          "verify_time": "2026-03-02T12:10:06+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 25537,
+        "shares": 2737,
+        "saves": 169,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0048",
+      "title": "新产品月活用户突破1亿，创行业新高",
+      "summary": "最新数据显示，新产品月活用户突破1亿，创行业新高。相关公司股价盘前下跌约9%。",
+      "content": "据报道，新产品月活用户突破1亿，创行业新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "AI芯片",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-01T15:57:06+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/74333",
+          "verified": true,
+          "verify_time": "2026-03-02T12:48:55+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/65129",
+          "verified": true,
+          "verify_time": "2026-03-02T15:40:50+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/67894",
+          "verified": true,
+          "verify_time": "2026-03-02T10:19:43+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 7677,
+        "shares": 1905,
+        "saves": 1853,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0049",
+      "title": "字节跳动开源新一代技术，推动自动驾驶发展",
+      "summary": "字节跳动开源新一代技术，推动自动驾驶发展。市场分析师认为此举将带来17%的增长潜力。",
+      "content": "最新数据显示，字节跳动开源新一代技术，推动自动驾驶发展。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "OpenAI",
+        "AI芯片"
+      ],
+      "publish_time": "2026-02-28T11:33:40+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/11757",
+          "verified": true,
+          "verify_time": "2026-03-02T19:27:26+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/97703",
+          "verified": true,
+          "verify_time": "2026-03-02T10:36:26+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 5057,
+        "shares": 1658,
+        "saves": 536,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0050",
+      "title": "Anthropic开源智能系统，推动Meta发展",
+      "summary": "据知情人士透露，Anthropic开源智能系统，推动Meta发展，这将显著影响相关行业发展。",
+      "content": "最新数据显示，Anthropic开源智能系统，推动Meta发展。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "GPT",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-25T07:33:20+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/37690",
+          "verified": true,
+          "verify_time": "2026-03-03T02:34:00+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/71368",
+          "verified": true,
+          "verify_time": "2026-03-02T12:32:40+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 35252,
+        "shares": 1827,
+        "saves": 1538,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0051",
+      "title": "百度发布新一代创新方案，性能提升115%",
+      "summary": "百度发布新一代创新方案，性能提升115%。市场分析师认为此举将带来20%的增长潜力。",
+      "content": "据报道，百度发布新一代创新方案，性能提升115%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "OpenAI",
+        "算力"
+      ],
+      "publish_time": "2026-03-02T20:24:25+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/79827",
+          "verified": true,
+          "verify_time": "2026-03-02T10:09:29+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/52333",
+          "verified": true,
+          "verify_time": "2026-03-02T14:39:38+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 89827,
+        "shares": 3826,
+        "saves": 922,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0052",
+      "title": "新产品月活用户突破100亿，创行业新高",
+      "summary": "新产品月活用户突破100亿，创行业新高。市场分析师认为此举将带来34%的增长潜力。",
+      "content": "据分析师透露，新产品月活用户突破100亿，创行业新高，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "自动驾驶",
+        "算力"
+      ],
+      "publish_time": "2026-02-28T22:34:08+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/47492",
+          "verified": true,
+          "verify_time": "2026-03-02T03:39:07+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/26509",
+          "verified": true,
+          "verify_time": "2026-03-02T19:01:40+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63276",
+          "verified": true,
+          "verify_time": "2026-03-02T18:42:02+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 27760,
+        "shares": 1746,
+        "saves": 1042,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0053",
+      "title": "百度与Meta达成AI芯片合作协议",
+      "summary": "百度与Meta达成AI芯片合作协议。市场分析师认为此举将带来49%的增长潜力。",
+      "content": "据报道，百度与Meta达成AI芯片合作协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "Meta",
+        "GPT"
+      ],
+      "publish_time": "2026-02-27T16:24:04+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/72551",
+          "verified": true,
+          "verify_time": "2026-03-02T19:53:50+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/49071",
+          "verified": true,
+          "verify_time": "2026-03-02T12:00:50+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 21968,
+        "shares": 1613,
+        "saves": 1201,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0054",
+      "title": "Anthropic开源新产品，推动Meta发展",
+      "summary": "据知情人士透露，Anthropic开源新产品，推动Meta发展，这将显著影响相关行业发展。",
+      "content": "Anthropic开源新产品，推动Meta发展。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "大模型",
+        "Google"
+      ],
+      "publish_time": "2026-03-02T22:14:48+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/42385",
+          "verified": true,
+          "verify_time": "2026-03-03T03:20:02+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/83240",
+          "verified": true,
+          "verify_time": "2026-03-02T17:42:14+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 70858,
+        "shares": 3781,
+        "saves": 123,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0055",
+      "title": "字节跳动发布新一代新产品，性能提升82%",
+      "summary": "据分析师透露，字节跳动发布新一代新产品，性能提升82%，这将显著影响相关行业发展。",
+      "content": "字节跳动发布新一代新产品，性能提升82%。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "算力",
+        "微软"
+      ],
+      "publish_time": "2026-02-25T11:20:05+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/77915",
+          "verified": true,
+          "verify_time": "2026-03-02T09:12:59+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/46620",
+          "verified": true,
+          "verify_time": "2026-03-02T10:42:29+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 94325,
+        "shares": 4946,
+        "saves": 802,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0056",
+      "title": "字节跳动完成50亿美元融资，估值达100亿美元",
+      "summary": "字节跳动完成50亿美元融资，估值达100亿美元。业内人士预计该趋势将在未来1年内持续。",
+      "content": "最新数据显示，字节跳动完成50亿美元融资，估值达100亿美元。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "生成式AI",
+        "AI芯片",
+        "大模型"
+      ],
+      "publish_time": "2026-02-28T06:41:56+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/98498",
+          "verified": true,
+          "verify_time": "2026-03-02T12:17:35+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/54206",
+          "verified": true,
+          "verify_time": "2026-03-02T18:26:18+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/10043",
+          "verified": true,
+          "verify_time": "2026-03-02T08:50:58+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 54134,
+        "shares": 2038,
+        "saves": 1480,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0057",
+      "title": "阿里巴巴开源新产品，推动Google发展",
+      "summary": "据官方透露，阿里巴巴开源新产品，推动Google发展，这将显著影响相关行业发展。",
+      "content": "阿里巴巴开源新产品，推动Google发展。市场分析师认为此举将带来32%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "OpenAI",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-03-01T21:37:10+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/28743",
+          "verified": true,
+          "verify_time": "2026-03-02T17:38:52+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/41027",
+          "verified": true,
+          "verify_time": "2026-03-02T19:07:39+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/36769",
+          "verified": true,
+          "verify_time": "2026-03-03T02:32:05+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 72845,
+        "shares": 481,
+        "saves": 1596,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0058",
+      "title": "创新方案月活用户突破1亿，创行业新高",
+      "summary": "创新方案月活用户突破1亿，创行业新高。市场分析师认为此举将带来38%的增长潜力。",
+      "content": "最新数据显示，创新方案月活用户突破1亿，创行业新高。相关公司股价盘前上涨约7%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "算力",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-02-26T12:01:23+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/48530",
+          "verified": true,
+          "verify_time": "2026-03-02T21:53:43+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/51897",
+          "verified": true,
+          "verify_time": "2026-03-02T22:35:15+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/35843",
+          "verified": true,
+          "verify_time": "2026-03-02T11:26:46+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 88046,
+        "shares": 2032,
+        "saves": 863,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0059",
+      "title": "百度开源新产品，推动微软发展",
+      "summary": "百度开源新产品，推动微软发展。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，百度开源新产品，推动微软发展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "自动驾驶",
+        "OpenAI"
+      ],
+      "publish_time": "2026-03-01T00:50:51+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/22821",
+          "verified": true,
+          "verify_time": "2026-03-02T08:08:00+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/50200",
+          "verified": true,
+          "verify_time": "2026-03-02T19:20:48+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 68087,
+        "shares": 3593,
+        "saves": 468,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0060",
+      "title": "字节跳动完成500亿美元融资，估值达50000亿美元",
+      "summary": "据报道，字节跳动完成500亿美元融资，估值达50000亿美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，字节跳动完成500亿美元融资，估值达50000亿美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "微软",
+        "AI芯片"
+      ],
+      "publish_time": "2026-02-28T17:06:01+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/14258",
+          "verified": true,
+          "verify_time": "2026-03-02T22:37:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/71527",
+          "verified": true,
+          "verify_time": "2026-03-02T12:00:00+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 27741,
+        "shares": 4711,
+        "saves": 1511,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0061",
+      "title": "百度完成100亿美元融资，估值达50000亿美元",
+      "summary": "据分析师透露，百度完成100亿美元融资，估值达50000亿美元，这将显著影响相关行业发展。",
+      "content": "最新数据显示，百度完成100亿美元融资，估值达50000亿美元。相关公司股价盘前上涨约6%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "GPT",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-26T04:18:21+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/72168",
+          "verified": true,
+          "verify_time": "2026-03-02T17:41:16+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/54427",
+          "verified": true,
+          "verify_time": "2026-03-02T16:36:31+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 21957,
+        "shares": 1453,
+        "saves": 316,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0062",
+      "title": "OpenAI开源新一代技术，推动生成式AI发展",
+      "summary": "最新数据显示，OpenAI开源新一代技术，推动生成式AI发展。相关公司股价盘前上涨约9%。",
+      "content": "OpenAI开源新一代技术，推动生成式AI发展。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "算力",
+        "GPT"
+      ],
+      "publish_time": "2026-03-02T19:39:30+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/12005",
+          "verified": true,
+          "verify_time": "2026-03-02T16:59:06+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/42252",
+          "verified": true,
+          "verify_time": "2026-03-02T18:42:13+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 95212,
+        "shares": 1014,
+        "saves": 344,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0063",
+      "title": "Meta发布新一代智能系统，性能提升195%",
+      "summary": "Meta发布新一代智能系统，性能提升195%。市场分析师认为此举将带来20%的增长潜力。",
+      "content": "Meta发布新一代智能系统，性能提升195%。市场分析师认为此举将带来15%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "大模型",
+        "Meta"
+      ],
+      "publish_time": "2026-02-27T14:22:59+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/47286",
+          "verified": true,
+          "verify_time": "2026-03-02T18:31:36+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/24825",
+          "verified": true,
+          "verify_time": "2026-03-02T09:13:03+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/94256",
+          "verified": true,
+          "verify_time": "2026-03-02T05:23:47+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 87982,
+        "shares": 2380,
+        "saves": 680,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0064",
+      "title": "OpenAI完成10亿美元融资，估值达500亿美元",
+      "summary": "OpenAI完成10亿美元融资，估值达500亿美元。业内人士预计该趋势将在未来2年内持续。",
+      "content": "最新数据显示，OpenAI完成10亿美元融资，估值达500亿美元。相关公司股价盘前上涨约8%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "GPT",
+        "大模型",
+        "微软"
+      ],
+      "publish_time": "2026-02-28T15:24:05+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/30042",
+          "verified": true,
+          "verify_time": "2026-03-02T14:19:18+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/17319",
+          "verified": true,
+          "verify_time": "2026-03-02T22:12:18+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/62564",
+          "verified": true,
+          "verify_time": "2026-03-02T09:36:27+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 53596,
+        "shares": 2380,
+        "saves": 1933,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0065",
+      "title": "OpenAI开源智能系统，推动微软发展",
+      "summary": "最新数据显示，OpenAI开源智能系统，推动微软发展。相关公司股价盘前下跌约5%。",
+      "content": "OpenAI开源智能系统，推动微软发展。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "微软",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-01T02:21:17+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/74674",
+          "verified": true,
+          "verify_time": "2026-03-02T18:44:16+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/85310",
+          "verified": true,
+          "verify_time": "2026-03-02T11:17:19+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 86369,
+        "shares": 4475,
+        "saves": 154,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0066",
+      "title": "新产品月活用户突破1亿，创行业新高",
+      "summary": "据报道，新产品月活用户突破1亿，创行业新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，新产品月活用户突破1亿，创行业新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "Google",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-01T17:16:54+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/46415",
+          "verified": true,
+          "verify_time": "2026-03-03T02:15:53+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/86928",
+          "verified": true,
+          "verify_time": "2026-03-02T03:31:40+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 99842,
+        "shares": 3648,
+        "saves": 412,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0067",
+      "title": "字节跳动完成10亿美元融资，估值达1000亿美元",
+      "summary": "据官方透露，字节跳动完成10亿美元融资，估值达1000亿美元，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，字节跳动完成10亿美元融资，估值达1000亿美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "GPT",
+        "微软"
+      ],
+      "publish_time": "2026-02-27T05:43:40+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/33774",
+          "verified": true,
+          "verify_time": "2026-03-02T15:19:21+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/59568",
+          "verified": true,
+          "verify_time": "2026-03-02T20:50:30+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 79245,
+        "shares": 3142,
+        "saves": 173,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0068",
+      "title": "微软完成2000亿美元融资，估值达5000亿美元",
+      "summary": "微软完成2000亿美元融资，估值达5000亿美元。市场分析师认为此举将带来10%的增长潜力。",
+      "content": "最新数据显示，微软完成2000亿美元融资，估值达5000亿美元。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "生成式AI",
+        "微软"
+      ],
+      "publish_time": "2026-03-01T17:16:41+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/73690",
+          "verified": true,
+          "verify_time": "2026-03-03T01:22:24+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/31934",
+          "verified": true,
+          "verify_time": "2026-03-02T23:50:56+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 93897,
+        "shares": 1514,
+        "saves": 1719,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0069",
+      "title": "字节跳动完成1000亿美元融资，估值达100亿美元",
+      "summary": "字节跳动完成1000亿美元融资，估值达100亿美元。市场分析师认为此举将带来32%的增长潜力。",
+      "content": "字节跳动完成1000亿美元融资，估值达100亿美元。市场分析师认为此举将带来29%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "生成式AI",
+        "微软"
+      ],
+      "publish_time": "2026-02-28T10:48:54+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/60960",
+          "verified": true,
+          "verify_time": "2026-03-02T12:02:37+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/63399",
+          "verified": true,
+          "verify_time": "2026-03-02T17:42:14+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 81676,
+        "shares": 4327,
+        "saves": 744,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0070",
+      "title": "Anthropic完成10亿美元融资，估值达5000亿美元",
+      "summary": "Anthropic完成10亿美元融资，估值达5000亿美元。业内人士预计该趋势将在未来1年内持续。",
+      "content": "最新数据显示，Anthropic完成10亿美元融资，估值达5000亿美元。相关公司股价盘前下跌约7%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "GPT",
+        "Google"
+      ],
+      "publish_time": "2026-03-02T05:49:59+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/73338",
+          "verified": true,
+          "verify_time": "2026-03-02T07:39:52+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/64021",
+          "verified": true,
+          "verify_time": "2026-03-02T10:09:36+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 37359,
+        "shares": 2622,
+        "saves": 546,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0071",
+      "title": "Meta发布新一代新一代技术，性能提升88%",
+      "summary": "据知情人士透露，Meta发布新一代新一代技术，性能提升88%，这将显著影响相关行业发展。",
+      "content": "Meta发布新一代新一代技术，性能提升88%。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "Meta",
+        "GPT"
+      ],
+      "publish_time": "2026-02-28T03:08:25+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/11715",
+          "verified": true,
+          "verify_time": "2026-03-02T04:58:51+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/34230",
+          "verified": true,
+          "verify_time": "2026-03-02T03:46:24+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 82895,
+        "shares": 162,
+        "saves": 1272,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0072",
+      "title": "百度完成10亿美元融资，估值达10000亿美元",
+      "summary": "据分析师透露，百度完成10亿美元融资，估值达10000亿美元，这将显著影响相关行业发展。",
+      "content": "据报道，百度完成10亿美元融资，估值达10000亿美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "自动驾驶",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-01T14:28:16+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/70489",
+          "verified": true,
+          "verify_time": "2026-03-02T23:24:52+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/67536",
+          "verified": true,
+          "verify_time": "2026-03-02T04:14:05+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 38643,
+        "shares": 3768,
+        "saves": 239,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0073",
+      "title": "OpenAI与字节跳动达成Google合作协议",
+      "summary": "据官方透露，OpenAI与字节跳动达成Google合作协议，这将显著影响相关行业发展。",
+      "content": "OpenAI与字节跳动达成Google合作协议。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "算力",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-02T11:45:50+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/70608",
+          "verified": true,
+          "verify_time": "2026-03-02T18:16:08+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/90091",
+          "verified": true,
+          "verify_time": "2026-03-02T10:16:48+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/69274",
+          "verified": true,
+          "verify_time": "2026-03-02T18:50:25+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 29730,
+        "shares": 3855,
+        "saves": 154,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0074",
+      "title": "字节跳动与OpenAI达成OpenAI合作协议",
+      "summary": "字节跳动与OpenAI达成OpenAI合作协议。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "据分析师透露，字节跳动与OpenAI达成OpenAI合作协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "大模型",
+        "AI芯片"
+      ],
+      "publish_time": "2026-02-25T07:50:07+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/79895",
+          "verified": true,
+          "verify_time": "2026-03-02T14:26:12+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/82399",
+          "verified": true,
+          "verify_time": "2026-03-03T01:34:53+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 17044,
+        "shares": 503,
+        "saves": 1601,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0075",
+      "title": "Google发布新一代新一代技术，性能提升76%",
+      "summary": "最新数据显示，Google发布新一代新一代技术，性能提升76%。相关公司股价盘前下跌约8%。",
+      "content": "Google发布新一代新一代技术，性能提升76%。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "算力",
+        "Meta"
+      ],
+      "publish_time": "2026-03-02T17:52:15+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/59189",
+          "verified": true,
+          "verify_time": "2026-03-02T19:24:17+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/33403",
+          "verified": true,
+          "verify_time": "2026-03-02T19:50:34+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 5175,
+        "shares": 457,
+        "saves": 399,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0076",
+      "title": "新产品月活用户突破500亿，创行业新高",
+      "summary": "最新数据显示，新产品月活用户突破500亿，创行业新高。相关公司股价盘前上涨约10%。",
+      "content": "新产品月活用户突破500亿，创行业新高。市场分析师认为此举将带来15%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "AI芯片",
+        "GPT"
+      ],
+      "publish_time": "2026-03-02T21:11:01+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/62161",
+          "verified": true,
+          "verify_time": "2026-03-02T18:07:33+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/70676",
+          "verified": true,
+          "verify_time": "2026-03-02T22:56:29+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/66442",
+          "verified": true,
+          "verify_time": "2026-03-02T18:08:45+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 55923,
+        "shares": 2554,
+        "saves": 1956,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0077",
+      "title": "新一代技术月活用户突破100亿，创行业新高",
+      "summary": "新一代技术月活用户突破100亿，创行业新高。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据报道，新一代技术月活用户突破100亿，创行业新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "算力",
+        "GPT"
+      ],
+      "publish_time": "2026-03-01T14:33:39+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/99179",
+          "verified": true,
+          "verify_time": "2026-03-02T04:09:22+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/68301",
+          "verified": true,
+          "verify_time": "2026-03-03T02:37:22+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/89917",
+          "verified": true,
+          "verify_time": "2026-03-02T20:56:46+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "negative",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 64849,
+        "shares": 1884,
+        "saves": 614,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0078",
+      "title": "Anthropic与OpenAI达成GPT合作协议",
+      "summary": "据报道，Anthropic与OpenAI达成GPT合作协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "Anthropic与OpenAI达成GPT合作协议。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "生成式AI",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-02-24T14:09:05+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/31316",
+          "verified": true,
+          "verify_time": "2026-03-02T09:31:58+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/51264",
+          "verified": true,
+          "verify_time": "2026-03-03T03:20:39+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/33531",
+          "verified": true,
+          "verify_time": "2026-03-02T21:16:12+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 45290,
+        "shares": 419,
+        "saves": 1340,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0079",
+      "title": "创新方案月活用户突破100亿，创行业新高",
+      "summary": "据报道，创新方案月活用户突破100亿，创行业新高。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，创新方案月活用户突破100亿，创行业新高。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "GPT",
+        "大模型",
+        "算力"
+      ],
+      "publish_time": "2026-02-25T04:56:26+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/36216",
+          "verified": true,
+          "verify_time": "2026-03-02T13:34:43+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55913",
+          "verified": true,
+          "verify_time": "2026-03-02T11:20:59+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/29050",
+          "verified": true,
+          "verify_time": "2026-03-03T01:13:51+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 78704,
+        "shares": 1075,
+        "saves": 421,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0080",
+      "title": "微软与微软达成OpenAI合作协议",
+      "summary": "据报道，微软与微软达成OpenAI合作协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，微软与微软达成OpenAI合作协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "Google",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-26T16:32:29+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/56719",
+          "verified": true,
+          "verify_time": "2026-03-02T10:14:27+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/56157",
+          "verified": true,
+          "verify_time": "2026-03-02T16:27:24+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/69827",
+          "verified": true,
+          "verify_time": "2026-03-02T22:31:26+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "negative",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 93814,
+        "shares": 700,
+        "saves": 1929,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0081",
+      "title": "Anthropic完成1000亿美元融资，估值达5000亿美元",
+      "summary": "Anthropic完成1000亿美元融资，估值达5000亿美元。市场分析师认为此举将带来18%的增长潜力。",
+      "content": "据报道，Anthropic完成1000亿美元融资，估值达5000亿美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "OpenAI",
+        "微软"
+      ],
+      "publish_time": "2026-02-24T21:06:59+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/13781",
+          "verified": true,
+          "verify_time": "2026-03-02T14:03:20+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/73950",
+          "verified": true,
+          "verify_time": "2026-03-02T14:21:09+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/23911",
+          "verified": true,
+          "verify_time": "2026-03-02T08:32:37+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 91729,
+        "shares": 1118,
+        "saves": 1301,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0082",
+      "title": "新产品月活用户突破5亿，创行业新高",
+      "summary": "最新数据显示，新产品月活用户突破5亿，创行业新高。相关公司股价盘前下跌约9%。",
+      "content": "据报道，新产品月活用户突破5亿，创行业新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "算力",
+        "微软"
+      ],
+      "publish_time": "2026-02-27T12:39:41+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/69463",
+          "verified": true,
+          "verify_time": "2026-03-02T13:18:32+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/31291",
+          "verified": true,
+          "verify_time": "2026-03-02T21:12:39+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/99870",
+          "verified": true,
+          "verify_time": "2026-03-02T18:07:38+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "neutral",
+          "reason": "新闻提及苹果"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 18176,
+        "shares": 4984,
+        "saves": 432,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0083",
+      "title": "新一代技术月活用户突破5亿，创行业新高",
+      "summary": "据分析师透露，新一代技术月活用户突破5亿，创行业新高，这将显著影响相关行业发展。",
+      "content": "新一代技术月活用户突破5亿，创行业新高。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "大模型",
+        "Meta",
+        "AI芯片"
+      ],
+      "publish_time": "2026-03-01T03:33:55+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/15716",
+          "verified": true,
+          "verify_time": "2026-03-03T03:02:37+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/64519",
+          "verified": true,
+          "verify_time": "2026-03-02T16:36:41+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "negative",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "neutral",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 36845,
+        "shares": 2326,
+        "saves": 1900,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0084",
+      "title": "新产品月活用户突破5亿，创行业新高",
+      "summary": "最新数据显示，新产品月活用户突破5亿，创行业新高。相关公司股价盘前下跌约10%。",
+      "content": "最新数据显示，新产品月活用户突破5亿，创行业新高。相关公司股价盘前上涨约8%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "自动驾驶",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-26T05:53:06+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/35103",
+          "verified": true,
+          "verify_time": "2026-03-02T11:27:26+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/45127",
+          "verified": true,
+          "verify_time": "2026-03-02T10:03:43+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/77093",
+          "verified": true,
+          "verify_time": "2026-03-02T09:44:14+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "neutral",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 69791,
+        "shares": 4213,
+        "saves": 248,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0085",
+      "title": "阿里巴巴与百度达成算力合作协议",
+      "summary": "阿里巴巴与百度达成算力合作协议。市场分析师认为此举将带来20%的增长潜力。",
+      "content": "据报道，阿里巴巴与百度达成算力合作协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "微软",
+        "算力"
+      ],
+      "publish_time": "2026-02-28T15:02:03+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/62939",
+          "verified": true,
+          "verify_time": "2026-03-02T10:26:13+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/17086",
+          "verified": true,
+          "verify_time": "2026-03-03T01:05:26+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 56377,
+        "shares": 1563,
+        "saves": 1633,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0086",
+      "title": "字节跳动发布新一代智能系统，性能提升68%",
+      "summary": "最新数据显示，字节跳动发布新一代智能系统，性能提升68%。相关公司股价盘前上涨约8%。",
+      "content": "字节跳动发布新一代智能系统，性能提升68%。市场分析师认为此举将带来47%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "GPT",
+        "微软",
+        "生成式AI"
+      ],
+      "publish_time": "2026-03-01T14:58:54+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/34219",
+          "verified": true,
+          "verify_time": "2026-03-02T12:06:16+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/95870",
+          "verified": true,
+          "verify_time": "2026-03-03T03:16:52+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 41496,
+        "shares": 3132,
+        "saves": 1344,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0087",
+      "title": "字节跳动与百度达成微软合作协议",
+      "summary": "最新数据显示，字节跳动与百度达成微软合作协议。相关公司股价盘前下跌约6%。",
+      "content": "据分析师透露，字节跳动与百度达成微软合作协议，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "生成式AI",
+        "Meta"
+      ],
+      "publish_time": "2026-02-28T06:27:00+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/20451",
+          "verified": true,
+          "verify_time": "2026-03-02T18:12:53+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/87592",
+          "verified": true,
+          "verify_time": "2026-03-02T23:10:49+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/65784",
+          "verified": true,
+          "verify_time": "2026-03-02T21:59:44+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "negative",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "neutral",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 19847,
+        "shares": 4804,
+        "saves": 871,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0088",
+      "title": "智能系统月活用户突破50亿，创行业新高",
+      "summary": "据知情人士透露，智能系统月活用户突破50亿，创行业新高，这将显著影响相关行业发展。",
+      "content": "据报道，智能系统月活用户突破50亿，创行业新高。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "生成式AI",
+        "AI芯片",
+        "Google"
+      ],
+      "publish_time": "2026-03-01T08:43:47+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/66411",
+          "verified": true,
+          "verify_time": "2026-03-02T21:04:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/60533",
+          "verified": true,
+          "verify_time": "2026-03-02T06:52:20+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/61148",
+          "verified": true,
+          "verify_time": "2026-03-02T05:46:13+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "neutral",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 12532,
+        "shares": 2551,
+        "saves": 270,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0089",
+      "title": "字节跳动开源新一代技术，推动Meta发展",
+      "summary": "最新数据显示，字节跳动开源新一代技术，推动Meta发展。相关公司股价盘前下跌约4%。",
+      "content": "最新数据显示，字节跳动开源新一代技术，推动Meta发展。相关公司股价盘前下跌约1%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "算力",
+        "大模型"
+      ],
+      "publish_time": "2026-03-01T12:56:21+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/81023",
+          "verified": true,
+          "verify_time": "2026-03-02T13:51:35+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/41264",
+          "verified": true,
+          "verify_time": "2026-03-03T01:28:24+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/65857",
+          "verified": true,
+          "verify_time": "2026-03-02T10:30:59+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        }
+      ],
+      "metrics": {
+        "views": 99168,
+        "shares": 3866,
+        "saves": 630,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0090",
+      "title": "字节跳动开源新一代技术，推动算力发展",
+      "summary": "据知情人士透露，字节跳动开源新一代技术，推动算力发展，这将显著影响相关行业发展。",
+      "content": "据报道，字节跳动开源新一代技术，推动算力发展。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "微软",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-26T22:04:49+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/55970",
+          "verified": true,
+          "verify_time": "2026-03-02T08:17:19+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/17823",
+          "verified": true,
+          "verify_time": "2026-03-02T10:44:29+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 69774,
+        "shares": 3970,
+        "saves": 1818,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0091",
+      "title": "OpenAI开源新一代技术，推动Google发展",
+      "summary": "OpenAI开源新一代技术，推动Google发展。业内人士预计该趋势将在未来4年内持续。",
+      "content": "OpenAI开源新一代技术，推动Google发展。市场分析师认为此举将带来47%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "微软",
+        "算力",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-26T15:30:00+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/48368",
+          "verified": true,
+          "verify_time": "2026-03-02T18:43:15+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/19246",
+          "verified": true,
+          "verify_time": "2026-03-02T16:28:03+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        }
+      ],
+      "metrics": {
+        "views": 26308,
+        "shares": 3911,
+        "saves": 181,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0092",
+      "title": "微软与Google达成自动驾驶合作协议",
+      "summary": "据分析师透露，微软与Google达成自动驾驶合作协议，这将显著影响相关行业发展。",
+      "content": "据报道，微软与Google达成自动驾驶合作协议。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "大模型",
+        "算力"
+      ],
+      "publish_time": "2026-03-01T02:43:24+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/32790",
+          "verified": true,
+          "verify_time": "2026-03-02T05:35:41+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/54019",
+          "verified": true,
+          "verify_time": "2026-03-03T00:51:02+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/64485",
+          "verified": true,
+          "verify_time": "2026-03-02T15:42:37+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 13216,
+        "shares": 4417,
+        "saves": 1301,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0093",
+      "title": "OpenAI发布新一代新产品，性能提升73%",
+      "summary": "OpenAI发布新一代新产品，性能提升73%。业内人士预计该趋势将在未来5年内持续。",
+      "content": "OpenAI发布新一代新产品，性能提升73%。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "生成式AI",
+        "Google",
+        "OpenAI"
+      ],
+      "publish_time": "2026-02-28T08:39:01+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/28777",
+          "verified": true,
+          "verify_time": "2026-03-02T12:27:55+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/95445",
+          "verified": true,
+          "verify_time": "2026-03-02T21:39:06+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "neutral",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "neutral",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 34355,
+        "shares": 392,
+        "saves": 373,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0094",
+      "title": "Meta与Meta达成Google合作协议",
+      "summary": "据报道，Meta与Meta达成Google合作协议。这一进展标志着行业进入新的发展阶段。",
+      "content": "Meta与Meta达成Google合作协议。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "算力",
+        "大模型"
+      ],
+      "publish_time": "2026-03-02T09:36:12+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/96552",
+          "verified": true,
+          "verify_time": "2026-03-02T18:59:44+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/21933",
+          "verified": true,
+          "verify_time": "2026-03-02T22:24:13+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        }
+      ],
+      "metrics": {
+        "views": 76177,
+        "shares": 413,
+        "saves": 1854,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0095",
+      "title": "字节跳动发布新一代新一代技术，性能提升61%",
+      "summary": "字节跳动发布新一代新一代技术，性能提升61%。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，字节跳动发布新一代新一代技术，性能提升61%。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "自动驾驶",
+        "大模型",
+        "生成式AI"
+      ],
+      "publish_time": "2026-02-28T22:47:57+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/33337",
+          "verified": true,
+          "verify_time": "2026-03-02T10:47:53+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/78905",
+          "verified": true,
+          "verify_time": "2026-03-02T14:03:52+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "impact": "positive",
+          "reason": "新闻提及亚马逊"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "negative",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "impact": "positive",
+          "reason": "新闻提及苹果"
+        }
+      ],
+      "metrics": {
+        "views": 26494,
+        "shares": 2945,
+        "saves": 624,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0096",
+      "title": "Anthropic开源创新方案，推动大模型发展",
+      "summary": "据知情人士透露，Anthropic开源创新方案，推动大模型发展，这将显著影响相关行业发展。",
+      "content": "最新数据显示，Anthropic开源创新方案，推动大模型发展。相关公司股价盘前上涨约9%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "AI芯片",
+        "GPT",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-02-25T12:47:09+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/54759",
+          "verified": true,
+          "verify_time": "2026-03-02T21:58:38+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/26062",
+          "verified": true,
+          "verify_time": "2026-03-02T21:29:56+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 10837,
+        "shares": 3777,
+        "saves": 607,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0097",
+      "title": "Anthropic开源创新方案，推动AI芯片发展",
+      "summary": "据报道，Anthropic开源创新方案，推动AI芯片发展。这一进展标志着行业进入新的发展阶段。",
+      "content": "Anthropic开源创新方案，推动AI芯片发展。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Google",
+        "生成式AI",
+        "大模型"
+      ],
+      "publish_time": "2026-02-28T23:32:34+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/78054",
+          "verified": true,
+          "verify_time": "2026-03-02T15:18:57+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/51807",
+          "verified": true,
+          "verify_time": "2026-03-02T08:37:39+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "positive",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        }
+      ],
+      "metrics": {
+        "views": 35153,
+        "shares": 1646,
+        "saves": 407,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0098",
+      "title": "OpenAI与阿里巴巴达成Google合作协议",
+      "summary": "据分析师透露，OpenAI与阿里巴巴达成Google合作协议，这将显著影响相关行业发展。",
+      "content": "最新数据显示，OpenAI与阿里巴巴达成Google合作协议。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "Meta",
+        "自动驾驶",
+        "大模型"
+      ],
+      "publish_time": "2026-02-27T08:46:53+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/72268",
+          "verified": true,
+          "verify_time": "2026-03-03T00:35:51+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/51874",
+          "verified": true,
+          "verify_time": "2026-03-02T09:16:42+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 61950,
+        "shares": 1457,
+        "saves": 1058,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0099",
+      "title": "Anthropic开源智能系统，推动微软发展",
+      "summary": "Anthropic开源智能系统，推动微软发展。市场分析师认为此举将带来17%的增长潜力。",
+      "content": "据知情人士透露，Anthropic开源智能系统，推动微软发展，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "算力",
+        "大模型",
+        "自动驾驶"
+      ],
+      "publish_time": "2026-02-28T17:39:06+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/41516",
+          "verified": true,
+          "verify_time": "2026-03-02T07:42:41+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/73409",
+          "verified": true,
+          "verify_time": "2026-03-02T09:30:38+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/12546",
+          "verified": true,
+          "verify_time": "2026-03-02T07:39:08+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "positive",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "impact": "negative",
+          "reason": "新闻提及Palantir"
+        },
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "impact": "positive",
+          "reason": "新闻提及IBM"
+        }
+      ],
+      "metrics": {
+        "views": 27535,
+        "shares": 370,
+        "saves": 1478,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "ai-0100",
+      "title": "阿里巴巴发布新一代智能系统，性能提升72%",
+      "summary": "阿里巴巴发布新一代智能系统，性能提升72%。市场分析师认为此举将带来13%的增长潜力。",
+      "content": "阿里巴巴发布新一代智能系统，性能提升72%。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "ai",
+      "tags": [
+        "OpenAI",
+        "Meta",
+        "Google"
+      ],
+      "publish_time": "2026-03-03T01:32:03+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/49960",
+          "verified": true,
+          "verify_time": "2026-03-02T20:49:49+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/52984",
+          "verified": true,
+          "verify_time": "2026-03-03T00:47:48+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/48484",
+          "verified": true,
+          "verify_time": "2026-03-02T17:44:53+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "impact": "positive",
+          "reason": "新闻提及英伟达"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "impact": "negative",
+          "reason": "新闻提及微软"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "impact": "positive",
+          "reason": "新闻提及Meta"
+        }
+      ],
+      "metrics": {
+        "views": 75524,
+        "shares": 335,
+        "saves": 695,
+        "credibility_score": 94
+      },
+      "status": "published"
+    }
+  ]
+}

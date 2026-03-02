@@ -1,0 +1,4948 @@
+{
+  "version": "2.0",
+  "category": "robotics",
+  "name": "机器人",
+  "total": 100,
+  "updated": "2026-03-03T03:28:38.871234",
+  "news": [
+    {
+      "id": "robotics-0001",
+      "title": "能源公司机器人创新方案获得50台订单",
+      "summary": "最新数据显示，能源公司机器人创新方案获得50台订单。相关公司股价盘前上涨约1%。",
+      "content": "据报道，能源公司机器人创新方案获得50台订单。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "特斯拉Optimus",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-25T14:29:24+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/15255",
+          "verified": true,
+          "verify_time": "2026-03-02T15:28:15+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/79452",
+          "verified": true,
+          "verify_time": "2026-03-02T16:17:12+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 18167,
+        "shares": 156,
+        "saves": 1437,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0002",
+      "title": "科技公司机器人智能系统获得5台订单",
+      "summary": "最新数据显示，科技公司机器人智能系统获得5台订单。相关公司股价盘前上涨约7%。",
+      "content": "最新数据显示，科技公司机器人智能系统获得5台订单。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-01T22:59:58+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/82139",
+          "verified": true,
+          "verify_time": "2026-03-02T11:08:10+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/74171",
+          "verified": true,
+          "verify_time": "2026-03-02T03:45:30+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/43613",
+          "verified": true,
+          "verify_time": "2026-03-02T10:05:52+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 6632,
+        "shares": 4866,
+        "saves": 1136,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0003",
+      "title": "科技公司发布智能系统，可实现人机协作",
+      "summary": "据官方透露，科技公司发布智能系统，可实现人机协作，这将显著影响相关行业发展。",
+      "content": "据分析师透露，科技公司发布智能系统，可实现人机协作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "智能制造",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-25T09:05:52+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/81958",
+          "verified": true,
+          "verify_time": "2026-03-02T13:44:20+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63310",
+          "verified": true,
+          "verify_time": "2026-03-02T12:52:07+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 97757,
+        "shares": 2828,
+        "saves": 591,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0004",
+      "title": "能源公司人形机器人创新方案开始量产，售价500万美元",
+      "summary": "能源公司人形机器人创新方案开始量产，售价500万美元。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，能源公司人形机器人创新方案开始量产，售价500万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "Boston Dynamics",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-27T13:50:24+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/71753",
+          "verified": true,
+          "verify_time": "2026-03-02T15:07:25+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/84287",
+          "verified": true,
+          "verify_time": "2026-03-02T11:59:08+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 91741,
+        "shares": 4554,
+        "saves": 1493,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0005",
+      "title": "能源公司与合作伙伴合作开发新产品，应用于服务业",
+      "summary": "能源公司与合作伙伴合作开发新产品，应用于服务业。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，能源公司与合作伙伴合作开发新产品，应用于服务业。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "特斯拉Optimus",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-24T21:24:14+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/84179",
+          "verified": true,
+          "verify_time": "2026-03-02T09:51:23+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/67301",
+          "verified": true,
+          "verify_time": "2026-03-02T18:26:49+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 12325,
+        "shares": 751,
+        "saves": 1967,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0006",
+      "title": "能源公司投资5000亿美元建设创新方案生产线",
+      "summary": "最新数据显示，能源公司投资5000亿美元建设创新方案生产线。相关公司股价盘前下跌约5%。",
+      "content": "最新数据显示，能源公司投资5000亿美元建设创新方案生产线。相关公司股价盘前下跌约4%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "人形机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-25T02:13:57+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/40255",
+          "verified": true,
+          "verify_time": "2026-03-02T23:45:13+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/49318",
+          "verified": true,
+          "verify_time": "2026-03-02T10:37:19+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 97594,
+        "shares": 2502,
+        "saves": 1209,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0007",
+      "title": "科技公司人形机器人智能系统开始量产，售价1000万美元",
+      "summary": "科技公司人形机器人智能系统开始量产，售价1000万美元。市场分析师认为此举将带来41%的增长潜力。",
+      "content": "科技公司人形机器人智能系统开始量产，售价1000万美元。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "人形机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-27T10:16:16+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/80743",
+          "verified": true,
+          "verify_time": "2026-03-02T16:14:18+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/39596",
+          "verified": true,
+          "verify_time": "2026-03-02T06:35:26+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 66181,
+        "shares": 2153,
+        "saves": 763,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0008",
+      "title": "能源公司发布智能系统，可实现精密操作",
+      "summary": "能源公司发布智能系统，可实现精密操作。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据分析师透露，能源公司发布智能系统，可实现精密操作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "自动化",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-01T14:33:57+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/85192",
+          "verified": true,
+          "verify_time": "2026-03-02T11:52:36+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/94312",
+          "verified": true,
+          "verify_time": "2026-03-02T19:40:42+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 48279,
+        "shares": 4665,
+        "saves": 1616,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0009",
+      "title": "科技公司与合作伙伴合作开发创新方案，应用于农业",
+      "summary": "科技公司与合作伙伴合作开发创新方案，应用于农业。市场分析师认为此举将带来47%的增长潜力。",
+      "content": "最新数据显示，科技公司与合作伙伴合作开发创新方案，应用于农业。相关公司股价盘前下跌约6%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "工业机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-27T23:27:19+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/31497",
+          "verified": true,
+          "verify_time": "2026-03-02T21:33:27+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/73429",
+          "verified": true,
+          "verify_time": "2026-03-02T10:06:11+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 82639,
+        "shares": 352,
+        "saves": 1430,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0010",
+      "title": "科技公司与合作伙伴合作开发创新方案，应用于服务业",
+      "summary": "科技公司与合作伙伴合作开发创新方案，应用于服务业。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据知情人士透露，科技公司与合作伙伴合作开发创新方案，应用于服务业，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "智能制造",
+        "自动化"
+      ],
+      "publish_time": "2026-03-01T17:39:13+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/54157",
+          "verified": true,
+          "verify_time": "2026-03-02T03:37:21+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/49196",
+          "verified": true,
+          "verify_time": "2026-03-02T10:51:17+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/19956",
+          "verified": true,
+          "verify_time": "2026-03-03T02:17:32+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 38732,
+        "shares": 3420,
+        "saves": 739,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0011",
+      "title": "科技公司人形机器人新产品开始量产，售价50万美元",
+      "summary": "科技公司人形机器人新产品开始量产，售价50万美元。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据报道，科技公司人形机器人新产品开始量产，售价50万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "自动化",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-27T19:47:08+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/87584",
+          "verified": true,
+          "verify_time": "2026-03-02T08:29:04+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/54190",
+          "verified": true,
+          "verify_time": "2026-03-03T00:20:21+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/74918",
+          "verified": true,
+          "verify_time": "2026-03-02T14:31:13+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 83802,
+        "shares": 2130,
+        "saves": 1681,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0012",
+      "title": "能源公司机器人新一代技术获得5台订单",
+      "summary": "最新数据显示，能源公司机器人新一代技术获得5台订单。相关公司股价盘前下跌约2%。",
+      "content": "据报道，能源公司机器人新一代技术获得5台订单。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "人形机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-03-01T01:49:40+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/32562",
+          "verified": true,
+          "verify_time": "2026-03-03T00:33:47+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/45259",
+          "verified": true,
+          "verify_time": "2026-03-03T01:11:21+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/51303",
+          "verified": true,
+          "verify_time": "2026-03-03T01:08:57+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 99949,
+        "shares": 4531,
+        "saves": 1825,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0013",
+      "title": "能源公司机器人新一代技术获得5台订单",
+      "summary": "据官方透露，能源公司机器人新一代技术获得5台订单，这将显著影响相关行业发展。",
+      "content": "能源公司机器人新一代技术获得5台订单。市场分析师认为此举将带来49%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "工业机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-27T09:42:02+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/57855",
+          "verified": true,
+          "verify_time": "2026-03-02T11:10:41+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/94848",
+          "verified": true,
+          "verify_time": "2026-03-02T21:26:32+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/61086",
+          "verified": true,
+          "verify_time": "2026-03-02T12:35:09+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 30521,
+        "shares": 3653,
+        "saves": 1937,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0014",
+      "title": "科技公司发布创新方案，可实现自主导航",
+      "summary": "据分析师透露，科技公司发布创新方案，可实现自主导航，这将显著影响相关行业发展。",
+      "content": "据报道，科技公司发布创新方案，可实现自主导航。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "智能制造",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-27T19:27:00+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/36648",
+          "verified": true,
+          "verify_time": "2026-03-03T03:13:49+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/62994",
+          "verified": true,
+          "verify_time": "2026-03-02T13:12:36+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 80090,
+        "shares": 1084,
+        "saves": 141,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0015",
+      "title": "科技公司发布新产品，可实现精密操作",
+      "summary": "据报道，科技公司发布新产品，可实现精密操作。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，科技公司发布新产品，可实现精密操作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "智能制造",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-02-28T00:05:24+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/80117",
+          "verified": true,
+          "verify_time": "2026-03-02T05:14:12+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/40070",
+          "verified": true,
+          "verify_time": "2026-03-02T04:48:11+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 38312,
+        "shares": 4347,
+        "saves": 1707,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0016",
+      "title": "能源公司与合作伙伴合作开发新产品，应用于物流",
+      "summary": "最新数据显示，能源公司与合作伙伴合作开发新产品，应用于物流。相关公司股价盘前上涨约3%。",
+      "content": "据知情人士透露，能源公司与合作伙伴合作开发新产品，应用于物流，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "Boston Dynamics",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-03T03:01:22+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/48702",
+          "verified": true,
+          "verify_time": "2026-03-02T12:14:17+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/66072",
+          "verified": true,
+          "verify_time": "2026-03-03T01:59:00+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/34213",
+          "verified": true,
+          "verify_time": "2026-03-02T09:01:32+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 62560,
+        "shares": 4553,
+        "saves": 892,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0017",
+      "title": "科技公司发布创新方案，可实现自主导航",
+      "summary": "据分析师透露，科技公司发布创新方案，可实现自主导航，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，科技公司发布创新方案，可实现自主导航，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-28T14:56:45+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/48500",
+          "verified": true,
+          "verify_time": "2026-03-02T14:26:23+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/81412",
+          "verified": true,
+          "verify_time": "2026-03-02T10:52:28+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 18356,
+        "shares": 4620,
+        "saves": 1427,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0018",
+      "title": "科技公司投资5000亿美元建设智能系统生产线",
+      "summary": "据报道，科技公司投资5000亿美元建设智能系统生产线。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司投资5000亿美元建设智能系统生产线。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "工业机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-02-26T10:13:35+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/99658",
+          "verified": true,
+          "verify_time": "2026-03-02T11:23:58+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/28554",
+          "verified": true,
+          "verify_time": "2026-03-02T12:09:42+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/36534",
+          "verified": true,
+          "verify_time": "2026-03-02T15:01:33+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 97478,
+        "shares": 4549,
+        "saves": 1977,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0019",
+      "title": "能源公司投资1000亿美元建设新产品生产线",
+      "summary": "最新数据显示，能源公司投资1000亿美元建设新产品生产线。相关公司股价盘前下跌约3%。",
+      "content": "据知情人士透露，能源公司投资1000亿美元建设新产品生产线，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "人形机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-02-26T10:07:06+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/58829",
+          "verified": true,
+          "verify_time": "2026-03-02T09:27:02+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/17762",
+          "verified": true,
+          "verify_time": "2026-03-02T12:57:07+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/63574",
+          "verified": true,
+          "verify_time": "2026-03-02T22:20:53+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 29123,
+        "shares": 3755,
+        "saves": 758,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0020",
+      "title": "能源公司与合作伙伴合作开发创新方案，应用于物流",
+      "summary": "据报道，能源公司与合作伙伴合作开发创新方案，应用于物流。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，能源公司与合作伙伴合作开发创新方案，应用于物流，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "工业机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-28T09:44:05+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/39837",
+          "verified": true,
+          "verify_time": "2026-03-02T20:42:10+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/56798",
+          "verified": true,
+          "verify_time": "2026-03-02T18:43:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/40605",
+          "verified": true,
+          "verify_time": "2026-03-02T23:47:09+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 12034,
+        "shares": 2935,
+        "saves": 1790,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0021",
+      "title": "科技公司人形机器人智能系统开始量产，售价1000万美元",
+      "summary": "科技公司人形机器人智能系统开始量产，售价1000万美元。业内人士预计该趋势将在未来5年内持续。",
+      "content": "据知情人士透露，科技公司人形机器人智能系统开始量产，售价1000万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "特斯拉Optimus",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-27T16:54:41+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/29456",
+          "verified": true,
+          "verify_time": "2026-03-02T16:09:51+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/60180",
+          "verified": true,
+          "verify_time": "2026-03-02T07:04:58+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 68991,
+        "shares": 340,
+        "saves": 968,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0022",
+      "title": "能源公司与合作伙伴合作开发新产品，应用于物流",
+      "summary": "最新数据显示，能源公司与合作伙伴合作开发新产品，应用于物流。相关公司股价盘前下跌约7%。",
+      "content": "据官方透露，能源公司与合作伙伴合作开发新产品，应用于物流，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "工业机器人",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-03T03:00:23+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/38462",
+          "verified": true,
+          "verify_time": "2026-03-02T18:40:24+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/74455",
+          "verified": true,
+          "verify_time": "2026-03-02T06:47:24+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 99374,
+        "shares": 914,
+        "saves": 1358,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0023",
+      "title": "科技公司人形机器人智能系统开始量产，售价2000万美元",
+      "summary": "最新数据显示，科技公司人形机器人智能系统开始量产，售价2000万美元。相关公司股价盘前下跌约9%。",
+      "content": "据报道，科技公司人形机器人智能系统开始量产，售价2000万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "特斯拉Optimus",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-02T16:08:25+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/36117",
+          "verified": true,
+          "verify_time": "2026-03-02T16:22:21+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/26336",
+          "verified": true,
+          "verify_time": "2026-03-02T11:26:49+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 84545,
+        "shares": 4097,
+        "saves": 1597,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0024",
+      "title": "科技公司人形机器人新一代技术开始量产，售价10万美元",
+      "summary": "据报道，科技公司人形机器人新一代技术开始量产，售价10万美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，科技公司人形机器人新一代技术开始量产，售价10万美元。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "特斯拉Optimus",
+        "自动化"
+      ],
+      "publish_time": "2026-03-01T10:10:42+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/23548",
+          "verified": true,
+          "verify_time": "2026-03-02T09:08:23+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/11909",
+          "verified": true,
+          "verify_time": "2026-03-02T14:03:00+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 72441,
+        "shares": 1955,
+        "saves": 1269,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0025",
+      "title": "能源公司机器人创新方案获得50台订单",
+      "summary": "最新数据显示，能源公司机器人创新方案获得50台订单。相关公司股价盘前下跌约6%。",
+      "content": "据官方透露，能源公司机器人创新方案获得50台订单，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "工业机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-01T00:49:57+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/90450",
+          "verified": true,
+          "verify_time": "2026-03-03T01:49:32+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/47521",
+          "verified": true,
+          "verify_time": "2026-03-02T22:37:18+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/13475",
+          "verified": true,
+          "verify_time": "2026-03-02T23:52:36+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 86370,
+        "shares": 4742,
+        "saves": 517,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0026",
+      "title": "能源公司机器人智能系统获得100台订单",
+      "summary": "能源公司机器人智能系统获得100台订单。市场分析师认为此举将带来35%的增长潜力。",
+      "content": "据官方透露，能源公司机器人智能系统获得100台订单，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-03T02:50:58+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/96440",
+          "verified": true,
+          "verify_time": "2026-03-02T10:16:59+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/60840",
+          "verified": true,
+          "verify_time": "2026-03-02T16:44:53+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/19154",
+          "verified": true,
+          "verify_time": "2026-03-02T05:46:49+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 24055,
+        "shares": 874,
+        "saves": 730,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0027",
+      "title": "科技公司人形机器人新一代技术开始量产，售价2000万美元",
+      "summary": "最新数据显示，科技公司人形机器人新一代技术开始量产，售价2000万美元。相关公司股价盘前上涨约3%。",
+      "content": "据分析师透露，科技公司人形机器人新一代技术开始量产，售价2000万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "工业机器人",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-28T02:49:35+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/77132",
+          "verified": true,
+          "verify_time": "2026-03-03T02:46:13+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/85357",
+          "verified": true,
+          "verify_time": "2026-03-02T14:23:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/97793",
+          "verified": true,
+          "verify_time": "2026-03-02T16:53:17+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 81293,
+        "shares": 1530,
+        "saves": 648,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0028",
+      "title": "能源公司发布智能系统，可实现精密操作",
+      "summary": "据报道，能源公司发布智能系统，可实现精密操作。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，能源公司发布智能系统，可实现精密操作，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-28T15:17:51+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/34766",
+          "verified": true,
+          "verify_time": "2026-03-03T00:31:13+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/90371",
+          "verified": true,
+          "verify_time": "2026-03-02T11:22:47+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 97135,
+        "shares": 3849,
+        "saves": 271,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0029",
+      "title": "能源公司人形机器人新产品开始量产，售价2000万美元",
+      "summary": "据报道，能源公司人形机器人新产品开始量产，售价2000万美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，能源公司人形机器人新产品开始量产，售价2000万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "人形机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-24T21:27:57+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/39432",
+          "verified": true,
+          "verify_time": "2026-03-02T20:58:46+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/31546",
+          "verified": true,
+          "verify_time": "2026-03-02T18:34:22+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 18680,
+        "shares": 1120,
+        "saves": 1361,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0030",
+      "title": "科技公司机器人创新方案获得10台订单",
+      "summary": "据报道，科技公司机器人创新方案获得10台订单。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司机器人创新方案获得10台订单。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-02-28T17:32:26+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/32577",
+          "verified": true,
+          "verify_time": "2026-03-02T12:17:41+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/78863",
+          "verified": true,
+          "verify_time": "2026-03-03T01:29:19+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 62386,
+        "shares": 189,
+        "saves": 340,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0031",
+      "title": "科技公司投资500亿美元建设智能系统生产线",
+      "summary": "据分析师透露，科技公司投资500亿美元建设智能系统生产线，这将显著影响相关行业发展。",
+      "content": "据报道，科技公司投资500亿美元建设智能系统生产线。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "工业机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-26T20:20:13+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/55940",
+          "verified": true,
+          "verify_time": "2026-03-03T00:35:02+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/37004",
+          "verified": true,
+          "verify_time": "2026-03-02T16:23:23+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 9224,
+        "shares": 1238,
+        "saves": 1522,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0032",
+      "title": "科技公司人形机器人智能系统开始量产，售价2000万美元",
+      "summary": "科技公司人形机器人智能系统开始量产，售价2000万美元。市场分析师认为此举将带来18%的增长潜力。",
+      "content": "科技公司人形机器人智能系统开始量产，售价2000万美元。市场分析师认为此举将带来21%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "智能制造",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-01T18:45:19+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/99475",
+          "verified": true,
+          "verify_time": "2026-03-02T11:07:29+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/38774",
+          "verified": true,
+          "verify_time": "2026-03-02T10:06:39+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 9870,
+        "shares": 2364,
+        "saves": 102,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0033",
+      "title": "能源公司投资1000亿美元建设创新方案生产线",
+      "summary": "据分析师透露，能源公司投资1000亿美元建设创新方案生产线，这将显著影响相关行业发展。",
+      "content": "能源公司投资1000亿美元建设创新方案生产线。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "人形机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-27T20:24:08+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/47742",
+          "verified": true,
+          "verify_time": "2026-03-02T10:37:29+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/99588",
+          "verified": true,
+          "verify_time": "2026-03-03T00:00:18+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 11159,
+        "shares": 3688,
+        "saves": 1130,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0034",
+      "title": "科技公司与合作伙伴合作开发创新方案，应用于农业",
+      "summary": "据报道，科技公司与合作伙伴合作开发创新方案，应用于农业。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司与合作伙伴合作开发创新方案，应用于农业。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "自动化",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-28T05:10:47+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/22170",
+          "verified": true,
+          "verify_time": "2026-03-02T13:05:31+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/68446",
+          "verified": true,
+          "verify_time": "2026-03-02T13:47:10+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 42165,
+        "shares": 531,
+        "saves": 648,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0035",
+      "title": "能源公司投资5000亿美元建设智能系统生产线",
+      "summary": "最新数据显示，能源公司投资5000亿美元建设智能系统生产线。相关公司股价盘前上涨约2%。",
+      "content": "能源公司投资5000亿美元建设智能系统生产线。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "工业机器人",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-01T06:16:25+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/21655",
+          "verified": true,
+          "verify_time": "2026-03-02T05:02:09+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/69114",
+          "verified": true,
+          "verify_time": "2026-03-02T04:35:47+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 96214,
+        "shares": 3342,
+        "saves": 285,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0036",
+      "title": "科技公司发布新产品，可实现复杂环境作业",
+      "summary": "科技公司发布新产品，可实现复杂环境作业。市场分析师认为此举将带来28%的增长潜力。",
+      "content": "科技公司发布新产品，可实现复杂环境作业。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-03-01T11:47:21+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/50617",
+          "verified": true,
+          "verify_time": "2026-03-02T06:48:07+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/99287",
+          "verified": true,
+          "verify_time": "2026-03-02T13:23:12+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 34319,
+        "shares": 4108,
+        "saves": 1704,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0037",
+      "title": "科技公司发布创新方案，可实现人机协作",
+      "summary": "据知情人士透露，科技公司发布创新方案，可实现人机协作，这将显著影响相关行业发展。",
+      "content": "据报道，科技公司发布创新方案，可实现人机协作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "智能制造",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-02T23:03:23+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/57088",
+          "verified": true,
+          "verify_time": "2026-03-02T07:43:30+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/54843",
+          "verified": true,
+          "verify_time": "2026-03-02T16:28:37+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 61120,
+        "shares": 3008,
+        "saves": 584,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0038",
+      "title": "科技公司投资10亿美元建设智能系统生产线",
+      "summary": "据分析师透露，科技公司投资10亿美元建设智能系统生产线，这将显著影响相关行业发展。",
+      "content": "科技公司投资10亿美元建设智能系统生产线。市场分析师认为此举将带来11%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-02-28T10:48:50+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/77090",
+          "verified": true,
+          "verify_time": "2026-03-02T19:36:58+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/93437",
+          "verified": true,
+          "verify_time": "2026-03-02T16:22:09+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 51847,
+        "shares": 480,
+        "saves": 1164,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0039",
+      "title": "科技公司与合作伙伴合作开发创新方案，应用于制造业",
+      "summary": "科技公司与合作伙伴合作开发创新方案，应用于制造业。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据官方透露，科技公司与合作伙伴合作开发创新方案，应用于制造业，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "智能制造",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-02-25T02:04:21+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63467",
+          "verified": true,
+          "verify_time": "2026-03-02T19:15:02+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/37010",
+          "verified": true,
+          "verify_time": "2026-03-02T09:32:37+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 43935,
+        "shares": 454,
+        "saves": 769,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0040",
+      "title": "科技公司机器人智能系统获得500台订单",
+      "summary": "科技公司机器人智能系统获得500台订单。市场分析师认为此举将带来21%的增长潜力。",
+      "content": "科技公司机器人智能系统获得500台订单。市场分析师认为此举将带来34%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "工业机器人",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-25T07:59:54+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/52402",
+          "verified": true,
+          "verify_time": "2026-03-03T01:59:43+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/60870",
+          "verified": true,
+          "verify_time": "2026-03-02T21:19:33+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/46042",
+          "verified": true,
+          "verify_time": "2026-03-02T22:23:41+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 88177,
+        "shares": 3481,
+        "saves": 752,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0041",
+      "title": "科技公司投资1000亿美元建设新产品生产线",
+      "summary": "科技公司投资1000亿美元建设新产品生产线。市场分析师认为此举将带来33%的增长潜力。",
+      "content": "科技公司投资1000亿美元建设新产品生产线。市场分析师认为此举将带来48%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "自动化",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-01T17:02:39+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/88718",
+          "verified": true,
+          "verify_time": "2026-03-02T08:01:00+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/62995",
+          "verified": true,
+          "verify_time": "2026-03-02T20:17:30+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/52984",
+          "verified": true,
+          "verify_time": "2026-03-02T17:11:43+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 87034,
+        "shares": 3219,
+        "saves": 1240,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0042",
+      "title": "能源公司与合作伙伴合作开发新产品，应用于医疗",
+      "summary": "能源公司与合作伙伴合作开发新产品，应用于医疗。业内人士预计该趋势将在未来4年内持续。",
+      "content": "能源公司与合作伙伴合作开发新产品，应用于医疗。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-25T09:30:42+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/37567",
+          "verified": true,
+          "verify_time": "2026-03-02T21:03:34+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/81822",
+          "verified": true,
+          "verify_time": "2026-03-02T23:37:13+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 31209,
+        "shares": 1754,
+        "saves": 423,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0043",
+      "title": "科技公司投资5000亿美元建设新一代技术生产线",
+      "summary": "科技公司投资5000亿美元建设新一代技术生产线。市场分析师认为此举将带来47%的增长潜力。",
+      "content": "科技公司投资5000亿美元建设新一代技术生产线。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-28T06:07:42+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/12064",
+          "verified": true,
+          "verify_time": "2026-03-02T10:04:38+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/46438",
+          "verified": true,
+          "verify_time": "2026-03-02T09:14:57+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/71154",
+          "verified": true,
+          "verify_time": "2026-03-02T23:28:21+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 75921,
+        "shares": 3270,
+        "saves": 743,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0044",
+      "title": "科技公司投资50亿美元建设新一代技术生产线",
+      "summary": "据报道，科技公司投资50亿美元建设新一代技术生产线。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司投资50亿美元建设新一代技术生产线。市场分析师认为此举将带来16%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "智能制造",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-28T01:33:25+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/85563",
+          "verified": true,
+          "verify_time": "2026-03-02T22:49:20+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/91574",
+          "verified": true,
+          "verify_time": "2026-03-02T17:20:20+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/52163",
+          "verified": true,
+          "verify_time": "2026-03-02T16:15:42+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 25417,
+        "shares": 4779,
+        "saves": 1106,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0045",
+      "title": "能源公司与合作伙伴合作开发智能系统，应用于农业",
+      "summary": "据报道，能源公司与合作伙伴合作开发智能系统，应用于农业。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，能源公司与合作伙伴合作开发智能系统，应用于农业，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-24T12:35:22+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/37629",
+          "verified": true,
+          "verify_time": "2026-03-02T23:01:19+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/85991",
+          "verified": true,
+          "verify_time": "2026-03-03T00:58:08+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 34590,
+        "shares": 2941,
+        "saves": 838,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0046",
+      "title": "科技公司机器人新一代技术获得10台订单",
+      "summary": "科技公司机器人新一代技术获得10台订单。业内人士预计该趋势将在未来5年内持续。",
+      "content": "科技公司机器人新一代技术获得10台订单。市场分析师认为此举将带来46%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "Boston Dynamics",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-28T22:14:30+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/13963",
+          "verified": true,
+          "verify_time": "2026-03-02T16:16:41+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/51244",
+          "verified": true,
+          "verify_time": "2026-03-03T01:15:47+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 7628,
+        "shares": 3039,
+        "saves": 1017,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0047",
+      "title": "能源公司人形机器人新一代技术开始量产，售价5000万美元",
+      "summary": "能源公司人形机器人新一代技术开始量产，售价5000万美元。业内人士预计该趋势将在未来3年内持续。",
+      "content": "能源公司人形机器人新一代技术开始量产，售价5000万美元。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "Boston Dynamics",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-27T13:33:04+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/84680",
+          "verified": true,
+          "verify_time": "2026-03-03T02:01:34+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/55974",
+          "verified": true,
+          "verify_time": "2026-03-02T14:02:09+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/46390",
+          "verified": true,
+          "verify_time": "2026-03-02T10:14:31+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 75539,
+        "shares": 1079,
+        "saves": 467,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0048",
+      "title": "能源公司发布创新方案，可实现人机协作",
+      "summary": "能源公司发布创新方案，可实现人机协作。市场分析师认为此举将带来16%的增长潜力。",
+      "content": "最新数据显示，能源公司发布创新方案，可实现人机协作。相关公司股价盘前下跌约10%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "工业机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-03-02T03:03:26+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/90613",
+          "verified": true,
+          "verify_time": "2026-03-02T22:49:50+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/25821",
+          "verified": true,
+          "verify_time": "2026-03-02T07:04:45+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 30356,
+        "shares": 2670,
+        "saves": 1105,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0049",
+      "title": "科技公司发布新一代技术，可实现精密操作",
+      "summary": "科技公司发布新一代技术，可实现精密操作。业内人士预计该趋势将在未来4年内持续。",
+      "content": "据报道，科技公司发布新一代技术，可实现精密操作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "人形机器人",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-02-26T21:05:29+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/54051",
+          "verified": true,
+          "verify_time": "2026-03-02T05:55:05+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/77940",
+          "verified": true,
+          "verify_time": "2026-03-02T04:15:58+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/49594",
+          "verified": true,
+          "verify_time": "2026-03-02T15:22:53+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 98719,
+        "shares": 890,
+        "saves": 1062,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0050",
+      "title": "科技公司发布智能系统，可实现自主导航",
+      "summary": "科技公司发布智能系统，可实现自主导航。业内人士预计该趋势将在未来5年内持续。",
+      "content": "科技公司发布智能系统，可实现自主导航。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "人形机器人",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-01T10:41:03+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/71558",
+          "verified": true,
+          "verify_time": "2026-03-02T04:37:31+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/85114",
+          "verified": true,
+          "verify_time": "2026-03-02T20:33:16+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/78442",
+          "verified": true,
+          "verify_time": "2026-03-03T00:38:50+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 84307,
+        "shares": 2733,
+        "saves": 1348,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0051",
+      "title": "能源公司人形机器人新产品开始量产，售价5000万美元",
+      "summary": "能源公司人形机器人新产品开始量产，售价5000万美元。市场分析师认为此举将带来28%的增长潜力。",
+      "content": "据分析师透露，能源公司人形机器人新产品开始量产，售价5000万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "工业机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-03-01T02:27:51+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/54639",
+          "verified": true,
+          "verify_time": "2026-03-02T06:40:40+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/91297",
+          "verified": true,
+          "verify_time": "2026-03-02T17:16:55+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 87013,
+        "shares": 4256,
+        "saves": 927,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0052",
+      "title": "能源公司机器人新产品获得10台订单",
+      "summary": "能源公司机器人新产品获得10台订单。市场分析师认为此举将带来15%的增长潜力。",
+      "content": "能源公司机器人新产品获得10台订单。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "特斯拉Optimus",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-01T08:58:45+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/51808",
+          "verified": true,
+          "verify_time": "2026-03-02T14:14:36+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/16662",
+          "verified": true,
+          "verify_time": "2026-03-02T19:00:10+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/88440",
+          "verified": true,
+          "verify_time": "2026-03-02T16:22:29+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 97250,
+        "shares": 1351,
+        "saves": 472,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0053",
+      "title": "科技公司发布新产品，可实现复杂环境作业",
+      "summary": "科技公司发布新产品，可实现复杂环境作业。业内人士预计该趋势将在未来5年内持续。",
+      "content": "科技公司发布新产品，可实现复杂环境作业。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "自动化",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-03-02T19:27:47+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/38078",
+          "verified": true,
+          "verify_time": "2026-03-02T18:38:56+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/22773",
+          "verified": true,
+          "verify_time": "2026-03-02T04:55:29+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/57159",
+          "verified": true,
+          "verify_time": "2026-03-02T16:07:59+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 90299,
+        "shares": 423,
+        "saves": 1551,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0054",
+      "title": "科技公司机器人新一代技术获得10台订单",
+      "summary": "据报道，科技公司机器人新一代技术获得10台订单。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司机器人新一代技术获得10台订单。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "Boston Dynamics",
+        "自动化"
+      ],
+      "publish_time": "2026-02-24T18:43:32+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/73240",
+          "verified": true,
+          "verify_time": "2026-03-02T12:23:51+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/15429",
+          "verified": true,
+          "verify_time": "2026-03-02T05:37:04+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/43778",
+          "verified": true,
+          "verify_time": "2026-03-02T09:29:24+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 27532,
+        "shares": 3148,
+        "saves": 1807,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0055",
+      "title": "能源公司机器人智能系统获得5台订单",
+      "summary": "据报道，能源公司机器人智能系统获得5台订单。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，能源公司机器人智能系统获得5台订单。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "自动化",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-03T01:18:44+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/78583",
+          "verified": true,
+          "verify_time": "2026-03-02T20:56:34+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/88570",
+          "verified": true,
+          "verify_time": "2026-03-03T02:01:50+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 18555,
+        "shares": 3935,
+        "saves": 1078,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0056",
+      "title": "能源公司机器人新一代技术获得1台订单",
+      "summary": "能源公司机器人新一代技术获得1台订单。业内人士预计该趋势将在未来3年内持续。",
+      "content": "能源公司机器人新一代技术获得1台订单。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-27T10:20:18+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/71281",
+          "verified": true,
+          "verify_time": "2026-03-02T20:52:37+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/87593",
+          "verified": true,
+          "verify_time": "2026-03-02T22:08:00+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/80533",
+          "verified": true,
+          "verify_time": "2026-03-03T01:49:59+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 53183,
+        "shares": 1346,
+        "saves": 499,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0057",
+      "title": "科技公司发布创新方案，可实现自主导航",
+      "summary": "最新数据显示，科技公司发布创新方案，可实现自主导航。相关公司股价盘前下跌约9%。",
+      "content": "据报道，科技公司发布创新方案，可实现自主导航。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "工业机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-27T17:23:12+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/57462",
+          "verified": true,
+          "verify_time": "2026-03-02T19:43:45+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/64750",
+          "verified": true,
+          "verify_time": "2026-03-02T16:40:58+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 39005,
+        "shares": 4812,
+        "saves": 202,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0058",
+      "title": "能源公司投资10亿美元建设新产品生产线",
+      "summary": "最新数据显示，能源公司投资10亿美元建设新产品生产线。相关公司股价盘前下跌约1%。",
+      "content": "能源公司投资10亿美元建设新产品生产线。市场分析师认为此举将带来32%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "Boston Dynamics",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-28T15:57:54+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/59759",
+          "verified": true,
+          "verify_time": "2026-03-02T20:20:59+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/35045",
+          "verified": true,
+          "verify_time": "2026-03-02T05:21:51+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/69384",
+          "verified": true,
+          "verify_time": "2026-03-02T06:58:00+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 60956,
+        "shares": 3838,
+        "saves": 1341,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0059",
+      "title": "能源公司人形机器人智能系统开始量产，售价1000万美元",
+      "summary": "能源公司人形机器人智能系统开始量产，售价1000万美元。市场分析师认为此举将带来35%的增长潜力。",
+      "content": "能源公司人形机器人智能系统开始量产，售价1000万美元。市场分析师认为此举将带来39%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "Boston Dynamics",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-01T14:57:04+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/39075",
+          "verified": true,
+          "verify_time": "2026-03-02T13:58:23+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/39200",
+          "verified": true,
+          "verify_time": "2026-03-02T05:26:39+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 44074,
+        "shares": 1487,
+        "saves": 1867,
+        "credibility_score": 89
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0060",
+      "title": "科技公司人形机器人智能系统开始量产，售价2000万美元",
+      "summary": "科技公司人形机器人智能系统开始量产，售价2000万美元。业内人士预计该趋势将在未来2年内持续。",
+      "content": "科技公司人形机器人智能系统开始量产，售价2000万美元。市场分析师认为此举将带来38%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "智能制造",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-27T16:33:19+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/42483",
+          "verified": true,
+          "verify_time": "2026-03-02T18:42:42+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/56708",
+          "verified": true,
+          "verify_time": "2026-03-02T17:14:28+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 62142,
+        "shares": 505,
+        "saves": 988,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0061",
+      "title": "科技公司机器人新产品获得50台订单",
+      "summary": "据分析师透露，科技公司机器人新产品获得50台订单，这将显著影响相关行业发展。",
+      "content": "科技公司机器人新产品获得50台订单。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "Boston Dynamics",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-01T21:11:12+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/98475",
+          "verified": true,
+          "verify_time": "2026-03-02T21:41:37+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/44800",
+          "verified": true,
+          "verify_time": "2026-03-02T09:58:41+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/38266",
+          "verified": true,
+          "verify_time": "2026-03-02T16:53:48+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 14950,
+        "shares": 134,
+        "saves": 955,
+        "credibility_score": 90
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0062",
+      "title": "能源公司发布新一代技术，可实现人机协作",
+      "summary": "据报道，能源公司发布新一代技术，可实现人机协作。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，能源公司发布新一代技术，可实现人机协作。相关公司股价盘前下跌约2%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "工业机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-26T13:00:35+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/91875",
+          "verified": true,
+          "verify_time": "2026-03-02T09:19:49+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/80451",
+          "verified": true,
+          "verify_time": "2026-03-02T09:46:54+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/16274",
+          "verified": true,
+          "verify_time": "2026-03-03T02:25:26+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 37456,
+        "shares": 3699,
+        "saves": 349,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0063",
+      "title": "科技公司发布新一代技术，可实现人机协作",
+      "summary": "科技公司发布新一代技术，可实现人机协作。市场分析师认为此举将带来47%的增长潜力。",
+      "content": "科技公司发布新一代技术，可实现人机协作。市场分析师认为此举将带来37%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "特斯拉Optimus",
+        "自动化"
+      ],
+      "publish_time": "2026-02-25T09:00:08+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/70124",
+          "verified": true,
+          "verify_time": "2026-03-02T11:58:13+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/37752",
+          "verified": true,
+          "verify_time": "2026-03-02T06:09:37+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/32768",
+          "verified": true,
+          "verify_time": "2026-03-02T05:14:25+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 45206,
+        "shares": 1581,
+        "saves": 1278,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0064",
+      "title": "能源公司机器人新产品获得1台订单",
+      "summary": "据官方透露，能源公司机器人新产品获得1台订单，这将显著影响相关行业发展。",
+      "content": "能源公司机器人新产品获得1台订单。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "Boston Dynamics",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-02-24T18:55:23+08:00",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/13060",
+          "verified": true,
+          "verify_time": "2026-03-02T14:49:21+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/54496",
+          "verified": true,
+          "verify_time": "2026-03-02T18:48:56+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/16326",
+          "verified": true,
+          "verify_time": "2026-03-03T00:25:38+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 48753,
+        "shares": 3373,
+        "saves": 1813,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0065",
+      "title": "能源公司发布新一代技术，可实现自主导航",
+      "summary": "能源公司发布新一代技术，可实现自主导航。业内人士预计该趋势将在未来1年内持续。",
+      "content": "能源公司发布新一代技术，可实现自主导航。市场分析师认为此举将带来31%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "人形机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-26T23:53:48+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/80366",
+          "verified": true,
+          "verify_time": "2026-03-02T20:43:01+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/27790",
+          "verified": true,
+          "verify_time": "2026-03-02T04:03:22+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/90254",
+          "verified": true,
+          "verify_time": "2026-03-02T14:39:19+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 33376,
+        "shares": 3267,
+        "saves": 1330,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0066",
+      "title": "科技公司人形机器人新产品开始量产，售价100万美元",
+      "summary": "据官方透露，科技公司人形机器人新产品开始量产，售价100万美元，这将显著影响相关行业发展。",
+      "content": "科技公司人形机器人新产品开始量产，售价100万美元。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "人形机器人",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-26T10:06:21+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/29396",
+          "verified": true,
+          "verify_time": "2026-03-02T06:35:11+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/28768",
+          "verified": true,
+          "verify_time": "2026-03-03T02:20:42+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/17216",
+          "verified": true,
+          "verify_time": "2026-03-02T07:35:34+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 29052,
+        "shares": 3940,
+        "saves": 354,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0067",
+      "title": "能源公司人形机器人创新方案开始量产，售价100万美元",
+      "summary": "最新数据显示，能源公司人形机器人创新方案开始量产，售价100万美元。相关公司股价盘前上涨约6%。",
+      "content": "据报道，能源公司人形机器人创新方案开始量产，售价100万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "智能制造",
+        "自动化"
+      ],
+      "publish_time": "2026-02-25T07:53:02+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/33257",
+          "verified": true,
+          "verify_time": "2026-03-02T21:54:42+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/66782",
+          "verified": true,
+          "verify_time": "2026-03-02T17:33:50+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 69695,
+        "shares": 1925,
+        "saves": 240,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0068",
+      "title": "能源公司机器人新一代技术获得10台订单",
+      "summary": "据分析师透露，能源公司机器人新一代技术获得10台订单，这将显著影响相关行业发展。",
+      "content": "据知情人士透露，能源公司机器人新一代技术获得10台订单，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "自动化",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-01T13:29:50+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/85227",
+          "verified": true,
+          "verify_time": "2026-03-02T16:13:13+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/69775",
+          "verified": true,
+          "verify_time": "2026-03-02T13:08:36+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/41848",
+          "verified": true,
+          "verify_time": "2026-03-03T00:41:46+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 27389,
+        "shares": 400,
+        "saves": 1649,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0069",
+      "title": "能源公司发布创新方案，可实现精密操作",
+      "summary": "据官方透露，能源公司发布创新方案，可实现精密操作，这将显著影响相关行业发展。",
+      "content": "最新数据显示，能源公司发布创新方案，可实现精密操作。相关公司股价盘前上涨约4%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "人形机器人",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-02T07:54:09+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/18125",
+          "verified": true,
+          "verify_time": "2026-03-02T12:58:51+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/57340",
+          "verified": true,
+          "verify_time": "2026-03-02T04:37:09+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 53829,
+        "shares": 2900,
+        "saves": 836,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0070",
+      "title": "科技公司人形机器人新一代技术开始量产，售价500万美元",
+      "summary": "据报道，科技公司人形机器人新一代技术开始量产，售价500万美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司人形机器人新一代技术开始量产，售价500万美元。市场分析师认为此举将带来20%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "自动化",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-24T21:44:59+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/38627",
+          "verified": true,
+          "verify_time": "2026-03-02T03:49:44+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/14977",
+          "verified": true,
+          "verify_time": "2026-03-02T05:41:00+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 37076,
+        "shares": 3162,
+        "saves": 657,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0071",
+      "title": "能源公司发布创新方案，可实现人机协作",
+      "summary": "据分析师透露，能源公司发布创新方案，可实现人机协作，这将显著影响相关行业发展。",
+      "content": "能源公司发布创新方案，可实现人机协作。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "智能制造",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-26T18:52:53+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/61360",
+          "verified": true,
+          "verify_time": "2026-03-03T03:09:53+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/10685",
+          "verified": true,
+          "verify_time": "2026-03-02T21:19:39+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 84251,
+        "shares": 3327,
+        "saves": 764,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0072",
+      "title": "能源公司人形机器人智能系统开始量产，售价10万美元",
+      "summary": "能源公司人形机器人智能系统开始量产，售价10万美元。业内人士预计该趋势将在未来4年内持续。",
+      "content": "最新数据显示，能源公司人形机器人智能系统开始量产，售价10万美元。相关公司股价盘前下跌约1%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "智能制造",
+        "自动化"
+      ],
+      "publish_time": "2026-02-27T01:40:38+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/56245",
+          "verified": true,
+          "verify_time": "2026-03-02T18:53:51+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/44206",
+          "verified": true,
+          "verify_time": "2026-03-02T11:10:58+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/89542",
+          "verified": true,
+          "verify_time": "2026-03-02T13:14:11+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 34537,
+        "shares": 1753,
+        "saves": 1927,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0073",
+      "title": "能源公司机器人新产品获得10台订单",
+      "summary": "据报道，能源公司机器人新产品获得10台订单。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，能源公司机器人新产品获得10台订单。相关公司股价盘前上涨约2%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "自动化",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-27T23:57:52+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/72545",
+          "verified": true,
+          "verify_time": "2026-03-02T08:31:50+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/29860",
+          "verified": true,
+          "verify_time": "2026-03-02T11:08:32+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/64552",
+          "verified": true,
+          "verify_time": "2026-03-02T04:02:37+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 40870,
+        "shares": 3292,
+        "saves": 1387,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0074",
+      "title": "能源公司人形机器人新产品开始量产，售价10万美元",
+      "summary": "能源公司人形机器人新产品开始量产，售价10万美元。市场分析师认为此举将带来50%的增长潜力。",
+      "content": "能源公司人形机器人新产品开始量产，售价10万美元。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "自动化",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-03T03:02:21+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/48564",
+          "verified": true,
+          "verify_time": "2026-03-02T21:16:06+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/99113",
+          "verified": true,
+          "verify_time": "2026-03-02T05:56:49+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/89615",
+          "verified": true,
+          "verify_time": "2026-03-03T02:21:40+08:00",
+          "credibility": 92
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 40090,
+        "shares": 3676,
+        "saves": 1438,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0075",
+      "title": "能源公司与合作伙伴合作开发新一代技术，应用于服务业",
+      "summary": "据报道，能源公司与合作伙伴合作开发新一代技术，应用于服务业。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，能源公司与合作伙伴合作开发新一代技术，应用于服务业。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "自动化",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-24T04:38:35+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/36845",
+          "verified": true,
+          "verify_time": "2026-03-03T03:06:28+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/63800",
+          "verified": true,
+          "verify_time": "2026-03-02T21:20:17+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 43248,
+        "shares": 4661,
+        "saves": 633,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0076",
+      "title": "能源公司发布智能系统，可实现自主导航",
+      "summary": "据官方透露，能源公司发布智能系统，可实现自主导航，这将显著影响相关行业发展。",
+      "content": "能源公司发布智能系统，可实现自主导航。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "自动化",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-25T21:17:43+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/49376",
+          "verified": true,
+          "verify_time": "2026-03-02T22:16:59+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/61984",
+          "verified": true,
+          "verify_time": "2026-03-02T09:37:09+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/28690",
+          "verified": true,
+          "verify_time": "2026-03-02T06:44:30+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 56605,
+        "shares": 534,
+        "saves": 395,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0077",
+      "title": "能源公司机器人新一代技术获得500台订单",
+      "summary": "能源公司机器人新一代技术获得500台订单。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据报道，能源公司机器人新一代技术获得500台订单。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "自动化",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-02-24T08:55:12+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/46077",
+          "verified": true,
+          "verify_time": "2026-03-02T07:53:51+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/91225",
+          "verified": true,
+          "verify_time": "2026-03-02T13:38:34+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 62354,
+        "shares": 942,
+        "saves": 776,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0078",
+      "title": "能源公司人形机器人创新方案开始量产，售价5000万美元",
+      "summary": "能源公司人形机器人创新方案开始量产，售价5000万美元。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据官方透露，能源公司人形机器人创新方案开始量产，售价5000万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-01T00:53:17+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/10503",
+          "verified": true,
+          "verify_time": "2026-03-02T07:07:30+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/58581",
+          "verified": true,
+          "verify_time": "2026-03-02T05:14:13+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "neutral",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 67876,
+        "shares": 2486,
+        "saves": 69,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0079",
+      "title": "科技公司与合作伙伴合作开发新产品，应用于服务业",
+      "summary": "据报道，科技公司与合作伙伴合作开发新产品，应用于服务业。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司与合作伙伴合作开发新产品，应用于服务业。市场分析师认为此举将带来37%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-03T01:25:48+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/23174",
+          "verified": true,
+          "verify_time": "2026-03-02T08:11:38+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/62135",
+          "verified": true,
+          "verify_time": "2026-03-02T20:32:01+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 16482,
+        "shares": 1029,
+        "saves": 927,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0080",
+      "title": "科技公司人形机器人创新方案开始量产，售价500万美元",
+      "summary": "据分析师透露，科技公司人形机器人创新方案开始量产，售价500万美元，这将显著影响相关行业发展。",
+      "content": "据报道，科技公司人形机器人创新方案开始量产，售价500万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "智能制造",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-02-24T23:36:03+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/99529",
+          "verified": true,
+          "verify_time": "2026-03-02T15:57:31+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/70685",
+          "verified": true,
+          "verify_time": "2026-03-02T13:37:06+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 58161,
+        "shares": 2169,
+        "saves": 269,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0081",
+      "title": "能源公司投资50亿美元建设智能系统生产线",
+      "summary": "最新数据显示，能源公司投资50亿美元建设智能系统生产线。相关公司股价盘前上涨约8%。",
+      "content": "能源公司投资50亿美元建设智能系统生产线。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "工业机器人",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-03T00:27:02+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/68806",
+          "verified": true,
+          "verify_time": "2026-03-02T14:35:57+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/90605",
+          "verified": true,
+          "verify_time": "2026-03-02T13:37:27+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 25929,
+        "shares": 1143,
+        "saves": 1971,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0082",
+      "title": "科技公司发布新一代技术，可实现自主导航",
+      "summary": "据报道，科技公司发布新一代技术，可实现自主导航。这一进展标志着行业进入新的发展阶段。",
+      "content": "据报道，科技公司发布新一代技术，可实现自主导航。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "自动化",
+        "Boston Dynamics"
+      ],
+      "publish_time": "2026-03-02T11:00:03+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/36292",
+          "verified": true,
+          "verify_time": "2026-03-02T04:01:35+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/17792",
+          "verified": true,
+          "verify_time": "2026-03-02T10:51:21+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/96576",
+          "verified": true,
+          "verify_time": "2026-03-02T09:16:22+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 23223,
+        "shares": 4973,
+        "saves": 390,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0083",
+      "title": "科技公司人形机器人新产品开始量产，售价100万美元",
+      "summary": "科技公司人形机器人新产品开始量产，售价100万美元。市场分析师认为此举将带来22%的增长潜力。",
+      "content": "据报道，科技公司人形机器人新产品开始量产，售价100万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "特斯拉Optimus",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-01T13:14:30+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/47235",
+          "verified": true,
+          "verify_time": "2026-03-02T12:49:34+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/43038",
+          "verified": true,
+          "verify_time": "2026-03-03T00:51:58+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 69530,
+        "shares": 4053,
+        "saves": 336,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0084",
+      "title": "科技公司发布创新方案，可实现自主导航",
+      "summary": "据报道，科技公司发布创新方案，可实现自主导航。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司发布创新方案，可实现自主导航。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "工业机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-03-02T17:56:25+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/85456",
+          "verified": true,
+          "verify_time": "2026-03-02T23:52:00+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/45917",
+          "verified": true,
+          "verify_time": "2026-03-02T14:03:02+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 89670,
+        "shares": 4713,
+        "saves": 297,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0085",
+      "title": "能源公司人形机器人新产品开始量产，售价2000万美元",
+      "summary": "能源公司人形机器人新产品开始量产，售价2000万美元。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，能源公司人形机器人新产品开始量产，售价2000万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "特斯拉Optimus",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-28T03:52:56+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/90324",
+          "verified": true,
+          "verify_time": "2026-03-02T14:28:37+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/76954",
+          "verified": true,
+          "verify_time": "2026-03-02T21:03:21+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 65529,
+        "shares": 3717,
+        "saves": 932,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0086",
+      "title": "科技公司与合作伙伴合作开发新产品，应用于农业",
+      "summary": "科技公司与合作伙伴合作开发新产品，应用于农业。业内人士预计该趋势将在未来1年内持续。",
+      "content": "科技公司与合作伙伴合作开发新产品，应用于农业。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "工业机器人",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-24T09:27:03+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/74147",
+          "verified": true,
+          "verify_time": "2026-03-03T00:01:46+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/67703",
+          "verified": true,
+          "verify_time": "2026-03-03T01:20:28+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 36778,
+        "shares": 4054,
+        "saves": 760,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0087",
+      "title": "科技公司与合作伙伴合作开发新产品，应用于医疗",
+      "summary": "据报道，科技公司与合作伙伴合作开发新产品，应用于医疗。这一进展标志着行业进入新的发展阶段。",
+      "content": "科技公司与合作伙伴合作开发新产品，应用于医疗。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "智能制造",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-24T19:10:14+08:00",
+      "sources": [
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/89267",
+          "verified": true,
+          "verify_time": "2026-03-03T00:05:58+08:00",
+          "credibility": 88
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/24799",
+          "verified": true,
+          "verify_time": "2026-03-02T13:27:53+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 68504,
+        "shares": 3763,
+        "saves": 491,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0088",
+      "title": "能源公司发布创新方案，可实现自主导航",
+      "summary": "能源公司发布创新方案，可实现自主导航。业内人士预计该趋势将在未来5年内持续。",
+      "content": "能源公司发布创新方案，可实现自主导航。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "工业机器人",
+        "自动化"
+      ],
+      "publish_time": "2026-03-02T00:02:10+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/65766",
+          "verified": true,
+          "verify_time": "2026-03-02T11:33:33+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/56368",
+          "verified": true,
+          "verify_time": "2026-03-02T19:57:55+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 52868,
+        "shares": 3753,
+        "saves": 1870,
+        "credibility_score": 91
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0089",
+      "title": "科技公司发布创新方案，可实现复杂环境作业",
+      "summary": "据报道，科技公司发布创新方案，可实现复杂环境作业。这一进展标志着行业进入新的发展阶段。",
+      "content": "据分析师透露，科技公司发布创新方案，可实现复杂环境作业，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "Boston Dynamics",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-28T16:15:43+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/32971",
+          "verified": true,
+          "verify_time": "2026-03-02T12:18:38+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/51231",
+          "verified": true,
+          "verify_time": "2026-03-02T21:37:50+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/31454",
+          "verified": true,
+          "verify_time": "2026-03-02T04:06:22+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "negative",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 50110,
+        "shares": 131,
+        "saves": 1471,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0090",
+      "title": "能源公司与合作伙伴合作开发新一代技术，应用于医疗",
+      "summary": "据报道，能源公司与合作伙伴合作开发新一代技术，应用于医疗。这一进展标志着行业进入新的发展阶段。",
+      "content": "最新数据显示，能源公司与合作伙伴合作开发新一代技术，应用于医疗。相关公司股价盘前下跌约3%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "特斯拉Optimus",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-02T19:58:15+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/76101",
+          "verified": true,
+          "verify_time": "2026-03-02T11:29:46+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/28429",
+          "verified": true,
+          "verify_time": "2026-03-02T12:19:56+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 48243,
+        "shares": 3528,
+        "saves": 1853,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0091",
+      "title": "能源公司与合作伙伴合作开发智能系统，应用于医疗",
+      "summary": "能源公司与合作伙伴合作开发智能系统，应用于医疗。业内人士预计该趋势将在未来2年内持续。",
+      "content": "据报道，能源公司与合作伙伴合作开发智能系统，应用于医疗。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "智能制造",
+        "自动化",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-02T21:49:26+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/71747",
+          "verified": true,
+          "verify_time": "2026-03-02T10:07:52+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/97266",
+          "verified": true,
+          "verify_time": "2026-03-03T02:19:01+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/56758",
+          "verified": true,
+          "verify_time": "2026-03-02T19:38:09+08:00",
+          "credibility": 90
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 77077,
+        "shares": 3777,
+        "saves": 1211,
+        "credibility_score": 92
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0092",
+      "title": "科技公司人形机器人智能系统开始量产，售价500万美元",
+      "summary": "据分析师透露，科技公司人形机器人智能系统开始量产，售价500万美元，这将显著影响相关行业发展。",
+      "content": "科技公司人形机器人智能系统开始量产，售价500万美元。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "特斯拉Optimus",
+        "人形机器人"
+      ],
+      "publish_time": "2026-03-02T18:30:37+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/65685",
+          "verified": true,
+          "verify_time": "2026-03-02T18:30:59+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/19682",
+          "verified": true,
+          "verify_time": "2026-03-03T03:18:20+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 17411,
+        "shares": 2243,
+        "saves": 135,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0093",
+      "title": "科技公司与合作伙伴合作开发智能系统，应用于服务业",
+      "summary": "科技公司与合作伙伴合作开发智能系统，应用于服务业。业内人士预计该趋势将在未来1年内持续。",
+      "content": "据知情人士透露，科技公司与合作伙伴合作开发智能系统，应用于服务业，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "智能制造",
+        "特斯拉Optimus"
+      ],
+      "publish_time": "2026-03-01T06:58:57+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/26543",
+          "verified": true,
+          "verify_time": "2026-03-02T20:24:04+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/55917",
+          "verified": true,
+          "verify_time": "2026-03-02T04:39:31+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/71457",
+          "verified": true,
+          "verify_time": "2026-03-02T22:00:55+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 81911,
+        "shares": 2266,
+        "saves": 1081,
+        "credibility_score": 95
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0094",
+      "title": "能源公司人形机器人新一代技术开始量产，售价1000万美元",
+      "summary": "据报道，能源公司人形机器人新一代技术开始量产，售价1000万美元。这一进展标志着行业进入新的发展阶段。",
+      "content": "据知情人士透露，能源公司人形机器人新一代技术开始量产，售价1000万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "Boston Dynamics",
+        "人形机器人"
+      ],
+      "publish_time": "2026-02-25T12:38:09+08:00",
+      "sources": [
+        {
+          "name": "华尔街日报",
+          "url": "https://example.com/news/42556",
+          "verified": true,
+          "verify_time": "2026-03-03T02:47:32+08:00",
+          "credibility": 95
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/87276",
+          "verified": true,
+          "verify_time": "2026-03-02T12:26:01+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "neutral",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 87724,
+        "shares": 4131,
+        "saves": 1591,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0095",
+      "title": "科技公司人形机器人创新方案开始量产，售价10万美元",
+      "summary": "科技公司人形机器人创新方案开始量产，售价10万美元。业内人士预计该趋势将在未来3年内持续。",
+      "content": "据官方透露，科技公司人形机器人创新方案开始量产，售价10万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "Boston Dynamics",
+        "人形机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-02T23:30:26+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/62209",
+          "verified": true,
+          "verify_time": "2026-03-02T13:08:24+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/35098",
+          "verified": true,
+          "verify_time": "2026-03-02T16:26:22+08:00",
+          "credibility": 97
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        }
+      ],
+      "metrics": {
+        "views": 86033,
+        "shares": 4586,
+        "saves": 1418,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0096",
+      "title": "科技公司发布创新方案，可实现自主导航",
+      "summary": "最新数据显示，科技公司发布创新方案，可实现自主导航。相关公司股价盘前上涨约9%。",
+      "content": "据分析师透露，科技公司发布创新方案，可实现自主导航，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "自动化",
+        "工业机器人"
+      ],
+      "publish_time": "2026-02-28T18:12:08+08:00",
+      "sources": [
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/15898",
+          "verified": true,
+          "verify_time": "2026-03-02T19:03:08+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/17422",
+          "verified": true,
+          "verify_time": "2026-03-02T19:43:55+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 31072,
+        "shares": 360,
+        "saves": 882,
+        "credibility_score": 94
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0097",
+      "title": "科技公司发布智能系统，可实现自主导航",
+      "summary": "科技公司发布智能系统，可实现自主导航。业内人士预计该趋势将在未来3年内持续。",
+      "content": "最新数据显示，科技公司发布智能系统，可实现自主导航。相关公司股价盘前下跌约8%。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "自动化",
+        "工业机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-02T11:35:03+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/52383",
+          "verified": true,
+          "verify_time": "2026-03-02T20:36:50+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/63223",
+          "verified": true,
+          "verify_time": "2026-03-02T23:00:23+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 13778,
+        "shares": 251,
+        "saves": 1038,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0098",
+      "title": "科技公司人形机器人新一代技术开始量产，售价10万美元",
+      "summary": "最新数据显示，科技公司人形机器人新一代技术开始量产，售价10万美元。相关公司股价盘前上涨约2%。",
+      "content": "据知情人士透露，科技公司人形机器人新一代技术开始量产，售价10万美元，这将显著影响相关行业发展。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "人形机器人",
+        "智能制造",
+        "工业机器人"
+      ],
+      "publish_time": "2026-03-02T11:41:05+08:00",
+      "sources": [
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/53506",
+          "verified": true,
+          "verify_time": "2026-03-03T02:46:09+08:00",
+          "credibility": 96
+        },
+        {
+          "name": "CNBC",
+          "url": "https://example.com/news/41539",
+          "verified": true,
+          "verify_time": "2026-03-03T01:55:37+08:00",
+          "credibility": 90
+        },
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/39986",
+          "verified": true,
+          "verify_time": "2026-03-02T06:36:44+08:00",
+          "credibility": 94
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "impact": "positive",
+          "reason": "新闻提及谷歌"
+        },
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 31648,
+        "shares": 3891,
+        "saves": 111,
+        "credibility_score": 93
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0099",
+      "title": "能源公司人形机器人创新方案开始量产，售价500万美元",
+      "summary": "最新数据显示，能源公司人形机器人创新方案开始量产，售价500万美元。相关公司股价盘前下跌约1%。",
+      "content": "据报道，能源公司人形机器人创新方案开始量产，售价500万美元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "特斯拉Optimus",
+        "Boston Dynamics",
+        "智能制造"
+      ],
+      "publish_time": "2026-03-01T03:21:45+08:00",
+      "sources": [
+        {
+          "name": "新华网",
+          "url": "https://example.com/news/57815",
+          "verified": true,
+          "verify_time": "2026-03-02T22:11:58+08:00",
+          "credibility": 97
+        },
+        {
+          "name": "彭博社",
+          "url": "https://example.com/news/39821",
+          "verified": true,
+          "verify_time": "2026-03-02T20:30:33+08:00",
+          "credibility": 96
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "positive",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 16162,
+        "shares": 1473,
+        "saves": 111,
+        "credibility_score": 96
+      },
+      "status": "published"
+    },
+    {
+      "id": "robotics-0100",
+      "title": "能源公司发布创新方案，可实现精密操作",
+      "summary": "据知情人士透露，能源公司发布创新方案，可实现精密操作，这将显著影响相关行业发展。",
+      "content": "能源公司发布创新方案，可实现精密操作。市场分析师认为此举将带来14%的增长潜力。详细内容待补充...",
+      "category": "robotics",
+      "tags": [
+        "工业机器人",
+        "人形机器人",
+        "智能制造"
+      ],
+      "publish_time": "2026-02-24T20:38:06+08:00",
+      "sources": [
+        {
+          "name": "路透社",
+          "url": "https://example.com/news/80024",
+          "verified": true,
+          "verify_time": "2026-03-02T16:28:19+08:00",
+          "credibility": 94
+        },
+        {
+          "name": "金融时报",
+          "url": "https://example.com/news/54855",
+          "verified": true,
+          "verify_time": "2026-03-03T02:54:03+08:00",
+          "credibility": 92
+        },
+        {
+          "name": "中国新闻网",
+          "url": "https://example.com/news/47382",
+          "verified": true,
+          "verify_time": "2026-03-02T04:45:19+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "impact": "negative",
+          "reason": "新闻提及特斯拉"
+        }
+      ],
+      "metrics": {
+        "views": 87556,
+        "shares": 4059,
+        "saves": 1171,
+        "credibility_score": 91
+      },
+      "status": "published"
+    }
+  ]
+}
