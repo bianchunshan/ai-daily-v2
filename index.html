@@ -359,6 +359,22 @@
                 <!-- 动态生成 -->
             </div>
 
+            <!-- 今日机会 -->
+            <section class="mb-8">
+                <div class="flex items-center justify-between mb-4">
+                    <div>
+                        <h2 class="text-2xl font-bold">今日投资机会</h2>
+                        <p class="text-sm text-gray-400 mt-1">按新闻催化、股票关联和风险信号自动排序，仅供研究参考</p>
+                    </div>
+                    <a href="data/opportunities.json" class="hidden md:inline-flex text-sm text-primary hover:text-secondary transition" target="_blank" rel="noopener">
+                        查看数据 <i class="fas fa-arrow-up-right-from-square ml-2 mt-1"></i>
+                    </a>
+                </div>
+                <div id="opportunities-container" class="grid md:grid-cols-2 xl:grid-cols-3 gap-4">
+                    <div class="glass rounded-xl p-5 border border-border text-gray-400">正在加载机会池...</div>
+                </div>
+            </section>
+
             <!-- 资讯列表 -->
             <div class="flex items-center justify-between mb-6">
                 <div class="flex items-center gap-3">
@@ -427,7 +443,7 @@
                 </div>
                 <div>
                     <h4 class="font-semibold mb-4">数据更新</h4>
-                    <p class="text-gray-400 text-sm">每日 06:00 / 12:00 / 18:00</p>
+                    <p class="text-gray-400 text-sm">每小时自动更新</p>
                     <p class="text-gray-500 text-xs mt-2" id="last-update">上次更新: 加载中...</p>
                 </div>
             </div>

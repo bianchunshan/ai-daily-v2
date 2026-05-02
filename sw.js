@@ -3,7 +3,7 @@
  * @version 2.0
  */
 
-const CACHE_NAME = 'ai-daily-v2-cache-v1';
+const CACHE_NAME = 'ai-daily-v2-cache-v3';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
@@ -42,7 +42,7 @@ self.addEventListener('fetch', (event) => {
     const { request } = event;
     
     // 数据API请求 - 网络优先
-    if (request.url.includes('/data/news/')) {
+    if (request.url.includes('/data/news/') || request.url.includes('/data/stocks/') || request.url.includes('/data/opportunities.json') || request.url.includes('/data/daily_digest.json')) {
         event.respondWith(networkFirst(request));
         return;
     }

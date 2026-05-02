@@ -18,6 +18,8 @@ const CONFIG = {
 const State = {
     news: [],
     filtered: [],
+    opportunities: [],
+    stockQuotes: {},
     currentCategory: 'all',
     displayedCount: CONFIG.ITEMS_PER_PAGE,
     isLoading: false,
@@ -160,6 +162,46 @@ const DataService = {
     },
 
     /**
+     * 加载投资机会
+     */
+    async loadOpportunities() {
+        const cached = Utils.cache.get('opportunities');
+        if (cached) return cached;
+
+        try {
+            const response = await fetch('data/opportunities.json');
+            if (!response.ok) throw new Error('Failed to load opportunities');
+            const data = await response.json();
+            const opportunities = data.opportunities || [];
+            Utils.cache.set('opportunities', opportunities);
+            return opportunities;
+        } catch (e) {
+            console.warn('机会池加载失败:', e);
+            return [];
+        }
+    },
+
+    /**
+     * 加载最新股票行情
+     */
+    async loadStockQuotes() {
+        const cached = Utils.cache.get('stock_quotes');
+        if (cached) return cached;
+
+        try {
+            const response = await fetch('data/stocks/latest.json');
+            if (!response.ok) throw new Error('Failed to load stock quotes');
+            const data = await response.json();
+            const quotes = data.quotes || {};
+            Utils.cache.set('stock_quotes', quotes);
+            return quotes;
+        } catch (e) {
+            console.warn('股票行情加载失败:', e);
+            return {};
+        }
+    },
+
+    /**
      * 备份数据到本地存储
      */
     backup(news) {
@@ -239,6 +281,56 @@ const Renderer = {
     },
 
     /**
+     * 渲染投资机会
+     */
+    renderOpportunities(items) {
+        const container = document.getElementById('opportunities-container');
+        if (!container) return;
+
+        if (!items || items.length === 0) {
+            container.innerHTML = `
+                <div class="glass rounded-xl p-5 border border-border text-gray-400">
+                    暂无高分机会，等待下一次自动更新。
+                </div>
+            `;
+            return;
+        }
+
+        container.innerHTML = items.slice(0, 6).map(item => {
+            const cat = State.categories[item.category] || { name: item.category, color: 'gray' };
+            const stocks = (item.stocks || []).slice(0, 4).map(stock => {
+                const quote = item.quotes?.[stock.symbol];
+                const pct = quote?.change_percent;
+                const pctText = typeof pct === 'number' ? `${pct > 0 ? '+' : ''}${pct}%` : '--';
+                const pctClass = pct > 0 ? 'text-success' : pct < 0 ? 'text-danger' : 'text-gray-400';
+                return `
+                    <span class="inline-flex items-center gap-1 px-2 py-1 rounded bg-white/5 text-xs">
+                        <b class="font-mono">${stock.symbol}</b>
+                        <span class="${pctClass}">${pctText}</span>
+                    </span>
+                `;
+            }).join('');
+
+            return `
+                <article class="news-card p-5 border border-border">
+                    <div class="flex items-center justify-between gap-3 mb-3">
+                        <span class="px-2 py-1 bg-${cat.color}-500/20 text-${cat.color}-400 text-xs font-bold rounded">${cat.name}</span>
+                        <span class="text-sm font-bold text-accent">机会分 ${item.score}</span>
+                    </div>
+                    <h3 class="font-semibold leading-snug mb-3 line-clamp-2">${item.title}</h3>
+                    <p class="text-sm text-gray-400 mb-3 line-clamp-2">${item.logic}</p>
+                    <div class="flex flex-wrap gap-2 mb-3">${stocks}</div>
+                    <div class="flex items-center justify-between text-xs text-gray-500">
+                        <span>${Utils.formatTime(item.publish_time)}</span>
+                        <a href="${item.source_url}" target="_blank" rel="noopener" class="text-primary hover:text-secondary">原文</a>
+                    </div>
+                    <p class="mt-3 text-xs text-warning/90">${item.risk}</p>
+                </article>
+            `;
+        }).join('');
+    },
+
+    /**
      * 创建新闻卡片
      */
     createNewsCard(news, index) {
@@ -294,6 +386,7 @@ const Renderer = {
                                         class="stock-card inline-flex items-center gap-1.5 px-2.5 py-1 rounded text-xs">
                                     <span class="font-mono font-medium">${stock.symbol}</span>
                                     <span class="text-gray-400">${stock.name}</span>
+                                    ${Renderer.renderQuoteBadge(stock.symbol)}
                                     <i class="fas fa-${stock.impact === 'positive' ? 'arrow-up text-success' : 
                                         stock.impact === 'negative' ? 'arrow-down text-danger' : 'minus text-gray-400'}"></i>
                                 </button>
@@ -319,6 +412,14 @@ const Renderer = {
         `;
         
         return div;
+    },
+
+    renderQuoteBadge(symbol) {
+        const quote = State.stockQuotes?.[symbol];
+        if (!quote || typeof quote.change_percent !== 'number') return '';
+        const cls = quote.change_percent > 0 ? 'text-success' : quote.change_percent < 0 ? 'text-danger' : 'text-gray-400';
+        const sign = quote.change_percent > 0 ? '+' : '';
+        return `<span class="${cls}">${sign}${quote.change_percent}%</span>`;
     },
 
     /**
@@ -376,6 +477,8 @@ const App = {
         
         try {
             State.news = await DataService.loadNews();
+            State.opportunities = await DataService.loadOpportunities();
+            State.stockQuotes = await DataService.loadStockQuotes();
             State.filtered = [...State.news];
             
             // 备份到本地
@@ -384,6 +487,7 @@ const App = {
             // 渲染
             Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
             Renderer.renderBreakingNews();
+            Renderer.renderOpportunities(State.opportunities);
             
             // 更新统计
             this.updateStats();
@@ -475,20 +579,14 @@ const App = {
      * 显示股票详情
      */
     showStockDetail(symbol) {
-        // 模拟股票数据
-        const stockData = {
-            'NVDA': { name: '英伟达', price: 875.50, change: -5.5, marketCap: '2.15T', pe: 52 },
-            'AMD': { name: '超威半导体', price: 102.30, change: -3.2, marketCap: '165B', pe: 38 },
-            'TSM': { name: '台积电', price: 142.80, change: -2.8, marketCap: '740B', pe: 22 },
-            'MSFT': { name: '微软', price: 412.20, change: 1.2, marketCap: '3.06T', pe: 32 },
-            'TSLA': { name: '特斯拉', price: 248.50, change: -1.5, marketCap: '795B', pe: 68 },
-            'AAPL': { name: '苹果', price: 235.20, change: 0.5, marketCap: '3.58T', pe: 30 },
-            'AMZN': { name: '亚马逊', price: 198.50, change: 0.8, marketCap: '2.07T', pe: 58 },
-            'META': { name: 'Meta', price: 625.30, change: 2.1, marketCap: '1.59T', pe: 24 }
-        };
-        
-        const stock = stockData[symbol] || { name: symbol, price: 0, change: 0, marketCap: 'N/A', pe: 'N/A' };
-        const isPositive = stock.change >= 0;
+        const quote = State.stockQuotes?.[symbol];
+        const related = State.news.find(n => n.stocks?.some(s => s.symbol === symbol))?.stocks?.find(s => s.symbol === symbol);
+        const name = related?.name || symbol;
+        const price = typeof quote?.price === 'number' ? quote.price.toFixed(2) : '--';
+        const changePercent = typeof quote?.change_percent === 'number' ? quote.change_percent : null;
+        const isPositive = (changePercent || 0) >= 0;
+        const changeText = changePercent === null ? '--' : `${isPositive ? '+' : ''}${changePercent}%`;
+        const relatedCount = State.news.filter(n => n.stocks?.some(s => s.symbol === symbol)).length;
         
         const content = document.getElementById('stock-detail-content');
         content.innerHTML = `
@@ -497,15 +595,16 @@ const App = {
                     <div>
                         <div class="flex items-center gap-3 mb-2">
                             <span class="text-3xl font-bold font-mono">${symbol}</span>
-                            <span class="text-xl text-gray-400">${stock.name}</span>
+                            <span class="text-xl text-gray-400">${name}</span>
                         </div>
                         <div class="flex items-center gap-4">
-                            <span class="text-4xl font-bold">$${stock.price.toFixed(2)}</span>
+                            <span class="text-4xl font-bold">${quote?.currency || ''} ${price}</span>
                             <span class="${isPositive ? 'text-success' : 'text-danger'} text-lg font-medium">
                                 <i class="fas fa-${isPositive ? 'arrow-up' : 'arrow-down'}"></i>
-                                ${Math.abs(stock.change)}%
+                                ${changeText}
                             </span>
                         </div>
+                        <div class="text-xs text-gray-500 mt-2">来源：${quote?.source || '暂无行情'} ${quote?.market_time ? '· ' + Utils.formatTime(quote.market_time) : ''}</div>
                     </div>
                     <button onclick="App.closeModal('stock-modal')" class="w-10 h-10 flex items-center justify-center rounded-lg hover:bg-white/10 transition">
                         <i class="fas fa-times"></i>
@@ -515,16 +614,16 @@ const App = {
                 <div class="grid grid-cols-3 gap-4 mb-6">
                     <div class="glass rounded-xl p-4">
                         <div class="text-gray-400 text-sm mb-1">市值</div>
-                        <div class="text-xl font-bold">${stock.marketCap}</div>
+                        <div class="text-xl font-bold">--</div>
                     </div>
                     <div class="glass rounded-xl p-4">
-                        <div class="text-gray-400 text-sm mb-1">市盈率</div>
-                        <div class="text-xl font-bold">${stock.pe}</div>
+                        <div class="text-gray-400 text-sm mb-1">涨跌额</div>
+                        <div class="text-xl font-bold">${typeof quote?.change === 'number' ? quote.change : '--'}</div>
                     </div>
                     <div class="glass rounded-xl p-4">
                         <div class="text-gray-400 text-sm mb-1">相关新闻</div>
                         <div class="text-xl font-bold text-primary">
-                            ${State.news.filter(n => n.stocks?.some(s => s.symbol === symbol)).length}
+                            ${relatedCount}
                         </div>
                     </div>
                 </div>
@@ -702,3 +801,12 @@ if (document.readyState === 'loading') {
 window.App = App;
 window.Utils = Utils;
 window.State = State;
+window.filterCategory = (category) => App.filterCategory(category);
+window.toggleSearch = () => App.toggleSearch();
+window.closeStockModal = () => App.closeModal('stock-modal');
+window.searchNews = (query) => App.searchNews(query);
+window.sortNews = (sortBy) => App.sortNews(sortBy);
+window.refreshNews = () => App.refreshNews();
+window.loadMore = () => App.loadMore();
+window.toggleTheme = () => App.toggleTheme();
+window.scrollToTop = () => App.scrollToTop();

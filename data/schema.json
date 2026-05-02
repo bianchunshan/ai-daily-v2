@@ -1,42 +1,12 @@
 {
-  "schema": "v2.0",
-  "description": "AI日报数据结构定义",
-  "updated": "2026-03-03",
-  
-  "news_item": {
-    "id": "string - 唯一标识符",
-    "title": "string - 新闻标题",
-    "summary": "string - 摘要（150字内）",
-    "content": "string - 完整内容",
-    "category": "string - 板块分类",
-    "tags": ["array - 标签"],
-    "publish_time": "string - 发布时间 ISO8601",
-    "sources": [
-      {
-        "name": "string - 来源名称",
-        "url": "string - 原文链接",
-        "verified": "boolean - 是否核实",
-        "verify_time": "string - 核实时间"
-      }
-    ],
-    "stocks": [
-      {
-        "symbol": "string - 股票代码",
-        "name": "string - 公司名称",
-        "exchange": "string - 交易所",
-        "impact": "positive/negative/neutral - 影响",
-        "reason": "string - 关联原因"
-      }
-    ],
-    "metrics": {
-      "views": "number - 阅读量",
-      "shares": "number - 分享数",
-      "saves": "number - 收藏数",
-      "credibility_score": "number 0-100 - 可信度评分"
-    },
-    "status": "draft/published/archived"
+  "schema": "v3.0",
+  "description": "AI日报真实新闻、股票关联和机会池数据结构",
+  "updated": "2026-05-02",
+  "update_policy": {
+    "frequency": "hourly",
+    "retention_hours": 72,
+    "scheduler": "GitHub Actions"
   },
-  
   "categories": [
     {"id": "world", "name": "国际局势", "icon": "globe", "priority": 1},
     {"id": "ai", "name": "人工智能", "icon": "brain", "priority": 2},
@@ -48,6 +18,55 @@
     {"id": "space", "name": "商业航天", "icon": "rocket", "priority": 8},
     {"id": "fusion", "name": "核聚变", "icon": "fire", "priority": 9},
     {"id": "consumer", "name": "消费电子", "icon": "mobile-alt", "priority": 10},
-    {"id": "market", "name": "市场宏观", "icon": "chart-line", "priority": 11}
-  ]
+    {"id": "gaming", "name": "游戏", "icon": "gamepad", "priority": 11}
+  ],
+  "news_item": {
+    "id": "string",
+    "title": "string",
+    "summary": "string",
+    "content": "string",
+    "category": "category id",
+    "tags": ["string"],
+    "publish_time": "ISO8601 datetime with timezone",
+    "sources": [
+      {
+        "name": "source name",
+        "url": "source URL",
+        "verified": "boolean",
+        "verify_time": "ISO8601 datetime",
+        "credibility": "number 0-100"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "ticker",
+        "name": "company name",
+        "exchange": "exchange",
+        "impact": "positive | negative | neutral",
+        "reason": "association reason"
+      }
+    ],
+    "metrics": {
+      "views": "number",
+      "shares": "number",
+      "saves": "number",
+      "credibility_score": "number 0-100",
+      "opportunity_score": "number 0-100"
+    },
+    "status": "published"
+  },
+  "opportunity_item": {
+    "id": "news id",
+    "title": "news title",
+    "category": "category id",
+    "category_name": "category display name",
+    "score": "number 0-100",
+    "publish_time": "ISO8601 datetime",
+    "stocks": "associated stocks",
+    "quotes": "latest quote map from data/stocks/latest.json",
+    "logic": "why this is worth tracking",
+    "risk": "risk note",
+    "source_url": "primary source URL"
+  },
+  "disclaimer": "所有数据仅供资讯整理和研究，不构成投资建议。"
 }

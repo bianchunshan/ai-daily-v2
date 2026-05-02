@@ -1,72 +1,108 @@
 {
-  "date": "2026-03-03",
+  "date": "2026-05-02",
   "type": "daily_digest",
   "summary": {
-    "total_new": 154,
-    "breaking": 30,
+    "total_new": 167,
+    "breaking": 5,
+    "opportunities": 20,
     "by_category": {
-      "world": 10,
-      "ai": 10,
-      "semiconductor": 12,
-      "energy": 17,
-      "robotics": 15,
-      "quantum": 12,
-      "biotech": 17,
-      "space": 14,
-      "fusion": 14,
-      "consumer": 12,
-      "gaming": 21
+      "world": 37,
+      "energy": 28,
+      "biotech": 12,
+      "ai": 48,
+      "consumer": 20,
+      "quantum": 2,
+      "semiconductor": 6,
+      "gaming": 4,
+      "space": 7,
+      "fusion": 1,
+      "robotics": 2
     }
   },
   "top_news": [
     {
-      "id": "biotech-0008",
-      "title": "礼来基因治疗药物新产品获FDA批准",
-      "category": "biotech",
-      "credibility": 96,
+      "id": "33c1ee68ad64d6",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "category": "ai",
+      "credibility": 86,
+      "opportunity_score": 71,
       "stocks": [
-        "NVO",
-        "PFE",
-        "JNJ"
+        "NVDA",
+        "MSFT"
       ]
     },
     {
-      "id": "robotics-0019",
-      "title": "能源公司投资10亿美元建设新产品生产线",
-      "category": "robotics",
-      "credibility": 96,
+      "id": "b3fe2ebbe82723",
+      "title": "谷歌、微软等四巨头今年将豪掷超 7000 亿美元，分析师直言 AI 熊市论就是“垃圾”",
+      "category": "ai",
+      "credibility": 78,
+      "opportunity_score": 67,
       "stocks": [
-        "TSLA",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META"
+      ]
+    },
+    {
+      "id": "abfd9516b22b27",
+      "title": "A major shift could soon happen in the Mag 7",
+      "category": "ai",
+      "credibility": 86,
+      "opportunity_score": 67,
+      "stocks": [
+        "NVDA",
         "GOOGL"
       ]
     },
     {
-      "id": "energy-0094",
-      "title": "Enphase发布新一代新产品，续航提升170%",
-      "category": "energy",
-      "credibility": 96,
+      "id": "d930a8694d6007",
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "category": "space",
+      "credibility": 95,
+      "opportunity_score": 64,
+      "stocks": []
+    },
+    {
+      "id": "13623e73aaaae4",
+      "title": "《深海迷航 2》游戏 PC 版配置要求公布：最低 i5-8400/GTX 1660、推荐 i7-13700/RTX 3070",
+      "category": "semiconductor",
+      "credibility": 78,
+      "opportunity_score": 63,
       "stocks": [
-        "BYD"
+        "NVDA",
+        "AMD",
+        "INTC"
       ]
     },
     {
-      "id": "energy-0015",
-      "title": "比亚迪新一代技术产能突破5000GWh，全球领先",
+      "id": "4f6e7b2863e1f5",
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
       "category": "energy",
-      "credibility": 96,
+      "credibility": 86,
+      "opportunity_score": 63,
       "stocks": [
-        "BYD"
+        "AAPL"
       ]
     },
     {
-      "id": "gaming-0080",
-      "title": "EA投资100亿美元建设新加坡游戏工作室",
-      "category": "gaming",
-      "credibility": 96,
+      "id": "0a0ba5f4b160fb",
+      "title": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
+      "category": "world",
+      "credibility": 86,
+      "opportunity_score": 63,
       "stocks": [
-        "AMZN"
+        "TSLA"
       ]
+    },
+    {
+      "id": "73cb57bee75fd4",
+      "title": "NASA Kennedy Center Director Announces Plans to Retire",
+      "category": "space",
+      "credibility": 95,
+      "opportunity_score": 60,
+      "stocks": []
     }
   ],
-  "generated_at": "2026-03-03T03:40:22.529429"
+  "generated_at": "2026-05-02T21:38:12.293080+08:00"
 }

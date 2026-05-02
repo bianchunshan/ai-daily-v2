@@ -1,5616 +1,1340 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "category": "consumer",
-  "name": "消费电子",
-  "total": 100,
-  "updated": "2026-03-03T03:33:44.307703",
+  "category_name": "消费电子",
+  "total": 30,
+  "updated": "2026-05-02T21:38:12.280460+08:00",
   "news": [
     {
-      "id": "consumer-0001",
-      "title": "能源公司发布智能系统，搭载卫星通信",
-      "summary": "据官方透露，能源公司发布智能系统，搭载卫星通信，这将显著影响相关行业发展。",
-      "content": "最新数据显示，能源公司发布智能系统，搭载卫星通信。相关公司股价盘前上涨约5%。详细内容待补充...",
+      "id": "e7dfcbd7a35af6",
+      "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astellas-appoints-new-top-strategist-sanofi-japan",
+      "title": "Chutes & Ladders—Astellas appoints new top strategist from Sanofi Japan",
+      "summary": "After last month’s departure of longtime executive Adam Pearson, Astellas has picked out a new strategist to fill the open spot on its C-suite with Takahiko Iwaya, who takes over as chief strategy officer on July 1.",
+      "content": "After last month’s departure of longtime executive Adam Pearson, Astellas has picked out a new strategist to fill the open spot on its C-suite with Takahiko Iwaya, who takes over as chief strategy officer on July 1.",
       "category": "consumer",
       "tags": [
-        "可穿戴设备",
-        "华为",
-        "小米"
+        "AR"
       ],
-      "publish_time": "2026-02-25T02:56:35+08:00",
+      "publish_time": "2026-05-02T21:37:50.096611+08:00",
       "sources": [
         {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/61475",
+          "name": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astellas-appoints-new-top-strategist-sanofi-japan",
           "verified": true,
-          "verify_time": "2026-03-03T00:42:54+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/48734",
-          "verified": true,
-          "verify_time": "2026-03-02T13:03:27+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/14421",
-          "verified": true,
-          "verify_time": "2026-03-02T22:16:10+08:00",
-          "credibility": 96
+          "verify_time": "2026-05-02T21:37:50.096734+08:00",
+          "credibility": 84
         }
       ],
       "stocks": [
         {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
           "symbol": "AAPL",
           "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         },
         {
           "symbol": "QCOM",
           "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         }
       ],
       "metrics": {
-        "views": 73996,
-        "shares": 3060,
-        "saves": 1122,
-        "credibility_score": 96
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 26
       },
       "status": "published"
     },
     {
-      "id": "consumer-0002",
-      "title": "能源公司与合作伙伴达成新一代技术供应链合作",
-      "summary": "据知情人士透露，能源公司与合作伙伴达成新一代技术供应链合作，这将显著影响相关行业发展。",
-      "content": "据官方透露，能源公司与合作伙伴达成新一代技术供应链合作，这将显著影响相关行业发展。详细内容待补充...",
+      "id": "0a94d8f57207a8",
+      "url": "https://www.fiercebiotech.com/biotech/cber-chief-prasad-steps-aside-deputy-takes-reins-search-successor-continues",
+      "title": "CBER chief Prasad steps aside, deputy takes the reins as search for successor continues",
+      "summary": "Katherine Szarama, Ph.D., will take over as CBER director in an acting capacity while the search for a permanent director continues.",
+      "content": "Katherine Szarama, Ph.D., will take over as CBER director in an acting capacity while the search for a permanent director continues.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T21:37:50.096315+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/biotech/cber-chief-prasad-steps-aside-deputy-takes-reins-search-successor-continues",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:50.096455+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published"
+    },
+    {
+      "id": "bdc7fde2774e79",
+      "url": "https://www.fiercebiotech.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble",
+      "title": "Summit's PD-1xVEGF interim trial miss surprises analysts, shares tumble",
+      "summary": "A surprise interim trial miss in ivonescimab’s closely watched Harmoni-3 trial has sent Summit Therapeutics’ shares tumbling, casting a shadow over the company’s momentum as the star PD-1xVEGF bispecific heads into the ASCO annual meeting w",
+      "content": "A surprise interim trial miss in ivonescimab’s closely watched Harmoni-3 trial has sent Summit Therapeutics’ shares tumbling, casting a shadow over the company’s momentum as the star PD-1xVEGF bispecific heads into the ASCO annual meeting w",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T21:37:50.096035+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:50.096280+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published"
+    },
+    {
+      "id": "7b7d5abe4b9e6c",
+      "url": "https://www.ithome.com/0/946/068.htm",
+      "title": "影石 GO Ultra x Hello Kitty 限定版口袋相机 5 月 14 日发布",
+      "summary": "IT之家 5 月 2 日消息，影石 4 月 30 日宣布，影石 GO Ultra x Hello Kitty 限定版，5 月 14 日 20:00 即将甜蜜来袭。 IT之家注意到， 影石 Insta360 GO Ultra 口袋相机于 2025 年 8 月发布 ，支持 4K60fps 视频拍摄，售价 2598 元。这款产品采用 53g 小方块机身设计，标配内含磁吸简易夹和角度可调整磁吸挂绳，无需时刻盯着手机或相机取景框。 影石 GO Ultra 采用全新 1/1.28 英寸大",
+      "content": "IT之家 5 月 2 日消息，影石 4 月 30 日宣布，影石 GO Ultra x Hello Kitty 限定版，5 月 14 日 20:00 即将甜蜜来袭。 IT之家注意到， 影石 Insta360 GO Ultra 口袋相机于 2025 年 8 月发布 ，支持 4K60fps 视频拍摄，售价 2598 元。这款产品采用 53g 小方块机身设计，标配内含磁吸简易夹和角度可调整磁吸挂绳，无需时刻盯着手机或相机取景框。 影石 GO Ultra 采用全新 1/1.28 英寸大",
+      "category": "consumer",
+      "tags": [
+        "手机"
+      ],
+      "publish_time": "2026-05-02T21:01:48+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/068.htm",
+          "verified": true,
+          "verify_time": "2026-05-02T21:38:01.645877+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published"
+    },
+    {
+      "id": "7c24518b237966",
+      "url": "https://www.ithome.com/0/946/038.htm",
+      "title": "联想拯救者游戏手机 Y70 新一代预计搭载高通骁龙 8 Gen 5 应用处理器",
+      "summary": "IT之家 5 月 2 日消息，联想 (Lenovo) 官方在 4 月 29 日对拯救者游戏手机 Y70 新一代的散热系统进行了介绍， IT之家此前做过报道 。而根据进一步的分析，相关图片很可能还包含了该智能手机的应用处理器 (AP) 型号信息。 IT之家注意到，宣传图里应用处理器图标的左下方仅写有 \"8\"，而 无 \"Elite\" ；另一方面，高通在骁龙 8 Elite Gen 5 和 8 Gen 5 的官方图标上采用了两种不同的配色方案，而 宣传图里图标的配色 很明显 与 8",
+      "content": "IT之家 5 月 2 日消息，联想 (Lenovo) 官方在 4 月 29 日对拯救者游戏手机 Y70 新一代的散热系统进行了介绍， IT之家此前做过报道 。而根据进一步的分析，相关图片很可能还包含了该智能手机的应用处理器 (AP) 型号信息。 IT之家注意到，宣传图里应用处理器图标的左下方仅写有 \"8\"，而 无 \"Elite\" ；另一方面，高通在骁龙 8 Elite Gen 5 和 8 Gen 5 的官方图标上采用了两种不同的配色方案，而 宣传图里图标的配色 很明显 与 8",
+      "category": "consumer",
+      "tags": [
+        "手机"
+      ],
+      "publish_time": "2026-05-02T19:01:51+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/038.htm",
+          "verified": true,
+          "verify_time": "2026-05-02T21:38:01.649425+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 51
+      },
+      "status": "published"
+    },
+    {
+      "id": "e8bc6db64dd2f3",
+      "url": "https://www.ithome.com/0/946/015.htm",
+      "title": "最低配不涨价？消息称苹果计划对 iPhone 18 Pro 系列手机采取激进定价策略",
+      "summary": "IT之家 5 月 2 日消息，据科技媒体 9To5Mac 昨天报道，广发证券分析师蒲得宇（Jeff Pu）预测，苹果将对 iPhone 18 Pro 系列手机采取激进定价策略。与此同时许多安卓厂商已经扛不住 DRAM 涨价潮，旗下机型不约而同地涨价。 蒲得宇在研究报告中表示，苹果将在 iPhone 18 Pro 和 Pro Max 中采用“激进定价策略”， 至少最低配置版本会采用这种策略 。 同时，知名“果链”分析师郭明錤也曾表示， 苹果希望今年的新机能与此前机型保持相同价格",
+      "content": "IT之家 5 月 2 日消息，据科技媒体 9To5Mac 昨天报道，广发证券分析师蒲得宇（Jeff Pu）预测，苹果将对 iPhone 18 Pro 系列手机采取激进定价策略。与此同时许多安卓厂商已经扛不住 DRAM 涨价潮，旗下机型不约而同地涨价。 蒲得宇在研究报告中表示，苹果将在 iPhone 18 Pro 和 Pro Max 中采用“激进定价策略”， 至少最低配置版本会采用这种策略 。 同时，知名“果链”分析师郭明錤也曾表示， 苹果希望今年的新机能与此前机型保持相同价格",
       "category": "consumer",
       "tags": [
         "iPhone",
-        "智能手机",
-        "VR/AR"
+        "手机"
       ],
-      "publish_time": "2026-02-26T22:58:06+08:00",
+      "publish_time": "2026-05-02T15:08:26+08:00",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://example.com/news/46379",
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/015.htm",
           "verified": true,
-          "verify_time": "2026-03-02T04:56:25+08:00",
+          "verify_time": "2026-05-02T21:38:01.652358+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 51
+      },
+      "status": "published"
+    },
+    {
+      "id": "defb2c7658069e",
+      "url": "https://www.ithome.com/0/946/012.htm",
+      "title": "时代的眼泪：中国移动“移动梦网”等业务下线",
+      "summary": "IT之家 5 月 2 日消息，根据中国移动今年 3 月发布的公告，因产品运营策略调整，和生活、农信通、Mobile Market、12590 (语音杂志)、梦网全网短彩业务 5 款产品，将于 2026 年 4 月 30 日 24:00 正式下线并停止相关服务。 据IT之家了解，公告中提到的梦网全网短彩业务， 隶属于中国移动在 2000 年推出的移动数据业务品牌“移动梦网” 。移动梦网（Monternet）意为“Mobile+Internet”，是中国移动向客户提供的移动数据业",
+      "content": "IT之家 5 月 2 日消息，根据中国移动今年 3 月发布的公告，因产品运营策略调整，和生活、农信通、Mobile Market、12590 (语音杂志)、梦网全网短彩业务 5 款产品，将于 2026 年 4 月 30 日 24:00 正式下线并停止相关服务。 据IT之家了解，公告中提到的梦网全网短彩业务， 隶属于中国移动在 2000 年推出的移动数据业务品牌“移动梦网” 。移动梦网（Monternet）意为“Mobile+Internet”，是中国移动向客户提供的移动数据业",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T15:04:07+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/012.htm",
+          "verified": true,
+          "verify_time": "2026-05-02T21:38:01.652549+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published"
+    },
+    {
+      "id": "379e66f4074fdb",
+      "url": "https://www.ithome.com/0/946/004.htm",
+      "title": "StarTech 推出业界首创 MacBook 免驱 USB4 原生双屏扩展坞",
+      "summary": "IT之家 5 月 2 日消息，加拿大配件制造商 StarTech.com 当地时间 4 月 30 日宣布推出 “业界首创”的 MacBook 免驱动 USB4 原生双屏扩展坞 208N-USB4-DOCK，该设备同时支持 Windows 和 Linux 操作系统。 这款扩展坞采用 21V DC-in 供电，正面提供 2 个 USB-A 10Gbps、1 个 USB-C 10Gbps；反面则包括 1 个 2.5GbE RJ45、1 个 USB-A 480Mbps、2 个 Dis",
+      "content": "IT之家 5 月 2 日消息，加拿大配件制造商 StarTech.com 当地时间 4 月 30 日宣布推出 “业界首创”的 MacBook 免驱动 USB4 原生双屏扩展坞 208N-USB4-DOCK，该设备同时支持 Windows 和 Linux 操作系统。 这款扩展坞采用 21V DC-in 供电，正面提供 2 个 USB-A 10Gbps、1 个 USB-C 10Gbps；反面则包括 1 个 2.5GbE RJ45、1 个 USB-A 480Mbps、2 个 Dis",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T14:34:15+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/004.htm",
+          "verified": true,
+          "verify_time": "2026-05-02T21:38:01.653385+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published"
+    },
+    {
+      "id": "58083087bf608b",
+      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
+      "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
+      "summary": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Ex",
+      "content": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Ex",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T06:01:53+08:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:44.589969+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 57
+      },
+      "status": "published"
+    },
+    {
+      "id": "536c7e7caf067c",
+      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+      "title": "Apple raises the Mac Mini’s starting price",
+      "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during a",
+      "content": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during a",
+      "category": "consumer",
+      "tags": [
+        "Apple",
+        "AR"
+      ],
+      "publish_time": "2026-05-02T05:52:09+08:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:44.590083+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 57
+      },
+      "status": "published"
+    },
+    {
+      "id": "4c84df2c88f257",
+      "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
+      "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
+      "summary": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
+      "content": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T05:05:37+08:00",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:45.513976+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published"
+    },
+    {
+      "id": "c36587de8c652d",
+      "url": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
+      "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+      "summary": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
+      "content": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
+      "category": "consumer",
+      "tags": [
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "publish_time": "2026-05-02T04:11:58+08:00",
+      "sources": [
+        {
+          "name": "CNBC Technology",
+          "url": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:42.491801+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published"
+    },
+    {
+      "id": "81695e5bc0eb2c",
+      "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
+      "title": "Trump's new executive order, with help from Congress, could increase U.S. retirement wealth up to 77%, researchers find",
+      "summary": "Trump's executive order created a new way for Americans to save for retirement and called on Congress to expand the parameters of the deal.",
+      "content": "Trump's executive order created a new way for Americans to save for retirement and called on Congress to expand the parameters of the deal.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T03:00:09+08:00",
+      "sources": [
+        {
+          "name": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:43.207319+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 32
+      },
+      "status": "published"
+    },
+    {
+      "id": "33be641ac2f169",
+      "url": "https://electrek.co/2026/05/01/1-4b-saved-massachusetts-locks-in-cheaper-offshore-wind-power/",
+      "title": "$1.4B saved: Massachusetts locks in cheaper offshore wind power",
+      "summary": "Massachusetts has activated long-term contracts for Vineyard Wind, the state’s first utility-scale offshore wind project. Officials say the move will stabilize prices for 20 years and cut a projected $1.4 billion from customer electricity b",
+      "content": "Massachusetts has activated long-term contracts for Vineyard Wind, the state’s first utility-scale offshore wind project. Officials say the move will stabilize prices for 20 years and cut a projected $1.4 billion from customer electricity b",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T02:24:12+08:00",
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/05/01/1-4b-saved-massachusetts-locks-in-cheaper-offshore-wind-power/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:56.307148+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 20
+      },
+      "status": "published"
+    },
+    {
+      "id": "c1aa070a8b3893",
+      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "content": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T02:23:04+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:43.770831+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published"
+    },
+    {
+      "id": "085fa64cf770b2",
+      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+      "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
+      "summary": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in Ca",
+      "content": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in Ca",
+      "category": "consumer",
+      "tags": [
+        "smartphone",
+        "AR"
+      ],
+      "publish_time": "2026-05-02T01:55:08+08:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:44.590625+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 35
+      },
+      "status": "published"
+    },
+    {
+      "id": "9a667a9b5283df",
+      "url": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+      "title": "Senators ban themselves from prediction markets after candidates bet on own races",
+      "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
+      "content": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T01:51:24+08:00",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:45.514141+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 28
+      },
+      "status": "published"
+    },
+    {
+      "id": "415cb4cfbcb2df",
+      "url": "https://www.cnbc.com/2026/05/01/kentucky-derby-prediction-platforms.html",
+      "title": "Why you won't find Kentucky Derby bets on prediction platforms",
+      "summary": "The Kentucky Derby takes place Saturday in Louisville. Prediction market platforms like Kalshi and Polymarket are sitting the race out.",
+      "content": "The Kentucky Derby takes place Saturday in Louisville. Prediction market platforms like Kalshi and Polymarket are sitting the race out.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T01:11:45+08:00",
+      "sources": [
+        {
+          "name": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/05/01/kentucky-derby-prediction-platforms.html",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:43.206468+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published"
+    },
+    {
+      "id": "bea309fa078bb9",
+      "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+      "title": "This accessory can snap a Steam Controller to your phone — or almost anything else",
+      "summary": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism'",
+      "content": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism'",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-02T01:00:00+08:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:44.590762+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published"
+    },
+    {
+      "id": "836d9caece4144",
+      "url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
+      "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
+      "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
+      "content": "Chip shortages and demand from AI enthusiasts are both playing a part.",
+      "category": "consumer",
+      "tags": [
+        "Apple",
+        "AR"
+      ],
+      "publish_time": "2026-05-01T22:10:48+08:00",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:45.514644+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published"
+    },
+    {
+      "id": "feb4913b93859b",
+      "url": "https://www.cnbc.com/2026/05/01/5-things-to-know-before-the-market-opens.html",
+      "title": "Apple earnings, DHS shutdown, 'Ozempic breath' and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "content": "Here are five key things investors need to know to start the trading day.",
+      "category": "consumer",
+      "tags": [
+        "Apple",
+        "AR"
+      ],
+      "publish_time": "2026-05-01T20:09:15+08:00",
+      "sources": [
+        {
+          "name": "CNBC Technology",
+          "url": "https://www.cnbc.com/2026/05/01/5-things-to-know-before-the-market-opens.html",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:42.492080+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published"
+    },
+    {
+      "id": "4d40aaca5cf86f",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102032.htm",
+      "title": "This new aluminum could replace rare metals and cut costs dramatically",
+      "summary": "A team at King’s College London has created a powerful new aluminum compound capable of doing the work of expensive rare metals. Its unique triangular structure gives it remarkable stability and reactivity, allowing it to drive chemical rea",
+      "content": "A team at King’s College London has created a powerful new aluminum compound capable of doing the work of expensive rare metals. Its unique triangular structure gives it remarkable stability and reactivity, allowing it to drive chemical rea",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-01T19:48:11+08:00",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260429102032.htm",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:49.505823+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 24
+      },
+      "status": "published"
+    },
+    {
+      "id": "aeb883e6799beb",
+      "url": "https://www.genengnews.com/topics/drug-discovery/going-non-viral-gene-delivery-enters-its-translation-era/",
+      "title": "Going Non-Viral: Gene Delivery Enters Its Translation Era",
+      "summary": "Advanced non-viral gene delivery systems are expanding the range of indications and therapy modalities possible for the new generation of genetic medicines. The post Going Non-Viral: Gene Delivery Enters Its Translation Era appeared first o",
+      "content": "Advanced non-viral gene delivery systems are expanding the range of indications and therapy modalities possible for the new generation of genetic medicines. The post Going Non-Viral: Gene Delivery Enters Its Translation Era appeared first o",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-01T19:20:03+08:00",
+      "sources": [
+        {
+          "name": "GEN",
+          "url": "https://www.genengnews.com/topics/drug-discovery/going-non-viral-gene-delivery-enters-its-translation-era/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:52.024519+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 29
+      },
+      "status": "published"
+    },
+    {
+      "id": "41e6130b60cdd3",
+      "url": "https://www.cnbc.com/2026/05/01/apollo-sports-capital-tom-dundon-pickleball-investment.html",
+      "title": "Apollo Sports Capital and Tom Dundon make landmark $225 million investment in pickleball",
+      "summary": "The fresh funds bring the total investment in Pickleball Inc. to $315 million, as investors continue to look at emerging sports as a place to park their money.",
+      "content": "The fresh funds bring the total investment in Pickleball Inc. to $315 million, as investors continue to look at emerging sports as a place to park their money.",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-01T19:00:01+08:00",
+      "sources": [
+        {
+          "name": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/05/01/apollo-sports-capital-tom-dundon-pickleball-investment.html",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:43.206378+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 37
+      },
+      "status": "published"
+    },
+    {
+      "id": "25cfa06680929f",
+      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "title": "Trump’s mass firing just dealt another blow to American science",
+      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were",
+      "content": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-01T17:00:00+08:00",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:46.342178+08:00",
           "credibility": 90
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/15964",
-          "verified": true,
-          "verify_time": "2026-03-02T16:21:37+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/92691",
-          "verified": true,
-          "verify_time": "2026-03-02T12:54:16+08:00",
-          "credibility": 96
         }
       ],
       "stocks": [
         {
-          "symbol": "QCOM",
-          "name": "高通",
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 60257,
-        "shares": 2663,
-        "saves": 525,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0003",
-      "title": "科技公司发布智能系统，搭载折叠屏",
-      "summary": "最新数据显示，科技公司发布智能系统，搭载折叠屏。相关公司股价盘前上涨约5%。",
-      "content": "据报道，科技公司发布智能系统，搭载折叠屏。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "VR/AR",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-27T08:15:51+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/97724",
-          "verified": true,
-          "verify_time": "2026-03-02T08:29:57+08:00",
-          "credibility": 88
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         },
         {
-          "name": "新华网",
-          "url": "https://example.com/news/23348",
-          "verified": true,
-          "verify_time": "2026-03-02T21:48:03+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         }
       ],
       "metrics": {
-        "views": 64854,
-        "shares": 3182,
-        "saves": 1068,
-        "credibility_score": 92
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 90,
+        "opportunity_score": 41
       },
       "status": "published"
     },
     {
-      "id": "consumer-0004",
-      "title": "科技公司与合作伙伴达成创新方案供应链合作",
-      "summary": "科技公司与合作伙伴达成创新方案供应链合作。市场分析师认为此举将带来43%的增长潜力。",
-      "content": "据报道，科技公司与合作伙伴达成创新方案供应链合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
+      "id": "0d9f4416afb9ea",
+      "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
+      "title": "20-month field tests show tracker-based bifacial PV outpeforms fixed tilt counterparts with 13.5% higher ouput in desert enviroments",
+      "summary": "Qatari researchers found that bifacial 2P horizontal single-axis tracking PV systems in desert conditions produced up to 13.5% more electricity than fixed-tilt systems over long-term field testing in Qatar. The study also showed strong seas",
+      "content": "Qatari researchers found that bifacial 2P horizontal single-axis tracking PV systems in desert conditions produced up to 13.5% more electricity than fixed-tilt systems over long-term field testing in Qatar. The study also showed strong seas",
       "category": "consumer",
       "tags": [
-        "三星",
-        "可穿戴设备",
-        "小米"
+        "AR"
       ],
-      "publish_time": "2026-03-02T02:27:27+08:00",
+      "publish_time": "2026-05-01T16:00:12+08:00",
       "sources": [
         {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/81938",
+          "name": "pv magazine",
+          "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
           "verified": true,
-          "verify_time": "2026-03-02T18:27:14+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/27736",
-          "verified": true,
-          "verify_time": "2026-03-02T19:40:21+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/78383",
-          "verified": true,
-          "verify_time": "2026-03-02T06:12:30+08:00",
-          "credibility": 97
+          "verify_time": "2026-05-02T21:37:57.170947+08:00",
+          "credibility": 78
         }
       ],
       "stocks": [
         {
           "symbol": "AAPL",
           "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
+          "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "新闻提及特斯拉"
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         },
         {
           "symbol": "QCOM",
           "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 28357,
-        "shares": 1698,
-        "saves": 1187,
-        "credibility_score": 96
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0005",
-      "title": "科技公司AR眼镜新产品开始量产，售价50元",
-      "summary": "据报道，科技公司AR眼镜新产品开始量产，售价50元。这一进展标志着行业进入新的发展阶段。",
-      "content": "据报道，科技公司AR眼镜新产品开始量产，售价50元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "iPhone",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-03-01T02:48:18+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/37654",
-          "verified": true,
-          "verify_time": "2026-03-02T10:32:52+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/62920",
-          "verified": true,
-          "verify_time": "2026-03-03T01:14:58+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/18253",
-          "verified": true,
-          "verify_time": "2026-03-02T17:47:05+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 94223,
-        "shares": 1627,
-        "saves": 371,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0006",
-      "title": "能源公司创新方案首销突破5000万台",
-      "summary": "最新数据显示，能源公司创新方案首销突破5000万台。相关公司股价盘前上涨约2%。",
-      "content": "能源公司创新方案首销突破5000万台。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "小米"
-      ],
-      "publish_time": "2026-02-27T11:36:18+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/41771",
-          "verified": true,
-          "verify_time": "2026-03-02T21:46:18+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/85885",
-          "verified": true,
-          "verify_time": "2026-03-02T03:53:44+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "negative",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 49421,
-        "shares": 883,
-        "saves": 1581,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0007",
-      "title": "科技公司与合作伙伴达成新一代技术供应链合作",
-      "summary": "最新数据显示，科技公司与合作伙伴达成新一代技术供应链合作。相关公司股价盘前下跌约4%。",
-      "content": "科技公司与合作伙伴达成新一代技术供应链合作。市场分析师认为此举将带来50%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "VR/AR",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-26T16:46:46+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/29298",
-          "verified": true,
-          "verify_time": "2026-03-03T02:17:10+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/91044",
-          "verified": true,
-          "verify_time": "2026-03-02T08:00:55+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
+          "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "新闻提及苹果"
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         }
       ],
       "metrics": {
-        "views": 42452,
-        "shares": 360,
-        "saves": 546,
-        "credibility_score": 94
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
       },
       "status": "published"
     },
     {
-      "id": "consumer-0008",
-      "title": "能源公司发布新一代技术，搭载卫星通信",
-      "summary": "能源公司发布新一代技术，搭载卫星通信。市场分析师认为此举将带来18%的增长潜力。",
-      "content": "能源公司发布新一代技术，搭载卫星通信。市场分析师认为此举将带来22%的增长潜力。详细内容待补充...",
+      "id": "4c48fbfbd72da7",
+      "url": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+      "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
+      "summary": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
+      "content": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
       "category": "consumer",
       "tags": [
-        "iPhone",
-        "华为",
-        "三星"
+        "Apple",
+        "AR"
       ],
-      "publish_time": "2026-03-01T06:45:33+08:00",
+      "publish_time": "2026-05-01T15:00:01+08:00",
       "sources": [
         {
-          "name": "彭博社",
-          "url": "https://example.com/news/52125",
+          "name": "CNBC Technology",
+          "url": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
           "verified": true,
-          "verify_time": "2026-03-02T12:32:00+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/24858",
-          "verified": true,
-          "verify_time": "2026-03-02T17:05:47+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 85523,
-        "shares": 3537,
-        "saves": 1184,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0009",
-      "title": "科技公司新产品首销突破5000万台",
-      "summary": "据报道，科技公司新产品首销突破5000万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "据知情人士透露，科技公司新产品首销突破5000万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "华为"
-      ],
-      "publish_time": "2026-03-02T20:39:05+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/98237",
-          "verified": true,
-          "verify_time": "2026-03-02T17:43:16+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/20704",
-          "verified": true,
-          "verify_time": "2026-03-02T22:12:25+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/20767",
-          "verified": true,
-          "verify_time": "2026-03-02T05:49:36+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 25300,
-        "shares": 1517,
-        "saves": 1504,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0010",
-      "title": "能源公司发布智能系统，搭载AI芯片",
-      "summary": "最新数据显示，能源公司发布智能系统，搭载AI芯片。相关公司股价盘前上涨约10%。",
-      "content": "能源公司发布智能系统，搭载AI芯片。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "小米",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-25T21:42:05+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/22178",
-          "verified": true,
-          "verify_time": "2026-03-02T11:52:28+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/72430",
-          "verified": true,
-          "verify_time": "2026-03-02T09:59:50+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/81488",
-          "verified": true,
-          "verify_time": "2026-03-02T17:32:52+08:00",
-          "credibility": 92
+          "verify_time": "2026-05-02T21:37:42.492465+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
         {
           "symbol": "AAPL",
           "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 26773,
-        "shares": 1610,
-        "saves": 994,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0011",
-      "title": "能源公司与合作伙伴达成新产品供应链合作",
-      "summary": "能源公司与合作伙伴达成新产品供应链合作。业内人士预计该趋势将在未来3年内持续。",
-      "content": "能源公司与合作伙伴达成新产品供应链合作。市场分析师认为此举将带来23%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "可穿戴设备",
-        "小米"
-      ],
-      "publish_time": "2026-03-02T08:34:48+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/70069",
-          "verified": true,
-          "verify_time": "2026-03-02T19:53:31+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/79034",
-          "verified": true,
-          "verify_time": "2026-03-02T22:44:57+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 32795,
-        "shares": 3291,
-        "saves": 714,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0012",
-      "title": "科技公司折叠屏手机创新方案出货量突破10万台",
-      "summary": "据分析师透露，科技公司折叠屏手机创新方案出货量突破10万台，这将显著影响相关行业发展。",
-      "content": "据报道，科技公司折叠屏手机创新方案出货量突破10万台。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "iPhone",
-        "华为"
-      ],
-      "publish_time": "2026-02-24T08:45:12+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/99520",
-          "verified": true,
-          "verify_time": "2026-03-02T08:25:42+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/72544",
-          "verified": true,
-          "verify_time": "2026-03-02T16:03:57+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 6825,
-        "shares": 4182,
-        "saves": 1844,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0013",
-      "title": "科技公司智能系统首销突破50万台",
-      "summary": "最新数据显示，科技公司智能系统首销突破50万台。相关公司股价盘前下跌约4%。",
-      "content": "科技公司智能系统首销突破50万台。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "小米",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-25T03:36:14+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/15693",
-          "verified": true,
-          "verify_time": "2026-03-02T15:06:10+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/29116",
-          "verified": true,
-          "verify_time": "2026-03-02T07:46:43+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
+          "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
         }
       ],
       "metrics": {
-        "views": 85049,
-        "shares": 1092,
-        "saves": 845,
-        "credibility_score": 96
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
       },
       "status": "published"
     },
     {
-      "id": "consumer-0014",
-      "title": "能源公司折叠屏手机新产品出货量突破1000万台",
-      "summary": "能源公司折叠屏手机新产品出货量突破1000万台。市场分析师认为此举将带来37%的增长潜力。",
-      "content": "最新数据显示，能源公司折叠屏手机新产品出货量突破1000万台。相关公司股价盘前上涨约3%。详细内容待补充...",
+      "id": "693f98f4f422bd",
+      "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+      "content": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
       "category": "consumer",
       "tags": [
-        "智能手机",
-        "VR/AR",
-        "可穿戴设备"
+        "Apple",
+        "AR"
       ],
-      "publish_time": "2026-02-27T05:13:26+08:00",
+      "publish_time": "2026-05-01T07:59:15+08:00",
       "sources": [
         {
-          "name": "新华网",
-          "url": "https://example.com/news/11008",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
           "verified": true,
-          "verify_time": "2026-03-03T00:59:23+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/22803",
-          "verified": true,
-          "verify_time": "2026-03-02T23:00:20+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/59107",
-          "verified": true,
-          "verify_time": "2026-03-02T06:30:49+08:00",
-          "credibility": 88
+          "verify_time": "2026-05-02T21:37:43.771724+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
         {
-          "symbol": "TSLA",
-          "name": "特斯拉",
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
           "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
         }
       ],
       "metrics": {
-        "views": 23870,
-        "shares": 3398,
-        "saves": 1287,
-        "credibility_score": 93
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 63
       },
       "status": "published"
     },
     {
-      "id": "consumer-0015",
-      "title": "能源公司AR眼镜新一代技术开始量产，售价2000元",
-      "summary": "最新数据显示，能源公司AR眼镜新一代技术开始量产，售价2000元。相关公司股价盘前上涨约9%。",
-      "content": "能源公司AR眼镜新一代技术开始量产，售价2000元。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
+      "id": "8beb46c35212f2",
+      "url": "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
+      "title": "Apple delivers a nearly perfect quarter, with a CEO change and an AI update ahead",
+      "summary": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
+      "content": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
       "category": "consumer",
       "tags": [
-        "小米",
-        "智能手机",
+        "Apple",
+        "AR"
+      ],
+      "publish_time": "2026-05-01T07:43:06+08:00",
+      "sources": [
+        {
+          "name": "CNBC Technology",
+          "url": "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
+          "verified": true,
+          "verify_time": "2026-05-02T21:37:42.492758+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published"
+    },
+    {
+      "id": "c0912dad05adee",
+      "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
+      "title": "Apple revenue guidance tops estimates on booming iPhone, Mac demand",
+      "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
+      "content": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
+      "category": "consumer",
+      "tags": [
+        "Apple",
         "iPhone"
       ],
-      "publish_time": "2026-02-26T20:54:35+08:00",
+      "publish_time": "2026-05-01T07:06:23+08:00",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://example.com/news/83732",
+          "name": "CNBC Technology",
+          "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
           "verified": true,
-          "verify_time": "2026-03-02T04:43:02+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/55676",
-          "verified": true,
-          "verify_time": "2026-03-02T11:18:38+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/53141",
-          "verified": true,
-          "verify_time": "2026-03-03T02:41:17+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 80050,
-        "shares": 2486,
-        "saves": 938,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0016",
-      "title": "科技公司发布新产品，搭载AI芯片",
-      "summary": "据报道，科技公司发布新产品，搭载AI芯片。这一进展标志着行业进入新的发展阶段。",
-      "content": "据报道，科技公司发布新产品，搭载AI芯片。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "可穿戴设备",
-        "小米"
-      ],
-      "publish_time": "2026-02-27T12:06:59+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/68418",
-          "verified": true,
-          "verify_time": "2026-03-02T11:02:10+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/96117",
-          "verified": true,
-          "verify_time": "2026-03-02T16:23:06+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/45337",
-          "verified": true,
-          "verify_time": "2026-03-02T10:06:53+08:00",
-          "credibility": 96
+          "verify_time": "2026-05-02T21:37:42.493609+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
         {
           "symbol": "AAPL",
           "name": "苹果",
+          "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
         }
       ],
       "metrics": {
-        "views": 84168,
-        "shares": 2765,
-        "saves": 1341,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0017",
-      "title": "能源公司折叠屏手机智能系统出货量突破2000万台",
-      "summary": "据报道，能源公司折叠屏手机智能系统出货量突破2000万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "能源公司折叠屏手机智能系统出货量突破2000万台。市场分析师认为此举将带来49%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "可穿戴设备",
-        "小米"
-      ],
-      "publish_time": "2026-02-24T18:07:22+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/56960",
-          "verified": true,
-          "verify_time": "2026-03-02T23:07:00+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/84371",
-          "verified": true,
-          "verify_time": "2026-03-03T03:20:33+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/32962",
-          "verified": true,
-          "verify_time": "2026-03-02T11:34:21+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 17144,
-        "shares": 2171,
-        "saves": 1941,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0018",
-      "title": "科技公司智能系统首销突破100万台",
-      "summary": "科技公司智能系统首销突破100万台。业内人士预计该趋势将在未来1年内持续。",
-      "content": "据报道，科技公司智能系统首销突破100万台。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "智能手机",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-28T07:40:56+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/74683",
-          "verified": true,
-          "verify_time": "2026-03-03T03:12:13+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/47496",
-          "verified": true,
-          "verify_time": "2026-03-02T15:32:06+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/67012",
-          "verified": true,
-          "verify_time": "2026-03-02T08:51:49+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 29423,
-        "shares": 3399,
-        "saves": 870,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0019",
-      "title": "能源公司AR眼镜新产品开始量产，售价50元",
-      "summary": "据分析师透露，能源公司AR眼镜新产品开始量产，售价50元，这将显著影响相关行业发展。",
-      "content": "据报道，能源公司AR眼镜新产品开始量产，售价50元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "可穿戴设备",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-27T04:24:36+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/68783",
-          "verified": true,
-          "verify_time": "2026-03-02T20:47:32+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/94010",
-          "verified": true,
-          "verify_time": "2026-03-02T16:37:59+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/10901",
-          "verified": true,
-          "verify_time": "2026-03-03T03:14:45+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 86699,
-        "shares": 882,
-        "saves": 1461,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0020",
-      "title": "科技公司与合作伙伴达成创新方案供应链合作",
-      "summary": "最新数据显示，科技公司与合作伙伴达成创新方案供应链合作。相关公司股价盘前下跌约3%。",
-      "content": "据分析师透露，科技公司与合作伙伴达成创新方案供应链合作，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "VR/AR",
-        "华为"
-      ],
-      "publish_time": "2026-03-02T02:08:27+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/13697",
-          "verified": true,
-          "verify_time": "2026-03-02T19:35:25+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/10662",
-          "verified": true,
-          "verify_time": "2026-03-03T01:55:35+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 70012,
-        "shares": 1087,
-        "saves": 1153,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0021",
-      "title": "科技公司智能系统首销突破2000万台",
-      "summary": "据分析师透露，科技公司智能系统首销突破2000万台，这将显著影响相关行业发展。",
-      "content": "科技公司智能系统首销突破2000万台。市场分析师认为此举将带来19%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "华为",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-25T08:14:55+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/77804",
-          "verified": true,
-          "verify_time": "2026-03-02T23:19:15+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/86765",
-          "verified": true,
-          "verify_time": "2026-03-02T04:37:25+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/81097",
-          "verified": true,
-          "verify_time": "2026-03-02T16:43:38+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 10740,
-        "shares": 4765,
-        "saves": 1742,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0022",
-      "title": "科技公司智能系统首销突破100万台",
-      "summary": "科技公司智能系统首销突破100万台。市场分析师认为此举将带来50%的增长潜力。",
-      "content": "最新数据显示，科技公司智能系统首销突破100万台。相关公司股价盘前下跌约6%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "可穿戴设备",
-        "华为"
-      ],
-      "publish_time": "2026-02-25T19:42:04+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/40321",
-          "verified": true,
-          "verify_time": "2026-03-02T04:22:37+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/85289",
-          "verified": true,
-          "verify_time": "2026-03-02T06:08:22+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 39529,
-        "shares": 3064,
-        "saves": 1159,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0023",
-      "title": "能源公司AR眼镜创新方案开始量产，售价50元",
-      "summary": "能源公司AR眼镜创新方案开始量产，售价50元。业内人士预计该趋势将在未来1年内持续。",
-      "content": "能源公司AR眼镜创新方案开始量产，售价50元。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "智能手机",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-28T14:39:26+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/63284",
-          "verified": true,
-          "verify_time": "2026-03-02T11:55:57+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/26885",
-          "verified": true,
-          "verify_time": "2026-03-02T07:41:02+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/43395",
-          "verified": true,
-          "verify_time": "2026-03-02T12:28:24+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "neutral",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 24513,
-        "shares": 4838,
-        "saves": 1948,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0024",
-      "title": "科技公司折叠屏手机智能系统出货量突破1000万台",
-      "summary": "科技公司折叠屏手机智能系统出货量突破1000万台。市场分析师认为此举将带来28%的增长潜力。",
-      "content": "据报道，科技公司折叠屏手机智能系统出货量突破1000万台。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "华为",
-        "iPhone"
-      ],
-      "publish_time": "2026-03-01T14:16:36+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/53884",
-          "verified": true,
-          "verify_time": "2026-03-03T00:27:07+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/94526",
-          "verified": true,
-          "verify_time": "2026-03-02T10:10:37+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/32519",
-          "verified": true,
-          "verify_time": "2026-03-02T17:00:49+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 49439,
-        "shares": 1598,
-        "saves": 424,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0025",
-      "title": "科技公司折叠屏手机创新方案出货量突破50万台",
-      "summary": "据报道，科技公司折叠屏手机创新方案出货量突破50万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "据分析师透露，科技公司折叠屏手机创新方案出货量突破50万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "VR/AR"
-      ],
-      "publish_time": "2026-03-02T07:06:15+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/42613",
-          "verified": true,
-          "verify_time": "2026-03-03T02:16:38+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/99029",
-          "verified": true,
-          "verify_time": "2026-03-02T21:25:47+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "neutral",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 87887,
-        "shares": 1851,
-        "saves": 1690,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0026",
-      "title": "能源公司AR眼镜智能系统开始量产，售价10元",
-      "summary": "据报道，能源公司AR眼镜智能系统开始量产，售价10元。这一进展标志着行业进入新的发展阶段。",
-      "content": "能源公司AR眼镜智能系统开始量产，售价10元。市场分析师认为此举将带来45%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "VR/AR",
-        "小米"
-      ],
-      "publish_time": "2026-02-27T00:23:28+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/98146",
-          "verified": true,
-          "verify_time": "2026-03-02T13:48:57+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/45541",
-          "verified": true,
-          "verify_time": "2026-03-02T15:08:33+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 32439,
-        "shares": 1520,
-        "saves": 433,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0027",
-      "title": "能源公司发布智能系统，搭载卫星通信",
-      "summary": "能源公司发布智能系统，搭载卫星通信。业内人士预计该趋势将在未来4年内持续。",
-      "content": "最新数据显示，能源公司发布智能系统，搭载卫星通信。相关公司股价盘前上涨约3%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "智能手机",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-26T23:34:07+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/25312",
-          "verified": true,
-          "verify_time": "2026-03-02T08:11:22+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/94588",
-          "verified": true,
-          "verify_time": "2026-03-03T00:29:04+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 60429,
-        "shares": 3073,
-        "saves": 256,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0028",
-      "title": "能源公司新产品首销突破500万台",
-      "summary": "据报道，能源公司新产品首销突破500万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "能源公司新产品首销突破500万台。市场分析师认为此举将带来14%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "可穿戴设备",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-28T01:08:48+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/16083",
-          "verified": true,
-          "verify_time": "2026-03-03T02:08:23+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/51938",
-          "verified": true,
-          "verify_time": "2026-03-02T14:42:42+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 16065,
-        "shares": 247,
-        "saves": 1078,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0029",
-      "title": "能源公司智能系统首销突破2000万台",
-      "summary": "据报道，能源公司智能系统首销突破2000万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "能源公司智能系统首销突破2000万台。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "小米"
-      ],
-      "publish_time": "2026-02-26T01:00:27+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/69811",
-          "verified": true,
-          "verify_time": "2026-03-02T23:51:09+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/13519",
-          "verified": true,
-          "verify_time": "2026-03-02T18:05:29+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 6076,
-        "shares": 3551,
-        "saves": 487,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0030",
-      "title": "能源公司新产品首销突破2000万台",
-      "summary": "能源公司新产品首销突破2000万台。业内人士预计该趋势将在未来1年内持续。",
-      "content": "能源公司新产品首销突破2000万台。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "小米",
-        "三星"
-      ],
-      "publish_time": "2026-02-26T16:56:33+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/56801",
-          "verified": true,
-          "verify_time": "2026-03-03T00:36:18+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/90988",
-          "verified": true,
-          "verify_time": "2026-03-02T10:52:53+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/79427",
-          "verified": true,
-          "verify_time": "2026-03-02T09:12:51+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 64243,
-        "shares": 1973,
-        "saves": 381,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0031",
-      "title": "科技公司发布创新方案，搭载超长续航",
-      "summary": "据报道，科技公司发布创新方案，搭载超长续航。这一进展标志着行业进入新的发展阶段。",
-      "content": "科技公司发布创新方案，搭载超长续航。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "华为",
-        "小米"
-      ],
-      "publish_time": "2026-02-25T11:54:14+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/40676",
-          "verified": true,
-          "verify_time": "2026-03-02T17:26:37+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/31993",
-          "verified": true,
-          "verify_time": "2026-03-02T16:58:54+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 28795,
-        "shares": 528,
-        "saves": 267,
-        "credibility_score": 96
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0032",
-      "title": "能源公司发布创新方案，搭载超长续航",
-      "summary": "最新数据显示，能源公司发布创新方案，搭载超长续航。相关公司股价盘前上涨约2%。",
-      "content": "据官方透露，能源公司发布创新方案，搭载超长续航，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "小米",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-25T21:49:57+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/72980",
-          "verified": true,
-          "verify_time": "2026-03-02T22:21:58+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/22427",
-          "verified": true,
-          "verify_time": "2026-03-02T16:16:39+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 75799,
-        "shares": 4320,
-        "saves": 116,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0033",
-      "title": "能源公司折叠屏手机智能系统出货量突破2000万台",
-      "summary": "能源公司折叠屏手机智能系统出货量突破2000万台。市场分析师认为此举将带来31%的增长潜力。",
-      "content": "据官方透露，能源公司折叠屏手机智能系统出货量突破2000万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "VR/AR",
-        "华为"
-      ],
-      "publish_time": "2026-03-01T02:54:57+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/50496",
-          "verified": true,
-          "verify_time": "2026-03-02T21:32:43+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/76175",
-          "verified": true,
-          "verify_time": "2026-03-02T18:18:16+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/43150",
-          "verified": true,
-          "verify_time": "2026-03-02T17:01:05+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 12109,
-        "shares": 1410,
-        "saves": 1365,
-        "credibility_score": 90
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0034",
-      "title": "科技公司创新方案首销突破1000万台",
-      "summary": "科技公司创新方案首销突破1000万台。业内人士预计该趋势将在未来4年内持续。",
-      "content": "据报道，科技公司创新方案首销突破1000万台。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "VR/AR",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-03-01T20:43:18+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/53582",
-          "verified": true,
-          "verify_time": "2026-03-03T02:13:35+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/52752",
-          "verified": true,
-          "verify_time": "2026-03-02T17:40:15+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 54738,
-        "shares": 1019,
-        "saves": 1304,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0035",
-      "title": "能源公司与合作伙伴达成创新方案供应链合作",
-      "summary": "能源公司与合作伙伴达成创新方案供应链合作。业内人士预计该趋势将在未来3年内持续。",
-      "content": "能源公司与合作伙伴达成创新方案供应链合作。市场分析师认为此举将带来18%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "小米",
-        "VR/AR"
-      ],
-      "publish_time": "2026-03-01T02:03:27+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/61165",
-          "verified": true,
-          "verify_time": "2026-03-02T20:28:12+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/82530",
-          "verified": true,
-          "verify_time": "2026-03-02T08:32:40+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 20254,
-        "shares": 1543,
-        "saves": 1723,
-        "credibility_score": 96
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0036",
-      "title": "科技公司发布新一代技术，搭载卫星通信",
-      "summary": "科技公司发布新一代技术，搭载卫星通信。市场分析师认为此举将带来25%的增长潜力。",
-      "content": "据报道，科技公司发布新一代技术，搭载卫星通信。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "智能手机",
-        "三星"
-      ],
-      "publish_time": "2026-03-02T23:59:14+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/95433",
-          "verified": true,
-          "verify_time": "2026-03-02T17:11:45+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/63295",
-          "verified": true,
-          "verify_time": "2026-03-02T21:26:24+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/98429",
-          "verified": true,
-          "verify_time": "2026-03-02T21:41:55+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 81177,
-        "shares": 4377,
-        "saves": 1143,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0037",
-      "title": "科技公司AR眼镜新一代技术开始量产，售价5000元",
-      "summary": "科技公司AR眼镜新一代技术开始量产，售价5000元。市场分析师认为此举将带来15%的增长潜力。",
-      "content": "科技公司AR眼镜新一代技术开始量产，售价5000元。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "iPhone",
-        "华为"
-      ],
-      "publish_time": "2026-02-24T14:49:50+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/81472",
-          "verified": true,
-          "verify_time": "2026-03-02T10:58:49+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/10978",
-          "verified": true,
-          "verify_time": "2026-03-03T01:48:52+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "negative",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 94841,
-        "shares": 1182,
-        "saves": 1433,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0038",
-      "title": "能源公司折叠屏手机新一代技术出货量突破500万台",
-      "summary": "能源公司折叠屏手机新一代技术出货量突破500万台。业内人士预计该趋势将在未来5年内持续。",
-      "content": "最新数据显示，能源公司折叠屏手机新一代技术出货量突破500万台。相关公司股价盘前上涨约8%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "小米",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-26T04:06:14+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/76587",
-          "verified": true,
-          "verify_time": "2026-03-03T00:21:28+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/88073",
-          "verified": true,
-          "verify_time": "2026-03-02T09:40:52+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/76208",
-          "verified": true,
-          "verify_time": "2026-03-02T16:16:28+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 32664,
-        "shares": 1470,
-        "saves": 1698,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0039",
-      "title": "科技公司AR眼镜创新方案开始量产，售价5000元",
-      "summary": "据官方透露，科技公司AR眼镜创新方案开始量产，售价5000元，这将显著影响相关行业发展。",
-      "content": "据报道，科技公司AR眼镜创新方案开始量产，售价5000元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "可穿戴设备",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-28T07:30:51+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/55004",
-          "verified": true,
-          "verify_time": "2026-03-02T04:32:52+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/13082",
-          "verified": true,
-          "verify_time": "2026-03-02T16:08:59+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/25904",
-          "verified": true,
-          "verify_time": "2026-03-02T20:16:14+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 58320,
-        "shares": 1754,
-        "saves": 974,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0040",
-      "title": "能源公司AR眼镜新产品开始量产，售价1000元",
-      "summary": "据知情人士透露，能源公司AR眼镜新产品开始量产，售价1000元，这将显著影响相关行业发展。",
-      "content": "据知情人士透露，能源公司AR眼镜新产品开始量产，售价1000元，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "智能手机",
-        "iPhone"
-      ],
-      "publish_time": "2026-03-03T01:11:50+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/78955",
-          "verified": true,
-          "verify_time": "2026-03-02T07:38:24+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/28560",
-          "verified": true,
-          "verify_time": "2026-03-02T16:10:40+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 79844,
-        "shares": 361,
-        "saves": 1437,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0041",
-      "title": "能源公司折叠屏手机智能系统出货量突破5000万台",
-      "summary": "最新数据显示，能源公司折叠屏手机智能系统出货量突破5000万台。相关公司股价盘前下跌约8%。",
-      "content": "能源公司折叠屏手机智能系统出货量突破5000万台。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-25T14:57:19+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/20508",
-          "verified": true,
-          "verify_time": "2026-03-02T15:20:26+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/82138",
-          "verified": true,
-          "verify_time": "2026-03-02T17:09:55+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "neutral",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 83738,
-        "shares": 3699,
-        "saves": 205,
-        "credibility_score": 96
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0042",
-      "title": "能源公司发布新一代技术，搭载卫星通信",
-      "summary": "最新数据显示，能源公司发布新一代技术，搭载卫星通信。相关公司股价盘前上涨约5%。",
-      "content": "据知情人士透露，能源公司发布新一代技术，搭载卫星通信，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "小米",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-03-02T05:50:18+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/52275",
-          "verified": true,
-          "verify_time": "2026-03-03T00:19:37+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/63704",
-          "verified": true,
-          "verify_time": "2026-03-03T01:25:30+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/67659",
-          "verified": true,
-          "verify_time": "2026-03-02T05:20:45+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "neutral",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 64805,
-        "shares": 3406,
-        "saves": 435,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0043",
-      "title": "科技公司AR眼镜新产品开始量产，售价500元",
-      "summary": "最新数据显示，科技公司AR眼镜新产品开始量产，售价500元。相关公司股价盘前下跌约10%。",
-      "content": "最新数据显示，科技公司AR眼镜新产品开始量产，售价500元。相关公司股价盘前下跌约3%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "iPhone",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-27T22:06:30+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/56957",
-          "verified": true,
-          "verify_time": "2026-03-02T18:18:40+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/42551",
-          "verified": true,
-          "verify_time": "2026-03-02T12:14:43+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 29065,
-        "shares": 1192,
-        "saves": 1511,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0044",
-      "title": "科技公司AR眼镜智能系统开始量产，售价100元",
-      "summary": "科技公司AR眼镜智能系统开始量产，售价100元。业内人士预计该趋势将在未来2年内持续。",
-      "content": "科技公司AR眼镜智能系统开始量产，售价100元。市场分析师认为此举将带来36%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "智能手机",
-        "华为"
-      ],
-      "publish_time": "2026-02-26T15:02:15+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/29421",
-          "verified": true,
-          "verify_time": "2026-03-02T10:21:45+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/84121",
-          "verified": true,
-          "verify_time": "2026-03-02T12:08:39+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/26001",
-          "verified": true,
-          "verify_time": "2026-03-02T04:46:07+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 85754,
-        "shares": 4630,
-        "saves": 121,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0045",
-      "title": "能源公司新一代技术首销突破2000万台",
-      "summary": "能源公司新一代技术首销突破2000万台。市场分析师认为此举将带来45%的增长潜力。",
-      "content": "能源公司新一代技术首销突破2000万台。市场分析师认为此举将带来43%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "华为",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-24T07:18:34+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/36716",
-          "verified": true,
-          "verify_time": "2026-03-02T11:08:52+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/85364",
-          "verified": true,
-          "verify_time": "2026-03-02T16:55:34+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 17278,
-        "shares": 698,
-        "saves": 56,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0046",
-      "title": "能源公司折叠屏手机新一代技术出货量突破500万台",
-      "summary": "能源公司折叠屏手机新一代技术出货量突破500万台。业内人士预计该趋势将在未来4年内持续。",
-      "content": "据官方透露，能源公司折叠屏手机新一代技术出货量突破500万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "iPhone",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-28T18:24:05+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/67457",
-          "verified": true,
-          "verify_time": "2026-03-03T02:45:18+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/56391",
-          "verified": true,
-          "verify_time": "2026-03-02T10:33:05+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "neutral",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 30391,
-        "shares": 2027,
-        "saves": 1953,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0047",
-      "title": "科技公司发布创新方案，搭载AI芯片",
-      "summary": "科技公司发布创新方案，搭载AI芯片。市场分析师认为此举将带来36%的增长潜力。",
-      "content": "科技公司发布创新方案，搭载AI芯片。市场分析师认为此举将带来27%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "VR/AR",
-        "华为"
-      ],
-      "publish_time": "2026-02-27T06:26:10+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/39765",
-          "verified": true,
-          "verify_time": "2026-03-02T13:43:44+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/37819",
-          "verified": true,
-          "verify_time": "2026-03-02T08:26:08+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 73514,
-        "shares": 3675,
-        "saves": 941,
-        "credibility_score": 90
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0048",
-      "title": "能源公司新产品首销突破50万台",
-      "summary": "据官方透露，能源公司新产品首销突破50万台，这将显著影响相关行业发展。",
-      "content": "能源公司新产品首销突破50万台。市场分析师认为此举将带来24%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "iPhone",
-        "三星"
-      ],
-      "publish_time": "2026-02-26T11:47:19+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/13258",
-          "verified": true,
-          "verify_time": "2026-03-02T19:57:43+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/87612",
-          "verified": true,
-          "verify_time": "2026-03-02T11:39:47+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/69815",
-          "verified": true,
-          "verify_time": "2026-03-02T04:21:31+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 41548,
-        "shares": 4839,
-        "saves": 1111,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0049",
-      "title": "能源公司与合作伙伴达成新一代技术供应链合作",
-      "summary": "据官方透露，能源公司与合作伙伴达成新一代技术供应链合作，这将显著影响相关行业发展。",
-      "content": "能源公司与合作伙伴达成新一代技术供应链合作。市场分析师认为此举将带来42%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "VR/AR",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-28T04:58:33+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/69093",
-          "verified": true,
-          "verify_time": "2026-03-02T17:44:44+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/57180",
-          "verified": true,
-          "verify_time": "2026-03-02T14:19:49+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 24500,
-        "shares": 3620,
-        "saves": 1127,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0050",
-      "title": "能源公司发布新一代技术，搭载AI芯片",
-      "summary": "能源公司发布新一代技术，搭载AI芯片。业内人士预计该趋势将在未来3年内持续。",
-      "content": "据报道，能源公司发布新一代技术，搭载AI芯片。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "三星",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-25T13:28:19+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/72984",
-          "verified": true,
-          "verify_time": "2026-03-02T20:05:24+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/39261",
-          "verified": true,
-          "verify_time": "2026-03-02T19:53:39+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/54008",
-          "verified": true,
-          "verify_time": "2026-03-02T10:29:26+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 6933,
-        "shares": 4204,
-        "saves": 1642,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0051",
-      "title": "科技公司AR眼镜智能系统开始量产，售价2000元",
-      "summary": "据报道，科技公司AR眼镜智能系统开始量产，售价2000元。这一进展标志着行业进入新的发展阶段。",
-      "content": "科技公司AR眼镜智能系统开始量产，售价2000元。市场分析师认为此举将带来28%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "智能手机",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-25T01:33:01+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/57395",
-          "verified": true,
-          "verify_time": "2026-03-02T11:51:22+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/68397",
-          "verified": true,
-          "verify_time": "2026-03-02T14:14:24+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/52142",
-          "verified": true,
-          "verify_time": "2026-03-02T04:47:10+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "neutral",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "neutral",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 27900,
-        "shares": 4777,
-        "saves": 1526,
-        "credibility_score": 90
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0052",
-      "title": "能源公司折叠屏手机智能系统出货量突破100万台",
-      "summary": "最新数据显示，能源公司折叠屏手机智能系统出货量突破100万台。相关公司股价盘前上涨约5%。",
-      "content": "据报道，能源公司折叠屏手机智能系统出货量突破100万台。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "三星",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-24T11:24:24+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/89465",
-          "verified": true,
-          "verify_time": "2026-03-02T23:30:07+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/46350",
-          "verified": true,
-          "verify_time": "2026-03-02T21:09:22+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 76568,
-        "shares": 1194,
-        "saves": 1795,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0053",
-      "title": "能源公司新产品首销突破1000万台",
-      "summary": "能源公司新产品首销突破1000万台。市场分析师认为此举将带来18%的增长潜力。",
-      "content": "能源公司新产品首销突破1000万台。市场分析师认为此举将带来34%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "智能手机",
-        "华为"
-      ],
-      "publish_time": "2026-03-01T20:31:47+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/84828",
-          "verified": true,
-          "verify_time": "2026-03-02T14:49:45+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/92259",
-          "verified": true,
-          "verify_time": "2026-03-03T02:04:49+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 5221,
-        "shares": 2650,
-        "saves": 648,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0054",
-      "title": "科技公司AR眼镜新产品开始量产，售价100元",
-      "summary": "科技公司AR眼镜新产品开始量产，售价100元。市场分析师认为此举将带来20%的增长潜力。",
-      "content": "据报道，科技公司AR眼镜新产品开始量产，售价100元。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "三星",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-24T05:43:20+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/57696",
-          "verified": true,
-          "verify_time": "2026-03-02T16:07:39+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/95611",
-          "verified": true,
-          "verify_time": "2026-03-02T16:33:55+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/10397",
-          "verified": true,
-          "verify_time": "2026-03-02T19:44:33+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 63803,
-        "shares": 4071,
-        "saves": 716,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0055",
-      "title": "科技公司与合作伙伴达成创新方案供应链合作",
-      "summary": "科技公司与合作伙伴达成创新方案供应链合作。业内人士预计该趋势将在未来5年内持续。",
-      "content": "科技公司与合作伙伴达成创新方案供应链合作。市场分析师认为此举将带来24%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "三星",
-        "华为"
-      ],
-      "publish_time": "2026-02-27T22:30:09+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/96544",
-          "verified": true,
-          "verify_time": "2026-03-02T20:44:11+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/88331",
-          "verified": true,
-          "verify_time": "2026-03-03T02:53:24+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "negative",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 19737,
-        "shares": 819,
-        "saves": 1796,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0056",
-      "title": "能源公司折叠屏手机智能系统出货量突破5000万台",
-      "summary": "最新数据显示，能源公司折叠屏手机智能系统出货量突破5000万台。相关公司股价盘前上涨约1%。",
-      "content": "能源公司折叠屏手机智能系统出货量突破5000万台。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "华为",
-        "智能手机"
-      ],
-      "publish_time": "2026-03-01T15:53:22+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/78029",
-          "verified": true,
-          "verify_time": "2026-03-03T01:23:36+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/58522",
-          "verified": true,
-          "verify_time": "2026-03-02T18:21:38+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/14247",
-          "verified": true,
-          "verify_time": "2026-03-02T10:50:48+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 88854,
-        "shares": 2682,
-        "saves": 485,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0057",
-      "title": "科技公司折叠屏手机智能系统出货量突破1000万台",
-      "summary": "科技公司折叠屏手机智能系统出货量突破1000万台。市场分析师认为此举将带来41%的增长潜力。",
-      "content": "据官方透露，科技公司折叠屏手机智能系统出货量突破1000万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "小米"
-      ],
-      "publish_time": "2026-02-27T14:10:05+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/75052",
-          "verified": true,
-          "verify_time": "2026-03-02T21:27:58+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/62894",
-          "verified": true,
-          "verify_time": "2026-03-02T10:39:12+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/50051",
-          "verified": true,
-          "verify_time": "2026-03-02T21:27:30+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 81916,
-        "shares": 1427,
-        "saves": 1226,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0058",
-      "title": "能源公司AR眼镜新产品开始量产，售价1000元",
-      "summary": "最新数据显示，能源公司AR眼镜新产品开始量产，售价1000元。相关公司股价盘前下跌约4%。",
-      "content": "据官方透露，能源公司AR眼镜新产品开始量产，售价1000元，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "三星",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-03-01T02:50:34+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/43201",
-          "verified": true,
-          "verify_time": "2026-03-03T01:14:31+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/83769",
-          "verified": true,
-          "verify_time": "2026-03-02T06:42:06+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/14573",
-          "verified": true,
-          "verify_time": "2026-03-02T15:51:21+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 58763,
-        "shares": 1249,
-        "saves": 1327,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0059",
-      "title": "能源公司发布创新方案，搭载超长续航",
-      "summary": "能源公司发布创新方案，搭载超长续航。市场分析师认为此举将带来33%的增长潜力。",
-      "content": "能源公司发布创新方案，搭载超长续航。业内人士预计该趋势将在未来4年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "智能手机",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-24T11:32:47+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/57214",
-          "verified": true,
-          "verify_time": "2026-03-03T00:23:26+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/70491",
-          "verified": true,
-          "verify_time": "2026-03-02T18:21:50+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 58368,
-        "shares": 2102,
-        "saves": 573,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0060",
-      "title": "科技公司发布新产品，搭载超长续航",
-      "summary": "科技公司发布新产品，搭载超长续航。市场分析师认为此举将带来32%的增长潜力。",
-      "content": "据报道，科技公司发布新产品，搭载超长续航。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "小米",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-28T16:10:13+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/14453",
-          "verified": true,
-          "verify_time": "2026-03-02T19:20:34+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/10405",
-          "verified": true,
-          "verify_time": "2026-03-02T06:51:48+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 92642,
-        "shares": 2682,
-        "saves": 1384,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0061",
-      "title": "能源公司发布新一代技术，搭载AI芯片",
-      "summary": "据知情人士透露，能源公司发布新一代技术，搭载AI芯片，这将显著影响相关行业发展。",
-      "content": "能源公司发布新一代技术，搭载AI芯片。市场分析师认为此举将带来26%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "可穿戴设备",
-        "华为"
-      ],
-      "publish_time": "2026-02-28T05:45:39+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/49325",
-          "verified": true,
-          "verify_time": "2026-03-02T21:42:58+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/65038",
-          "verified": true,
-          "verify_time": "2026-03-02T16:20:54+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 71183,
-        "shares": 4241,
-        "saves": 846,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0062",
-      "title": "科技公司与合作伙伴达成创新方案供应链合作",
-      "summary": "科技公司与合作伙伴达成创新方案供应链合作。市场分析师认为此举将带来27%的增长潜力。",
-      "content": "据报道，科技公司与合作伙伴达成创新方案供应链合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "华为",
-        "小米"
-      ],
-      "publish_time": "2026-02-25T03:28:13+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/10303",
-          "verified": true,
-          "verify_time": "2026-03-02T18:19:13+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/27907",
-          "verified": true,
-          "verify_time": "2026-03-02T09:58:42+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 68025,
-        "shares": 1234,
-        "saves": 624,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0063",
-      "title": "科技公司发布新一代技术，搭载卫星通信",
-      "summary": "据分析师透露，科技公司发布新一代技术，搭载卫星通信，这将显著影响相关行业发展。",
-      "content": "最新数据显示，科技公司发布新一代技术，搭载卫星通信。相关公司股价盘前下跌约6%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "iPhone",
-        "小米"
-      ],
-      "publish_time": "2026-03-02T11:11:16+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/23354",
-          "verified": true,
-          "verify_time": "2026-03-02T20:01:29+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/38093",
-          "verified": true,
-          "verify_time": "2026-03-03T01:51:58+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/58357",
-          "verified": true,
-          "verify_time": "2026-03-02T18:36:25+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 47889,
-        "shares": 2222,
-        "saves": 1661,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0064",
-      "title": "能源公司发布新产品，搭载卫星通信",
-      "summary": "能源公司发布新产品，搭载卫星通信。业内人士预计该趋势将在未来2年内持续。",
-      "content": "据分析师透露，能源公司发布新产品，搭载卫星通信，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "VR/AR",
-        "小米"
-      ],
-      "publish_time": "2026-03-02T02:10:59+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/82648",
-          "verified": true,
-          "verify_time": "2026-03-02T06:15:41+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/50865",
-          "verified": true,
-          "verify_time": "2026-03-02T16:29:54+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/59729",
-          "verified": true,
-          "verify_time": "2026-03-02T05:25:35+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 67761,
-        "shares": 1297,
-        "saves": 1133,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0065",
-      "title": "科技公司折叠屏手机智能系统出货量突破2000万台",
-      "summary": "科技公司折叠屏手机智能系统出货量突破2000万台。市场分析师认为此举将带来32%的增长潜力。",
-      "content": "科技公司折叠屏手机智能系统出货量突破2000万台。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "智能手机",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-27T20:05:38+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/45910",
-          "verified": true,
-          "verify_time": "2026-03-02T11:20:01+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/39642",
-          "verified": true,
-          "verify_time": "2026-03-02T20:24:38+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 47469,
-        "shares": 2740,
-        "saves": 952,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0066",
-      "title": "能源公司创新方案首销突破10万台",
-      "summary": "能源公司创新方案首销突破10万台。市场分析师认为此举将带来36%的增长潜力。",
-      "content": "最新数据显示，能源公司创新方案首销突破10万台。相关公司股价盘前下跌约5%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "VR/AR",
-        "小米"
-      ],
-      "publish_time": "2026-02-27T00:38:46+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/78339",
-          "verified": true,
-          "verify_time": "2026-03-02T14:37:47+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/85893",
-          "verified": true,
-          "verify_time": "2026-03-03T00:20:14+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 99490,
-        "shares": 2078,
-        "saves": 1403,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0067",
-      "title": "能源公司发布创新方案，搭载折叠屏",
-      "summary": "最新数据显示，能源公司发布创新方案，搭载折叠屏。相关公司股价盘前下跌约3%。",
-      "content": "能源公司发布创新方案，搭载折叠屏。市场分析师认为此举将带来26%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "华为",
-        "小米"
-      ],
-      "publish_time": "2026-03-01T01:13:39+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/57125",
-          "verified": true,
-          "verify_time": "2026-03-03T03:27:42+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/76407",
-          "verified": true,
-          "verify_time": "2026-03-02T21:08:57+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 62864,
-        "shares": 595,
-        "saves": 351,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0068",
-      "title": "科技公司AR眼镜新产品开始量产，售价500元",
-      "summary": "据报道，科技公司AR眼镜新产品开始量产，售价500元。这一进展标志着行业进入新的发展阶段。",
-      "content": "科技公司AR眼镜新产品开始量产，售价500元。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "三星",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-27T19:14:40+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/73874",
-          "verified": true,
-          "verify_time": "2026-03-02T07:56:22+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/26881",
-          "verified": true,
-          "verify_time": "2026-03-02T14:40:55+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "neutral",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 9195,
-        "shares": 3554,
-        "saves": 967,
-        "credibility_score": 96
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0069",
-      "title": "科技公司新一代技术首销突破5000万台",
-      "summary": "据报道，科技公司新一代技术首销突破5000万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "科技公司新一代技术首销突破5000万台。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "智能手机",
-        "三星"
-      ],
-      "publish_time": "2026-03-02T04:22:06+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/46885",
-          "verified": true,
-          "verify_time": "2026-03-02T15:31:42+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/78495",
-          "verified": true,
-          "verify_time": "2026-03-02T04:59:14+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/12061",
-          "verified": true,
-          "verify_time": "2026-03-02T08:35:05+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 36421,
-        "shares": 2516,
-        "saves": 520,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0070",
-      "title": "能源公司发布创新方案，搭载超长续航",
-      "summary": "据报道，能源公司发布创新方案，搭载超长续航。这一进展标志着行业进入新的发展阶段。",
-      "content": "据报道，能源公司发布创新方案，搭载超长续航。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "VR/AR",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-25T00:12:52+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/61360",
-          "verified": true,
-          "verify_time": "2026-03-02T10:17:03+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/42123",
-          "verified": true,
-          "verify_time": "2026-03-02T13:50:43+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/78546",
-          "verified": true,
-          "verify_time": "2026-03-02T06:23:28+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 25429,
-        "shares": 203,
-        "saves": 311,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0071",
-      "title": "能源公司发布新一代技术，搭载折叠屏",
-      "summary": "据知情人士透露，能源公司发布新一代技术，搭载折叠屏，这将显著影响相关行业发展。",
-      "content": "最新数据显示，能源公司发布新一代技术，搭载折叠屏。相关公司股价盘前上涨约2%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "VR/AR",
-        "小米"
-      ],
-      "publish_time": "2026-03-01T19:27:21+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/48547",
-          "verified": true,
-          "verify_time": "2026-03-03T01:48:14+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/83892",
-          "verified": true,
-          "verify_time": "2026-03-02T20:24:56+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/30276",
-          "verified": true,
-          "verify_time": "2026-03-02T09:06:23+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 57380,
-        "shares": 957,
-        "saves": 606,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0072",
-      "title": "科技公司折叠屏手机智能系统出货量突破500万台",
-      "summary": "科技公司折叠屏手机智能系统出货量突破500万台。业内人士预计该趋势将在未来5年内持续。",
-      "content": "最新数据显示，科技公司折叠屏手机智能系统出货量突破500万台。相关公司股价盘前上涨约5%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "小米",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-28T11:41:08+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/15670",
-          "verified": true,
-          "verify_time": "2026-03-02T11:32:01+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/19609",
-          "verified": true,
-          "verify_time": "2026-03-02T21:27:35+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "negative",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "neutral",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 83306,
-        "shares": 388,
-        "saves": 825,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0073",
-      "title": "能源公司与合作伙伴达成创新方案供应链合作",
-      "summary": "能源公司与合作伙伴达成创新方案供应链合作。业内人士预计该趋势将在未来3年内持续。",
-      "content": "据报道，能源公司与合作伙伴达成创新方案供应链合作。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "iPhone",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-28T20:28:30+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/43723",
-          "verified": true,
-          "verify_time": "2026-03-02T11:48:52+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/66019",
-          "verified": true,
-          "verify_time": "2026-03-02T18:23:48+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 28603,
-        "shares": 233,
-        "saves": 162,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0074",
-      "title": "科技公司智能系统首销突破100万台",
-      "summary": "科技公司智能系统首销突破100万台。业内人士预计该趋势将在未来5年内持续。",
-      "content": "科技公司智能系统首销突破100万台。市场分析师认为此举将带来22%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "智能手机",
-        "小米"
-      ],
-      "publish_time": "2026-02-24T16:24:35+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/63187",
-          "verified": true,
-          "verify_time": "2026-03-02T13:06:23+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/60333",
-          "verified": true,
-          "verify_time": "2026-03-02T22:05:34+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/73152",
-          "verified": true,
-          "verify_time": "2026-03-02T11:21:36+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 71394,
-        "shares": 4497,
-        "saves": 1637,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0075",
-      "title": "科技公司创新方案首销突破100万台",
-      "summary": "据官方透露，科技公司创新方案首销突破100万台，这将显著影响相关行业发展。",
-      "content": "科技公司创新方案首销突破100万台。业内人士预计该趋势将在未来2年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "iPhone",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-28T19:56:43+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/83576",
-          "verified": true,
-          "verify_time": "2026-03-02T23:17:21+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/86401",
-          "verified": true,
-          "verify_time": "2026-03-02T17:23:46+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/92925",
-          "verified": true,
-          "verify_time": "2026-03-02T06:46:52+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 70332,
-        "shares": 4646,
-        "saves": 1241,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0076",
-      "title": "科技公司折叠屏手机新一代技术出货量突破10万台",
-      "summary": "科技公司折叠屏手机新一代技术出货量突破10万台。市场分析师认为此举将带来47%的增长潜力。",
-      "content": "科技公司折叠屏手机新一代技术出货量突破10万台。市场分析师认为此举将带来31%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "三星",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-28T06:17:23+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/12036",
-          "verified": true,
-          "verify_time": "2026-03-02T18:07:36+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/93519",
-          "verified": true,
-          "verify_time": "2026-03-02T21:35:13+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 57781,
-        "shares": 3721,
-        "saves": 267,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0077",
-      "title": "科技公司与合作伙伴达成智能系统供应链合作",
-      "summary": "最新数据显示，科技公司与合作伙伴达成智能系统供应链合作。相关公司股价盘前下跌约3%。",
-      "content": "最新数据显示，科技公司与合作伙伴达成智能系统供应链合作。相关公司股价盘前下跌约2%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "小米",
-        "三星"
-      ],
-      "publish_time": "2026-02-26T04:47:21+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/57547",
-          "verified": true,
-          "verify_time": "2026-03-02T18:04:29+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/80630",
-          "verified": true,
-          "verify_time": "2026-03-02T10:19:23+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/75150",
-          "verified": true,
-          "verify_time": "2026-03-02T23:59:44+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 26789,
-        "shares": 1729,
-        "saves": 1616,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0078",
-      "title": "科技公司发布新一代技术，搭载超长续航",
-      "summary": "据报道，科技公司发布新一代技术，搭载超长续航。这一进展标志着行业进入新的发展阶段。",
-      "content": "科技公司发布新一代技术，搭载超长续航。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "小米",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-25T00:23:38+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/12219",
-          "verified": true,
-          "verify_time": "2026-03-02T11:31:16+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/95328",
-          "verified": true,
-          "verify_time": "2026-03-02T07:24:59+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/99763",
-          "verified": true,
-          "verify_time": "2026-03-02T13:47:08+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 58383,
-        "shares": 1330,
-        "saves": 779,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0079",
-      "title": "能源公司折叠屏手机创新方案出货量突破5000万台",
-      "summary": "能源公司折叠屏手机创新方案出货量突破5000万台。市场分析师认为此举将带来19%的增长潜力。",
-      "content": "最新数据显示，能源公司折叠屏手机创新方案出货量突破5000万台。相关公司股价盘前上涨约1%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "智能手机",
-        "三星"
-      ],
-      "publish_time": "2026-02-25T20:08:36+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/56376",
-          "verified": true,
-          "verify_time": "2026-03-02T23:51:37+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/50669",
-          "verified": true,
-          "verify_time": "2026-03-02T15:59:42+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/53367",
-          "verified": true,
-          "verify_time": "2026-03-02T20:38:11+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 36092,
-        "shares": 631,
-        "saves": 1897,
-        "credibility_score": 90
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0080",
-      "title": "科技公司发布创新方案，搭载超长续航",
-      "summary": "科技公司发布创新方案，搭载超长续航。业内人士预计该趋势将在未来4年内持续。",
-      "content": "科技公司发布创新方案，搭载超长续航。市场分析师认为此举将带来35%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "三星",
-        "华为"
-      ],
-      "publish_time": "2026-03-02T15:02:00+08:00",
-      "sources": [
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/26290",
-          "verified": true,
-          "verify_time": "2026-03-02T10:34:54+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/55507",
-          "verified": true,
-          "verify_time": "2026-03-02T23:18:56+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/81261",
-          "verified": true,
-          "verify_time": "2026-03-02T17:32:23+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "neutral",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "negative",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 12642,
-        "shares": 433,
-        "saves": 996,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0081",
-      "title": "科技公司创新方案首销突破1000万台",
-      "summary": "科技公司创新方案首销突破1000万台。业内人士预计该趋势将在未来2年内持续。",
-      "content": "科技公司创新方案首销突破1000万台。市场分析师认为此举将带来31%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "小米",
-        "三星"
-      ],
-      "publish_time": "2026-02-25T05:28:36+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/39092",
-          "verified": true,
-          "verify_time": "2026-03-02T05:59:10+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/37546",
-          "verified": true,
-          "verify_time": "2026-03-02T09:26:39+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/33887",
-          "verified": true,
-          "verify_time": "2026-03-02T07:14:12+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 45664,
-        "shares": 3367,
-        "saves": 1994,
-        "credibility_score": 96
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0082",
-      "title": "科技公司发布创新方案，搭载卫星通信",
-      "summary": "最新数据显示，科技公司发布创新方案，搭载卫星通信。相关公司股价盘前上涨约2%。",
-      "content": "科技公司发布创新方案，搭载卫星通信。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "可穿戴设备",
-        "小米",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-25T19:59:52+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/39120",
-          "verified": true,
-          "verify_time": "2026-03-02T23:00:47+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/31542",
-          "verified": true,
-          "verify_time": "2026-03-02T22:32:23+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "negative",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 73862,
-        "shares": 119,
-        "saves": 524,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0083",
-      "title": "能源公司发布创新方案，搭载卫星通信",
-      "summary": "据报道，能源公司发布创新方案，搭载卫星通信。这一进展标志着行业进入新的发展阶段。",
-      "content": "据报道，能源公司发布创新方案，搭载卫星通信。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "智能手机",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-03-02T14:27:13+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/24985",
-          "verified": true,
-          "verify_time": "2026-03-02T12:06:30+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/15404",
-          "verified": true,
-          "verify_time": "2026-03-02T06:10:19+08:00",
-          "credibility": 94
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 95548,
-        "shares": 2673,
-        "saves": 1833,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0084",
-      "title": "科技公司智能系统首销突破500万台",
-      "summary": "科技公司智能系统首销突破500万台。市场分析师认为此举将带来21%的增长潜力。",
-      "content": "最新数据显示，科技公司智能系统首销突破500万台。相关公司股价盘前下跌约3%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "iPhone",
-        "三星"
-      ],
-      "publish_time": "2026-02-28T07:05:05+08:00",
-      "sources": [
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/31095",
-          "verified": true,
-          "verify_time": "2026-03-02T11:41:45+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/70469",
-          "verified": true,
-          "verify_time": "2026-03-02T16:21:36+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/71675",
-          "verified": true,
-          "verify_time": "2026-03-02T11:23:09+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 53149,
-        "shares": 380,
-        "saves": 260,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0085",
-      "title": "能源公司与合作伙伴达成新一代技术供应链合作",
-      "summary": "能源公司与合作伙伴达成新一代技术供应链合作。业内人士预计该趋势将在未来2年内持续。",
-      "content": "最新数据显示，能源公司与合作伙伴达成新一代技术供应链合作。相关公司股价盘前上涨约7%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "华为",
-        "iPhone"
-      ],
-      "publish_time": "2026-03-03T01:59:24+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/28624",
-          "verified": true,
-          "verify_time": "2026-03-02T08:38:57+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/89805",
-          "verified": true,
-          "verify_time": "2026-03-02T09:30:02+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 40529,
-        "shares": 1411,
-        "saves": 537,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0086",
-      "title": "科技公司发布智能系统，搭载折叠屏",
-      "summary": "科技公司发布智能系统，搭载折叠屏。市场分析师认为此举将带来38%的增长潜力。",
-      "content": "科技公司发布智能系统，搭载折叠屏。市场分析师认为此举将带来30%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "华为",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-03-02T00:30:19+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/30298",
-          "verified": true,
-          "verify_time": "2026-03-03T02:29:08+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/11861",
-          "verified": true,
-          "verify_time": "2026-03-03T01:27:39+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "neutral",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 5208,
-        "shares": 449,
-        "saves": 491,
-        "credibility_score": 89
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0087",
-      "title": "能源公司折叠屏手机新一代技术出货量突破50万台",
-      "summary": "据报道，能源公司折叠屏手机新一代技术出货量突破50万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "最新数据显示，能源公司折叠屏手机新一代技术出货量突破50万台。相关公司股价盘前下跌约1%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "三星",
-        "华为"
-      ],
-      "publish_time": "2026-02-24T15:17:02+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/11563",
-          "verified": true,
-          "verify_time": "2026-03-03T01:17:45+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/20789",
-          "verified": true,
-          "verify_time": "2026-03-03T02:22:38+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 25199,
-        "shares": 2094,
-        "saves": 1038,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0088",
-      "title": "能源公司新一代技术首销突破1000万台",
-      "summary": "能源公司新一代技术首销突破1000万台。市场分析师认为此举将带来17%的增长潜力。",
-      "content": "能源公司新一代技术首销突破1000万台。业内人士预计该趋势将在未来1年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "三星",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-26T17:05:06+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/79651",
-          "verified": true,
-          "verify_time": "2026-03-02T11:02:24+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/17149",
-          "verified": true,
-          "verify_time": "2026-03-02T07:55:15+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/15119",
-          "verified": true,
-          "verify_time": "2026-03-02T09:37:02+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 49026,
-        "shares": 4379,
-        "saves": 524,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0089",
-      "title": "科技公司折叠屏手机新产品出货量突破1000万台",
-      "summary": "科技公司折叠屏手机新产品出货量突破1000万台。市场分析师认为此举将带来33%的增长潜力。",
-      "content": "据官方透露，科技公司折叠屏手机新产品出货量突破1000万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "小米",
-        "可穿戴设备",
-        "华为"
-      ],
-      "publish_time": "2026-02-26T09:28:30+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/49882",
-          "verified": true,
-          "verify_time": "2026-03-02T18:41:27+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/52777",
-          "verified": true,
-          "verify_time": "2026-03-02T21:44:37+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/92144",
-          "verified": true,
-          "verify_time": "2026-03-02T18:03:15+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        }
-      ],
-      "metrics": {
-        "views": 6305,
-        "shares": 855,
-        "saves": 784,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0090",
-      "title": "科技公司新一代技术首销突破100万台",
-      "summary": "最新数据显示，科技公司新一代技术首销突破100万台。相关公司股价盘前下跌约2%。",
-      "content": "据报道，科技公司新一代技术首销突破100万台。这一进展标志着行业进入新的发展阶段。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "华为",
-        "VR/AR"
-      ],
-      "publish_time": "2026-03-01T10:36:47+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/53923",
-          "verified": true,
-          "verify_time": "2026-03-02T07:55:08+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/72153",
-          "verified": true,
-          "verify_time": "2026-03-02T03:35:55+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/78284",
-          "verified": true,
-          "verify_time": "2026-03-02T18:12:04+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 5353,
-        "shares": 1527,
-        "saves": 348,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0091",
-      "title": "能源公司发布创新方案，搭载卫星通信",
-      "summary": "据报道，能源公司发布创新方案，搭载卫星通信。这一进展标志着行业进入新的发展阶段。",
-      "content": "能源公司发布创新方案，搭载卫星通信。市场分析师认为此举将带来41%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "小米",
-        "三星"
-      ],
-      "publish_time": "2026-02-27T18:58:05+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/28223",
-          "verified": true,
-          "verify_time": "2026-03-02T23:59:04+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/87321",
-          "verified": true,
-          "verify_time": "2026-03-03T01:54:58+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/95112",
-          "verified": true,
-          "verify_time": "2026-03-02T13:36:38+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "neutral",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 33826,
-        "shares": 578,
-        "saves": 470,
-        "credibility_score": 90
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0092",
-      "title": "科技公司发布创新方案，搭载AI芯片",
-      "summary": "据知情人士透露，科技公司发布创新方案，搭载AI芯片，这将显著影响相关行业发展。",
-      "content": "据知情人士透露，科技公司发布创新方案，搭载AI芯片，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "智能手机",
-        "iPhone",
-        "VR/AR"
-      ],
-      "publish_time": "2026-03-02T04:18:10+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/96240",
-          "verified": true,
-          "verify_time": "2026-03-02T08:58:10+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/53766",
-          "verified": true,
-          "verify_time": "2026-03-02T14:24:55+08:00",
-          "credibility": 97
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 92577,
-        "shares": 2058,
-        "saves": 428,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0093",
-      "title": "能源公司AR眼镜智能系统开始量产，售价500元",
-      "summary": "据知情人士透露，能源公司AR眼镜智能系统开始量产，售价500元，这将显著影响相关行业发展。",
-      "content": "据知情人士透露，能源公司AR眼镜智能系统开始量产，售价500元，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "华为",
-        "VR/AR"
-      ],
-      "publish_time": "2026-02-24T07:36:46+08:00",
-      "sources": [
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/49718",
-          "verified": true,
-          "verify_time": "2026-03-02T16:33:58+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/11713",
-          "verified": true,
-          "verify_time": "2026-03-02T12:39:47+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/62270",
-          "verified": true,
-          "verify_time": "2026-03-03T02:38:09+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 66362,
-        "shares": 4726,
-        "saves": 1041,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0094",
-      "title": "能源公司与合作伙伴达成新一代技术供应链合作",
-      "summary": "能源公司与合作伙伴达成新一代技术供应链合作。业内人士预计该趋势将在未来4年内持续。",
-      "content": "能源公司与合作伙伴达成新一代技术供应链合作。业内人士预计该趋势将在未来5年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "三星",
-        "iPhone",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-28T21:10:50+08:00",
-      "sources": [
-        {
-          "name": "新华网",
-          "url": "https://example.com/news/32837",
-          "verified": true,
-          "verify_time": "2026-03-02T21:22:44+08:00",
-          "credibility": 97
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/28755",
-          "verified": true,
-          "verify_time": "2026-03-02T06:29:35+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/19582",
-          "verified": true,
-          "verify_time": "2026-03-02T21:47:59+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 25651,
-        "shares": 2544,
-        "saves": 1436,
-        "credibility_score": 95
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0095",
-      "title": "能源公司AR眼镜创新方案开始量产，售价100元",
-      "summary": "最新数据显示，能源公司AR眼镜创新方案开始量产，售价100元。相关公司股价盘前下跌约3%。",
-      "content": "最新数据显示，能源公司AR眼镜创新方案开始量产，售价100元。相关公司股价盘前上涨约10%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "三星",
-        "可穿戴设备"
-      ],
-      "publish_time": "2026-02-28T23:28:25+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/61807",
-          "verified": true,
-          "verify_time": "2026-03-02T10:58:06+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/64413",
-          "verified": true,
-          "verify_time": "2026-03-03T03:25:07+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 45879,
-        "shares": 3005,
-        "saves": 241,
-        "credibility_score": 92
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0096",
-      "title": "科技公司创新方案首销突破1000万台",
-      "summary": "据分析师透露，科技公司创新方案首销突破1000万台，这将显著影响相关行业发展。",
-      "content": "科技公司创新方案首销突破1000万台。市场分析师认为此举将带来25%的增长潜力。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "华为",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-27T10:25:28+08:00",
-      "sources": [
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/33748",
-          "verified": true,
-          "verify_time": "2026-03-02T18:56:01+08:00",
-          "credibility": 88
-        },
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/74532",
-          "verified": true,
-          "verify_time": "2026-03-02T03:58:53+08:00",
-          "credibility": 92
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "neutral",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 5029,
-        "shares": 2501,
-        "saves": 1542,
-        "credibility_score": 90
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0097",
-      "title": "科技公司折叠屏手机新产品出货量突破100万台",
-      "summary": "科技公司折叠屏手机新产品出货量突破100万台。业内人士预计该趋势将在未来3年内持续。",
-      "content": "据官方透露，科技公司折叠屏手机新产品出货量突破100万台，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "iPhone",
-        "智能手机"
-      ],
-      "publish_time": "2026-02-27T04:16:18+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/38594",
-          "verified": true,
-          "verify_time": "2026-03-02T13:49:35+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/46511",
-          "verified": true,
-          "verify_time": "2026-03-02T15:13:22+08:00",
-          "credibility": 96
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/51350",
-          "verified": true,
-          "verify_time": "2026-03-02T21:40:09+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "negative",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "positive",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "positive",
-          "reason": "新闻提及特斯拉"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "negative",
-          "reason": "新闻提及高通"
-        }
-      ],
-      "metrics": {
-        "views": 46362,
-        "shares": 3180,
-        "saves": 507,
-        "credibility_score": 94
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0098",
-      "title": "能源公司发布新一代技术，搭载AI芯片",
-      "summary": "据报道，能源公司发布新一代技术，搭载AI芯片。这一进展标志着行业进入新的发展阶段。",
-      "content": "据知情人士透露，能源公司发布新一代技术，搭载AI芯片，这将显著影响相关行业发展。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "VR/AR",
-        "小米",
-        "三星"
-      ],
-      "publish_time": "2026-02-26T12:43:51+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/26775",
-          "verified": true,
-          "verify_time": "2026-03-02T17:22:11+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "路透社",
-          "url": "https://example.com/news/12963",
-          "verified": true,
-          "verify_time": "2026-03-02T13:17:59+08:00",
-          "credibility": 94
-        },
-        {
-          "name": "彭博社",
-          "url": "https://example.com/news/52601",
-          "verified": true,
-          "verify_time": "2026-03-02T07:38:58+08:00",
-          "credibility": 96
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "positive",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "neutral",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "neutral",
-          "reason": "新闻提及苹果"
-        }
-      ],
-      "metrics": {
-        "views": 18608,
-        "shares": 3201,
-        "saves": 426,
-        "credibility_score": 93
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0099",
-      "title": "能源公司与合作伙伴达成新产品供应链合作",
-      "summary": "据报道，能源公司与合作伙伴达成新产品供应链合作。这一进展标志着行业进入新的发展阶段。",
-      "content": "最新数据显示，能源公司与合作伙伴达成新产品供应链合作。相关公司股价盘前上涨约6%。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "小米",
-        "iPhone"
-      ],
-      "publish_time": "2026-02-28T20:09:51+08:00",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://example.com/news/54433",
-          "verified": true,
-          "verify_time": "2026-03-02T22:21:12+08:00",
-          "credibility": 90
-        },
-        {
-          "name": "华尔街日报",
-          "url": "https://example.com/news/76962",
-          "verified": true,
-          "verify_time": "2026-03-02T23:07:01+08:00",
-          "credibility": 95
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/85565",
-          "verified": true,
-          "verify_time": "2026-03-02T16:25:56+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "impact": "negative",
-          "reason": "新闻提及比亚迪"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "impact": "negative",
-          "reason": "新闻提及苹果"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "impact": "positive",
-          "reason": "新闻提及高通"
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        }
-      ],
-      "metrics": {
-        "views": 34430,
-        "shares": 3797,
-        "saves": 1507,
-        "credibility_score": 91
-      },
-      "status": "published"
-    },
-    {
-      "id": "consumer-0100",
-      "title": "科技公司智能系统首销突破2000万台",
-      "summary": "据报道，科技公司智能系统首销突破2000万台。这一进展标志着行业进入新的发展阶段。",
-      "content": "科技公司智能系统首销突破2000万台。业内人士预计该趋势将在未来3年内持续。详细内容待补充...",
-      "category": "consumer",
-      "tags": [
-        "华为",
-        "三星",
-        "智能手机"
-      ],
-      "publish_time": "2026-03-02T01:10:32+08:00",
-      "sources": [
-        {
-          "name": "金融时报",
-          "url": "https://example.com/news/67838",
-          "verified": true,
-          "verify_time": "2026-03-02T09:51:20+08:00",
-          "credibility": 92
-        },
-        {
-          "name": "中国新闻网",
-          "url": "https://example.com/news/27418",
-          "verified": true,
-          "verify_time": "2026-03-02T05:58:46+08:00",
-          "credibility": 88
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "impact": "positive",
-          "reason": "新闻提及Meta"
-        },
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "impact": "neutral",
-          "reason": "新闻提及特斯拉"
-        }
-      ],
-      "metrics": {
-        "views": 90059,
-        "shares": 624,
-        "saves": 323,
-        "credibility_score": 90
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
       },
       "status": "published"
     }

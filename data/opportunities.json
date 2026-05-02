@@ -1,0 +1,869 @@
+{
+  "version": "3.0",
+  "updated": "2026-05-02T21:38:12.291578+08:00",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "33c1ee68ad64d6",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 71,
+      "publish_time": "2026-05-02T00:02:36+08:00",
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "NVDA": {
+          "symbol": "NVDA",
+          "price": 198.45,
+          "currency": "USD",
+          "change": -9.82,
+          "change_percent": -4.72,
+          "market_time": "2026-05-02T04:00:00+08:00",
+          "source": "Yahoo Finance"
+        },
+        "MSFT": {
+          "symbol": "MSFT",
+          "price": 414.44,
+          "currency": "USD",
+          "change": -10.18,
+          "change_percent": -2.4,
+          "market_time": "2026-05-02T04:00:05+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 NVDA、MSFT 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/"
+    },
+    {
+      "id": "378d13359a6be2",
+      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 71,
+      "publish_time": "2026-05-01T04:00:59+08:00",
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "MSFT": {
+          "symbol": "MSFT",
+          "price": 414.44,
+          "currency": "USD",
+          "change": -10.18,
+          "change_percent": -2.4,
+          "market_time": "2026-05-02T04:00:05+08:00",
+          "source": "Yahoo Finance"
+        },
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 385.69,
+          "currency": "USD",
+          "change": 41.29,
+          "change_percent": 11.99,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        },
+        "AMZN": {
+          "symbol": "AMZN",
+          "price": 268.26,
+          "currency": "USD",
+          "change": 4.27,
+          "change_percent": 1.62,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 MSFT、GOOGL、AMZN 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html"
+    },
+    {
+      "id": "b3fe2ebbe82723",
+      "title": "谷歌、微软等四巨头今年将豪掷超 7000 亿美元，分析师直言 AI 熊市论就是“垃圾”",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 67,
+      "publish_time": "2026-05-02T20:05:04+08:00",
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "MSFT": {
+          "symbol": "MSFT",
+          "price": 414.44,
+          "currency": "USD",
+          "change": -10.18,
+          "change_percent": -2.4,
+          "market_time": "2026-05-02T04:00:05+08:00",
+          "source": "Yahoo Finance"
+        },
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 385.69,
+          "currency": "USD",
+          "change": 41.29,
+          "change_percent": 11.99,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        },
+        "AMZN": {
+          "symbol": "AMZN",
+          "price": 268.26,
+          "currency": "USD",
+          "change": 4.27,
+          "change_percent": 1.62,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        },
+        "META": {
+          "symbol": "META",
+          "price": 608.75,
+          "currency": "USD",
+          "change": -66.28,
+          "change_percent": -9.82,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 MSFT、GOOGL、AMZN 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.ithome.com/0/946/062.htm"
+    },
+    {
+      "id": "abfd9516b22b27",
+      "title": "A major shift could soon happen in the Mag 7",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 67,
+      "publish_time": "2026-05-01T23:35:47+08:00",
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "NVDA": {
+          "symbol": "NVDA",
+          "price": 198.45,
+          "currency": "USD",
+          "change": -9.82,
+          "change_percent": -4.72,
+          "market_time": "2026-05-02T04:00:00+08:00",
+          "source": "Yahoo Finance"
+        },
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 385.69,
+          "currency": "USD",
+          "change": 41.29,
+          "change_percent": 11.99,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 NVDA、GOOGL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/05/01/a-major-mag-7-shift-with-alphabets-market-cap-set-to-pass-nvidias.html"
+    },
+    {
+      "id": "cd30f04d14d14e",
+      "title": "Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 67,
+      "publish_time": "2026-05-01T04:11:11+08:00",
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 385.69,
+          "currency": "USD",
+          "change": 41.29,
+          "change_percent": 11.99,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        },
+        "META": {
+          "symbol": "META",
+          "price": 608.75,
+          "currency": "USD",
+          "change": -66.28,
+          "change_percent": -9.82,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 GOOGL、META 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/04/30/alphabet-meta-stock-ai-capex-spend.html"
+    },
+    {
+      "id": "13623e73aaaae4",
+      "title": "《深海迷航 2》游戏 PC 版配置要求公布：最低 i5-8400/GTX 1660、推荐 i7-13700/RTX 3070",
+      "category": "semiconductor",
+      "category_name": "半导体",
+      "score": 63,
+      "publish_time": "2026-05-02T15:38:32+08:00",
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "NVDA": {
+          "symbol": "NVDA",
+          "price": 198.45,
+          "currency": "USD",
+          "change": -9.82,
+          "change_percent": -4.72,
+          "market_time": "2026-05-02T04:00:00+08:00",
+          "source": "Yahoo Finance"
+        },
+        "AMD": {
+          "symbol": "AMD",
+          "price": 360.54,
+          "currency": "USD",
+          "change": 12.73,
+          "change_percent": 3.66,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        },
+        "INTC": {
+          "symbol": "INTC",
+          "price": 99.62,
+          "currency": "USD",
+          "change": 17.08,
+          "change_percent": 20.69,
+          "market_time": "2026-05-02T04:00:04+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "semiconductor板块出现新催化，相关标的 NVDA、AMD、INTC 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.ithome.com/0/946/019.htm"
+    },
+    {
+      "id": "4f6e7b2863e1f5",
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "category": "energy",
+      "category_name": "新能源",
+      "score": 63,
+      "publish_time": "2026-05-02T07:06:50+08:00",
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AAPL": {
+          "symbol": "AAPL",
+          "price": 280.14,
+          "currency": "USD",
+          "change": 9.08,
+          "change_percent": 3.35,
+          "market_time": "2026-05-02T04:00:02+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "energy板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/"
+    },
+    {
+      "id": "0a0ba5f4b160fb",
+      "title": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
+      "category": "world",
+      "category_name": "国际局势",
+      "score": 63,
+      "publish_time": "2026-05-01T23:03:59+08:00",
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "TSLA": {
+          "symbol": "TSLA",
+          "price": 390.82,
+          "currency": "USD",
+          "change": 14.52,
+          "change_percent": 3.86,
+          "market_time": "2026-05-02T04:00:00+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "world板块出现新催化，相关标的 TSLA 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/05/01/elon-musk-billionaire-bill-elections-progressive-challengers-delaware.html"
+    },
+    {
+      "id": "7e089b21306477",
+      "title": "Amazon Leo passes 300 satellites with Atlas and Ariane launches",
+      "category": "space",
+      "category_name": "商业航天",
+      "score": 63,
+      "publish_time": "2026-05-01T20:01:08+08:00",
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AMZN": {
+          "symbol": "AMZN",
+          "price": 268.26,
+          "currency": "USD",
+          "change": 4.27,
+          "change_percent": 1.62,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "space板块出现新催化，相关标的 AMZN 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/"
+    },
+    {
+      "id": "693f98f4f422bd",
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "category": "consumer",
+      "category_name": "消费电子",
+      "score": 63,
+      "publish_time": "2026-05-01T07:59:15+08:00",
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AAPL": {
+          "symbol": "AAPL",
+          "price": 280.14,
+          "currency": "USD",
+          "change": 9.08,
+          "change_percent": 3.35,
+          "market_time": "2026-05-02T04:00:02+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "consumer板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/"
+    },
+    {
+      "id": "5997583097c39f",
+      "title": "Lilly posts another ‘blowout quarter’ as focus turns to Foundayo launch",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 61,
+      "publish_time": "2026-04-30T23:26:00+08:00",
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "LLY": {
+          "symbol": "LLY",
+          "price": 963.33,
+          "currency": "USD",
+          "change": 79.37,
+          "change_percent": 8.98,
+          "market_time": "2026-05-02T04:00:02+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 LLY 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.biopharmadive.com/news/lilly-q1-2026-earnings-foundayo-zepbound-obesity/818912/"
+    },
+    {
+      "id": "f0714b081908ea",
+      "title": "Who’s News: Strategic Leadership Appointments at PsiQuantum, Q-CAB, Q.ANT, enQase, IQMP, and IonQ",
+      "category": "semiconductor",
+      "category_name": "半导体",
+      "score": 61,
+      "publish_time": "2026-04-30T09:06:39+08:00",
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "INTC": {
+          "symbol": "INTC",
+          "price": 99.62,
+          "currency": "USD",
+          "change": 17.08,
+          "change_percent": 20.69,
+          "market_time": "2026-05-02T04:00:04+08:00",
+          "source": "Yahoo Finance"
+        },
+        "IONQ": {
+          "symbol": "IONQ",
+          "price": 46.2,
+          "currency": "USD",
+          "change": 3.51,
+          "change_percent": 8.22,
+          "market_time": "2026-05-02T04:00:03+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "semiconductor板块出现新催化，相关标的 INTC、IONQ 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-q-cab-q-ant-enqase-iqmp-and-ionq/"
+    },
+    {
+      "id": "5f3151e1f3d3e4",
+      "title": "英伟达 DLSS 4.5 盲测“碾压”AMD FSR 4.1，七款 3A 大作赢下六款",
+      "category": "semiconductor",
+      "category_name": "半导体",
+      "score": 59,
+      "publish_time": "2026-05-02T20:27:48+08:00",
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "NVDA": {
+          "symbol": "NVDA",
+          "price": 198.45,
+          "currency": "USD",
+          "change": -9.82,
+          "change_percent": -4.72,
+          "market_time": "2026-05-02T04:00:00+08:00",
+          "source": "Yahoo Finance"
+        },
+        "AMD": {
+          "symbol": "AMD",
+          "price": 360.54,
+          "currency": "USD",
+          "change": 12.73,
+          "change_percent": 3.66,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "semiconductor板块出现新催化，相关标的 NVDA、AMD 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.ithome.com/0/946/064.htm"
+    },
+    {
+      "id": "546c47662bb9a3",
+      "title": "微软承认 Win11 小组件混乱且易令人分心，宣布进行“春季清理”",
+      "category": "world",
+      "category_name": "国际局势",
+      "score": 59,
+      "publish_time": "2026-05-02T17:01:44+08:00",
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "MSFT": {
+          "symbol": "MSFT",
+          "price": 414.44,
+          "currency": "USD",
+          "change": -10.18,
+          "change_percent": -2.4,
+          "market_time": "2026-05-02T04:00:05+08:00",
+          "source": "Yahoo Finance"
+        },
+        "AAPL": {
+          "symbol": "AAPL",
+          "price": 280.14,
+          "currency": "USD",
+          "change": 9.08,
+          "change_percent": 3.35,
+          "market_time": "2026-05-02T04:00:02+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "world板块出现新催化，相关标的 MSFT、AAPL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.ithome.com/0/946/030.htm"
+    },
+    {
+      "id": "285d2714b604b3",
+      "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
+      "category": "energy",
+      "category_name": "新能源",
+      "score": 59,
+      "publish_time": "2026-05-02T11:06:10+08:00",
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "TSLA": {
+          "symbol": "TSLA",
+          "price": 390.82,
+          "currency": "USD",
+          "change": 14.52,
+          "change_percent": 3.86,
+          "market_time": "2026-05-02T04:00:00+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "energy板块出现新催化，相关标的 TSLA 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/"
+    },
+    {
+      "id": "dd9cbea755815f",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "category": "robotics",
+      "category_name": "机器人",
+      "score": 59,
+      "publish_time": "2026-05-02T06:13:27+08:00",
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "META": {
+          "symbol": "META",
+          "price": 608.75,
+          "currency": "USD",
+          "change": -66.28,
+          "change_percent": -9.82,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "robotics板块出现新催化，相关标的 META 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+    },
+    {
+      "id": "b595e31fbfb34a",
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+      "category": "gaming",
+      "category_name": "游戏",
+      "score": 59,
+      "publish_time": "2026-05-02T06:00:59+08:00",
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "MSFT": {
+          "symbol": "MSFT",
+          "price": 414.44,
+          "currency": "USD",
+          "change": -10.18,
+          "change_percent": -2.4,
+          "market_time": "2026-05-02T04:00:05+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "gaming板块出现新催化，相关标的 MSFT 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/"
+    },
+    {
+      "id": "c36587de8c652d",
+      "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+      "category": "consumer",
+      "category_name": "消费电子",
+      "score": 59,
+      "publish_time": "2026-05-02T04:11:58+08:00",
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AAPL": {
+          "symbol": "AAPL",
+          "price": 280.14,
+          "currency": "USD",
+          "change": 9.08,
+          "change_percent": 3.35,
+          "market_time": "2026-05-02T04:00:02+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "consumer板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html"
+    },
+    {
+      "id": "911416400c5cab",
+      "title": "Amazon stuck with months of repairs after drone strikes on data centers",
+      "category": "world",
+      "category_name": "国际局势",
+      "score": 59,
+      "publish_time": "2026-05-02T01:09:59+08:00",
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AMZN": {
+          "symbol": "AMZN",
+          "price": 268.26,
+          "currency": "USD",
+          "change": 4.27,
+          "change_percent": 1.62,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "world板块出现新催化，相关标的 AMZN 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/"
+    },
+    {
+      "id": "9993354a541ac6",
+      "title": "Alphabet is winning the AI revolution. Here's how Mike Khouw is trading it",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 59,
+      "publish_time": "2026-05-01T23:33:37+08:00",
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 385.69,
+          "currency": "USD",
+          "change": 41.29,
+          "change_percent": 11.99,
+          "market_time": "2026-05-02T04:00:01+08:00",
+          "source": "Yahoo Finance"
+        }
+      },
+      "logic": "ai板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/05/01/alphabet-is-winning-the-ai-revolution-heres-how-mike-khouw-is-trading-it.html"
+    }
+  ],
+  "disclaimer": "仅供信息整理和研究，不构成投资建议。"
+}
