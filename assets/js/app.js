@@ -1,12 +1,12 @@
 /**
- * AI日报 - 核心应用逻辑
+ * 前沿科技日报 - 核心应用逻辑
  * 架构师级优化：模块化、性能优化、缓存策略
  * @version 2.0
  */
 
 // ==================== 配置常量 ====================
 const CONFIG = {
-    VERSION: '3.1.0',
+    VERSION: '3.2.0',
     API_BASE: 'data/news',
     ITEMS_PER_PAGE: 10,
     CACHE_TTL: 5 * 60 * 1000, // 5分钟缓存
@@ -26,6 +26,7 @@ const State = {
     filtered: [],
     opportunities: [],
     stockQuotes: {},
+    stockRefreshTimer: null,
     currentCategory: 'all',
     displayedCount: CONFIG.ITEMS_PER_PAGE,
     isLoading: false,
@@ -44,6 +45,14 @@ const State = {
         'gaming': { name: '游戏', icon: 'gamepad', color: 'teal' }
     }
 };
+
+function filterDefinitions() {
+    return {
+        all: { name: '全部资讯', icon: 'newspaper', color: 'primary', type: 'news' },
+        opportunities: { name: '推荐机会', icon: 'chart-line', color: 'success', type: 'opportunities' },
+        ...State.categories
+    };
+}
 
 // ==================== 工具函数 ====================
 const Utils = {
@@ -190,9 +199,9 @@ const DataService = {
     /**
      * 加载最新股票行情
      */
-    async loadStockQuotes() {
+    async loadStockQuotes(force = false) {
         const cached = Utils.cache.get('stock_quotes');
-        if (cached) return cached;
+        if (cached && !force) return cached;
 
         try {
             const response = await fetch(dataUrl('data/stocks/latest.json'), { cache: 'no-store' });
@@ -200,6 +209,7 @@ const DataService = {
             const data = await response.json();
             const quotes = data.quotes || {};
             Utils.cache.set('stock_quotes', quotes);
+            State.stockQuotes = quotes;
             return quotes;
         } catch (e) {
             console.warn('股票行情加载失败:', e);
@@ -227,7 +237,10 @@ const Renderer = {
      */
     renderCategories() {
         const grid = document.getElementById('category-grid');
+        const nav = document.getElementById('top-category-nav');
         const colors = {
+            primary: 'from-primary/20 to-secondary/10 text-primary',
+            success: 'from-success/20 to-emerald-600/10 text-success',
             blue: 'from-blue-500/20 to-blue-600/10 text-blue-400',
             purple: 'from-purple-500/20 to-purple-600/10 text-purple-400',
             green: 'from-green-500/20 to-green-600/10 text-green-400',
@@ -240,8 +253,19 @@ const Renderer = {
             indigo: 'from-indigo-500/20 to-indigo-600/10 text-indigo-400',
             teal: 'from-teal-500/20 to-teal-600/10 text-teal-400'
         };
+        const filters = filterDefinitions();
+        const activeClass = 'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition whitespace-nowrap';
+        const idleClass = 'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition whitespace-nowrap';
 
-        grid.innerHTML = Object.entries(State.categories).map(([key, cat]) => `
+        if (nav) {
+            nav.innerHTML = Object.entries(filters).map(([key, item]) => `
+                <button onclick="App.filterCategory('${key}')" class="${State.currentCategory === key ? activeClass : idleClass}" data-cat="${key}">
+                    ${item.name}
+                </button>
+            `).join('');
+        }
+
+        grid.innerHTML = Object.entries(filters).map(([key, cat]) => `
             <button onclick="App.filterCategory('${key}')" 
                     class="category-btn glass rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group"
                     data-cat="${key}">
@@ -250,9 +274,15 @@ const Renderer = {
                     <i class="fas fa-${cat.icon}"></i>
                 </div>
                 <p class="text-sm font-medium">${cat.name}</p>
-                <p class="text-xs text-gray-500 mt-1">${State.news.filter(item => item.category === key).length}条</p>
+                <p class="text-xs text-gray-500 mt-1">${Renderer.countForFilter(key)}条</p>
             </button>
         `).join('');
+    },
+
+    countForFilter(key) {
+        if (key === 'all') return State.news.length;
+        if (key === 'opportunities') return State.opportunities.length;
+        return State.news.filter(item => item.category === key).length;
     },
 
     /**
@@ -302,39 +332,52 @@ const Renderer = {
             return;
         }
 
-        container.innerHTML = items.slice(0, 6).map(item => {
-            const cat = State.categories[item.category] || { name: item.category, color: 'gray' };
-            const stocks = (item.stocks || []).slice(0, 4).map(stock => {
-                const quote = item.quotes?.[stock.symbol];
-                const pct = quote?.change_percent;
-                const pctText = typeof pct === 'number' ? `${pct > 0 ? '+' : ''}${pct}%` : '--';
-                const pctClass = pct > 0 ? 'text-success' : pct < 0 ? 'text-danger' : 'text-gray-400';
-                return `
-                    <span class="inline-flex items-center gap-1 px-2 py-1 rounded bg-white/5 text-xs">
-                        <b class="font-mono">${stock.symbol}</b>
-                        <span class="text-gray-300">${stock.name || ''}</span>
-                        <span class="${pctClass}">${pctText}</span>
-                    </span>
-                `;
-            }).join('');
+        container.innerHTML = items.slice(0, 6).map(item => this.createOpportunityCard(item)).join('');
+    },
 
+    renderOpportunityList(items) {
+        const container = document.getElementById('news-container');
+        const list = items || [];
+        document.getElementById('news-count').textContent = `${list.length}条`;
+        if (list.length === 0) {
+            container.innerHTML = '<div class="text-center py-20 text-gray-400">暂无推荐机会</div>';
+            return;
+        }
+        container.innerHTML = `<div class="grid md:grid-cols-2 xl:grid-cols-3 gap-4">${list.map(item => this.createOpportunityCard(item)).join('')}</div>`;
+    },
+
+    createOpportunityCard(item) {
+        const cat = State.categories[item.category] || { name: item.category, color: 'gray' };
+        const stocks = (item.stocks || []).slice(0, 4).map(stock => {
+            const quote = State.stockQuotes?.[stock.symbol] || item.quotes?.[stock.symbol];
+            const pct = quote?.change_percent;
+            const pctText = typeof pct === 'number' ? `${pct > 0 ? '+' : ''}${pct}%` : '--';
+            const pctClass = pct > 0 ? 'text-success' : pct < 0 ? 'text-danger' : 'text-gray-400';
             return `
-                <article class="news-card p-5 border border-border">
-                    <div class="flex items-center justify-between gap-3 mb-3">
-                        <span class="px-2 py-1 bg-${cat.color}-500/20 text-${cat.color}-400 text-xs font-bold rounded">${cat.name}</span>
-                        <span class="text-sm font-bold text-accent">机会分 ${item.score}</span>
-                    </div>
-                    <h3 class="font-semibold leading-snug mb-3 line-clamp-2">${item.title}</h3>
-                    <p class="text-sm text-gray-400 mb-3 line-clamp-2">${item.logic}</p>
-                    <div class="flex flex-wrap gap-2 mb-3">${stocks}</div>
-                    <div class="flex items-center justify-between text-xs text-gray-500">
-                        <span>${Utils.formatTime(item.publish_time)}</span>
-                        <a href="${item.source_url}" target="_blank" rel="noopener" class="text-primary hover:text-secondary">原文</a>
-                    </div>
-                    <p class="mt-3 text-xs text-warning/90">${item.risk}</p>
-                </article>
+                <button onclick="event.stopPropagation(); App.showStockDetail('${stock.symbol}')" class="stock-card inline-flex items-center gap-1 px-2 py-1 rounded text-xs">
+                    <b class="font-mono">${stock.symbol}</b>
+                    <span class="text-gray-300">${stock.name || ''}</span>
+                    <span class="${pctClass}">${pctText}</span>
+                </button>
             `;
         }).join('');
+
+        return `
+            <article onclick="App.showNewsDetail('${item.id}')" class="news-card p-5 border border-border cursor-pointer">
+                <div class="flex items-center justify-between gap-3 mb-3">
+                    <span class="px-2 py-1 bg-${cat.color}-500/20 text-${cat.color}-400 text-xs font-bold rounded">${cat.name}</span>
+                    <span class="text-sm font-bold text-accent">机会分 ${item.score}</span>
+                </div>
+                <h3 class="font-semibold leading-snug mb-3 line-clamp-2 hover:text-primary transition">${item.title}</h3>
+                <p class="text-sm text-gray-400 mb-3 line-clamp-2">${item.logic}</p>
+                <div class="flex flex-wrap gap-2 mb-3">${stocks}</div>
+                <div class="flex items-center justify-between text-xs text-gray-500">
+                    <span>${Utils.formatTime(item.publish_time)}</span>
+                    <a onclick="event.stopPropagation()" href="${item.source_url}" target="_blank" rel="noopener" class="text-primary hover:text-secondary">原文</a>
+                </div>
+                <p class="mt-3 text-xs text-warning/90">${item.risk}</p>
+            </article>
+        `;
     },
 
     /**
@@ -429,25 +472,6 @@ const Renderer = {
         return `<span class="${cls}">${sign}${quote.change_percent}%</span>`;
     },
 
-    /**
-     * 渲染突发新闻
-     */
-    renderBreakingNews() {
-        const breaking = State.news.filter(n => n.metrics?.credibility_score >= 95).slice(0, 5);
-        const container = document.getElementById('breaking-news');
-        
-        if (!container || breaking.length === 0) return;
-        
-        const items = [...breaking, ...breaking]; // 复制一份用于无缝滚动
-        container.innerHTML = items.map(news => `
-            <span class="text-gray-300 whitespace-nowrap flex items-center gap-2">
-                ${news.metrics?.credibility_score >= 97 ? 
-                    '<i class="fas fa-bolt text-red-400"></i>' : ''}
-                ${news.title.substring(0, 40)}${news.title.length > 40 ? '...' : ''}
-            </span>
-            <span class="text-gray-600">|</span>
-        `).join('');
-    }
 };
 
 // ==================== 应用主逻辑 ====================
@@ -456,7 +480,7 @@ const App = {
      * 初始化应用
      */
     async init() {
-        console.log(`AI日报 v${CONFIG.VERSION} 启动中...`);
+        console.log(`前沿科技日报 v${CONFIG.VERSION} 启动中...`);
         
         // 更新日期
         this.updateDate();
@@ -494,11 +518,11 @@ const App = {
             // 渲染
             Renderer.renderCategories();
             Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
-            Renderer.renderBreakingNews();
             Renderer.renderOpportunities(State.opportunities);
             
             // 更新统计
             this.updateStats();
+            this.handleRoute();
             
         } catch (e) {
             console.error('加载失败:', e);
@@ -511,6 +535,13 @@ const App = {
      * 筛选分类
      */
     filterCategory(category) {
+        if (State.stockRefreshTimer) {
+            clearInterval(State.stockRefreshTimer);
+            State.stockRefreshTimer = null;
+        }
+        history.pushState('', document.title, window.location.pathname + window.location.search);
+        document.getElementById('detail-view')?.classList.add('hidden');
+        document.getElementById('list-view')?.classList.remove('hidden');
         State.currentCategory = category;
         State.displayedCount = CONFIG.ITEMS_PER_PAGE;
         
@@ -519,24 +550,36 @@ const App = {
             const isActive = btn.dataset.cat === category;
             if (btn.classList.contains('nav-btn')) {
                 btn.className = isActive ? 
-                    'nav-btn px-4 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition' :
-                    'nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition';
+                    'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition whitespace-nowrap' :
+                    'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition whitespace-nowrap';
+            }
+            if (btn.classList.contains('category-btn')) {
+                btn.classList.toggle('border-primary', isActive);
+                btn.classList.toggle('bg-primary/10', isActive);
             }
         });
         
         // 筛选数据
         if (category === 'all') {
             State.filtered = [...State.news];
+        } else if (category === 'opportunities') {
+            State.filtered = [...State.opportunities];
         } else {
             State.filtered = State.news.filter(n => n.category === category);
         }
         
         // 更新标题
-        const catName = category === 'all' ? '全部资讯' : State.categories[category]?.name || category;
+        const catName = filterDefinitions()[category]?.name || category;
         document.getElementById('section-title').textContent = catName;
         
         // 重新渲染
-        Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
+        if (category === 'opportunities') {
+            Renderer.renderOpportunityList(State.filtered);
+            document.getElementById('load-more-btn').style.display = 'none';
+        } else {
+            Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
+            document.getElementById('load-more-btn').style.display = State.displayedCount >= State.filtered.length ? 'none' : 'inline-flex';
+        }
         
         // 滚动到顶部
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -549,6 +592,7 @@ const App = {
         if (State.isLoading || State.displayedCount >= State.filtered.length) return;
         
         State.displayedCount += CONFIG.ITEMS_PER_PAGE;
+        if (State.currentCategory === 'opportunities') return;
         Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
         
         // 更新按钮状态
@@ -586,7 +630,13 @@ const App = {
     /**
      * 显示股票详情
      */
-    showStockDetail(symbol) {
+    async showStockDetail(symbol) {
+        window.location.hash = `stock/${symbol}`;
+        await this.renderStockDetail(symbol);
+    },
+
+    async renderStockDetail(symbol) {
+        await DataService.loadStockQuotes(true);
         const quote = State.stockQuotes?.[symbol];
         const related = State.news.find(n => n.stocks?.some(s => s.symbol === symbol))?.stocks?.find(s => s.symbol === symbol);
         const name = related?.name || symbol;
@@ -595,10 +645,13 @@ const App = {
         const isPositive = (changePercent || 0) >= 0;
         const changeText = changePercent === null ? '--' : `${isPositive ? '+' : ''}${changePercent}%`;
         const relatedCount = State.news.filter(n => n.stocks?.some(s => s.symbol === symbol)).length;
-        
-        const content = document.getElementById('stock-detail-content');
+        const relatedNews = State.news.filter(n => n.stocks?.some(s => s.symbol === symbol)).slice(0, 8);
+        const updated = quote?.market_time ? Utils.formatTime(quote.market_time) : '暂无';
+
+        this.showDetailView();
+        const content = document.getElementById('detail-content');
         content.innerHTML = `
-            <div class="p-6">
+            <div class="glass rounded-2xl p-6 md:p-8">
                 <div class="flex items-start justify-between mb-6">
                     <div>
                         <div class="flex items-center gap-3 mb-2">
@@ -612,17 +665,18 @@ const App = {
                                 ${changeText}
                             </span>
                         </div>
-                        <div class="text-xs text-gray-500 mt-2">来源：${quote?.source || '暂无行情'} ${quote?.market_time ? '· ' + Utils.formatTime(quote.market_time) : ''}</div>
+                        <div class="text-xs text-gray-500 mt-2">行情来源：${quote?.source || '暂无行情'} · 行情时间：${updated}</div>
                     </div>
-                    <button onclick="App.closeModal('stock-modal')" class="w-10 h-10 flex items-center justify-center rounded-lg hover:bg-white/10 transition">
-                        <i class="fas fa-times"></i>
+                    <button onclick="App.renderStockDetail('${symbol}')" class="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-primary/15 text-primary hover:bg-primary/25 transition">
+                        <i class="fas fa-sync-alt"></i>
+                        刷新行情
                     </button>
                 </div>
                 
-                <div class="grid grid-cols-3 gap-4 mb-6">
+                <div class="grid md:grid-cols-3 gap-4 mb-8">
                     <div class="glass rounded-xl p-4">
-                        <div class="text-gray-400 text-sm mb-1">市值</div>
-                        <div class="text-xl font-bold">--</div>
+                        <div class="text-gray-400 text-sm mb-1">行情刷新</div>
+                        <div class="text-xl font-bold">60秒</div>
                     </div>
                     <div class="glass rounded-xl p-4">
                         <div class="text-gray-400 text-sm mb-1">涨跌额</div>
@@ -635,6 +689,18 @@ const App = {
                         </div>
                     </div>
                 </div>
+
+                <div class="mb-8">
+                    <h3 class="text-lg font-semibold mb-3">关联新闻</h3>
+                    <div class="space-y-3">
+                        ${relatedNews.map(news => `
+                            <button onclick="App.showNewsDetail('${news.id}')" class="w-full text-left p-4 rounded-xl bg-white/5 hover:bg-white/10 transition">
+                                <div class="text-sm text-gray-400 mb-1">${State.categories[news.category]?.name || news.category} · ${Utils.formatTime(news.publish_time)}</div>
+                                <div class="font-medium">${news.title}</div>
+                            </button>
+                        `).join('') || '<div class="text-gray-500">暂无关联新闻</div>'}
+                    </div>
+                </div>
                 
                 <div class="flex gap-3">
                     <a href="https://finance.yahoo.com/quote/${symbol}" target="_blank" 
@@ -644,8 +710,9 @@ const App = {
                 </div>
             </div>
         `;
-        
-        document.getElementById('stock-modal').classList.remove('hidden');
+
+        if (State.stockRefreshTimer) clearInterval(State.stockRefreshTimer);
+        State.stockRefreshTimer = setInterval(() => this.renderStockDetail(symbol), 60000);
     },
 
     /**
@@ -659,9 +726,14 @@ const App = {
                 this.toggleSearch();
             }
             if (e.key === 'Escape') {
+                if (!document.getElementById('detail-view')?.classList.contains('hidden')) {
+                    this.backToList();
+                    return;
+                }
                 document.querySelectorAll('[id$="-modal"]').forEach(m => m.classList.add('hidden'));
             }
         });
+        window.addEventListener('hashchange', () => this.handleRoute());
     },
 
     /**
@@ -715,6 +787,7 @@ const App = {
     updateStats() {
         document.getElementById('stat-total').textContent = State.news.length.toLocaleString();
         document.getElementById('stat-opportunities').textContent = State.opportunities.length.toLocaleString();
+        document.getElementById('stat-stocks').textContent = Object.keys(State.stockQuotes || {}).length.toLocaleString();
         
         // 计算24小时内新增
         const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000);
@@ -738,15 +811,93 @@ const App = {
 
     selectSearchResult(id) {
         this.toggleSearch();
-        const news = State.news.find(n => n.id === id);
-        if (news) {
-            this.filterCategory(news.category);
-        }
+        this.showNewsDetail(id);
     },
 
     showNewsDetail(id) {
-        // TODO: 显示新闻详情弹窗
-        console.log('查看新闻:', id);
+        window.location.hash = `news/${id}`;
+        this.renderNewsDetail(id);
+    },
+
+    renderNewsDetail(id) {
+        if (State.stockRefreshTimer) {
+            clearInterval(State.stockRefreshTimer);
+            State.stockRefreshTimer = null;
+        }
+        const news = State.news.find(item => item.id === id);
+        if (!news) return;
+        const cat = State.categories[news.category] || { name: news.category, color: 'gray' };
+        const opportunity = State.opportunities.find(item => item.id === id);
+        const stocks = (news.stocks || []).map(stock => `
+            <button onclick="App.showStockDetail('${stock.symbol}')" class="stock-card w-full md:w-auto inline-flex items-center justify-between gap-3 px-4 py-3 rounded-xl text-sm">
+                <span><b class="font-mono">${stock.symbol}</b> <span class="text-gray-300">${stock.name}</span></span>
+                ${Renderer.renderQuoteBadge(stock.symbol)}
+            </button>
+        `).join('');
+
+        this.showDetailView();
+        document.getElementById('detail-content').innerHTML = `
+            <article class="glass rounded-2xl p-6 md:p-8">
+                <div class="flex flex-wrap items-center gap-2 mb-4">
+                    <span class="px-2 py-1 bg-${cat.color}-500/20 text-${cat.color}-400 text-xs font-bold rounded">${cat.name}</span>
+                    ${(news.tags || []).map(tag => `<span class="px-2 py-1 bg-white/5 text-gray-400 text-xs rounded">${tag}</span>`).join('')}
+                    ${opportunity ? `<span class="px-2 py-1 bg-accent/10 text-accent text-xs rounded">机会分 ${opportunity.score}</span>` : ''}
+                </div>
+                <h2 class="text-3xl font-bold leading-tight mb-4">${news.title}</h2>
+                <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500 mb-6">
+                    <span><i class="far fa-clock mr-1"></i>${Utils.formatTime(news.publish_time)}</span>
+                    <span>可信度 ${news.metrics?.credibility_score || 90}%</span>
+                </div>
+                <p class="text-lg text-gray-300 leading-relaxed mb-6">${news.summary}</p>
+                ${opportunity ? `
+                    <div class="rounded-xl border border-accent/30 bg-accent/10 p-5 mb-6">
+                        <h3 class="font-semibold text-accent mb-2">推荐逻辑</h3>
+                        <p class="text-sm text-gray-300 mb-2">${opportunity.logic}</p>
+                        <p class="text-xs text-warning/90">${opportunity.risk}</p>
+                    </div>
+                ` : ''}
+                <div class="mb-6">
+                    <h3 class="text-lg font-semibold mb-3">关联股票</h3>
+                    <div class="flex flex-wrap gap-3">${stocks || '<span class="text-gray-500">暂无关联股票</span>'}</div>
+                </div>
+                <div class="mb-6">
+                    <h3 class="text-lg font-semibold mb-3">来源</h3>
+                    <div class="flex flex-wrap gap-2">
+                        ${(news.sources || []).map(src => `
+                            <a href="${src.url}" target="_blank" rel="noopener" class="source-tag inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm">
+                                <i class="fas fa-check-circle"></i>
+                                ${src.name}
+                                <span class="opacity-70">${src.credibility}%</span>
+                            </a>
+                        `).join('')}
+                    </div>
+                </div>
+            </article>
+        `;
+    },
+
+    showDetailView() {
+        document.getElementById('list-view')?.classList.add('hidden');
+        document.getElementById('detail-view')?.classList.remove('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    },
+
+    backToList() {
+        if (State.stockRefreshTimer) {
+            clearInterval(State.stockRefreshTimer);
+            State.stockRefreshTimer = null;
+        }
+        history.pushState('', document.title, window.location.pathname + window.location.search);
+        document.getElementById('detail-view')?.classList.add('hidden');
+        document.getElementById('list-view')?.classList.remove('hidden');
+    },
+
+    handleRoute() {
+        const hash = window.location.hash.replace(/^#\/?/, '');
+        if (!hash) return;
+        const [type, id] = hash.split('/');
+        if (type === 'news' && id) this.renderNewsDetail(id);
+        if (type === 'stock' && id) this.renderStockDetail(id);
     },
 
     share(id) {
@@ -812,7 +963,6 @@ window.Utils = Utils;
 window.State = State;
 window.filterCategory = (category) => App.filterCategory(category);
 window.toggleSearch = () => App.toggleSearch();
-window.closeStockModal = () => App.closeModal('stock-modal');
 window.searchNews = (query) => App.searchNews(query);
 window.sortNews = (sortBy) => App.sortNews(sortBy);
 window.refreshNews = () => App.refreshNews();

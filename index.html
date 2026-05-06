@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AI日报 - 全球科技前沿资讯，中文摘要，股票关联分析，持续更新">
+    <meta name="description" content="前沿科技日报 - 全球科技前沿资讯，中文摘要，股票关联分析，持续更新">
     <meta name="keywords" content="AI,半导体,新能源,游戏,科技资讯,股票">
     <meta name="theme-color" content="#0f0f1a">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="AI日报 - 全球科技前沿资讯">
+    <meta property="og:title" content="前沿科技日报 - 全球科技前沿资讯">
     <meta property="og:description" content="中文摘要，股票关联分析，持续更新">
     <meta property="og:type" content="website">
     
-    <title>AI日报 - 全球科技前沿资讯 | 投资机会追踪</title>
+    <title>前沿科技日报 - 全球科技前沿资讯 | 投资机会追踪</title>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -250,19 +250,14 @@
                         <span class="absolute -top-1 -right-1 w-3 h-3 bg-success rounded-full pulse-glow"></span>
                     </div>
                     <div>
-                        <h1 class="text-xl font-bold gradient-text">AI日报</h1>
+                        <h1 class="text-xl font-bold gradient-text">前沿科技日报</h1>
                         <p class="text-xs text-gray-400" id="current-date"></p>
                     </div>
                 </div>
                 
-                <!-- Navigation -->
-                <nav class="hidden lg:flex items-center gap-1">
-                    <button onclick="filterCategory('all')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition hover:bg-primary/20" data-cat="all">首页</button>
-                    <button onclick="filterCategory('world')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="world">国际</button>
-                    <button onclick="filterCategory('ai')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="ai">AI</button>
-                    <button onclick="filterCategory('semiconductor')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="semiconductor">半导体</button>
-                    <button onclick="filterCategory('energy')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="energy">新能源</button>
-                    <button onclick="filterCategory('gaming')" class="nav-btn px-4 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition" data-cat="gaming">游戏</button>
+                <!-- Unified Navigation -->
+                <nav id="top-category-nav" class="hidden lg:flex items-center gap-1 overflow-x-auto max-w-3xl">
+                    <!-- 动态生成 -->
                 </nav>
                 
                 <!-- Actions -->
@@ -304,31 +299,9 @@
         </div>
     </div>
 
-    <!-- 股票详情弹窗 -->
-    <div id="stock-modal" class="fixed inset-0 z-[70] hidden">
-        <div class="absolute inset-0 bg-black/80 backdrop-blur-sm" onclick="closeStockModal()"></div>
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-2xl px-4">
-            <div class="glass rounded-2xl overflow-hidden shadow-2xl" id="stock-detail-content"></div>
-        </div>
-    </div>
-
-    <!-- 突发新闻滚动条 -->
-    <div class="fixed top-16 left-0 right-0 z-40 bg-gradient-to-r from-red-900/90 via-orange-900/90 to-red-900/90 border-y border-red-500/30">
-        <div class="max-w-7xl mx-auto px-4 py-2.5 flex items-center gap-4 overflow-hidden">
-            <span class="bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap flex items-center gap-1">
-                <i class="fas fa-bolt"></i> 突发
-            </span>
-            <div class="flex-1 overflow-hidden">
-                <div class="ticker whitespace-nowrap flex gap-8" id="breaking-news">
-                    <!-- 动态加载 -->
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- 主内容区 -->
-    <main class="pt-32 pb-20">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <main class="pt-24 pb-20">
+        <div id="list-view" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             
             <!-- 统计数据 -->
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
@@ -344,8 +317,8 @@
                 </div>
                 <div class="glass rounded-xl p-4 border border-border">
                     <div class="text-gray-400 text-xs mb-1">关联股票</div>
-                    <div class="text-2xl font-bold text-primary">150+</div>
-                    <div class="text-gray-400 text-xs">覆盖中美科技龙头</div>
+                    <div class="text-2xl font-bold text-primary" id="stat-stocks">--</div>
+                    <div class="text-gray-400 text-xs">当前新闻关联标的</div>
                 </div>
                 <div class="glass rounded-xl p-4 border border-border">
                     <div class="text-gray-400 text-xs mb-1">可信度评分</div>
@@ -355,7 +328,7 @@
             </div>
 
             <!-- 分类快捷入口 -->
-            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-11 gap-3 mb-8" id="category-grid">
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-3 mb-8" id="category-grid">
                 <!-- 动态生成 -->
             </div>
 
@@ -363,7 +336,7 @@
             <section class="mb-8">
                 <div class="flex items-center justify-between mb-4">
                     <div>
-                        <h2 class="text-2xl font-bold">今日投资机会</h2>
+                        <h2 class="text-2xl font-bold">推荐机会</h2>
                         <p class="text-sm text-gray-400 mt-1">按新闻催化、股票关联和风险信号自动排序，仅供研究参考</p>
                     </div>
                     <a href="data/opportunities.json" class="hidden md:inline-flex text-sm text-primary hover:text-secondary transition" target="_blank" rel="noopener">
@@ -409,6 +382,14 @@
                 </button>
             </div>
         </div>
+
+        <section id="detail-view" class="hidden max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <button onclick="App.backToList()" class="mb-5 inline-flex items-center gap-2 text-sm text-gray-400 hover:text-primary transition">
+                <i class="fas fa-arrow-left"></i>
+                返回列表
+            </button>
+            <div id="detail-content"></div>
+        </section>
     </main>
 
     <!-- 页脚 -->
@@ -418,7 +399,7 @@
                 <div>
                     <div class="flex items-center gap-2 mb-4">
                         <i class="fas fa-robot text-2xl text-primary"></i>
-                        <span class="font-bold text-lg">AI日报</span>
+                        <span class="font-bold text-lg">前沿科技日报</span>
                     </div>
                     <p class="text-gray-400 text-sm leading-relaxed">
                         全球科技前沿资讯平台，中文摘要，股票关联分析，助您把握投资机会。
@@ -448,7 +429,7 @@
                 </div>
             </div>
             <div class="border-t border-border mt-8 pt-8 text-center">
-                <p class="text-gray-500 text-sm">© 2026 AI日报. 数据来源于华尔街日报、彭博社、路透社等权威媒体</p>
+                <p class="text-gray-500 text-sm">© 2026 前沿科技日报. 数据来源于全球公开资讯与行情接口</p>
             </div>
         </div>
     </footer>
