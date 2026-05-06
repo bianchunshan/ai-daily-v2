@@ -3,7 +3,7 @@
   "category": "quantum",
   "category_name": "量子计算",
   "total": 8,
-  "updated": "2026-05-07T00:06:32.642570+08:00",
+  "updated": "2026-05-07T00:20:26.409545+08:00",
   "news": [
     {
       "id": "ed969c27572698",
@@ -21,7 +21,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.673960+08:00",
+          "verify_time": "2026-05-07T00:19:52.139174+08:00",
           "credibility": 78
         }
       ],
@@ -71,7 +71,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/korea-expands-post-quantum-cryptography-pilot/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.675683+08:00",
+          "verify_time": "2026-05-07T00:19:52.140935+08:00",
           "credibility": 78
         }
       ],
@@ -121,7 +121,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/quantum-algorithms-may-add-shine-to-surface-coatings/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.676122+08:00",
+          "verify_time": "2026-05-07T00:19:52.141369+08:00",
           "credibility": 78
         }
       ],
@@ -171,7 +171,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/aqt-high-performing-quantum-computer-europe-32768-qv/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.677987+08:00",
+          "verify_time": "2026-05-07T00:19:52.142613+08:00",
           "credibility": 78
         }
       ],
@@ -221,7 +221,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.226831+08:00",
+          "verify_time": "2026-05-07T00:19:41.242850+08:00",
           "credibility": 82
         }
       ],
@@ -271,7 +271,7 @@
           "name": "量子计算报告",
           "url": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-simulate-12635-atom-protein-complex/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:08.520883+08:00",
+          "verify_time": "2026-05-07T00:19:52.943563+08:00",
           "credibility": 80
         }
       ],
@@ -313,7 +313,7 @@
           "name": "量子计算报告",
           "url": "https://quantumcomputingreport.com/quantum-art-develops-high-resolution-wave-propagation-algorithm/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:08.521891+08:00",
+          "verify_time": "2026-05-07T00:19:52.945183+08:00",
           "credibility": 80
         }
       ],
@@ -363,7 +363,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.229958+08:00",
+          "verify_time": "2026-05-07T00:19:41.246059+08:00",
           "credibility": 82
         }
       ],

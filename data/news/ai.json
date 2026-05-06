@@ -2,8 +2,8 @@
   "version": "3.0",
   "category": "ai",
   "category_name": "人工智能",
-  "total": 22,
-  "updated": "2026-05-07T00:06:32.640265+08:00",
+  "total": 20,
+  "updated": "2026-05-07T00:20:26.406871+08:00",
   "news": [
     {
       "id": "029246d6909bb9",
@@ -15,13 +15,13 @@
       "tags": [
         "人工智能"
       ],
-      "publish_time": "2026-05-07T00:06:04.947720+08:00",
+      "publish_time": "2026-05-07T00:19:43.951687+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.948103+08:00",
+          "verify_time": "2026-05-07T00:19:43.952108+08:00",
           "credibility": 84
         }
       ],
@@ -56,6 +56,56 @@
       "language": "zh-CN"
     },
     {
+      "id": "c795957c17f657",
+      "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
+      "title": "对于人工智能时代来说，市场研究太慢了，因此 Brox 构建了 60,000 个相同的真人“数字双胞胎”，您可以立即、重复地进行调查",
+      "summary": "在当今的世界里，一段病毒式传播的 TikTok 视频可以在短短几个小时内让一个品牌在全球流行起来，传统的市场研究周期（通常需要 12 周）正在成为一种负担。调查问题与调查答案之间的滞后",
+      "content": "在当今的世界里，一段病毒式传播的 TikTok 视频可以在短短几个小时内让一个品牌在全球流行起来，传统的市场研究周期（通常需要 12 周）正在成为一种负担。调查问题与调查答案之间的滞后",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-07T00:16:49+08:00",
+      "sources": [
+        {
+          "name": "美国科技商业媒体",
+          "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:59.142634+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 27
+      },
+      "status": "published",
+      "original_title": "Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly",
+      "original_summary": "In a world where a viral TikTok video can cause a brand to trend globally in mere hours, the traditional market research cycle — often spanning 12 weeks — is becoming a liability. The lag between a survey question and the answers from a wid",
+      "language": "zh-CN"
+    },
+    {
       "id": "7fd7635574ec52",
       "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
       "title": "您可以在搜索中尝试的 5 个园艺技巧",
@@ -71,7 +121,7 @@
           "name": "谷歌 AI 博客",
           "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:16.311256+08:00",
+          "verify_time": "2026-05-07T00:20:00.596845+08:00",
           "credibility": 88
         }
       ],
@@ -113,7 +163,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.520330+08:00",
+          "verify_time": "2026-05-07T00:19:34.357949+08:00",
           "credibility": 86
         }
       ],
@@ -163,7 +213,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.521193+08:00",
+          "verify_time": "2026-05-07T00:19:34.358715+08:00",
           "credibility": 86
         }
       ],
@@ -205,7 +255,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.918954+08:00",
+          "verify_time": "2026-05-07T00:19:32.951582+08:00",
           "credibility": 86
         }
       ],
@@ -240,6 +290,48 @@
       "language": "zh-CN"
     },
     {
+      "id": "655e9a83ee40f1",
+      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+      "title": "谷歌的 Gemma 4 AI 模型通过预测未来代币，速度提升了 3 倍",
+      "summary": "速度提高 3 倍，且质量不受影响 — 是不是好得令人难以置信？",
+      "content": "速度提高 3 倍，且质量不受影响 — 是不是好得令人难以置信？",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-06T23:44:20+08:00",
+      "sources": [
+        {
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:37.444172+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+      "original_summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
+      "language": "zh-CN"
+    },
+    {
       "id": "d3568010a24327",
       "url": "https://www.ithome.com/0/947/020.htm",
       "title": "爱彼迎首席执行官切斯基：只负责“管人”的管理者将很快会被 AI 时代淘汰",
@@ -255,7 +347,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/020.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.058664+08:00",
+          "verify_time": "2026-05-07T00:20:08.134191+08:00",
           "credibility": 78
         }
       ],
@@ -305,7 +397,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/artificial-intelligence/cocograph-ai-model-generates-molecules-that-comply-with-rules-of-chemistry/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.996288+08:00",
+          "verify_time": "2026-05-07T00:19:51.311862+08:00",
           "credibility": 82
         }
       ],
@@ -355,7 +447,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.524753+08:00",
+          "verify_time": "2026-05-07T00:19:34.360378+08:00",
           "credibility": 86
         }
       ],
@@ -397,7 +489,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.526223+08:00",
+          "verify_time": "2026-05-07T00:19:34.360645+08:00",
           "credibility": 86
         }
       ],
@@ -447,7 +539,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.526556+08:00",
+          "verify_time": "2026-05-07T00:19:34.360973+08:00",
           "credibility": 86
         }
       ],
@@ -498,7 +590,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.918628+08:00",
+          "verify_time": "2026-05-07T00:19:32.951260+08:00",
           "credibility": 86
         }
       ],
@@ -525,6 +617,56 @@
       "language": "zh-CN"
     },
     {
+      "id": "8cefd427e3059a",
+      "url": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
+      "title": "父母拒绝在出生时注射维生素 K 后，婴儿出现出血",
+      "summary": "医院报告称，越来越多的父母拒绝为新生儿注射维生素 K。",
+      "content": "医院报告称，越来越多的父母拒绝为新生儿注射维生素 K。",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-06T22:30:47+08:00",
+      "sources": [
+        {
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:37.445189+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Infants are bleeding out after parents decline vitamin K shots given at birth",
+      "original_summary": "Hospitals report more parents are declining vitamin K shots for their newborns.",
+      "language": "zh-CN"
+    },
+    {
       "id": "966233719dbe44",
       "url": "https://www.ithome.com/0/947/013.htm",
       "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
@@ -540,7 +682,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/013.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.061453+08:00",
+          "verify_time": "2026-05-07T00:20:08.140520+08:00",
           "credibility": 78
         }
       ],
@@ -582,7 +724,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.921143+08:00",
+          "verify_time": "2026-05-07T00:19:32.955287+08:00",
           "credibility": 86
         }
       ],
@@ -624,7 +766,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.528273+08:00",
+          "verify_time": "2026-05-07T00:19:34.361976+08:00",
           "credibility": 86
         }
       ],
@@ -674,7 +816,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.529384+08:00",
+          "verify_time": "2026-05-07T00:19:34.362577+08:00",
           "credibility": 86
         }
       ],
@@ -724,7 +866,7 @@
           "name": "美国技术媒体",
           "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:00.701131+08:00",
+          "verify_time": "2026-05-07T00:19:37.445610+08:00",
           "credibility": 86
         }
       ],
@@ -775,7 +917,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/007.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.064596+08:00",
+          "verify_time": "2026-05-07T00:20:08.143860+08:00",
           "credibility": 78
         }
       ],
@@ -807,240 +949,6 @@
       "status": "published",
       "original_title": "商汤科技首席科学家林达华：我们将以成本取胜，模型效率也很高",
       "original_summary": "IT之家 5 月 6 日消息，据美国 CNBC 当地时间 5 日报道，商汤科技联合创始人兼首席科学家林达华表示，公司从 DeepSeek 身上获得启发：即便在 资金和技术条件受限 的情况下，也可以推出高性能模型。 林达华表示，OpenAI 的图像生成工具 ChatGPT Images 2.0 可以根据文本提示生成“精致而漂亮”的图像，但日日新 U1 的成本 只有前者十分之一 。“很多情况下，如果一个模型可以处理大多数任务，那么就未必需要顶级模型。我们与 OpenAI 的 GP",
-      "language": "zh-CN"
-    },
-    {
-      "id": "70dedb6a71159e",
-      "url": "https://thequantuminsider.com/2026/05/06/qutwo-raises-e25-million-to-build-hybrid-quantum-classical-platform/",
-      "title": "QuTwo 筹集 2500 万欧元用于构建混合量子经典平台",
-      "summary": "据 TechCrunch 报道，欧洲人工智能初创公司 QuTwo 筹集了 2500 万欧元的天使融资，使其估值增加约 3.8 亿美元。此轮融资进一步证明投资者对这两种人工技术的持续兴趣",
-      "content": "据 TechCrunch 报道，欧洲人工智能初创公司 QuTwo 筹集了 2500 万欧元的天使融资，使其估值增加约 3.8 亿美元。此轮融资进一步证明投资者对这两种人工技术的持续兴趣",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T21:23:15+08:00",
-      "sources": [
-        {
-          "name": "量子科技资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/qutwo-raises-e25-million-to-build-hybrid-quantum-classical-platform/",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:07.674408+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
-      },
-      "status": "published",
-      "original_title": "QuTwo Raises €25 Million to Build Hybrid Quantum-Classical Platform",
-      "original_summary": "Insider Brief European AI startup QuTwo raised a €25 million angel financing round, increasing its valuation of roughly $380 million, TechCrunch is reporting. The round offers further evidence of continued investor appetite for both artific",
-      "language": "zh-CN"
-    },
-    {
-      "id": "08820a52475b4b",
-      "url": "https://www.cnbc.com/2026/05/06/5-things-to-know-before-the-market-opens.html",
-      "title": "《Morning Squawk》中的和平希望、迪士尼收益、解散精神航空公司等",
-      "summary": "以下是投资者在开始交易日时需要了解的五个关键事项。",
-      "content": "以下是投资者在开始交易日时需要了解的五个关键事项。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T21:03:33+08:00",
-      "sources": [
-        {
-          "name": "美国财经媒体·科技",
-          "url": "https://www.cnbc.com/2026/05/06/5-things-to-know-before-the-market-opens.html",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:55.917722+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Peace hopes, Disney earnings, dismantling Spirit Airlines and more in Morning Squawk",
-      "original_summary": "Here are five key things investors need to know to start the trading day.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "82fc41339ea59c",
-      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "title": "谷歌的人工智能搜索摘要现在将引用 Reddit",
-      "summary": "谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、Red等第一手资料的“观点预览”",
-      "content": "谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、Red等第一手资料的“观点预览”",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T21:00:30+08:00",
-      "sources": [
-        {
-          "name": "美国科技媒体",
-          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:58.390460+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 57
-      },
-      "status": "published",
-      "original_title": "Google’s AI search summaries will now quote Reddit",
-      "original_summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Red",
-      "language": "zh-CN"
-    },
-    {
-      "id": "05fee029e24cf4",
-      "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-      "title": "不仅仅是一辆SUV？ Rivian 电动车电动车正在开发更多 R2 变体。",
-      "summary": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
-      "content": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T20:48:53+08:00",
-      "sources": [
-        {
-          "name": "美国技术媒体",
-          "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:00.701444+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "More than just an SUV? Rivian is working on more R2 variants.",
-      "original_summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "cedf1b8bb1e958",
-      "url": "https://www.ithome.com/0/946/989.htm",
-      "title": "为了赢下 AI“供电竞赛”，消息称微软考虑放弃 2030 年清洁能源承诺",
-      "summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。 知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。 知情人士表示，微软讨论的是 2030 年按小时匹配 100% 用电量的目标，也就是通过购买可再生能源，逐小时覆盖自身全部电力消耗。 在 AI 时代到来前，微软等大型科技公司曾制定一系列气候承诺。知情人士称，数据中心建设成本高、耗电量巨大，正在改变企业对这些",
-      "content": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。 知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。 知情人士表示，微软讨论的是 2030 年按小时匹配 100% 用电量的目标，也就是通过购买可再生能源，逐小时覆盖自身全部电力消耗。 在 AI 时代到来前，微软等大型科技公司曾制定一系列气候承诺。知情人士称，数据中心建设成本高、耗电量巨大，正在改变企业对这些",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T20:20:59+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/989.htm",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:20.069146+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "negative",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 46
-      },
-      "status": "published",
-      "original_title": "为了赢下 AI“供电竞赛”，消息称微软考虑放弃 2030 年清洁能源承诺",
-      "original_summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。 知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。 知情人士表示，微软讨论的是 2030 年 按小时匹配 100% 用电量 的目标，也就是通过购买可再生能源，逐小时覆盖自身全部电力消耗。 在 AI 时代到来前，微软等大型科技公司曾制定一系列气候承诺。知情人士称，数据中心建设成本高、耗电量巨大，正在 改变企业对这些",
       "language": "zh-CN"
     }
   ]

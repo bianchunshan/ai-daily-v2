@@ -2,7 +2,140 @@
   "version": "3.0",
   "category": "gaming",
   "category_name": "游戏",
-  "total": 0,
-  "updated": "2026-05-07T00:06:32.644845+08:00",
-  "news": []
+  "total": 4,
+  "updated": "2026-05-07T00:20:26.413586+08:00",
+  "news": [
+    {
+      "id": "275189d377ec9f",
+      "url": "https://www.gamesindustry.biz/rebellion-has-its-fingers-in-all-the-pies",
+      "title": "叛逆势力涉足所有领域",
+      "summary": "您知道 Rebellion 拥有一家服装和道具公司吗？阅读更多",
+      "content": "您知道 Rebellion 拥有一家服装和道具公司吗？阅读更多",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-06T23:44:27+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/rebellion-has-its-fingers-in-all-the-pies",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.425810+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Rebellion has its fingers in all the pies",
+      "original_summary": "Did you know that Rebellion owns a costume and prop company? Read more",
+      "language": "zh-CN"
+    },
+    {
+      "id": "e3cb449280b756",
+      "url": "https://www.gamesindustry.biz/gamescom-latam-attendance-up-by-175-in-2026",
+      "title": "2026 年拉丁美洲科隆游戏展出席人数将增长 17.5%",
+      "summary": "第三届拉丁美洲科隆游戏展吸引了 154,000 名参观者，比 2025 年增长了 17.5%。去年该展会吸引了 130,000 名参观者，比 2024 年第一届活动增长了 30%。 了解更多",
+      "content": "第三届拉丁美洲科隆游戏展吸引了 154,000 名参观者，比 2025 年增长了 17.5%。去年该展会吸引了 130,000 名参观者，比 2024 年第一届活动增长了 30%。 了解更多",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-06T18:19:06+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/gamescom-latam-attendance-up-by-175-in-2026",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.426288+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Gamescom Latam attendance up by 17.5% in 2026",
+      "original_summary": "The third edition of Gamescom Latam drew 154,000 visitors, up 17.5% on 2025. Last year the show attracted 130,000 attendees , up 30% on the first edition of the event in 2024. Read more",
+      "language": "zh-CN"
+    },
+    {
+      "id": "285d03287f395c",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UWFWLTl3WUxVX3UyOVF2YmFrSGdQWkRPSUpTNG9WVVp1Tm9HVUc4aFhLTTQ4V1hNZG14YzZXckllX05NUjFRU252eUZ0eGM2N19TOGJwbHotbndrOXc?oc=5",
+      "title": "祛魅！“超能力”打游戏，一点不好玩？ - thepaper.cn",
+      "summary": "祛魅！“超能力”打游戏，一点不好玩？ thepaper.cn",
+      "content": "祛魅！“超能力”打游戏，一点不好玩？ thepaper.cn",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-06T15:16:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UWFWLTl3WUxVX3UyOVF2YmFrSGdQWkRPSUpTNG9WVVp1Tm9HVUc4aFhLTTQ4V1hNZG14YzZXckllX05NUjFRU252eUZ0eGM2N19TOGJwbHotbndrOXc?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.539973+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 37
+      },
+      "status": "published",
+      "original_title": "祛魅！“超能力”打游戏，一点不好玩？ - thepaper.cn",
+      "original_summary": "祛魅！“超能力”打游戏，一点不好玩？ thepaper.cn",
+      "language": "zh-CN"
+    },
+    {
+      "id": "d81c3dbd1cd0f5",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-and-hasbro-miss-deadline-to-voluntarily-recognise-workers-union",
+      "title": "海岸奇才队和孩之宝错过了自愿承认工会的最后期限",
+      "summary": "海岸奇才队和孩之宝已经错过了自愿承认由万智牌竞技场开发商组成的联盟的最后期限。阅读更多",
+      "content": "海岸奇才队和孩之宝已经错过了自愿承认由万智牌竞技场开发商组成的联盟的最后期限。阅读更多",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-05T21:49:21+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/wizards-of-the-coast-and-hasbro-miss-deadline-to-voluntarily-recognise-workers-union",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.429415+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Wizards of the Coast and Hasbro miss deadline to voluntarily recognise workers' union",
+      "original_summary": "Wizards of the Coast and Hasbro have missed the deadline to voluntarily recognise a union formed by Magic: The Gathering Arena developers . Read more",
+      "language": "zh-CN"
+    }
+  ]
 }

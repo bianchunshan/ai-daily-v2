@@ -1,6 +1,6 @@
 {
   "schema": "v3.0",
-  "description": "AI日报真实新闻、股票关联和机会池数据结构",
+  "description": "前沿科技日报真实新闻、股票关联和机会池数据结构",
   "updated": "2026-05-02",
   "update_policy": {
     "frequency": "hourly",
@@ -14,11 +14,10 @@
     {"id": "energy", "name": "新能源", "icon": "bolt", "priority": 4},
     {"id": "robotics", "name": "机器人", "icon": "robot", "priority": 5},
     {"id": "quantum", "name": "量子计算", "icon": "atom", "priority": 6},
-    {"id": "biotech", "name": "生物科技", "icon": "dna", "priority": 7},
-    {"id": "space", "name": "商业航天", "icon": "rocket", "priority": 8},
-    {"id": "fusion", "name": "核聚变", "icon": "fire", "priority": 9},
-    {"id": "consumer", "name": "消费电子", "icon": "mobile-alt", "priority": 10},
-    {"id": "gaming", "name": "游戏", "icon": "gamepad", "priority": 11}
+    {"id": "biotech", "name": "创新药", "icon": "capsules", "priority": 7},
+    {"id": "bci", "name": "脑机接口", "icon": "head-side-virus", "priority": 8},
+    {"id": "space", "name": "商业航天", "icon": "rocket", "priority": 9},
+    {"id": "gaming", "name": "游戏", "icon": "gamepad", "priority": 10}
   ],
   "news_item": {
     "id": "string",

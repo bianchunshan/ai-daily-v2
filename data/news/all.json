@@ -1,121 +1,20 @@
 {
   "version": "3.0",
-  "total": 114,
-  "updated": "2026-05-07T00:06:32.645140+08:00",
+  "total": 122,
+  "updated": "2026-05-07T00:20:26.414056+08:00",
   "by_category": {
-    "world": 19,
-    "ai": 22,
+    "world": 18,
+    "ai": 20,
     "semiconductor": 5,
-    "energy": 20,
+    "energy": 21,
     "robotics": 4,
     "quantum": 8,
     "biotech": 18,
-    "space": 15,
-    "fusion": 2,
-    "consumer": 1,
-    "gaming": 0
+    "space": 16,
+    "bci": 8,
+    "gaming": 4
   },
   "news": [
-    {
-      "id": "2f58f8357b36cb",
-      "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
-      "title": "Windward 抓住了 1.65 亿美元的机遇，推动了长期 TSLP 的雄心",
-      "summary": "Windward Bio 正全力以赴，获得 1.65 亿美元的交叉融资，将其长效抗 TSLP 抗体推向 3 期，押注每年两次的给药方案将成为日益拥挤的呼吸系统疾病中的关键差异化因素。",
-      "content": "Windward Bio 正全力以赴，获得 1.65 亿美元的交叉融资，将其长效抗 TSLP 抗体推向 3 期，押注每年两次的给药方案将成为日益拥挤的呼吸系统疾病中的关键差异化因素。",
-      "category": "biotech",
-      "tags": [
-        "生物科技"
-      ],
-      "publish_time": "2026-05-07T00:06:04.954223+08:00",
-      "sources": [
-        {
-          "name": "美国生物科技媒体",
-          "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:04.955136+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published",
-      "original_title": "Windward catches $165M breeze to fuel long-acting TSLP ambitions",
-      "original_summary": "Windward Bio is in full sail with a $165 million crossover financing to push its long-acting anti-TSLP antibody into phase 3, betting that a twice-yearly dosing schedule will be a key differentiator in an increasingly crowded respiratory ma",
-      "language": "zh-CN"
-    },
-    {
-      "id": "7c00b8479e5dc3",
-      "url": "https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win",
-      "title": "武田关键试验的胜利相对于 HyQvia 提高了 PID 患者的便利性",
-      "summary": "武田原发性免疫缺陷病（PID）资产的一项关键研究已达到其主要终点，证明该资产与 HyQvia 之间的药代动力学（PK）可比性，HyQvia 于 2014 年被批准用于治疗 PID。",
-      "content": "武田原发性免疫缺陷病（PID）资产的一项关键研究已达到其主要终点，证明该资产与 HyQvia 之间的药代动力学（PK）可比性，HyQvia 于 2014 年被批准用于治疗 PID。",
-      "category": "biotech",
-      "tags": [
-        "生物科技"
-      ],
-      "publish_time": "2026-05-07T00:06:04.952317+08:00",
-      "sources": [
-        {
-          "name": "美国生物科技媒体",
-          "url": "https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:04.953249+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published",
-      "original_title": "Takeda pivotal trial win improves convenience for PID patients relative to HyQvia",
-      "original_summary": "A pivotal study of a Takeda primary immunodeficiency disease (PID) asset has hit its primary endpoint, demonstrating pharmacokinetic (PK) comparability between the asset and HyQvia, which was approved to treat PID in 2014.",
-      "language": "zh-CN"
-    },
     {
       "id": "7109623c745eda",
       "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
@@ -127,13 +26,13 @@
         "美国 FDA",
         "基因治疗"
       ],
-      "publish_time": "2026-05-07T00:06:04.950563+08:00",
+      "publish_time": "2026-05-07T00:19:43.955295+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.951113+08:00",
+          "verify_time": "2026-05-07T00:19:43.955695+08:00",
           "credibility": 84
         }
       ],
@@ -143,7 +42,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -151,7 +50,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -175,15 +74,15 @@
       "content": "由于耐受性不佳而暂停了与莫德纳合作的囊性纤维化候选药物的试验后，福泰制药现在决定完全停止该项目。",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "trial"
       ],
-      "publish_time": "2026-05-07T00:06:04.950173+08:00",
+      "publish_time": "2026-05-07T00:19:43.954840+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.950543+08:00",
+          "verify_time": "2026-05-07T00:19:43.955280+08:00",
           "credibility": 84
         }
       ],
@@ -225,15 +124,15 @@
       "content": "去年，瑞士私营生物技术公司的融资额创下新高，增长 38%，达到 11.5 亿瑞士法郎（15 亿美元）。然而，推动融资增长的公司数量相对较少，而许多同行却没有筹集到任何资金，例如",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
-      "publish_time": "2026-05-07T00:06:04.949693+08:00",
+      "publish_time": "2026-05-07T00:19:43.954070+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.950152+08:00",
+          "verify_time": "2026-05-07T00:19:43.954820+08:00",
           "credibility": 84
         }
       ],
@@ -243,7 +142,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -251,7 +150,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -275,15 +174,15 @@
       "content": "生物技术领域的各个领域的领导者正在发起美国生物技术创新联盟（ABIA），其目标是团结利益相关者并制定国家战略，以维持和扩大美国在生物技术创新领域的领导地位。",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
-      "publish_time": "2026-05-07T00:06:04.949244+08:00",
+      "publish_time": "2026-05-07T00:19:43.953591+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/american-biotech-innovation-alliance-debuts-unify-domestic-strategy-amid-global-threats",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.949626+08:00",
+          "verify_time": "2026-05-07T00:19:43.954062+08:00",
           "credibility": 84
         }
       ],
@@ -293,7 +192,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -301,7 +200,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -327,13 +226,13 @@
       "tags": [
         "人工智能"
       ],
-      "publish_time": "2026-05-07T00:06:04.947720+08:00",
+      "publish_time": "2026-05-07T00:19:43.951687+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.948103+08:00",
+          "verify_time": "2026-05-07T00:19:43.952108+08:00",
           "credibility": 84
         }
       ],
@@ -377,13 +276,13 @@
       "tags": [
         "机器人"
       ],
-      "publish_time": "2026-05-07T00:06:04.947308+08:00",
+      "publish_time": "2026-05-07T00:19:43.951298+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/medtech/olympus-endorobotics-distribution-pact-robot-assisted-endoscopic-tech",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.947703+08:00",
+          "verify_time": "2026-05-07T00:19:43.951678+08:00",
           "credibility": 84
         }
       ],
@@ -408,16 +307,16 @@
       "content": "随着吉利德以 78 亿美元收购 Arcellx 的完成，这家加州制药公司正在整合被收购公司的部分员工。",
       "category": "biotech",
       "tags": [
-        "生物科技",
+        "创新药",
         "制药"
       ],
-      "publish_time": "2026-05-07T00:06:04.946075+08:00",
+      "publish_time": "2026-05-07T00:19:43.949858+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotechs-redwood-city-outpost",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.946409+08:00",
+          "verify_time": "2026-05-07T00:19:43.950445+08:00",
           "credibility": 84
         }
       ],
@@ -427,7 +326,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -435,7 +334,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -461,13 +360,13 @@
       "tags": [
         "机器人"
       ],
-      "publish_time": "2026-05-07T00:06:04.945683+08:00",
+      "publish_time": "2026-05-07T00:19:43.949393+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.946066+08:00",
+          "verify_time": "2026-05-07T00:19:43.949846+08:00",
           "credibility": 84
         }
       ],
@@ -501,15 +400,16 @@
       "content": "诺和诺德首席执行官坚称，尽管该公司结束了单室输送装置的开发工作，但推出 GLP-1/amylin 组合疗法 CagriSema 的计划仍按计划进行。",
       "category": "biotech",
       "tags": [
-        "制药"
+        "制药",
+        "GLP-1"
       ],
-      "publish_time": "2026-05-07T00:06:04.945215+08:00",
+      "publish_time": "2026-05-07T00:19:43.948803+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.945668+08:00",
+          "verify_time": "2026-05-07T00:19:43.949370+08:00",
           "credibility": 84
         }
       ],
@@ -543,15 +443,15 @@
       "content": "安慰剂调整后的结果未达到 Avalo、分析师和艾伯维竞争对手计划设定的标准，但该生物技术公司的股价在盘前交易中上涨。",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
-      "publish_time": "2026-05-07T00:06:04.944876+08:00",
+      "publish_time": "2026-05-07T00:19:43.948024+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/avalos-phase-2-win-fuels-pursuit-abbvie-despite-placebo-headwind",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.945208+08:00",
+          "verify_time": "2026-05-07T00:19:43.948778+08:00",
           "credibility": 84
         }
       ],
@@ -561,7 +461,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -569,7 +469,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -593,15 +493,15 @@
       "content": "此次收购包括高达 21.5 亿美元的里程碑，将使拜耳控制一种眼病植入物，Perfuse 在去年的两项 2 期试验中将这种植入物与改善结果联系起来。",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
-      "publish_time": "2026-05-07T00:06:04.943531+08:00",
+      "publish_time": "2026-05-07T00:19:43.945027+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.943989+08:00",
+          "verify_time": "2026-05-07T00:19:43.945625+08:00",
           "credibility": 84
         }
       ],
@@ -611,7 +511,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -619,7 +519,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -645,13 +545,13 @@
       "tags": [
         "制药"
       ],
-      "publish_time": "2026-05-07T00:06:04.943179+08:00",
+      "publish_time": "2026-05-07T00:19:43.944461+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/gsk-pens-1b-deal-chinas-siranbio-oligonucleotide-could-reduce-adominal-fat",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.943520+08:00",
+          "verify_time": "2026-05-07T00:19:43.945004+08:00",
           "credibility": 84
         }
       ],
@@ -661,7 +561,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -669,7 +569,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -691,18 +591,68 @@
       "title": "BioCryst 放弃眼科候选药物，专注于罕见疾病",
       "summary": "该公司宣布已完成血浆激肽释放酶抑制剂的开发，该抑制剂正在研究用于治疗糖尿病性黄斑水肿。",
       "content": "该公司宣布已完成血浆激肽释放酶抑制剂的开发，该抑制剂正在研究用于治疗糖尿病性黄斑水肿。",
-      "category": "fusion",
+      "category": "biotech",
       "tags": [
-        "等离子体"
+        "创新药"
       ],
-      "publish_time": "2026-05-07T00:06:04.942379+08:00",
+      "publish_time": "2026-05-07T00:19:43.943836+08:00",
       "sources": [
         {
-          "name": "美国生物科技媒体",
+          "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.943151+08:00",
+          "verify_time": "2026-05-07T00:19:43.944435+08:00",
           "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：创新药",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：创新药",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "BioCryst scraps eye candidate to focus on rare diseases",
+      "original_summary": "The company announced it has concluded development of the plasma kallikrein inhibitor, which was being studied to treat diabetic macular edema.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7391040b6dfa1e",
+      "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+      "title": "优步和迪士尼在当前经济中也看到了同样显着的动态。两只股票都在飙升",
+      "summary": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
+      "content": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-07T00:18:38+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:33.653959+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [],
@@ -710,12 +660,178 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 49
+        "credibility_score": 86,
+        "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "BioCryst scraps eye candidate to focus on rare diseases",
-      "original_summary": "The company announced it has concluded development of the plasma kallikrein inhibitor, which was being studied to treat diabetic macular edema.",
+      "original_title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+      "original_summary": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "1869acb21a3a11",
+      "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+      "title": "阿波罗首席执行官罗文警告市场调整，抨击竞争对手保险公司的“恶劣”做法",
+      "summary": "阿波罗首席执行官马克·罗文（Marc Rowan）警告说，市场面临意外冲击的风险较高，并表示他正在为公司做好防御性调整，以应对预期的调整。",
+      "content": "阿波罗首席执行官马克·罗文（Marc Rowan）警告说，市场面临意外冲击的风险较高，并表示他正在为公司做好防御性调整，以应对预期的调整。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-07T00:18:19+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:33.654424+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
+      "original_summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "c795957c17f657",
+      "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
+      "title": "对于人工智能时代来说，市场研究太慢了，因此 Brox 构建了 60,000 个相同的真人“数字双胞胎”，您可以立即、重复地进行调查",
+      "summary": "在当今的世界里，一段病毒式传播的 TikTok 视频可以在短短几个小时内让一个品牌在全球流行起来，传统的市场研究周期（通常需要 12 周）正在成为一种负担。调查问题与调查答案之间的滞后",
+      "content": "在当今的世界里，一段病毒式传播的 TikTok 视频可以在短短几个小时内让一个品牌在全球流行起来，传统的市场研究周期（通常需要 12 周）正在成为一种负担。调查问题与调查答案之间的滞后",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-07T00:16:49+08:00",
+      "sources": [
+        {
+          "name": "美国科技商业媒体",
+          "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:59.142634+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 27
+      },
+      "status": "published",
+      "original_title": "Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly",
+      "original_summary": "In a world where a viral TikTok video can cause a brand to trend globally in mere hours, the traditional market research cycle — often spanning 12 weeks — is becoming a liability. The lag between a survey question and the answers from a wid",
+      "language": "zh-CN"
+    },
+    {
+      "id": "8730190bd89df5",
+      "url": "https://electrek.co/2026/05/06/ford-in-advanced-talks-sell-eu-plant-geely/",
+      "title": "福特正在就将部分欧盟工厂出售给中国吉利进行“非常深入”的谈判，但还有更多",
+      "summary": "据报道，福特正在与沃尔沃所有者吉利进行“非常深入”的谈判，以出售其位于西班牙巴伦西亚工厂的一部分。该交易可能涉及一款新的电动汽车。更多的…",
+      "content": "据报道，福特正在与沃尔沃所有者吉利进行“非常深入”的谈判，以出售其位于西班牙巴伦西亚工厂的一部分。该交易可能涉及一款新的电动汽车。更多的…",
+      "category": "energy",
+      "tags": [
+        "电动车"
+      ],
+      "publish_time": "2026-05-07T00:15:31+08:00",
+      "sources": [
+        {
+          "name": "新能源交通媒体",
+          "url": "https://electrek.co/2026/05/06/ford-in-advanced-talks-sell-eu-plant-geely/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:56.745735+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Ford is in ‘very advanced’ talks to sell part of EU plant to China’s Geely, but there’s more",
+      "original_summary": "Ford is reportedly in “very advanced” talks with Volvo owner, Geely, to sell a portion of its Valencia plant in Spain. The deal may involve a new electric vehicle. more…",
+      "language": "zh-CN"
+    },
+    {
+      "id": "f6f6edc758a228",
+      "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+      "title": "爱泼斯坦档案：商务部霍华德·卢特尼克回答众议院小组的问题",
+      "summary": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
+      "content": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-07T00:13:12+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:33.655114+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Epstein files: Commerce Sec. Howard Lutnick answering questions from House panel",
+      "original_summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
       "language": "zh-CN"
     },
     {
@@ -734,7 +850,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.577718+08:00",
+          "verify_time": "2026-05-07T00:19:33.653534+08:00",
           "credibility": 86
         }
       ],
@@ -752,6 +868,56 @@
       "language": "zh-CN"
     },
     {
+      "id": "a6548e75f3c8d6",
+      "url": "https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/",
+      "title": "拜耳将以高达 $2.45B 的价格收购 Perfuse，加强眼科药物管道",
+      "summary": "该交易以处于中期测试阶段的青光眼疗法为中心，是拜耳多年来首次收购制药公司，也可能是拜耳自 2020 年收购 AskBio 以来规模最大的一笔收购。",
+      "content": "该交易以处于中期测试阶段的青光眼疗法为中心，是拜耳多年来首次收购制药公司，也可能是拜耳自 2020 年收购 AskBio 以来规模最大的一笔收购。",
+      "category": "biotech",
+      "tags": [
+        "药物"
+      ],
+      "publish_time": "2026-05-07T00:02:00+08:00",
+      "sources": [
+        {
+          "name": "美国生物医药媒体",
+          "url": "https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:44.964945+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：创新药",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：创新药",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 35
+      },
+      "status": "published",
+      "original_title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
+      "original_summary": "Centered around a glaucoma therapy in mid-stage testing, the deal is Bayer’s first drug company acquisition in several years and potentially its largest since it purchased AskBio in 2020.",
+      "language": "zh-CN"
+    },
+    {
       "id": "d1bbe1ec72faaf",
       "url": "https://www.genengnews.com/topics/bioprocessing/heavy-chain-bsabs-more-manufacturable-than-light-chains/",
       "title": "重链 BsAb 比轻链更容易制造",
@@ -759,7 +925,7 @@
       "content": "双特异性抗体被认为难以生产，尤其是大规模生产。由于产量低、潜在的链错配、稳定性和聚集问题以及分析表征挑战，生物制造商渴望找到前",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
       "publish_time": "2026-05-07T00:00:59+08:00",
       "sources": [
@@ -767,7 +933,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/heavy-chain-bsabs-more-manufacturable-than-light-chains/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.994628+08:00",
+          "verify_time": "2026-05-07T00:19:51.308334+08:00",
           "credibility": 82
         }
       ],
@@ -777,7 +943,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -785,7 +951,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -809,7 +975,7 @@
       "content": "一家新公司正在提供肽配体，用于纯化用于基因治疗的病毒载体，从而简化流程。他们相信这项技术处于亲和色谱的新前沿。研究人员的衍生品主要关注 S",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
       "publish_time": "2026-05-07T00:00:56+08:00",
       "sources": [
@@ -817,7 +983,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/researchers-spinout-simplifies-the-purification-of-viral-vectors/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.995071+08:00",
+          "verify_time": "2026-05-07T00:19:51.309007+08:00",
           "credibility": 82
         }
       ],
@@ -827,7 +993,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -835,7 +1001,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -867,7 +1033,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/moss-powering-the-next-drug-frontier/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.995459+08:00",
+          "verify_time": "2026-05-07T00:19:51.309831+08:00",
           "credibility": 82
         }
       ],
@@ -877,7 +1043,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -885,7 +1051,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -917,7 +1083,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/regulators-should-rely-on-peers-gmp-audits-to-cut-inspection-burden/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.995885+08:00",
+          "verify_time": "2026-05-07T00:19:51.311121+08:00",
           "credibility": 82
         }
       ],
@@ -927,7 +1093,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -935,7 +1101,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -967,7 +1133,7 @@
           "name": "谷歌 AI 博客",
           "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:16.311256+08:00",
+          "verify_time": "2026-05-07T00:20:00.596845+08:00",
           "credibility": 88
         }
       ],
@@ -1009,7 +1175,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.589161+08:00",
+          "verify_time": "2026-05-07T00:19:33.662216+08:00",
           "credibility": 86
         }
       ],
@@ -1036,72 +1202,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "1869acb21a3a11",
-      "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-      "title": "阿波罗首席执行官罗文警告市场调整，抨击竞争对手保险公司的“恶劣”做法",
-      "summary": "阿波罗首席执行官马克·罗文（Marc Rowan）警告说，市场面临意外冲击的风险较高，并表示他正在为公司做好防御性调整，以应对预期的调整。",
-      "content": "阿波罗首席执行官马克·罗文（Marc Rowan）警告说，市场面临意外冲击的风险较高，并表示他正在为公司做好防御性调整，以应对预期的调整。",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T23:57:17+08:00",
-      "sources": [
-        {
-          "name": "美国财经媒体·市场",
-          "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:56.580042+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
-      "original_summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "f6f6edc758a228",
-      "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
-      "title": "爱泼斯坦档案：商务部霍华德·卢特尼克回答众议院小组的问题",
-      "summary": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
-      "content": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T23:55:26+08:00",
-      "sources": [
-        {
-          "name": "美国财经媒体·市场",
-          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:56.581084+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Epstein files: Commerce Sec. Howard Lutnick answering questions from House panel",
-      "original_summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
-      "language": "zh-CN"
-    },
-    {
       "id": "802e09efbcd718",
       "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
       "title": "伯克希尔旗下的分销巨头将在美国阳光地带部署无人驾驶大型钻机",
@@ -1117,7 +1217,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.582746+08:00",
+          "verify_time": "2026-05-07T00:19:33.656638+08:00",
           "credibility": 86
         }
       ],
@@ -1150,7 +1250,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.520330+08:00",
+          "verify_time": "2026-05-07T00:19:34.357949+08:00",
           "credibility": 86
         }
       ],
@@ -1200,7 +1300,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/were-trimming-a-big-winner-and-buying-the-dip-in-a-stock-that-shouldnt-be-down.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.585879+08:00",
+          "verify_time": "2026-05-07T00:19:33.659667+08:00",
           "credibility": 86
         }
       ],
@@ -1233,7 +1333,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.521193+08:00",
+          "verify_time": "2026-05-07T00:19:34.358715+08:00",
           "credibility": 86
         }
       ],
@@ -1265,9 +1365,9 @@
       "title": "可穿戴贴片：Barrière 如何试图颠覆补充剂行业",
       "summary": "补充剂贴剂公司 Barrière 独家向 CNBC 透露，该公司将在 1,700 家沃尔玛商店推出首款乳糖不耐受贴剂。",
       "content": "补充剂贴剂公司 Barrière 独家向 CNBC 透露，该公司将在 1,700 家沃尔玛商店推出首款乳糖不耐受贴剂。",
-      "category": "consumer",
+      "category": "world",
       "tags": [
-        "wearable"
+        "国际局势"
       ],
       "publish_time": "2026-05-06T23:49:03+08:00",
       "sources": [
@@ -1275,34 +1375,17 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.586987+08:00",
+          "verify_time": "2026-05-07T00:19:33.660721+08:00",
           "credibility": 86
         }
       ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
+      "stocks": [],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
         "credibility_score": 86,
-        "opportunity_score": 37
+        "opportunity_score": 55
       },
       "status": "published",
       "original_title": "Wearable patches: How Barrière is trying to disrupt the supplement industry",
@@ -1325,7 +1408,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.918954+08:00",
+          "verify_time": "2026-05-07T00:19:32.951582+08:00",
           "credibility": 86
         }
       ],
@@ -1360,6 +1443,81 @@
       "language": "zh-CN"
     },
     {
+      "id": "275189d377ec9f",
+      "url": "https://www.gamesindustry.biz/rebellion-has-its-fingers-in-all-the-pies",
+      "title": "叛逆势力涉足所有领域",
+      "summary": "您知道 Rebellion 拥有一家服装和道具公司吗？阅读更多",
+      "content": "您知道 Rebellion 拥有一家服装和道具公司吗？阅读更多",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-06T23:44:27+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/rebellion-has-its-fingers-in-all-the-pies",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.425810+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Rebellion has its fingers in all the pies",
+      "original_summary": "Did you know that Rebellion owns a costume and prop company? Read more",
+      "language": "zh-CN"
+    },
+    {
+      "id": "655e9a83ee40f1",
+      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+      "title": "谷歌的 Gemma 4 AI 模型通过预测未来代币，速度提升了 3 倍",
+      "summary": "速度提高 3 倍，且质量不受影响 — 是不是好得令人难以置信？",
+      "content": "速度提高 3 倍，且质量不受影响 — 是不是好得令人难以置信？",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-06T23:44:20+08:00",
+      "sources": [
+        {
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:37.444172+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+      "original_summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
+      "language": "zh-CN"
+    },
+    {
       "id": "0913a2e0805f1e",
       "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
       "title": "在汉堡王扭亏为盈的推动下，餐饮品牌国际的盈利高于预期",
@@ -1375,7 +1533,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.586536+08:00",
+          "verify_time": "2026-05-07T00:19:33.660378+08:00",
           "credibility": 86
         }
       ],
@@ -1390,39 +1548,6 @@
       "status": "published",
       "original_title": "Restaurant Brands International earnings top estimates, fueled by Burger King turnaround",
       "original_summary": "Restaurant Brands International reported quarterly earnings and revenue that topped Wall Street's estimates.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "7391040b6dfa1e",
-      "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-      "title": "优步和迪士尼在当前经济中也看到了同样显着的动态。两只股票都在飙升",
-      "summary": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
-      "content": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T23:31:54+08:00",
-      "sources": [
-        {
-          "name": "美国财经媒体·市场",
-          "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:56.578522+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-      "original_summary": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
       "language": "zh-CN"
     },
     {
@@ -1441,7 +1566,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/020.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.058664+08:00",
+          "verify_time": "2026-05-07T00:20:08.134191+08:00",
           "credibility": 78
         }
       ],
@@ -1483,7 +1608,7 @@
       "content": "这家丹麦制药商在最新的收益报告中表示，由于其新型减肥药的处方数量强劲，销售额和利润的缩水幅度应该小于公司最初的预期。",
       "category": "biotech",
       "tags": [
-        "生物科技"
+        "创新药"
       ],
       "publish_time": "2026-05-06T23:26:21+08:00",
       "sources": [
@@ -1491,7 +1616,7 @@
           "name": "美国生物医药媒体",
           "url": "https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.010743+08:00",
+          "verify_time": "2026-05-07T00:19:44.965398+08:00",
           "credibility": 84
         }
       ],
@@ -1501,7 +1626,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -1509,7 +1634,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -1541,7 +1666,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.587817+08:00",
+          "verify_time": "2026-05-07T00:19:33.661184+08:00",
           "credibility": 86
         }
       ],
@@ -1551,7 +1676,7 @@
           "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         },
         {
@@ -1559,7 +1684,7 @@
           "name": "诺和诺德",
           "exchange": "NYSE",
           "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
+          "reason": "板块弱关联：创新药",
           "confidence": "sector"
         }
       ],
@@ -1591,7 +1716,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/artificial-intelligence/cocograph-ai-model-generates-molecules-that-comply-with-rules-of-chemistry/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.996288+08:00",
+          "verify_time": "2026-05-07T00:19:51.311862+08:00",
           "credibility": 82
         }
       ],
@@ -1641,7 +1766,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.524753+08:00",
+          "verify_time": "2026-05-07T00:19:34.360378+08:00",
           "credibility": 86
         }
       ],
@@ -1683,7 +1808,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/former-yankee-mariano-rivera-mlb-salary-cap.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.583078+08:00",
+          "verify_time": "2026-05-07T00:19:33.656938+08:00",
           "credibility": 86
         }
       ],
@@ -1716,7 +1841,7 @@
           "name": "美国国家航空航天局",
           "url": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.058529+08:00",
+          "verify_time": "2026-05-07T00:19:55.304669+08:00",
           "credibility": 95
         }
       ],
@@ -1739,9 +1864,9 @@
       "title": "据报道，光控基因表达平台使标准补料分批生产性能提高了一倍",
       "summary": "真正的机会在于下一代复杂的生物制剂，例如多特异性、细胞因子和融合蛋白。这些分子占当今早期管道的 50% 以上。后光控基因表达平台Re",
       "content": "真正的机会在于下一代复杂的生物制剂，例如多特异性、细胞因子和融合蛋白。这些分子占当今早期管道的 50% 以上。后光控基因表达平台Re",
-      "category": "fusion",
+      "category": "biotech",
       "tags": [
-        "核聚变"
+        "创新药"
       ],
       "publish_time": "2026-05-06T23:00:45+08:00",
       "sources": [
@@ -1749,17 +1874,34 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/light-controlled-gene-expression-platform-reportedly-doubles-standard-fed-batch-manufacturing-performance/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:06.996725+08:00",
+          "verify_time": "2026-05-07T00:19:51.312592+08:00",
           "credibility": 82
         }
       ],
-      "stocks": [],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：创新药",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：创新药",
+          "confidence": "sector"
+        }
+      ],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
         "credibility_score": 82,
-        "opportunity_score": 47
+        "opportunity_score": 29
       },
       "status": "published",
       "original_title": "Light-Controlled Gene Expression Platform Reportedly Doubles Standard Fed-Batch Manufacturing Performance",
@@ -1782,7 +1924,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.526223+08:00",
+          "verify_time": "2026-05-07T00:19:34.360645+08:00",
           "credibility": 86
         }
       ],
@@ -1832,7 +1974,7 @@
           "name": "美国科技媒体",
           "url": "https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:58.389708+08:00",
+          "verify_time": "2026-05-07T00:19:35.440161+08:00",
           "credibility": 84
         }
       ],
@@ -1865,7 +2007,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.526556+08:00",
+          "verify_time": "2026-05-07T00:19:34.360973+08:00",
           "credibility": 86
         }
       ],
@@ -1900,6 +2042,39 @@
       "language": "zh-CN"
     },
     {
+      "id": "7e5797375cd51d",
+      "url": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
+      "title": "如果美国宇航局想要每个月登陆月球，就必须发生以下情况",
+      "summary": "美国国家航空航天局 (美国航天局) 非常认真地希望进行更多的射击，但其中一些需要开始着陆。",
+      "content": "美国国家航空航天局 (美国航天局) 非常认真地希望进行更多的射击，但其中一些需要开始着陆。",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T22:56:20+08:00",
+      "sources": [
+        {
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:37.444646+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Here's what has to happen if NASA wants to land on the Moon every month",
+      "original_summary": "NASA is serious about taking more shots on goal, but some of them need to start landing.",
+      "language": "zh-CN"
+    },
+    {
       "id": "a54dfb999e3bc9",
       "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
       "title": "英伟达与康宁合作开展大规模光纤交易，这可能会改变人工智能的游戏规则",
@@ -1916,7 +2091,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.918628+08:00",
+          "verify_time": "2026-05-07T00:19:32.951260+08:00",
           "credibility": 86
         }
       ],
@@ -1958,7 +2133,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.917311+08:00",
+          "verify_time": "2026-05-07T00:19:32.950200+08:00",
           "credibility": 86
         }
       ],
@@ -2000,7 +2175,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.590993+08:00",
+          "verify_time": "2026-05-07T00:19:33.663600+08:00",
           "credibility": 86
         }
       ],
@@ -2050,7 +2225,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.585191+08:00",
+          "verify_time": "2026-05-07T00:19:33.658969+08:00",
           "credibility": 86
         }
       ],
@@ -2065,6 +2240,56 @@
       "status": "published",
       "original_title": "CVS blows past estimates, hikes outlook as insurance business outperforms",
       "original_summary": "All of the health-care giant's business segments, including its insurer Aetna, its retail pharmacy and health services unit, surpassed expectations.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "8cefd427e3059a",
+      "url": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
+      "title": "父母拒绝在出生时注射维生素 K 后，婴儿出现出血",
+      "summary": "医院报告称，越来越多的父母拒绝为新生儿注射维生素 K。",
+      "content": "医院报告称，越来越多的父母拒绝为新生儿注射维生素 K。",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-06T22:30:47+08:00",
+      "sources": [
+        {
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:37.445189+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Infants are bleeding out after parents decline vitamin K shots given at birth",
+      "original_summary": "Hospitals report more parents are declining vitamin K shots for their newborns.",
       "language": "zh-CN"
     },
     {
@@ -2083,7 +2308,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/013.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.061453+08:00",
+          "verify_time": "2026-05-07T00:20:08.140520+08:00",
           "credibility": 78
         }
       ],
@@ -2125,7 +2350,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.921143+08:00",
+          "verify_time": "2026-05-07T00:19:32.955287+08:00",
           "credibility": 86
         }
       ],
@@ -2167,7 +2392,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.583703+08:00",
+          "verify_time": "2026-05-07T00:19:33.657618+08:00",
           "credibility": 86
         }
       ],
@@ -2200,7 +2425,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.528273+08:00",
+          "verify_time": "2026-05-07T00:19:34.361976+08:00",
           "credibility": 86
         }
       ],
@@ -2250,7 +2475,7 @@
           "name": "美国国家航空航天局",
           "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.059429+08:00",
+          "verify_time": "2026-05-07T00:19:55.305168+08:00",
           "credibility": 95
         }
       ],
@@ -2284,7 +2509,7 @@
           "name": "美国国家航空航天局",
           "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.060310+08:00",
+          "verify_time": "2026-05-07T00:19:55.306195+08:00",
           "credibility": 95
         }
       ],
@@ -2318,7 +2543,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.528880+08:00",
+          "verify_time": "2026-05-07T00:19:34.362281+08:00",
           "credibility": 86
         }
       ],
@@ -2360,7 +2585,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.583999+08:00",
+          "verify_time": "2026-05-07T00:19:33.657980+08:00",
           "credibility": 86
         }
       ],
@@ -2393,7 +2618,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.583407+08:00",
+          "verify_time": "2026-05-07T00:19:33.657250+08:00",
           "credibility": 86
         }
       ],
@@ -2426,7 +2651,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:57.529384+08:00",
+          "verify_time": "2026-05-07T00:19:34.362577+08:00",
           "credibility": 86
         }
       ],
@@ -2476,7 +2701,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/008.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.064203+08:00",
+          "verify_time": "2026-05-07T00:20:08.143435+08:00",
           "credibility": 78
         }
       ],
@@ -2509,7 +2734,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.673960+08:00",
+          "verify_time": "2026-05-07T00:19:52.139174+08:00",
           "credibility": 78
         }
       ],
@@ -2559,7 +2784,7 @@
           "name": "美国技术媒体",
           "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:00.701131+08:00",
+          "verify_time": "2026-05-07T00:19:37.445610+08:00",
           "credibility": 86
         }
       ],
@@ -2610,7 +2835,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/007.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.064596+08:00",
+          "verify_time": "2026-05-07T00:20:08.143860+08:00",
           "credibility": 78
         }
       ],
@@ -2660,7 +2885,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/there-are-now-more-than-2-million-uk-solar-installations/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.009403+08:00",
+          "verify_time": "2026-05-07T00:19:58.207341+08:00",
           "credibility": 78
         }
       ],
@@ -2695,40 +2920,33 @@
       "language": "zh-CN"
     },
     {
-      "id": "70dedb6a71159e",
-      "url": "https://thequantuminsider.com/2026/05/06/qutwo-raises-e25-million-to-build-hybrid-quantum-classical-platform/",
-      "title": "QuTwo 筹集 2500 万欧元用于构建混合量子经典平台",
-      "summary": "据 TechCrunch 报道，欧洲人工智能初创公司 QuTwo 筹集了 2500 万欧元的天使融资，使其估值增加约 3.8 亿美元。此轮融资进一步证明投资者对这两种人工技术的持续兴趣",
-      "content": "据 TechCrunch 报道，欧洲人工智能初创公司 QuTwo 筹集了 2500 万欧元的天使融资，使其估值增加约 3.8 亿美元。此轮融资进一步证明投资者对这两种人工技术的持续兴趣",
-      "category": "ai",
+      "id": "5c4689d598c158",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XeUV5dWNpVFhZa3dISFJFOGZUVjZmUFpCVWJFWVduTjJHSi01Z184VGdDT2h1Q0k0WWs3RDdDM0UzcWZrMEdFam81dmwyLThqWV9LQnhwZW5mSEdLc09Gb1AybHk4dw?oc=5",
+      "title": "东南网架：公司目前暂未涉及氢能、脑机接口业务 - 东方财富",
+      "summary": "东南网架：公司目前暂未涉及氢能、脑机接口业务东方财富",
+      "content": "东南网架：公司目前暂未涉及氢能、脑机接口业务东方财富",
+      "category": "bci",
       "tags": [
-        "人工智能"
+        "脑机接口",
+        "脑机"
       ],
-      "publish_time": "2026-05-06T21:23:15+08:00",
+      "publish_time": "2026-05-06T21:07:19+08:00",
       "sources": [
         {
-          "name": "量子科技资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/qutwo-raises-e25-million-to-build-hybrid-quantum-classical-platform/",
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XeUV5dWNpVFhZa3dISFJFOGZUVjZmUFpCVWJFWVduTjJHSi01Z184VGdDT2h1Q0k0WWs3RDdDM0UzcWZrMEdFam81dmwyLThqWV9LQnhwZW5mSEdLc09Gb1AybHk4dw?oc=5",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.674408+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-07T00:20:05.540787+08:00",
+          "credibility": 72
         }
       ],
       "stocks": [
         {
-          "symbol": "NVDA",
-          "name": "英伟达",
+          "symbol": "TSLA",
+          "name": "特斯拉",
           "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
+          "reason": "板块弱关联：脑机接口",
           "confidence": "sector"
         }
       ],
@@ -2736,12 +2954,12 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
+        "credibility_score": 72,
+        "opportunity_score": 19
       },
       "status": "published",
-      "original_title": "QuTwo Raises €25 Million to Build Hybrid Quantum-Classical Platform",
-      "original_summary": "Insider Brief European AI startup QuTwo raised a €25 million angel financing round, increasing its valuation of roughly $380 million, TechCrunch is reporting. The round offers further evidence of continued investor appetite for both artific",
+      "original_title": "东南网架：公司目前暂未涉及氢能、脑机接口业务 - 东方财富",
+      "original_summary": "东南网架：公司目前暂未涉及氢能、脑机接口业务 东方财富",
       "language": "zh-CN"
     },
     {
@@ -2760,7 +2978,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/002.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.065958+08:00",
+          "verify_time": "2026-05-07T00:20:08.145367+08:00",
           "credibility": 78
         }
       ],
@@ -2775,98 +2993,6 @@
       "status": "published",
       "original_title": "时代的眼泪：开播 24 年的星空卫视 5 月 8 日起暂停卫星传输服务",
       "original_summary": "IT之家 5 月 6 日消息，今天下午，星空卫视通过官微发布《关于星空卫视暂停卫星传输服务的公告》。 公告称，星空卫视因运营困难，卫星公司通知 5 月 8 日将暂停卫星传输服务 ，对此深表歉意。星空卫视的品牌价值、内容制作能力与频道资源依然宝贵，正在积极寻求 战略投资与业务重组 的机会，并欢迎有意向的合作伙伴与之接洽，共同探讨包括 频道资产收购、内容平台合作、品牌转型运营 等在内的多种可能。 公告最后提到：“我们期待以新的模式延续星空卫视的初心与使命。” IT之家查询公开资料",
-      "language": "zh-CN"
-    },
-    {
-      "id": "08820a52475b4b",
-      "url": "https://www.cnbc.com/2026/05/06/5-things-to-know-before-the-market-opens.html",
-      "title": "《Morning Squawk》中的和平希望、迪士尼收益、解散精神航空公司等",
-      "summary": "以下是投资者在开始交易日时需要了解的五个关键事项。",
-      "content": "以下是投资者在开始交易日时需要了解的五个关键事项。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T21:03:33+08:00",
-      "sources": [
-        {
-          "name": "美国财经媒体·科技",
-          "url": "https://www.cnbc.com/2026/05/06/5-things-to-know-before-the-market-opens.html",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:55.917722+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Peace hopes, Disney earnings, dismantling Spirit Airlines and more in Morning Squawk",
-      "original_summary": "Here are five key things investors need to know to start the trading day.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "82fc41339ea59c",
-      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "title": "谷歌的人工智能搜索摘要现在将引用 Reddit",
-      "summary": "谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、Red等第一手资料的“观点预览”",
-      "content": "谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、Red等第一手资料的“观点预览”",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T21:00:30+08:00",
-      "sources": [
-        {
-          "name": "美国科技媒体",
-          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:58.390460+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 57
-      },
-      "status": "published",
-      "original_title": "Google’s AI search summaries will now quote Reddit",
-      "original_summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Red",
       "language": "zh-CN"
     },
     {
@@ -2885,7 +3011,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/994.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.066378+08:00",
+          "verify_time": "2026-05-07T00:20:08.145826+08:00",
           "credibility": 78
         }
       ],
@@ -2900,56 +3026,6 @@
       "status": "published",
       "original_title": "小米汽车：国家 B 级赛照培训北京站、厦门站 5 月 8 日开放报名",
       "original_summary": "IT之家 5 月 6 日消息，今天晚间，小米汽车官微宣布：国家 B 级赛照培训北京站、厦门站同开，报名即将开启！ 具体时间上，两站报名将于 5 月 8 日上午 10 时同时开启， 北京站培训时间为 5 月 29 日-31 日，厦门站培训时间为 5 月 22 日-24 日 。 这项培训将在 FIA 国际汽联认证赛道 实地展开，并由中汽摩联认证教练全程带教，提供专业系统赛道课程，单人可实操 5 小时以上。同时，小米车主还有欢迎晚宴、赛服定妆照、模拟比赛等专属福利。 据IT之家了解",
-      "language": "zh-CN"
-    },
-    {
-      "id": "05fee029e24cf4",
-      "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-      "title": "不仅仅是一辆SUV？ Rivian 电动车电动车正在开发更多 R2 变体。",
-      "summary": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
-      "content": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T20:48:53+08:00",
-      "sources": [
-        {
-          "name": "美国技术媒体",
-          "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:00.701444+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "More than just an SUV? Rivian is working on more R2 variants.",
-      "original_summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
       "language": "zh-CN"
     },
     {
@@ -2971,7 +3047,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/firm-solar-and-storage-costs-fall-to-54-mwh-says-irena/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.009975+08:00",
+          "verify_time": "2026-05-07T00:19:58.208154+08:00",
           "credibility": 78
         }
       ],
@@ -3022,7 +3098,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.581642+08:00",
+          "verify_time": "2026-05-07T00:19:33.655537+08:00",
           "credibility": 86
         }
       ],
@@ -3037,48 +3113,6 @@
       "status": "published",
       "original_title": "Oil prices fall more than 6% as U.S. and Iran appear close to deal to end war",
       "original_summary": "Oil prices fell sharply after Axios reported that the U.S. and Iran were closing in on an agreement to bring an end to the conflict.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "cedf1b8bb1e958",
-      "url": "https://www.ithome.com/0/946/989.htm",
-      "title": "为了赢下 AI“供电竞赛”，消息称微软考虑放弃 2030 年清洁能源承诺",
-      "summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。 知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。 知情人士表示，微软讨论的是 2030 年按小时匹配 100% 用电量的目标，也就是通过购买可再生能源，逐小时覆盖自身全部电力消耗。 在 AI 时代到来前，微软等大型科技公司曾制定一系列气候承诺。知情人士称，数据中心建设成本高、耗电量巨大，正在改变企业对这些",
-      "content": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。 知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。 知情人士表示，微软讨论的是 2030 年按小时匹配 100% 用电量的目标，也就是通过购买可再生能源，逐小时覆盖自身全部电力消耗。 在 AI 时代到来前，微软等大型科技公司曾制定一系列气候承诺。知情人士称，数据中心建设成本高、耗电量巨大，正在改变企业对这些",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T20:20:59+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/989.htm",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:20.069146+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "negative",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 46
-      },
-      "status": "published",
-      "original_title": "为了赢下 AI“供电竞赛”，消息称微软考虑放弃 2030 年清洁能源承诺",
-      "original_summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。 知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。 知情人士表示，微软讨论的是 2030 年 按小时匹配 100% 用电量 的目标，也就是通过购买可再生能源，逐小时覆盖自身全部电力消耗。 在 AI 时代到来前，微软等大型科技公司曾制定一系列气候承诺。知情人士称，数据中心建设成本高、耗电量巨大，正在 改变企业对这些",
       "language": "zh-CN"
     },
     {
@@ -3097,7 +3131,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.010386+08:00",
+          "verify_time": "2026-05-07T00:19:58.208847+08:00",
           "credibility": 78
         }
       ],
@@ -3147,7 +3181,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/985.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.071622+08:00",
+          "verify_time": "2026-05-07T00:20:08.150606+08:00",
           "credibility": 78
         }
       ],
@@ -3197,7 +3231,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.586255+08:00",
+          "verify_time": "2026-05-07T00:19:33.660064+08:00",
           "credibility": 86
         }
       ],
@@ -3232,7 +3266,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/984.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.072090+08:00",
+          "verify_time": "2026-05-07T00:20:08.151141+08:00",
           "credibility": 78
         }
       ],
@@ -3274,7 +3308,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/norwegian-startup-testing-hybrid-solar-wave-wind-system/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.010773+08:00",
+          "verify_time": "2026-05-07T00:19:58.209358+08:00",
           "credibility": 78
         }
       ],
@@ -3324,7 +3358,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/korea-expands-post-quantum-cryptography-pilot/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.675683+08:00",
+          "verify_time": "2026-05-07T00:19:52.140935+08:00",
           "credibility": 78
         }
       ],
@@ -3374,7 +3408,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/quantum-algorithms-may-add-shine-to-surface-coatings/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.676122+08:00",
+          "verify_time": "2026-05-07T00:19:52.141369+08:00",
           "credibility": 78
         }
       ],
@@ -3409,72 +3443,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "2c3c5424fb4c69",
-      "url": "https://www.ithome.com/0/946/978.htm",
-      "title": "消息称三星苏州家电生产继续，传闻此前未能与赛夫就国行销售谈妥",
-      "summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 而根据韩媒 ETNEWS 的报道， 三星位于苏州的家电工厂的生产仍将继续 。三星也将以此为契机加速业务重组，强化高端产品核心地位、外包低附加值家电制造、关停马来西亚家电工厂。 报道还指出，三星电子此前曾在中国大陆市场执行高端化差异化的产品策略，但显著高于国内制造商的定价导致运营难以为继；原材料和物流费用的上涨导致制造及分销成本增加，",
-      "content": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 而根据韩媒 ETNEWS 的报道， 三星位于苏州的家电工厂的生产仍将继续 。三星也将以此为契机加速业务重组，强化高端产品核心地位、外包低附加值家电制造、关停马来西亚家电工厂。 报道还指出，三星电子此前曾在中国大陆市场执行高端化差异化的产品策略，但显著高于国内制造商的定价导致运营难以为继；原材料和物流费用的上涨导致制造及分销成本增加，",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T19:19:25+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/978.htm",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:20.074550+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "消息称三星苏州家电生产继续，传闻此前未能与赛夫就国行销售谈妥",
-      "original_summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 而根据韩媒 ETNEWS 的报道， 三星位于苏州的家电工厂的生产仍将继续 。三星也将以此为契机加速业务重组，强化高端产品核心地位、外包低附加值家电制造、关停马来西亚家电工厂。 报道还指出，三星电子此前曾在中国大陆市场执行高端化差异化的产品策略，但显著高于国内制造商的定价导致运营难以为继；原材料和物流费用的上涨导致制造及分销成本增加，",
-      "language": "zh-CN"
-    },
-    {
-      "id": "e70d6358b73877",
-      "url": "https://www.ithome.com/0/946/973.htm",
-      "title": "三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
-      "summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
-      "content": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T19:02:49+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/973.htm",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:20.076193+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
-      "original_summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布 三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
-      "language": "zh-CN"
-    },
-    {
       "id": "2399cd6ab3116b",
       "url": "https://www.pv-magazine.com/2026/05/06/sinovoltaics-launches-free-tool-for-project-specific-pv-module-test-scopes/",
       "title": "中国光伏推出针对特定项目光伏组件测试范围的免费工具",
@@ -3490,7 +3458,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/sinovoltaics-launches-free-tool-for-project-specific-pv-module-test-scopes/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.011163+08:00",
+          "verify_time": "2026-05-07T00:19:58.209842+08:00",
           "credibility": 78
         }
       ],
@@ -3525,57 +3493,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "7c068bd7773da3",
-      "url": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
-      "title": "CellCentric 为“变革性”多发性骨髓瘤药物筹集了 2.2 亿美元",
-      "summary": "由 Venrock 牵头的 D 轮融资将支持正在进行的 2 期研究和计划中的 3 期试验，该生物技术公司认为口服药物是持续性疾病患者的差异化选择。",
-      "content": "由 Venrock 牵头的 D 轮融资将支持正在进行的 2 期研究和计划中的 3 期试验，该生物技术公司认为口服药物是持续性疾病患者的差异化选择。",
-      "category": "biotech",
-      "tags": [
-        "生物科技",
-        "药物"
-      ],
-      "publish_time": "2026-05-06T19:00:00+08:00",
-      "sources": [
-        {
-          "name": "美国生物医药媒体",
-          "url": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
-          "verified": true,
-          "verify_time": "2026-05-07T00:06:06.011868+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published",
-      "original_title": "CellCentric raises $220M for a ‘transformative’ multiple myeloma medicine",
-      "original_summary": "A Series D round led by Venrock will support an ongoing Phase 2 study, and planned Phase 3 trial, of an oral drug the biotech sees as a differentiated option for patients with persistent disease.",
-      "language": "zh-CN"
-    },
-    {
       "id": "6a1d1dca1ca641",
       "url": "https://www.ithome.com/0/946/972.htm",
       "title": "江苏盐城积极引入无人机空中执法：预判当地易堵节点、全天候自动识别违停占道",
@@ -3591,7 +3508,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/972.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.076576+08:00",
+          "verify_time": "2026-05-07T00:20:08.157482+08:00",
           "credibility": 78
         }
       ],
@@ -3624,7 +3541,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/pv-module-recycling-technologies-progressing-says-iea-pvps/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.011578+08:00",
+          "verify_time": "2026-05-07T00:19:58.210384+08:00",
           "credibility": 78
         }
       ],
@@ -3659,6 +3576,39 @@
       "language": "zh-CN"
     },
     {
+      "id": "e3cb449280b756",
+      "url": "https://www.gamesindustry.biz/gamescom-latam-attendance-up-by-175-in-2026",
+      "title": "2026 年拉丁美洲科隆游戏展出席人数将增长 17.5%",
+      "summary": "第三届拉丁美洲科隆游戏展吸引了 154,000 名参观者，比 2025 年增长了 17.5%。去年该展会吸引了 130,000 名参观者，比 2024 年第一届活动增长了 30%。 了解更多",
+      "content": "第三届拉丁美洲科隆游戏展吸引了 154,000 名参观者，比 2025 年增长了 17.5%。去年该展会吸引了 130,000 名参观者，比 2024 年第一届活动增长了 30%。 了解更多",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-06T18:19:06+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/gamescom-latam-attendance-up-by-175-in-2026",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.426288+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Gamescom Latam attendance up by 17.5% in 2026",
+      "original_summary": "The third edition of Gamescom Latam drew 154,000 visitors, up 17.5% on 2025. Last year the show attracted 130,000 attendees , up 30% on the first edition of the event in 2024. Read more",
+      "language": "zh-CN"
+    },
+    {
       "id": "815bbe97e57a99",
       "url": "https://electrek.co/2026/05/06/massachusetts-proposes-first-in-the-nation-e-bike-and-moped-laws-based-on-speed/",
       "title": "马萨诸塞州提出了“全国首个”基于速度的电动自行车和轻便摩托车法律",
@@ -3674,7 +3624,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/06/massachusetts-proposes-first-in-the-nation-e-bike-and-moped-laws-based-on-speed/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.554270+08:00",
+          "verify_time": "2026-05-07T00:19:56.758291+08:00",
           "credibility": 78
         }
       ],
@@ -3726,7 +3676,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.011927+08:00",
+          "verify_time": "2026-05-07T00:19:58.210782+08:00",
           "credibility": 78
         }
       ],
@@ -3776,7 +3726,7 @@
           "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/aqt-high-performing-quantum-computer-europe-32768-qv/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:07.677987+08:00",
+          "verify_time": "2026-05-07T00:19:52.142613+08:00",
           "credibility": 78
         }
       ],
@@ -3826,7 +3776,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/fraunhofer-ise-opens-perovskite-silicon-tandem-scale-up-lab/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.012270+08:00",
+          "verify_time": "2026-05-07T00:19:58.211173+08:00",
           "credibility": 78
         }
       ],
@@ -3861,6 +3811,39 @@
       "language": "zh-CN"
     },
     {
+      "id": "285d03287f395c",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UWFWLTl3WUxVX3UyOVF2YmFrSGdQWkRPSUpTNG9WVVp1Tm9HVUc4aFhLTTQ4V1hNZG14YzZXckllX05NUjFRU252eUZ0eGM2N19TOGJwbHotbndrOXc?oc=5",
+      "title": "祛魅！“超能力”打游戏，一点不好玩？ - thepaper.cn",
+      "summary": "祛魅！“超能力”打游戏，一点不好玩？ thepaper.cn",
+      "content": "祛魅！“超能力”打游戏，一点不好玩？ thepaper.cn",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-06T15:16:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UWFWLTl3WUxVX3UyOVF2YmFrSGdQWkRPSUpTNG9WVVp1Tm9HVUc4aFhLTTQ4V1hNZG14YzZXckllX05NUjFRU252eUZ0eGM2N19TOGJwbHotbndrOXc?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.539973+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 37
+      },
+      "status": "published",
+      "original_title": "祛魅！“超能力”打游戏，一点不好玩？ - thepaper.cn",
+      "original_summary": "祛魅！“超能力”打游戏，一点不好玩？ thepaper.cn",
+      "language": "zh-CN"
+    },
+    {
       "id": "c267107aca279c",
       "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
       "title": "如何将商用光伏板改造为光热模块",
@@ -3876,7 +3859,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.012771+08:00",
+          "verify_time": "2026-05-07T00:19:58.211718+08:00",
           "credibility": 78
         }
       ],
@@ -3926,7 +3909,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/solar-panels-reduces-thermal-stress-in-dairy-barns-during-critical-afternoon-hours/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.013464+08:00",
+          "verify_time": "2026-05-07T00:19:58.212253+08:00",
           "credibility": 78
         }
       ],
@@ -3976,7 +3959,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/brazil-revokes-3-57-gw-of-solar-permits-amid-grid-connection-constraints/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.013869+08:00",
+          "verify_time": "2026-05-07T00:19:58.212725+08:00",
           "credibility": 78
         }
       ],
@@ -4026,7 +4009,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/arctech-debuts-topcon-photovoltaic-pavement-solution/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.014192+08:00",
+          "verify_time": "2026-05-07T00:19:58.213097+08:00",
           "credibility": 78
         }
       ],
@@ -4076,7 +4059,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/really-quick-charge-greenlane-ceo-talks-expansion-deals-and-more/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.555455+08:00",
+          "verify_time": "2026-05-07T00:19:56.758983+08:00",
           "credibility": 78
         }
       ],
@@ -4126,7 +4109,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.015007+08:00",
+          "verify_time": "2026-05-07T00:19:58.214740+08:00",
           "credibility": 78
         }
       ],
@@ -4176,7 +4159,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.060824+08:00",
+          "verify_time": "2026-05-07T00:19:55.306995+08:00",
           "credibility": 95
         }
       ],
@@ -4209,7 +4192,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.560060+08:00",
+          "verify_time": "2026-05-07T00:19:56.760853+08:00",
           "credibility": 78
         }
       ],
@@ -4259,7 +4242,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.230986+08:00",
+          "verify_time": "2026-05-07T00:19:41.246652+08:00",
           "credibility": 82
         }
       ],
@@ -4274,39 +4257,6 @@
       "status": "published",
       "original_title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
       "original_summary": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a perman",
-      "language": "zh-CN"
-    },
-    {
-      "id": "abdd991ed9f21b",
-      "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-      "title": "Nuro 在 Uber 机器人出租车服务推出之前获得无人驾驶测试许可",
-      "summary": "这家硅谷自动驾驶初创公司尚未开始无人驾驶测试。",
-      "content": "这家硅谷自动驾驶初创公司尚未开始无人驾驶测试。",
-      "category": "space",
-      "tags": [
-        "发射"
-      ],
-      "publish_time": "2026-05-06T08:07:47+08:00",
-      "sources": [
-        {
-          "name": "美国创业科技媒体",
-          "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-          "verified": true,
-          "verify_time": "2026-05-07T00:05:57.532168+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published",
-      "original_title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-      "original_summary": "The Silicon Valley AV startup has not started driverless testing yet.",
       "language": "zh-CN"
     },
     {
@@ -4325,7 +4275,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/high-power-ev-charging-us-busiest-freight-routes-greenlane/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.560714+08:00",
+          "verify_time": "2026-05-07T00:19:56.761786+08:00",
           "credibility": 78
         }
       ],
@@ -4375,7 +4325,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/ev-charger-system-runs-like-a-mini-power-plant-10-mw-abb/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.561187+08:00",
+          "verify_time": "2026-05-07T00:19:56.762555+08:00",
           "credibility": 78
         }
       ],
@@ -4425,7 +4375,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.061612+08:00",
+          "verify_time": "2026-05-07T00:19:55.308276+08:00",
           "credibility": 95
         }
       ],
@@ -4458,7 +4408,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.226831+08:00",
+          "verify_time": "2026-05-07T00:19:41.242850+08:00",
           "credibility": 82
         }
       ],
@@ -4508,7 +4458,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.227829+08:00",
+          "verify_time": "2026-05-07T00:19:41.243945+08:00",
           "credibility": 82
         }
       ],
@@ -4558,7 +4508,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.062100+08:00",
+          "verify_time": "2026-05-07T00:19:55.309059+08:00",
           "credibility": 95
         }
       ],
@@ -4592,7 +4542,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:55.924607+08:00",
+          "verify_time": "2026-05-07T00:19:32.958315+08:00",
           "credibility": 86
         }
       ],
@@ -4642,7 +4592,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.062542+08:00",
+          "verify_time": "2026-05-07T00:19:55.309557+08:00",
           "credibility": 95
         }
       ],
@@ -4675,7 +4625,7 @@
           "name": "量子计算报告",
           "url": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-simulate-12635-atom-protein-complex/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:08.520883+08:00",
+          "verify_time": "2026-05-07T00:19:52.943563+08:00",
           "credibility": 80
         }
       ],
@@ -4717,7 +4667,7 @@
           "name": "量子计算报告",
           "url": "https://quantumcomputingreport.com/quantum-art-develops-high-resolution-wave-propagation-algorithm/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:08.521891+08:00",
+          "verify_time": "2026-05-07T00:19:52.945183+08:00",
           "credibility": 80
         }
       ],
@@ -4767,7 +4717,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.062964+08:00",
+          "verify_time": "2026-05-07T00:19:55.309960+08:00",
           "credibility": 95
         }
       ],
@@ -4800,7 +4750,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.063463+08:00",
+          "verify_time": "2026-05-07T00:19:55.310810+08:00",
           "credibility": 95
         }
       ],
@@ -4834,7 +4784,7 @@
           "name": "美国国家航空航天局",
           "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:10.064275+08:00",
+          "verify_time": "2026-05-07T00:19:55.311750+08:00",
           "credibility": 95
         }
       ],
@@ -4849,6 +4799,170 @@
       "status": "published",
       "original_title": "NASA Astronaut to Answer Questions from Students in Florida",
       "original_summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin a",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b0100adb111799",
+      "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQZ0pLOFZPZW50QWRrQWtPQnV5VWs0aHlpbVpSc3dzNmdHdGVSMFBTUERNcnBsYUw0dnZ3SUJGaEpUYlEwUVpGZzdqaW1NaTIxclI0QjlFUDVHaUJDcUZUS3Eta0NjNkxTT19PRzhsTnZDOThaMkhlbXc2UG1kQV9QMFM2dng0WGxHbC02QVRrTHJNQVNETFRXWUtMT3RURUp0QzFJZXEwSWI2M1M4c21oLThKV0pHaG51NGFSRUJjdGNRSTd5THk3NWxnckxGeXdLMnJYMHBZcEh2a0ZrNkprZnR0NmhXZFU4cWR6OGdYMm5oUFRoQ3A0a2F1UUp1b2hGTFRvVXg5ZjZfN1VwTTVYRXlzUklkZmZpR0FDbXhQWGFVRW1XZTVOQUlWVG81eTRWM2g4VGhRWlpCbS04ZXZJczNnSGt0M1FHZVR2NEFvaWxLVzNfVlFEWC1WZTZabzZWVFZQMjIxUE85WHNrSTNvWEc1NWYyVjQwTlo2ZHdWcXpFMXkzeWVMeWpscy1ETFlublRvTlVRajMwU01XTWFkUC1VWGhPQlhTZXoxTVMxUU1oVEFjYW1hSEtmdmFVa3hrMTgxMUJyM3AwQlNrbWZIcFlHbGZ4eVpqZVlFeDd4Y0lOaDk0WU1XTEFvblV4X2RmbEViRGFiTlJ1eHdCU29tNEk2OHFhUG4wU3BDNlo5bHBHeFZ0SzNhbWVyWjNuRHdzTnZHRmczczdGTWNEazB5cUFfNjkxMlhCbm1YRWs5c3pmdGlOQmtCRHRYeEc4SXRHR2lfUHhVVjRPY1pGQzJYVTYtcFh6dVNBeVYtcmFzTDNYM2FRTTVJNnYyQWNfR1M5N3BkeW5wV19feENVY1ZRTXFHN2xFRFg4b1JnWGZOUEdLYmF2dVJaRjZsd3pMZGRzUlZwdmlRckRSbXBYUUpIaE1fYjdJLVZ6S0pOT2xscU4zOTVMb3pWeDExUnpkdWswQ0swUktWWnBRRnB0RVZlTEFERE53YzlMTjVadFVyQm5vWU5HSWxN?oc=5",
+      "title": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后 - 新浪财经",
+      "summary": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后新浪财经",
+      "content": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "植入式脑机",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T23:40:14+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQZ0pLOFZPZW50QWRrQWtPQnV5VWs0aHlpbVpSc3dzNmdHdGVSMFBTUERNcnBsYUw0dnZ3SUJGaEpUYlEwUVpGZzdqaW1NaTIxclI0QjlFUDVHaUJDcUZUS3Eta0NjNkxTT19PRzhsTnZDOThaMkhlbXc2UG1kQV9QMFM2dng0WGxHbC02QVRrTHJNQVNETFRXWUtMT3RURUp0QzFJZXEwSWI2M1M4c21oLThKV0pHaG51NGFSRUJjdGNRSTd5THk3NWxnckxGeXdLMnJYMHBZcEh2a0ZrNkprZnR0NmhXZFU4cWR6OGdYMm5oUFRoQ3A0a2F1UUp1b2hGTFRvVXg5ZjZfN1VwTTVYRXlzUklkZmZpR0FDbXhQWGFVRW1XZTVOQUlWVG81eTRWM2g4VGhRWlpCbS04ZXZJczNnSGt0M1FHZVR2NEFvaWxLVzNfVlFEWC1WZTZabzZWVFZQMjIxUE85WHNrSTNvWEc1NWYyVjQwTlo2ZHdWcXpFMXkzeWVMeWpscy1ETFlublRvTlVRajMwU01XTWFkUC1VWGhPQlhTZXoxTVMxUU1oVEFjYW1hSEtmdmFVa3hrMTgxMUJyM3AwQlNrbWZIcFlHbGZ4eVpqZVlFeDd4Y0lOaDk0WU1XTEFvblV4X2RmbEViRGFiTlJ1eHdCU29tNEk2OHFhUG4wU3BDNlo5bHBHeFZ0SzNhbWVyWjNuRHdzTnZHRmczczdGTWNEazB5cUFfNjkxMlhCbm1YRWs5c3pmdGlOQmtCRHRYeEc4SXRHR2lfUHhVVjRPY1pGQzJYVTYtcFh6dVNBeVYtcmFzTDNYM2FRTTVJNnYyQWNfR1M5N3BkeW5wV19feENVY1ZRTXFHN2xFRFg4b1JnWGZOUEdLYmF2dVJaRjZsd3pMZGRzUlZwdmlRckRSbXBYUUpIaE1fYjdJLVZ6S0pOT2xscU4zOTVMb3pWeDExUnpkdWswQ0swUktWWnBRRnB0RVZlTEFERE53YzlMTjVadFVyQm5vWU5HSWxN?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.531906+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 23
+      },
+      "status": "published",
+      "original_title": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后 - 新浪财经",
+      "original_summary": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2a9752cf512cb9",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPNmNEV0FWdHhOOVUxc3R0cnZGZHBsNUprVHY4Sy1MS1J1UUNnNDlubHFkWUxEbk1DTWJzVzlwSFBKczBrc2lwSw?oc=5",
+      "title": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度 - 财联社",
+      "summary": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度财联社",
+      "content": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度财联社",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T22:41:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPNmNEV0FWdHhOOVUxc3R0cnZGZHBsNUprVHY4Sy1MS1J1UUNnNDlubHFkWUxEbk1DTWJzVzlwSFBKczBrc2lwSw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.532704+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度 - 财联社",
+      "original_summary": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度 财联社",
+      "language": "zh-CN"
+    },
+    {
+      "id": "d81c3dbd1cd0f5",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-and-hasbro-miss-deadline-to-voluntarily-recognise-workers-union",
+      "title": "海岸奇才队和孩之宝错过了自愿承认工会的最后期限",
+      "summary": "海岸奇才队和孩之宝已经错过了自愿承认由万智牌竞技场开发商组成的联盟的最后期限。阅读更多",
+      "content": "海岸奇才队和孩之宝已经错过了自愿承认由万智牌竞技场开发商组成的联盟的最后期限。阅读更多",
+      "category": "gaming",
+      "tags": [
+        "游戏"
+      ],
+      "publish_time": "2026-05-05T21:49:21+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/wizards-of-the-coast-and-hasbro-miss-deadline-to-voluntarily-recognise-workers-union",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.429415+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Wizards of the Coast and Hasbro miss deadline to voluntarily recognise workers' union",
+      "original_summary": "Wizards of the Coast and Hasbro have missed the deadline to voluntarily recognise a union formed by Magic: The Gathering Arena developers . Read more",
+      "language": "zh-CN"
+    },
+    {
+      "id": "c3ef4bd3e21ddb",
+      "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNSWNaemdteUJjb2RqRTdEYVctWWduNVhnai1LYTIwUGY5RGpZLWRMejQ2VGx2S0lSM3Z0MVNCR1pXME1ESm96aU5McFE1ZHNkOGFBMmEwX2RJVDdCckx6UnFZZlAxV1pjdWY3NDcyTmJULWFkM3lmeElvYk9pSjJKVXZESE9TM3F4ekhOMmxHYWZrb2xYbEtyWFRXRi1WdnpFMEFtMk1CeXptd3ROakR0ckVLX05aT19fTkVLMXZhSnZCalBFamFmRWNoT1ZkVnpUaVFrcWhBQzR3NTFYTlNscDlMdVBkZ2x4bmtydXAxTFk2aEhPbVpkZEljaEVhSXFUcm41cVhHcnJydjRiNXRuTkgyZUU2cF9MdTN0b29oRDhYdS1zaldpODh3M3kzUDYtWHRUbGI5d2NKR1pwWW1VWXM3SE5NRWV4Wl8tc3NpVHEycTM5NGFYcnR3bXh5NG9uVUFhb3JnX3lLMWN4bVhGTGFycjVxREtMVXc0a1c2VkhmNXFoa1FycC14QjFGZmt5QzA4T3RQT1lwX0d1c1VWN3U3eVNERUV2UHc0VkhFNHlvLWtVUy1QTDJGOEdfczJZcE1USmRQNUdsMjhUR0FqSnIzY092NXNDTUlheEVkMFB6aDkyVkhxSnlrQXQyZmR4MnlobzBuYVBXQ1h4dElvUU9acDYxTS0wN0diM3FCeFN4M1hGamFDMHZtR0VVYUlPYXBrZzlCNHBiWlhVNUVOQWl4SlVFb240U3gzODl0SVJ5Z29SY0E1MVZubzJiTE4yR202SjRWMm5wSnNtTEtMR0paVjA4XzZjbjQ2N1ZZTzFCOGFWT2pOYUd2a2dmQXFyTUQtXw?oc=5",
+      "title": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地 - 新浪财经",
+      "summary": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地新浪财经",
+      "content": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "植入式脑机",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T21:38:45+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNSWNaemdteUJjb2RqRTdEYVctWWduNVhnai1LYTIwUGY5RGpZLWRMejQ2VGx2S0lSM3Z0MVNCR1pXME1ESm96aU5McFE1ZHNkOGFBMmEwX2RJVDdCckx6UnFZZlAxV1pjdWY3NDcyTmJULWFkM3lmeElvYk9pSjJKVXZESE9TM3F4ekhOMmxHYWZrb2xYbEtyWFRXRi1WdnpFMEFtMk1CeXptd3ROakR0ckVLX05aT19fTkVLMXZhSnZCalBFamFmRWNoT1ZkVnpUaVFrcWhBQzR3NTFYTlNscDlMdVBkZ2x4bmtydXAxTFk2aEhPbVpkZEljaEVhSXFUcm41cVhHcnJydjRiNXRuTkgyZUU2cF9MdTN0b29oRDhYdS1zaldpODh3M3kzUDYtWHRUbGI5d2NKR1pwWW1VWXM3SE5NRWV4Wl8tc3NpVHEycTM5NGFYcnR3bXh5NG9uVUFhb3JnX3lLMWN4bVhGTGFycjVxREtMVXc0a1c2VkhmNXFoa1FycC14QjFGZmt5QzA4T3RQT1lwX0d1c1VWN3U3eVNERUV2UHc0VkhFNHlvLWtVUy1QTDJGOEdfczJZcE1USmRQNUdsMjhUR0FqSnIzY092NXNDTUlheEVkMFB6aDkyVkhxSnlrQXQyZmR4MnlobzBuYVBXQ1h4dElvUU9acDYxTS0wN0diM3FCeFN4M1hGamFDMHZtR0VVYUlPYXBrZzlCNHBiWlhVNUVOQWl4SlVFb240U3gzODl0SVJ5Z29SY0E1MVZubzJiTE4yR202SjRWMm5wSnNtTEtMR0paVjA4XzZjbjQ2N1ZZTzFCOGFWT2pOYUd2a2dmQXFyTUQtXw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.530539+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 23
+      },
+      "status": "published",
+      "original_title": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地 - 新浪财经",
+      "original_summary": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地 新浪财经",
       "language": "zh-CN"
     },
     {
@@ -4867,7 +4981,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.229958+08:00",
+          "verify_time": "2026-05-07T00:19:41.246059+08:00",
           "credibility": 82
         }
       ],
@@ -4902,6 +5016,49 @@
       "language": "zh-CN"
     },
     {
+      "id": "0d56da253399d1",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odUdHUUtRLXpIYk1OX0RJWmRTb3FTcG5lN2ozRzl2Wjh6OGxtVzdEQ3NsRjBBdlIwbi1wTW1qcWR5dl9yX0RpRlVjOTZZVnlSal9oWVhkN29Ed2Etbi1sMldvVzJVSGdYRnEzU1k2YkM?oc=5",
+      "title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 中国科技网",
+      "summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘中国科技网",
+      "content": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘中国科技网",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T08:21:44+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odUdHUUtRLXpIYk1OX0RJWmRTb3FTcG5lN2ozRzl2Wjh6OGxtVzdEQ3NsRjBBdlIwbi1wTW1qcWR5dl9yX0RpRlVjOTZZVnlSal9oWVhkN29Ed2Etbi1sMldvVzJVSGdYRnEzU1k2YkM?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.528246+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 中国科技网",
+      "original_summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 中国科技网",
+      "language": "zh-CN"
+    },
+    {
       "id": "aedcfaee00a530",
       "url": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
       "title": "在阿耳忒弥斯二号成功之后，美国宇航局向月球迈出了一大步",
@@ -4920,7 +5077,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.233912+08:00",
+          "verify_time": "2026-05-07T00:19:41.247937+08:00",
           "credibility": 82
         }
       ],
@@ -4954,7 +5111,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:04.234834+08:00",
+          "verify_time": "2026-05-07T00:19:41.248357+08:00",
           "credibility": 82
         }
       ],
@@ -4969,6 +5126,168 @@
       "status": "published",
       "original_title": "NASA shuts down 49-year-old Voyager 1 instrument to keep it alive",
       "original_summary": "Voyager 1 just powered down a nearly 50-year-old instrument to stay alive in deep space. The spacecraft is running critically low on energy, forcing NASA to make careful sacrifices to keep its mission going. Despite the shutdown, it continu",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6927f6a0368c27",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeWk0ZHA0eVFkZjdzSnVsYmNfS1V1ajNocU1UR3ZscURPdmhHMnlNUWtXaEY1akRDQkRnYldFTWJKZTlYamNvUG5Hb3V6bS1JLXcyTXowUEVQMW1VY21zU1FsZ29vZnBRcVpPVVdNRndxNXZsVU1vTVVxUGVZbTBjYTJmMzlPVElkNVJxRGF1SzNGRjhTOGFMTHVPOWhDOHBXNlozWGNGOFpKY1RZaHU4TE1nY0lTeklJZ1RNSW1MdDE2TjVaMlhpSlJSR1F3Zm54bjE2akpoMTlEaGd6OEJEVlRVOWp2cldmU0ZSdDBkMW90VTBDSWNoNXRGUU9ENlR2UGVDTHoybkw?oc=5",
+      "title": "在脑机接口的“无人区”，种下一片春天 - 新浪财经",
+      "summary": "在脑机接口的“无人区”，种下一片春天新浪财经",
+      "content": "在脑机接口的“无人区”，种下一片春天新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-04T17:29:03+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeWk0ZHA0eVFkZjdzSnVsYmNfS1V1ajNocU1UR3ZscURPdmhHMnlNUWtXaEY1akRDQkRnYldFTWJKZTlYamNvUG5Hb3V6bS1JLXcyTXowUEVQMW1VY21zU1FsZ29vZnBRcVpPVVdNRndxNXZsVU1vTVVxUGVZbTBjYTJmMzlPVElkNVJxRGF1SzNGRjhTOGFMTHVPOWhDOHBXNlozWGNGOFpKY1RZaHU4TE1nY0lTeklJZ1RNSW1MdDE2TjVaMlhpSlJSR1F3Zm54bjE2akpoMTlEaGd6OEJEVlRVOWp2cldmU0ZSdDBkMW90VTBDSWNoNXRGUU9ENlR2UGVDTHoybkw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.532096+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "在脑机接口的“无人区”，种下一片春天 - 新浪财经",
+      "original_summary": "在脑机接口的“无人区”，种下一片春天 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "48f43e833df008",
+      "url": "https://www.gamesindustry.biz/valves-hardware-graduates-from-side-quest-to-full-blown-ambition",
+      "title": "Valve 的硬件从副业发展为全面发展的野心 |意见",
+      "summary": "2026 年对于 Valve 在硬件领域的雄心壮志来说是关键的一年，而下周，第一块拼图就将就位。 Steam 控制器的评论 – 该公司重新设计的游戏手柄，比原版游戏手柄晚了十年",
+      "content": "2026 年对于 Valve 在硬件领域的雄心壮志来说是关键的一年，而下周，第一块拼图就将就位。 Steam 控制器的评论 – 该公司重新设计的游戏手柄，比原版游戏手柄晚了十年",
+      "category": "space",
+      "tags": [
+        "航天"
+      ],
+      "publish_time": "2026-05-04T17:00:00+08:00",
+      "sources": [
+        {
+          "name": "游戏产业媒体",
+          "url": "https://www.gamesindustry.biz/valves-hardware-graduates-from-side-quest-to-full-blown-ambition",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:07.432833+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "Valve’s hardware graduates from side-quest to full-blown ambition | Opinion",
+      "original_summary": "2026 is meant to be a key year for Valve's ambitions in the hardware space, and next week, the first piece of the puzzle falls into place. Reviews for the Steam Controller – the compan's redesigned gamepad, a decade on from the original's t",
+      "language": "zh-CN"
+    },
+    {
+      "id": "67d748a7166e37",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUXRBRGtkMDRaemQ2VHg1V0Q4RkVRRlAxVnZzU1NNNlRaVl9yU1g4dnpXMEY2UVVPYldtWnNKWTIzNzlkSG0xM2w3YU95WmVyQzlYU1NTN2FhWkRiU1ZjSDZaX3kySmJtUjVHdGlKTE12akVIc2c?oc=5",
+      "title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "content": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-04T16:05:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUXRBRGtkMDRaemQ2VHg1V0Q4RkVRRlAxVnZzU1NNNlRaVl9yU1g4dnpXMEY2UVVPYldtWnNKWTIzNzlkSG0xM2w3YU95WmVyQzlYU1NTN2FhWkRiU1ZjSDZaX3kySmJtUjVHdGlKTE12akVIc2c?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.537834+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "original_summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2abe0e8e5911cc",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aYnZNRURKLWc4V3FJM0l3RFhlU1cxckVPeVp2XzB4Y0ZHVjRWU09USTVVcThseUVIZjZXdzZ5WldwZUtaNk5qUXJwaDRnSllXdFZCTVBrMFhURUVBcVlKc3RZbEo3ckRpR2NoejB5R3FWNGxRSXlWbVZ6RmY?oc=5",
+      "title": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "summary": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "content": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-04T13:21:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aYnZNRURKLWc4V3FJM0l3RFhlU1cxckVPeVp2XzB4Y0ZHVjRWU09USTVVcThseUVIZjZXdzZ5WldwZUtaNk5qUXJwaDRnSllXdFZCTVBrMFhURUVBcVlKc3RZbEo3ckRpR2NoejB5R3FWNGxRSXlWbVZ6RmY?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.539775+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "original_summary": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 新浪财经",
       "language": "zh-CN"
     }
   ]

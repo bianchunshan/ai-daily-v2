@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "description": "AI日报每小时更新配置",
+  "description": "前沿科技日报每小时更新配置",
   "update_interval": 3600,
   "retention_hours": 72,
   "per_category_limit": 30,
@@ -23,7 +23,7 @@
     "energy": {
       "name": "新能源",
       "icon": "bolt",
-      "keywords": ["renewable", "solar", "battery", "EV", "electric vehicle", "Tesla", "BYD", "CATL", "storage", "新能源", "储能", "锂电池", "光伏", "电动车"]
+      "keywords": ["renewable", "solar", "battery", "EV", "electric vehicle", "Tesla", "BYD", "CATL", "storage", "nuclear fusion", "fusion energy", "fusion power", "tokamak", "ITER", "新能源", "储能", "锂电池", "光伏", "电动车", "核聚变", "托卡马克", "人造太阳", "等离子体"]
     },
     "robotics": {
       "name": "机器人",
@@ -36,24 +36,19 @@
       "keywords": ["quantum", "qubit", "量子", "量子计算", "量子通信", "量子芯片"]
     },
     "biotech": {
-      "name": "生物科技",
+      "name": "创新药",
       "icon": "dna",
-      "keywords": ["biotech", "pharma", "drug", "FDA", "clinical", "gene therapy", "CRISPR", "vaccine", "生物", "医药", "创新药", "基因治疗", "临床"]
+      "keywords": ["biotech", "pharma", "drug", "FDA", "clinical", "gene therapy", "CRISPR", "vaccine", "GLP-1", "oncology", "antibody", "trial", "approval", "生物", "医药", "创新药", "基因治疗", "临床", "新药", "抗体", "肿瘤", "获批"]
     },
     "space": {
       "name": "商业航天",
       "icon": "rocket",
       "keywords": ["space", "SpaceX", "rocket", "satellite", "NASA", "launch", "航天", "卫星", "火箭", "星舰", "星链"]
     },
-    "fusion": {
-      "name": "核聚变",
-      "icon": "fire",
-      "keywords": ["fusion", "tokamak", "ITER", "plasma", "核聚变", "托卡马克", "人造太阳", "等离子体"]
-    },
-    "consumer": {
-      "name": "消费电子",
-      "icon": "mobile-alt",
-      "keywords": ["Apple", "iPhone", "Samsung", "Huawei", "Xiaomi", "smartphone", "wearable", "AR", "VR", "消费电子", "手机", "可穿戴", "智能硬件"]
+    "bci": {
+      "name": "脑机接口",
+      "icon": "head-side-virus",
+      "keywords": ["brain-computer interface", "BCI", "brain implant", "neural interface", "neurotechnology", "Neuralink", "Synchron", "Paradromics", "Precision Neuroscience", "脑机接口", "神经接口", "脑植入", "植入式脑机", "神经科技", "脑机"]
     },
     "gaming": {
       "name": "游戏",
@@ -83,6 +78,8 @@
       {"id": "venturebeat", "name": "VentureBeat", "url": "https://venturebeat.com/feed/", "credibility": 80},
       {"id": "google_ai", "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "credibility": 88},
       {"id": "openai", "name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "credibility": 88},
+      {"id": "bci_google_news", "name": "Google News BCI", "url": "https://news.google.com/rss/search?q=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%20OR%20Neuralink%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "credibility": 72},
+      {"id": "gamesindustry", "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss", "credibility": 78},
       {"id": "ithome", "name": "IT之家", "url": "https://www.ithome.com/rss/", "credibility": 78},
       {"id": "jiqizhixin", "name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "credibility": 80},
       {"id": "cls", "name": "财联社", "url": "https://www.cls.cn/rss", "credibility": 82}

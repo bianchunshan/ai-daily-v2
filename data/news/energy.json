@@ -2,9 +2,59 @@
   "version": "3.0",
   "category": "energy",
   "category_name": "新能源",
-  "total": 20,
-  "updated": "2026-05-07T00:06:32.641616+08:00",
+  "total": 21,
+  "updated": "2026-05-07T00:20:26.408192+08:00",
   "news": [
+    {
+      "id": "8730190bd89df5",
+      "url": "https://electrek.co/2026/05/06/ford-in-advanced-talks-sell-eu-plant-geely/",
+      "title": "福特正在就将部分欧盟工厂出售给中国吉利进行“非常深入”的谈判，但还有更多",
+      "summary": "据报道，福特正在与沃尔沃所有者吉利进行“非常深入”的谈判，以出售其位于西班牙巴伦西亚工厂的一部分。该交易可能涉及一款新的电动汽车。更多的…",
+      "content": "据报道，福特正在与沃尔沃所有者吉利进行“非常深入”的谈判，以出售其位于西班牙巴伦西亚工厂的一部分。该交易可能涉及一款新的电动汽车。更多的…",
+      "category": "energy",
+      "tags": [
+        "电动车"
+      ],
+      "publish_time": "2026-05-07T00:15:31+08:00",
+      "sources": [
+        {
+          "name": "新能源交通媒体",
+          "url": "https://electrek.co/2026/05/06/ford-in-advanced-talks-sell-eu-plant-geely/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:19:56.745735+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Ford is in ‘very advanced’ talks to sell part of EU plant to China’s Geely, but there’s more",
+      "original_summary": "Ford is reportedly in “very advanced” talks with Volvo owner, Geely, to sell a portion of its Valencia plant in Spain. The deal may involve a new electric vehicle. more…",
+      "language": "zh-CN"
+    },
     {
       "id": "c50dd2f94e2622",
       "url": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
@@ -21,7 +71,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:05:56.590993+08:00",
+          "verify_time": "2026-05-07T00:19:33.663600+08:00",
           "credibility": 86
         }
       ],
@@ -71,7 +121,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/there-are-now-more-than-2-million-uk-solar-installations/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.009403+08:00",
+          "verify_time": "2026-05-07T00:19:58.207341+08:00",
           "credibility": 78
         }
       ],
@@ -124,7 +174,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/firm-solar-and-storage-costs-fall-to-54-mwh-says-irena/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.009975+08:00",
+          "verify_time": "2026-05-07T00:19:58.208154+08:00",
           "credibility": 78
         }
       ],
@@ -174,7 +224,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.010386+08:00",
+          "verify_time": "2026-05-07T00:19:58.208847+08:00",
           "credibility": 78
         }
       ],
@@ -224,7 +274,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/985.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:20.071622+08:00",
+          "verify_time": "2026-05-07T00:20:08.150606+08:00",
           "credibility": 78
         }
       ],
@@ -274,7 +324,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/norwegian-startup-testing-hybrid-solar-wave-wind-system/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.010773+08:00",
+          "verify_time": "2026-05-07T00:19:58.209358+08:00",
           "credibility": 78
         }
       ],
@@ -324,7 +374,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/sinovoltaics-launches-free-tool-for-project-specific-pv-module-test-scopes/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.011163+08:00",
+          "verify_time": "2026-05-07T00:19:58.209842+08:00",
           "credibility": 78
         }
       ],
@@ -374,7 +424,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/pv-module-recycling-technologies-progressing-says-iea-pvps/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.011578+08:00",
+          "verify_time": "2026-05-07T00:19:58.210384+08:00",
           "credibility": 78
         }
       ],
@@ -424,7 +474,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/06/massachusetts-proposes-first-in-the-nation-e-bike-and-moped-laws-based-on-speed/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.554270+08:00",
+          "verify_time": "2026-05-07T00:19:56.758291+08:00",
           "credibility": 78
         }
       ],
@@ -476,7 +526,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.011927+08:00",
+          "verify_time": "2026-05-07T00:19:58.210782+08:00",
           "credibility": 78
         }
       ],
@@ -526,7 +576,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/fraunhofer-ise-opens-perovskite-silicon-tandem-scale-up-lab/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.012270+08:00",
+          "verify_time": "2026-05-07T00:19:58.211173+08:00",
           "credibility": 78
         }
       ],
@@ -576,7 +626,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.012771+08:00",
+          "verify_time": "2026-05-07T00:19:58.211718+08:00",
           "credibility": 78
         }
       ],
@@ -626,7 +676,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/solar-panels-reduces-thermal-stress-in-dairy-barns-during-critical-afternoon-hours/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.013464+08:00",
+          "verify_time": "2026-05-07T00:19:58.212253+08:00",
           "credibility": 78
         }
       ],
@@ -676,7 +726,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/brazil-revokes-3-57-gw-of-solar-permits-amid-grid-connection-constraints/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.013869+08:00",
+          "verify_time": "2026-05-07T00:19:58.212725+08:00",
           "credibility": 78
         }
       ],
@@ -726,7 +776,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/arctech-debuts-topcon-photovoltaic-pavement-solution/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.014192+08:00",
+          "verify_time": "2026-05-07T00:19:58.213097+08:00",
           "credibility": 78
         }
       ],
@@ -776,7 +826,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/really-quick-charge-greenlane-ceo-talks-expansion-deals-and-more/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.555455+08:00",
+          "verify_time": "2026-05-07T00:19:56.758983+08:00",
           "credibility": 78
         }
       ],
@@ -826,7 +876,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:14.015007+08:00",
+          "verify_time": "2026-05-07T00:19:58.214740+08:00",
           "credibility": 78
         }
       ],
@@ -876,7 +926,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.560060+08:00",
+          "verify_time": "2026-05-07T00:19:56.760853+08:00",
           "credibility": 78
         }
       ],
@@ -926,7 +976,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/high-power-ev-charging-us-busiest-freight-routes-greenlane/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.560714+08:00",
+          "verify_time": "2026-05-07T00:19:56.761786+08:00",
           "credibility": 78
         }
       ],
@@ -976,7 +1026,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/ev-charger-system-runs-like-a-mini-power-plant-10-mw-abb/",
           "verified": true,
-          "verify_time": "2026-05-07T00:06:11.561187+08:00",
+          "verify_time": "2026-05-07T00:19:56.762555+08:00",
           "credibility": 78
         }
       ],

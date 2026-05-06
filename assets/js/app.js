@@ -6,7 +6,7 @@
 
 // ==================== 配置常量 ====================
 const CONFIG = {
-    VERSION: '3.2.1',
+    VERSION: '3.3.0',
     API_BASE: 'data/news',
     ITEMS_PER_PAGE: 10,
     CACHE_TTL: 5 * 60 * 1000, // 5分钟缓存
@@ -38,10 +38,9 @@ const State = {
         'energy': { name: '新能源', icon: 'bolt', color: 'yellow' },
         'robotics': { name: '机器人', icon: 'robot', color: 'red' },
         'quantum': { name: '量子计算', icon: 'atom', color: 'cyan' },
-        'biotech': { name: '生物科技', icon: 'dna', color: 'pink' },
+        'biotech': { name: '创新药', icon: 'capsules', color: 'pink' },
+        'bci': { name: '脑机接口', icon: 'head-side-virus', color: 'indigo' },
         'space': { name: '商业航天', icon: 'rocket', color: 'orange' },
-        'fusion': { name: '核聚变', icon: 'fire', color: 'amber' },
-        'consumer': { name: '消费电子', icon: 'mobile-alt', color: 'indigo' },
         'gaming': { name: '游戏', icon: 'gamepad', color: 'teal' }
     }
 };

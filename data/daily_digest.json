@@ -2,20 +2,20 @@
   "date": "2026-05-07",
   "type": "daily_digest",
   "summary": {
-    "total_new": 111,
+    "total_new": 110,
     "breaking": 10,
     "opportunities": 15,
     "by_category": {
       "biotech": 18,
-      "ai": 22,
+      "ai": 20,
       "robotics": 4,
-      "fusion": 2,
-      "world": 19,
-      "consumer": 1,
+      "world": 18,
+      "energy": 21,
+      "gaming": 3,
       "space": 13,
       "semiconductor": 5,
-      "energy": 20,
-      "quantum": 7
+      "quantum": 7,
+      "bci": 1
     }
   },
   "top_news": [
@@ -100,5 +100,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-07T00:06:32.650406+08:00"
+  "generated_at": "2026-05-07T00:20:26.420958+08:00"
 }

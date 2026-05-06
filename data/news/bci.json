@@ -1,0 +1,355 @@
+{
+  "version": "3.0",
+  "category": "bci",
+  "category_name": "脑机接口",
+  "total": 8,
+  "updated": "2026-05-07T00:20:26.413250+08:00",
+  "news": [
+    {
+      "id": "5c4689d598c158",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XeUV5dWNpVFhZa3dISFJFOGZUVjZmUFpCVWJFWVduTjJHSi01Z184VGdDT2h1Q0k0WWs3RDdDM0UzcWZrMEdFam81dmwyLThqWV9LQnhwZW5mSEdLc09Gb1AybHk4dw?oc=5",
+      "title": "东南网架：公司目前暂未涉及氢能、脑机接口业务 - 东方财富",
+      "summary": "东南网架：公司目前暂未涉及氢能、脑机接口业务东方财富",
+      "content": "东南网架：公司目前暂未涉及氢能、脑机接口业务东方财富",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-06T21:07:19+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XeUV5dWNpVFhZa3dISFJFOGZUVjZmUFpCVWJFWVduTjJHSi01Z184VGdDT2h1Q0k0WWs3RDdDM0UzcWZrMEdFam81dmwyLThqWV9LQnhwZW5mSEdLc09Gb1AybHk4dw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.540787+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "东南网架：公司目前暂未涉及氢能、脑机接口业务 - 东方财富",
+      "original_summary": "东南网架：公司目前暂未涉及氢能、脑机接口业务 东方财富",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b0100adb111799",
+      "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQZ0pLOFZPZW50QWRrQWtPQnV5VWs0aHlpbVpSc3dzNmdHdGVSMFBTUERNcnBsYUw0dnZ3SUJGaEpUYlEwUVpGZzdqaW1NaTIxclI0QjlFUDVHaUJDcUZUS3Eta0NjNkxTT19PRzhsTnZDOThaMkhlbXc2UG1kQV9QMFM2dng0WGxHbC02QVRrTHJNQVNETFRXWUtMT3RURUp0QzFJZXEwSWI2M1M4c21oLThKV0pHaG51NGFSRUJjdGNRSTd5THk3NWxnckxGeXdLMnJYMHBZcEh2a0ZrNkprZnR0NmhXZFU4cWR6OGdYMm5oUFRoQ3A0a2F1UUp1b2hGTFRvVXg5ZjZfN1VwTTVYRXlzUklkZmZpR0FDbXhQWGFVRW1XZTVOQUlWVG81eTRWM2g4VGhRWlpCbS04ZXZJczNnSGt0M1FHZVR2NEFvaWxLVzNfVlFEWC1WZTZabzZWVFZQMjIxUE85WHNrSTNvWEc1NWYyVjQwTlo2ZHdWcXpFMXkzeWVMeWpscy1ETFlublRvTlVRajMwU01XTWFkUC1VWGhPQlhTZXoxTVMxUU1oVEFjYW1hSEtmdmFVa3hrMTgxMUJyM3AwQlNrbWZIcFlHbGZ4eVpqZVlFeDd4Y0lOaDk0WU1XTEFvblV4X2RmbEViRGFiTlJ1eHdCU29tNEk2OHFhUG4wU3BDNlo5bHBHeFZ0SzNhbWVyWjNuRHdzTnZHRmczczdGTWNEazB5cUFfNjkxMlhCbm1YRWs5c3pmdGlOQmtCRHRYeEc4SXRHR2lfUHhVVjRPY1pGQzJYVTYtcFh6dVNBeVYtcmFzTDNYM2FRTTVJNnYyQWNfR1M5N3BkeW5wV19feENVY1ZRTXFHN2xFRFg4b1JnWGZOUEdLYmF2dVJaRjZsd3pMZGRzUlZwdmlRckRSbXBYUUpIaE1fYjdJLVZ6S0pOT2xscU4zOTVMb3pWeDExUnpkdWswQ0swUktWWnBRRnB0RVZlTEFERE53YzlMTjVadFVyQm5vWU5HSWxN?oc=5",
+      "title": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后 - 新浪财经",
+      "summary": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后新浪财经",
+      "content": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "植入式脑机",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T23:40:14+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQZ0pLOFZPZW50QWRrQWtPQnV5VWs0aHlpbVpSc3dzNmdHdGVSMFBTUERNcnBsYUw0dnZ3SUJGaEpUYlEwUVpGZzdqaW1NaTIxclI0QjlFUDVHaUJDcUZUS3Eta0NjNkxTT19PRzhsTnZDOThaMkhlbXc2UG1kQV9QMFM2dng0WGxHbC02QVRrTHJNQVNETFRXWUtMT3RURUp0QzFJZXEwSWI2M1M4c21oLThKV0pHaG51NGFSRUJjdGNRSTd5THk3NWxnckxGeXdLMnJYMHBZcEh2a0ZrNkprZnR0NmhXZFU4cWR6OGdYMm5oUFRoQ3A0a2F1UUp1b2hGTFRvVXg5ZjZfN1VwTTVYRXlzUklkZmZpR0FDbXhQWGFVRW1XZTVOQUlWVG81eTRWM2g4VGhRWlpCbS04ZXZJczNnSGt0M1FHZVR2NEFvaWxLVzNfVlFEWC1WZTZabzZWVFZQMjIxUE85WHNrSTNvWEc1NWYyVjQwTlo2ZHdWcXpFMXkzeWVMeWpscy1ETFlublRvTlVRajMwU01XTWFkUC1VWGhPQlhTZXoxTVMxUU1oVEFjYW1hSEtmdmFVa3hrMTgxMUJyM3AwQlNrbWZIcFlHbGZ4eVpqZVlFeDd4Y0lOaDk0WU1XTEFvblV4X2RmbEViRGFiTlJ1eHdCU29tNEk2OHFhUG4wU3BDNlo5bHBHeFZ0SzNhbWVyWjNuRHdzTnZHRmczczdGTWNEazB5cUFfNjkxMlhCbm1YRWs5c3pmdGlOQmtCRHRYeEc4SXRHR2lfUHhVVjRPY1pGQzJYVTYtcFh6dVNBeVYtcmFzTDNYM2FRTTVJNnYyQWNfR1M5N3BkeW5wV19feENVY1ZRTXFHN2xFRFg4b1JnWGZOUEdLYmF2dVJaRjZsd3pMZGRzUlZwdmlRckRSbXBYUUpIaE1fYjdJLVZ6S0pOT2xscU4zOTVMb3pWeDExUnpkdWswQ0swUktWWnBRRnB0RVZlTEFERE53YzlMTjVadFVyQm5vWU5HSWxN?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.531906+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 23
+      },
+      "status": "published",
+      "original_title": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后 - 新浪财经",
+      "original_summary": "何以上海？全球首个植入式脑机接口三类医疗器械获批上市的背后 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2a9752cf512cb9",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPNmNEV0FWdHhOOVUxc3R0cnZGZHBsNUprVHY4Sy1MS1J1UUNnNDlubHFkWUxEbk1DTWJzVzlwSFBKczBrc2lwSw?oc=5",
+      "title": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度 - 财联社",
+      "summary": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度财联社",
+      "content": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度财联社",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T22:41:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPNmNEV0FWdHhOOVUxc3R0cnZGZHBsNUprVHY4Sy1MS1J1UUNnNDlubHFkWUxEbk1DTWJzVzlwSFBKczBrc2lwSw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.532704+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度 - 财联社",
+      "original_summary": "强脑科技韩璧丞：从脑机接口，到脑接世界|深度 财联社",
+      "language": "zh-CN"
+    },
+    {
+      "id": "c3ef4bd3e21ddb",
+      "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNSWNaemdteUJjb2RqRTdEYVctWWduNVhnai1LYTIwUGY5RGpZLWRMejQ2VGx2S0lSM3Z0MVNCR1pXME1ESm96aU5McFE1ZHNkOGFBMmEwX2RJVDdCckx6UnFZZlAxV1pjdWY3NDcyTmJULWFkM3lmeElvYk9pSjJKVXZESE9TM3F4ekhOMmxHYWZrb2xYbEtyWFRXRi1WdnpFMEFtMk1CeXptd3ROakR0ckVLX05aT19fTkVLMXZhSnZCalBFamFmRWNoT1ZkVnpUaVFrcWhBQzR3NTFYTlNscDlMdVBkZ2x4bmtydXAxTFk2aEhPbVpkZEljaEVhSXFUcm41cVhHcnJydjRiNXRuTkgyZUU2cF9MdTN0b29oRDhYdS1zaldpODh3M3kzUDYtWHRUbGI5d2NKR1pwWW1VWXM3SE5NRWV4Wl8tc3NpVHEycTM5NGFYcnR3bXh5NG9uVUFhb3JnX3lLMWN4bVhGTGFycjVxREtMVXc0a1c2VkhmNXFoa1FycC14QjFGZmt5QzA4T3RQT1lwX0d1c1VWN3U3eVNERUV2UHc0VkhFNHlvLWtVUy1QTDJGOEdfczJZcE1USmRQNUdsMjhUR0FqSnIzY092NXNDTUlheEVkMFB6aDkyVkhxSnlrQXQyZmR4MnlobzBuYVBXQ1h4dElvUU9acDYxTS0wN0diM3FCeFN4M1hGamFDMHZtR0VVYUlPYXBrZzlCNHBiWlhVNUVOQWl4SlVFb240U3gzODl0SVJ5Z29SY0E1MVZubzJiTE4yR202SjRWMm5wSnNtTEtMR0paVjA4XzZjbjQ2N1ZZTzFCOGFWT2pOYUd2a2dmQXFyTUQtXw?oc=5",
+      "title": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地 - 新浪财经",
+      "summary": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地新浪财经",
+      "content": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "植入式脑机",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T21:38:45+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNSWNaemdteUJjb2RqRTdEYVctWWduNVhnai1LYTIwUGY5RGpZLWRMejQ2VGx2S0lSM3Z0MVNCR1pXME1ESm96aU5McFE1ZHNkOGFBMmEwX2RJVDdCckx6UnFZZlAxV1pjdWY3NDcyTmJULWFkM3lmeElvYk9pSjJKVXZESE9TM3F4ekhOMmxHYWZrb2xYbEtyWFRXRi1WdnpFMEFtMk1CeXptd3ROakR0ckVLX05aT19fTkVLMXZhSnZCalBFamFmRWNoT1ZkVnpUaVFrcWhBQzR3NTFYTlNscDlMdVBkZ2x4bmtydXAxTFk2aEhPbVpkZEljaEVhSXFUcm41cVhHcnJydjRiNXRuTkgyZUU2cF9MdTN0b29oRDhYdS1zaldpODh3M3kzUDYtWHRUbGI5d2NKR1pwWW1VWXM3SE5NRWV4Wl8tc3NpVHEycTM5NGFYcnR3bXh5NG9uVUFhb3JnX3lLMWN4bVhGTGFycjVxREtMVXc0a1c2VkhmNXFoa1FycC14QjFGZmt5QzA4T3RQT1lwX0d1c1VWN3U3eVNERUV2UHc0VkhFNHlvLWtVUy1QTDJGOEdfczJZcE1USmRQNUdsMjhUR0FqSnIzY092NXNDTUlheEVkMFB6aDkyVkhxSnlrQXQyZmR4MnlobzBuYVBXQ1h4dElvUU9acDYxTS0wN0diM3FCeFN4M1hGamFDMHZtR0VVYUlPYXBrZzlCNHBiWlhVNUVOQWl4SlVFb240U3gzODl0SVJ5Z29SY0E1MVZubzJiTE4yR202SjRWMm5wSnNtTEtMR0paVjA4XzZjbjQ2N1ZZTzFCOGFWT2pOYUd2a2dmQXFyTUQtXw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.530539+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 23
+      },
+      "status": "published",
+      "original_title": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地 - 新浪财经",
+      "original_summary": "全球首款获批上市的植入式脑机接口产品！上海率先启动脑机接口产业规模化落地 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "0d56da253399d1",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odUdHUUtRLXpIYk1OX0RJWmRTb3FTcG5lN2ozRzl2Wjh6OGxtVzdEQ3NsRjBBdlIwbi1wTW1qcWR5dl9yX0RpRlVjOTZZVnlSal9oWVhkN29Ed2Etbi1sMldvVzJVSGdYRnEzU1k2YkM?oc=5",
+      "title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 中国科技网",
+      "summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘中国科技网",
+      "content": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘中国科技网",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-05T08:21:44+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odUdHUUtRLXpIYk1OX0RJWmRTb3FTcG5lN2ozRzl2Wjh6OGxtVzdEQ3NsRjBBdlIwbi1wTW1qcWR5dl9yX0RpRlVjOTZZVnlSal9oWVhkN29Ed2Etbi1sMldvVzJVSGdYRnEzU1k2YkM?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.528246+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 中国科技网",
+      "original_summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 中国科技网",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6927f6a0368c27",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeWk0ZHA0eVFkZjdzSnVsYmNfS1V1ajNocU1UR3ZscURPdmhHMnlNUWtXaEY1akRDQkRnYldFTWJKZTlYamNvUG5Hb3V6bS1JLXcyTXowUEVQMW1VY21zU1FsZ29vZnBRcVpPVVdNRndxNXZsVU1vTVVxUGVZbTBjYTJmMzlPVElkNVJxRGF1SzNGRjhTOGFMTHVPOWhDOHBXNlozWGNGOFpKY1RZaHU4TE1nY0lTeklJZ1RNSW1MdDE2TjVaMlhpSlJSR1F3Zm54bjE2akpoMTlEaGd6OEJEVlRVOWp2cldmU0ZSdDBkMW90VTBDSWNoNXRGUU9ENlR2UGVDTHoybkw?oc=5",
+      "title": "在脑机接口的“无人区”，种下一片春天 - 新浪财经",
+      "summary": "在脑机接口的“无人区”，种下一片春天新浪财经",
+      "content": "在脑机接口的“无人区”，种下一片春天新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-04T17:29:03+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeWk0ZHA0eVFkZjdzSnVsYmNfS1V1ajNocU1UR3ZscURPdmhHMnlNUWtXaEY1akRDQkRnYldFTWJKZTlYamNvUG5Hb3V6bS1JLXcyTXowUEVQMW1VY21zU1FsZ29vZnBRcVpPVVdNRndxNXZsVU1vTVVxUGVZbTBjYTJmMzlPVElkNVJxRGF1SzNGRjhTOGFMTHVPOWhDOHBXNlozWGNGOFpKY1RZaHU4TE1nY0lTeklJZ1RNSW1MdDE2TjVaMlhpSlJSR1F3Zm54bjE2akpoMTlEaGd6OEJEVlRVOWp2cldmU0ZSdDBkMW90VTBDSWNoNXRGUU9ENlR2UGVDTHoybkw?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.532096+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "在脑机接口的“无人区”，种下一片春天 - 新浪财经",
+      "original_summary": "在脑机接口的“无人区”，种下一片春天 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "67d748a7166e37",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUXRBRGtkMDRaemQ2VHg1V0Q4RkVRRlAxVnZzU1NNNlRaVl9yU1g4dnpXMEY2UVVPYldtWnNKWTIzNzlkSG0xM2w3YU95WmVyQzlYU1NTN2FhWkRiU1ZjSDZaX3kySmJtUjVHdGlKTE12akVIc2c?oc=5",
+      "title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "content": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-04T16:05:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUXRBRGtkMDRaemQ2VHg1V0Q4RkVRRlAxVnZzU1NNNlRaVl9yU1g4dnpXMEY2UVVPYldtWnNKWTIzNzlkSG0xM2w3YU95WmVyQzlYU1NTN2FhWkRiU1ZjSDZaX3kySmJtUjVHdGlKTE12akVIc2c?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.537834+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "original_summary": "他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 新浪财经",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2abe0e8e5911cc",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aYnZNRURKLWc4V3FJM0l3RFhlU1cxckVPeVp2XzB4Y0ZHVjRWU09USTVVcThseUVIZjZXdzZ5WldwZUtaNk5qUXJwaDRnSllXdFZCTVBrMFhURUVBcVlKc3RZbEo3ckRpR2NoejB5R3FWNGxRSXlWbVZ6RmY?oc=5",
+      "title": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "summary": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "content": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘新浪财经",
+      "category": "bci",
+      "tags": [
+        "脑机接口",
+        "脑机"
+      ],
+      "publish_time": "2026-05-04T13:21:00+08:00",
+      "sources": [
+        {
+          "name": "脑机接口聚合新闻",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aYnZNRURKLWc4V3FJM0l3RFhlU1cxckVPeVp2XzB4Y0ZHVjRWU09USTVVcThseUVIZjZXdzZ5WldwZUtaNk5qUXJwaDRnSllXdFZCTVBrMFhURUVBcVlKc3RZbEo3ckRpR2NoejB5R3FWNGxRSXlWbVZ6RmY?oc=5",
+          "verified": true,
+          "verify_time": "2026-05-07T00:20:05.539775+08:00",
+          "credibility": 72
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：脑机接口",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 72,
+        "opportunity_score": 19
+      },
+      "status": "published",
+      "original_title": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 - 新浪财经",
+      "original_summary": "科创青年说丨他们在脑机接口技术前沿探索“三磅宇宙”的奥秘 新浪财经",
+      "language": "zh-CN"
+    }
+  ]
+}

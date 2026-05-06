@@ -338,8 +338,8 @@ class RealNewsScraper:
             "ai": ["NVDA", "MSFT"],
             "semiconductor": ["NVDA", "TSM"],
             "energy": ["TSLA", "BYD"],
-            "consumer": ["AAPL", "QCOM"],
             "biotech": ["LLY", "NVO"],
+            "bci": ["TSLA", "ABT"],
             "quantum": ["IBM", "IONQ"]
         }.get(item["category"], [])
         stock_by_symbol = {stock["symbol"]: stock for stock in self.stocks}
@@ -718,7 +718,7 @@ def translate_tag(tag: str) -> str:
         "Optimus": "特斯拉机器人",
         "quantum": "量子",
         "qubit": "量子比特",
-        "biotech": "生物科技",
+        "biotech": "创新药",
         "pharma": "制药",
         "drug": "药物",
         "clinical": "临床试验",
@@ -730,7 +730,13 @@ def translate_tag(tag: str) -> str:
         "rocket": "火箭",
         "satellite": "卫星",
         "launch": "发射",
-        "fusion": "核聚变",
+        "brain-computer interface": "脑机接口",
+        "BCI": "脑机接口",
+        "brain implant": "脑植入",
+        "neural interface": "神经接口",
+        "neurotechnology": "神经科技",
+        "Neuralink": "Neuralink",
+        "Synchron": "Synchron",
         "tokamak": "托卡马克",
         "ITER": "国际热核聚变实验堆",
         "plasma": "等离子体",
@@ -777,7 +783,7 @@ def source_display_name(name: str) -> str:
         "MIT Technology Review": "麻省理工科技评论",
         "Nature": "自然杂志",
         "ScienceDaily": "科学日报",
-        "Fierce Biotech": "美国生物科技媒体",
+        "Fierce Biotech": "美国创新药媒体",
         "BioPharma Dive": "美国生物医药媒体",
         "GEN": "基因工程新闻",
         "The Quantum Insider": "量子科技资讯",
@@ -789,6 +795,8 @@ def source_display_name(name: str) -> str:
         "VentureBeat": "美国科技商业媒体",
         "Google AI Blog": "谷歌 AI 博客",
         "OpenAI News": "OpenAI 官方新闻",
+        "Google News BCI": "脑机接口聚合新闻",
+        "GamesIndustry.biz": "游戏产业媒体",
         "IT之家": "IT之家",
         "机器之心": "机器之心",
         "财联社": "财联社"
@@ -804,10 +812,9 @@ def category_display_name(category: str) -> str:
         "energy": "新能源",
         "robotics": "机器人",
         "quantum": "量子计算",
-        "biotech": "生物科技",
+        "biotech": "创新药",
+        "bci": "脑机接口",
         "space": "商业航天",
-        "fusion": "核聚变",
-        "consumer": "消费电子",
         "gaming": "游戏"
     }
     return mapping.get(category, category)
@@ -819,6 +826,10 @@ def source_hint_category(source_name: str) -> str | None:
         return "biotech"
     if any(token in name for token in ["quantum"]):
         return "quantum"
+    if any(token in name for token in ["neuralink", "neuro", "brain", "bci"]):
+        return "bci"
+    if any(token in name for token in ["gamesindustry", "gaming", "game"]):
+        return "gaming"
     if any(token in name for token in ["nasa", "spacenews"]):
         return "space"
     if any(token in name for token in ["electrek", "pv magazine"]):

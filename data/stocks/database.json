@@ -84,7 +84,7 @@
       "market_cap": "180B",
       "description": "移动通信芯片设计商",
       "tags": ["手机芯片", "5G", "IoT"],
-      "related_categories": ["semiconductor", "consumer"]
+      "related_categories": ["semiconductor"]
     },
     {
       "symbol": "AMAT",
@@ -168,7 +168,7 @@
       "market_cap": "1.5T",
       "description": "Facebook母公司，元宇宙和AI投资者",
       "tags": ["社交", "AI", "元宇宙", "VR"],
-      "related_categories": ["ai", "consumer"]
+      "related_categories": ["ai"]
     },
     {
       "symbol": "TSLA",
@@ -180,19 +180,19 @@
       "market_cap": "800B",
       "description": "电动汽车和清洁能源公司",
       "tags": ["电动车", "能源存储", "自动驾驶", "机器人"],
-      "related_categories": ["energy", "robotics", "consumer"]
+      "related_categories": ["energy", "robotics", "bci"]
     },
     {
       "symbol": "AAPL",
       "name": "苹果",
       "name_en": "Apple Inc.",
       "exchange": "NASDAQ",
-      "sector": "消费电子",
+      "sector": "AI终端/硬件",
       "country": "US",
       "market_cap": "3.5T",
-      "description": "全球领先的消费电子公司",
+      "description": "全球领先的AI终端和硬件生态公司",
       "tags": ["手机", "电脑", "服务"],
-      "related_categories": ["consumer", "ai"]
+      "related_categories": ["ai", "semiconductor"]
     },
     {
       "symbol": "NFLX",
@@ -204,7 +204,7 @@
       "market_cap": "380B",
       "description": "全球领先的流媒体平台",
       "tags": ["流媒体", "内容"],
-      "related_categories": ["consumer"]
+      "related_categories": ["gaming"]
     },
     {
       "symbol": "CRM",
@@ -408,7 +408,7 @@
       "market_cap": "90B",
       "description": "全球领先的新能源汽车和电池制造商",
       "tags": ["电动车", "电池", "新能源"],
-      "related_categories": ["energy", "consumer"]
+      "related_categories": ["energy"]
     }
   ]
 }

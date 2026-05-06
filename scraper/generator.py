@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI日报数据生成器
+    前沿科技日报数据生成器
 快速生成1100+条高质量模拟数据
 用于演示和测试
 """
@@ -15,7 +15,7 @@ class DataGenerator:
         self.output_dir = Path("../data/news")
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
-        # 11大板块
+        # 前沿科技主板块
         self.categories = {
             "world": {
                 "name": "国际局势",
@@ -52,13 +52,15 @@ class DataGenerator:
             },
             "energy": {
                 "name": "新能源",
-                "keywords": ["光伏", "储能", "锂电池", "电动车", "宁德时代", "比亚迪", "特斯拉", "风电", "氢能"],
+                "keywords": ["光伏", "储能", "锂电池", "电动车", "宁德时代", "比亚迪", "特斯拉", "风电", "氢能", "核聚变", "托卡马克", "人造太阳", "等离子体"],
                 "templates": [
                     "{company}发布新一代{product}，续航提升{percent}%",
                     "{country}光伏装机量达{amount}GW，同比增长{percent}%",
                     "{company}与{company2}签署{amount}GWh{product}供应协议",
                     "{company}{product}产能突破{amount}GWh，全球领先",
-                    "{company}投资{amount}亿元建设{location}{product}基地"
+                    "{company}投资{amount}亿元建设{location}{product}基地",
+                    "{company}核聚变装置{product}实现{duration}秒持续运行",
+                    "{company}与{company2}合作推进{location}核聚变商业化项目"
                 ]
             },
             "robotics": {
@@ -84,7 +86,7 @@ class DataGenerator:
                 ]
             },
             "biotech": {
-                "name": "生物科技",
+                "name": "创新药",
                 "keywords": ["创新药", "基因治疗", "mRNA", "疫苗", "减肥药", "礼来", "诺和诺德", "癌症治疗"],
                 "templates": [
                     "{company}新药{product}获批上市，治疗{condition}",
@@ -105,26 +107,15 @@ class DataGenerator:
                     "{company}太空旅游票价降至{amount}万美元"
                 ]
             },
-            "fusion": {
-                "name": "核聚变",
-                "keywords": ["托卡马克", "激光聚变", "ITER", "人造太阳", "清洁能源", "等离子体"],
+            "bci": {
+                "name": "脑机接口",
+                "keywords": ["脑机接口", "神经接口", "脑植入", "Neuralink", "Synchron", "神经科技", "植入式脑机"],
                 "templates": [
-                    "{company}核聚变装置{product}实现{duration}秒持续运行",
-                    "{company}完成{amount}亿美元融资，推进{product}商业化",
-                    "{company}与{company2}合作建设{location}核聚变电站",
-                    "{country}核聚变实验装置{product}实现能量增益Q>1",
-                    "{company}预计{year}年实现核聚变并网发电"
-                ]
-            },
-            "consumer": {
-                "name": "消费电子",
-                "keywords": ["iPhone", "华为", "小米", "三星", "智能手机", "VR/AR", "可穿戴设备"],
-                "templates": [
-                    "{company}发布{product}，搭载{feature}",
-                    "{company}{product}首销突破{amount}万台",
-                    "{company}与{company2}达成{product}供应链合作",
-                    "{company}折叠屏手机{product}出货量突破{amount}万台",
-                    "{company}AR眼镜{product}开始量产，售价{amount}元"
+                    "{company}脑机接口设备{product}完成新一轮临床试验",
+                    "{company}获得{amount}亿美元融资，推进植入式脑机接口商业化",
+                    "{company}与{company2}合作开发神经接口{product}",
+                    "{country}批准{product}进入脑机接口人体试验阶段",
+                    "{company}发布非侵入式脑机接口方案{product}"
                 ]
             },
             "gaming": {
@@ -159,14 +150,14 @@ class DataGenerator:
             "TSM": {"name": "台积电", "categories": ["semiconductor"]},
             "ASML": {"name": "阿斯麦", "categories": ["semiconductor"]},
             "AVGO": {"name": "博通", "categories": ["semiconductor"]},
-            "QCOM": {"name": "高通", "categories": ["semiconductor", "consumer"]},
+            "QCOM": {"name": "高通", "categories": ["semiconductor"]},
             "MSFT": {"name": "微软", "categories": ["ai", "gaming"]},
             "GOOGL": {"name": "谷歌", "categories": ["ai", "robotics"]},
             "AMZN": {"name": "亚马逊", "categories": ["ai", "gaming"]},
-            "META": {"name": "Meta", "categories": ["ai", "consumer"]},
-            "TSLA": {"name": "特斯拉", "categories": ["energy", "robotics", "consumer"]},
-            "AAPL": {"name": "苹果", "categories": ["consumer", "ai"]},
-            "BYD": {"name": "比亚迪", "categories": ["energy", "consumer"]},
+            "META": {"name": "Meta", "categories": ["ai"]},
+            "TSLA": {"name": "特斯拉", "categories": ["energy", "robotics", "bci"]},
+            "AAPL": {"name": "苹果", "categories": ["ai", "semiconductor"]},
+            "BYD": {"name": "比亚迪", "categories": ["energy"]},
             "PLTR": {"name": "Palantir", "categories": ["ai"]},
             "LLY": {"name": "礼来", "categories": ["biotech"]},
             "NVO": {"name": "诺和诺德", "categories": ["biotech"]},
