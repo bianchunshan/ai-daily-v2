@@ -2,7 +2,41 @@
   "version": "3.0",
   "category": "fusion",
   "category_name": "核聚变",
-  "total": 0,
-  "updated": "2026-05-06T23:04:59.703128+08:00",
-  "news": []
+  "total": 1,
+  "updated": "2026-05-06T23:25:55.411118+08:00",
+  "news": [
+    {
+      "id": "2775bdb63ddb67",
+      "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
+      "title": "BioCryst 放弃眼科候选药物，专注于罕见疾病",
+      "summary": "该公司宣布已完成血浆激肽释放酶抑制剂的开发，该抑制剂正在研究用于治疗糖尿病性黄斑水肿。",
+      "content": "该公司宣布已完成血浆激肽释放酶抑制剂的开发，该抑制剂正在研究用于治疗糖尿病性黄斑水肿。",
+      "category": "fusion",
+      "tags": [
+        "等离子体"
+      ],
+      "publish_time": "2026-05-06T23:25:23.463662+08:00",
+      "sources": [
+        {
+          "name": "美国生物科技媒体",
+          "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:23.464338+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 49
+      },
+      "status": "published",
+      "original_title": "BioCryst scraps eye candidate to focus on rare diseases",
+      "original_summary": "The company announced it has concluded development of the plasma kallikrein inhibitor, which was being studied to treat diabetic macular edema.",
+      "language": "zh-CN"
+    }
+  ]
 }

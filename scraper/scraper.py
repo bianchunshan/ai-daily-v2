@@ -96,6 +96,7 @@ class RealNewsScraper:
         enriched.sort(key=lambda item: item["publish_time"], reverse=True)
         enriched = self.limit_by_category(enriched)
         self.localize_items(enriched)
+        enriched = [item for item in enriched if publishable_chinese_item(item)]
 
         stock_quotes = self.fetch_stock_quotes(enriched)
         opportunities = self.build_opportunities(enriched, stock_quotes)
@@ -153,6 +154,8 @@ class RealNewsScraper:
         clean_title = clean_text(title, 180)
         clean_summary = clean_text(summary, 240)
         category = self.classify(clean_title, clean_summary)
+        if category == "world":
+            category = source_hint_category(source.name) or category
 
         return {
             "id": stable_id(link or clean_title),
@@ -185,7 +188,7 @@ class RealNewsScraper:
         text = f"{title} {summary}".lower()
         scores: dict[str, int] = {}
         for cat, meta in self.categories.items():
-            score = sum(1 for kw in meta["keywords"] if kw.lower() in text)
+            score = sum(1 for kw in meta["keywords"] if keyword_matches(kw, text))
             if score:
                 scores[cat] = score
         if not scores:
@@ -196,7 +199,7 @@ class RealNewsScraper:
         text = f"{title} {summary}".lower()
         tags = []
         for kw in self.categories[category]["keywords"]:
-            if kw.lower() in text and len(tags) < 4:
+            if keyword_matches(kw, text) and len(tags) < 4:
                 tags.append(kw)
         return tags or [self.categories[category]["name"]]
 
@@ -248,7 +251,7 @@ class RealNewsScraper:
             item["language"] = "zh-CN"
             item["title"], item["summary"] = self.translate_pair(original_title, original_summary)
             item["content"] = item["summary"] or item["title"]
-            item["tags"] = [translate_tag(tag) for tag in item.get("tags", [])]
+            item["tags"] = unique_values(translate_tag(tag) for tag in item.get("tags", []))
             if index % 30 == 0:
                 print(f"  翻译进度: {index}/{len(items)}")
 
@@ -461,7 +464,7 @@ class RealNewsScraper:
         STOCK_LATEST_PATH.write_text(json.dumps({
             "version": "3.0",
             "updated": now_iso(),
-            "source": "Yahoo Finance chart API",
+            "source": "雅虎财经行情接口",
             "quotes": quotes
         }, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -510,6 +513,13 @@ def cleanup_translation(value: str, limit: int) -> str:
     value = value.replace("| | |", "").replace("|||", "")
     value = value.replace("AI_DAILY_SUMMARY", "")
     value = value.strip(" -—|")
+    value = localize_known_names(value)
+    value = value.replace("美国航天局 的", "美国航天局的")
+    value = value.replace("谷歌 正在", "谷歌正在")
+    value = value.replace("超威半导体 的", "超威半导体的")
+    value = value.replace("强生 的", "强生的")
+    value = re.sub(r"([\u4e00-\u9fff])\s+([\u4e00-\u9fff])", r"\1\2", value)
+    value = re.sub(r"([\u4e00-\u9fff]{2,})\s*\(\1\)", r"\1", value)
     return clean_text(value, limit)
 
 
@@ -554,6 +564,13 @@ def similarity_key(title: str) -> str:
     stop = {"the", "a", "an", "to", "of", "and", "in", "on", "for", "with", "is", "as"}
     words = [word for word in words if word not in stop]
     return " ".join(sorted(words[:12]))
+
+
+def keyword_matches(keyword: str, text: str) -> bool:
+    keyword_lower = keyword.lower()
+    if has_cjk(keyword_lower):
+        return keyword_lower in text
+    return bool(re.search(rf"(?<![a-z0-9]){re.escape(keyword_lower)}(?![a-z0-9])", text))
 
 
 def judge_impact(text: str) -> str:
@@ -625,57 +642,142 @@ def mostly_chinese(value: str) -> bool:
     return len(cjk) / len(letters) >= 0.45
 
 
+def publishable_chinese_item(item: dict[str, Any]) -> bool:
+    visible = " ".join([
+        item.get("title", ""),
+        item.get("summary", ""),
+        " ".join(item.get("tags", []))
+    ])
+    return len(untranslated_terms(visible)) <= 3
+
+
+def untranslated_terms(value: str) -> list[str]:
+    allowed = {
+        "FDA", "AI", "IND", "TSLP", "PI3K", "mTOR", "PK", "PID", "ABIA", "LLM",
+        "GPU", "CPU", "CPO", "TSMC", "OpenAI", "ChatGPT", "Claude", "Gemini",
+        "SpaceX", "NASA", "USD", "IPO", "CEO", "R2X", "V6", "Wi-Fi", "GLP-1",
+        "CAR-T", "J&J", "iOS", "AR", "VR", "EV", "HBM", "ITER",
+        "AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "INTC", "TSM", "MRNA", "VRTX",
+        "NVO", "LLY", "JNJ", "AMD", "ASML", "BYD", "QCOM", "IBM", "IONQ",
+        "PFE", "TSLA", "CRM", "META", "AVGO", "MU", "AMAT", "LRCX"
+    }
+    words = re.findall(r"\b[A-Za-z][A-Za-z0-9&+.-]{2,}\b", value)
+    return [word for word in words if word not in allowed]
+
+
 def translate_tag(tag: str) -> str:
     mapping = {
+        "geopolitics": "地缘政治",
+        "military": "军事",
+        "conflict": "冲突",
+        "war": "战争",
+        "tariff": "关税",
+        "sanction": "制裁",
+        "trade": "贸易",
+        "election": "选举",
         "artificial intelligence": "人工智能",
         "AI": "人工智能",
+        "OpenAI": "OpenAI",
+        "ChatGPT": "ChatGPT",
+        "Claude": "Claude",
+        "Gemini": "Gemini",
+        "LLM": "大语言模型",
         "machine learning": "机器学习",
         "semiconductor": "半导体",
         "chip": "芯片",
+        "TSMC": "台积电",
+        "Intel": "英特尔",
+        "AMD": "超威半导体",
+        "ASML": "阿斯麦",
+        "memory": "存储芯片",
+        "HBM": "高带宽内存",
+        "renewable": "可再生能源",
+        "solar": "太阳能",
         "battery": "电池",
         "EV": "电动车",
+        "electric vehicle": "电动车",
+        "BYD": "比亚迪",
+        "CATL": "宁德时代",
+        "storage": "储能",
         "robot": "机器人",
         "robotics": "机器人",
+        "humanoid": "人形机器人",
+        "automation": "自动化",
+        "drone": "无人机",
+        "Optimus": "特斯拉机器人",
         "quantum": "量子",
+        "qubit": "量子比特",
         "biotech": "生物科技",
         "pharma": "制药",
+        "drug": "药物",
+        "clinical": "临床试验",
+        "gene therapy": "基因治疗",
+        "CRISPR": "基因编辑",
+        "vaccine": "疫苗",
         "space": "航天",
+        "SpaceX": "SpaceX",
         "rocket": "火箭",
         "satellite": "卫星",
+        "launch": "发射",
         "fusion": "核聚变",
+        "tokamak": "托卡马克",
+        "ITER": "国际热核聚变实验堆",
+        "plasma": "等离子体",
         "gaming": "游戏",
         "game": "游戏",
+        "Nintendo": "任天堂",
+        "Sony": "索尼",
+        "Tencent": "腾讯",
+        "NetEase": "网易",
+        "Steam": "Steam",
+        "esports": "电竞",
         "Apple": "苹果",
         "Microsoft": "微软",
         "Google": "谷歌",
         "NVIDIA": "英伟达",
-        "Tesla": "特斯拉"
+        "Tesla": "特斯拉",
+        "FDA": "美国 FDA",
+        "NASA": "美国航天局",
+        "CEO": "首席执行官",
+        "EV": "电动车"
     }
     return mapping.get(tag, tag)
 
 
+def unique_values(values) -> list[str]:
+    seen = set()
+    output = []
+    for value in values:
+        value = (value or "").strip()
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        output.append(value)
+    return output
+
+
 def source_display_name(name: str) -> str:
     mapping = {
-        "CNBC Technology": "CNBC 科技",
-        "CNBC Markets": "CNBC 市场",
-        "TechCrunch": "TechCrunch 科技媒体",
-        "The Verge": "The Verge 科技媒体",
-        "Ars Technica": "Ars Technica 科技媒体",
+        "CNBC Technology": "美国财经媒体·科技",
+        "CNBC Markets": "美国财经媒体·市场",
+        "TechCrunch": "美国创业科技媒体",
+        "The Verge": "美国科技媒体",
+        "Ars Technica": "美国技术媒体",
         "MIT Technology Review": "麻省理工科技评论",
-        "Nature": "Nature 自然",
-        "ScienceDaily": "ScienceDaily 科学日报",
-        "Fierce Biotech": "Fierce Biotech 生物科技",
-        "BioPharma Dive": "BioPharma Dive 生物医药",
-        "GEN": "GEN 基因工程新闻",
-        "The Quantum Insider": "Quantum Insider 量子资讯",
+        "Nature": "自然杂志",
+        "ScienceDaily": "科学日报",
+        "Fierce Biotech": "美国生物科技媒体",
+        "BioPharma Dive": "美国生物医药媒体",
+        "GEN": "基因工程新闻",
+        "The Quantum Insider": "量子科技资讯",
         "Quantum Computing Report": "量子计算报告",
         "NASA": "美国国家航空航天局",
-        "SpaceNews": "SpaceNews 航天新闻",
-        "Electrek": "Electrek 新能源",
-        "pv magazine": "PV Magazine 光伏杂志",
-        "VentureBeat": "VentureBeat 科技媒体",
+        "SpaceNews": "航天新闻",
+        "Electrek": "新能源交通媒体",
+        "pv magazine": "光伏杂志",
+        "VentureBeat": "美国科技商业媒体",
         "Google AI Blog": "谷歌 AI 博客",
-        "OpenAI News": "OpenAI 新闻",
+        "OpenAI News": "OpenAI 官方新闻",
         "IT之家": "IT之家",
         "机器之心": "机器之心",
         "财联社": "财联社"
@@ -683,8 +785,80 @@ def source_display_name(name: str) -> str:
     return mapping.get(name, name)
 
 
+def category_display_name(category: str) -> str:
+    mapping = {
+        "world": "国际局势",
+        "ai": "人工智能",
+        "semiconductor": "半导体",
+        "energy": "新能源",
+        "robotics": "机器人",
+        "quantum": "量子计算",
+        "biotech": "生物科技",
+        "space": "商业航天",
+        "fusion": "核聚变",
+        "consumer": "消费电子",
+        "gaming": "游戏"
+    }
+    return mapping.get(category, category)
+
+
+def source_hint_category(source_name: str) -> str | None:
+    name = source_name.lower()
+    if any(token in name for token in ["biotech", "biopharma", "gen"]):
+        return "biotech"
+    if any(token in name for token in ["quantum"]):
+        return "quantum"
+    if any(token in name for token in ["nasa", "spacenews"]):
+        return "space"
+    if any(token in name for token in ["electrek", "pv magazine"]):
+        return "energy"
+    if any(token in name for token in ["technology", "techcrunch", "verge", "ars technica", "venturebeat", "google ai", "openai"]):
+        return "ai"
+    return None
+
+
+def localize_known_names(value: str) -> str:
+    replacements = {
+        "Vertex Pharmaceuticals": "福泰制药",
+        "Vertex": "福泰制药",
+        "Moderna": "莫德纳",
+        "Novo Nordisk": "诺和诺德",
+        "Novo": "诺和诺德",
+        "Johnson & Johnson": "强生",
+        "J&J": "强生",
+        "Pfizer": "辉瑞",
+        "Amgen": "安进",
+        "AbbVie": "艾伯维",
+        "BioNTech": "BioNTech",
+        "Rivian": "Rivian 电动车",
+        "Restaurant Brands International": "餐饮品牌国际",
+        "TechCrunch Disrupt": "TechCrunch 创业大会",
+        "Apple": "苹果",
+        "Nvidia": "英伟达",
+        "NVIDIA": "英伟达",
+        "Intel": "英特尔",
+        "Google": "谷歌",
+        "Microsoft": "微软",
+        "Amazon": "亚马逊",
+        "Tesla": "特斯拉",
+        "Meta": "Meta 平台",
+        "Samsung": "三星",
+        "Qualcomm": "高通",
+        "Broadcom": "博通",
+        "AMD": "超威半导体",
+        "TSMC": "台积电",
+        "IBM": "IBM",
+        "NASA": "美国航天局",
+        "CEO": "首席执行官",
+        "FDA": "美国 FDA"
+    }
+    for old, new in replacements.items():
+        value = re.sub(rf"(?<![A-Za-z]){re.escape(old)}(?![A-Za-z])", new, value)
+    return value
+
+
 def build_logic(item: dict[str, Any]) -> str:
-    cat_name = item.get("category_name") or item["category"]
+    cat_name = item.get("category_name") or category_display_name(item["category"])
     stocks = "、".join(stock["symbol"] for stock in item.get("stocks", [])[:3])
     return f"{cat_name}板块出现新催化，相关标的 {stocks} 需要跟踪新闻后续和盘口反应。"
 

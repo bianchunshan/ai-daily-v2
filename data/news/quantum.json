@@ -2,15 +2,65 @@
   "version": "3.0",
   "category": "quantum",
   "category_name": "量子计算",
-  "total": 6,
-  "updated": "2026-05-06T23:04:59.696187+08:00",
+  "total": 8,
+  "updated": "2026-05-06T23:25:55.409661+08:00",
   "news": [
+    {
+      "id": "ed969c27572698",
+      "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
+      "title": "海趣推出Agentic量子操作系统用于企业应用研发",
+      "summary": "内幕简报新闻稿 — 领先的量子中间件开发商 Haiqu 今天宣布推出 Agentic 量子操作系统 (OS)，这是第一个面向企业和科学量子的全栈量子智能平台。",
+      "content": "内幕简报新闻稿 — 领先的量子中间件开发商 Haiqu 今天宣布推出 Agentic 量子操作系统 (OS)，这是第一个面向企业和科学量子的全栈量子智能平台。",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-06T21:35:04+08:00",
+      "sources": [
+        {
+          "name": "量子科技资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:26.179057+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Haiqu Launches Agentic Quantum Operating System For Enterprise Applications R&D",
+      "original_summary": "Insider Brief PRESS RELEASE — Haiqu, a leading developer of quantum middleware, today announced the launch of its Agentic Quantum Operating System (OS), the first full-stack quantum intelligence platform for enterprise and scientific quantu",
+      "language": "zh-CN"
+    },
     {
       "id": "47a2d94c7988a6",
       "url": "https://thequantuminsider.com/2026/05/06/korea-expands-post-quantum-cryptography-pilot/",
       "title": "韩国将后量子安全计划扩展到关键领域",
-      "summary": "内幕简报 韩国正在扩大其在关键基础设施领域的后量子密码实施。科学和信息通信技术部 (MSIT) 宣布将扩大后量子密码转换试点项目",
-      "content": "内幕简报 韩国正在扩大其在关键基础设施领域的后量子密码实施。科学和信息通信技术部 (MSIT) 宣布将扩大后量子密码转换试点项目",
+      "summary": "内幕简报韩国正在扩大其在关键基础设施领域的后量子密码实施。科学和信息通信技术部 (MSIT) 宣布将扩大后量子密码转换试点项目",
+      "content": "内幕简报韩国正在扩大其在关键基础设施领域的后量子密码实施。科学和信息通信技术部 (MSIT) 宣布将扩大后量子密码转换试点项目",
       "category": "quantum",
       "tags": [
         "量子"
@@ -18,10 +68,10 @@
       "publish_time": "2026-05-06T19:24:20+08:00",
       "sources": [
         {
-          "name": "Quantum Insider 量子资讯",
+          "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/korea-expands-post-quantum-cryptography-pilot/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:15.292928+08:00",
+          "verify_time": "2026-05-06T23:25:26.180848+08:00",
           "credibility": 78
         }
       ],
@@ -56,6 +106,56 @@
       "language": "zh-CN"
     },
     {
+      "id": "7361a782be11c3",
+      "url": "https://thequantuminsider.com/2026/05/06/quantum-algorithms-may-add-shine-to-surface-coatings/",
+      "title": "量子算法可以为表面涂层增添光彩",
+      "summary": "内幕简报新闻稿 — 汽车、桥梁和飞机有什么共同点？它们大部分时间都暴露在露天，并受到太阳紫外线 (UV) 辐射的影响。飞机尤其容易受到此影响",
+      "content": "内幕简报新闻稿 — 汽车、桥梁和飞机有什么共同点？它们大部分时间都暴露在露天，并受到太阳紫外线 (UV) 辐射的影响。飞机尤其容易受到此影响",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-06T19:23:12+08:00",
+      "sources": [
+        {
+          "name": "量子科技资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/quantum-algorithms-may-add-shine-to-surface-coatings/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:26.181511+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "Quantum Algorithms May Add Shine to Surface Coatings",
+      "original_summary": "Insider Brief PRESS RELEASE — What do cars, bridges and airplanes have in common? They are all exposed to the open air most of the time and are subjected to the sun’s ultraviolet (UV) radiation. Airplanes are particularly vulnerable to this",
+      "language": "zh-CN"
+    },
+    {
       "id": "eb80c21bef429f",
       "url": "https://thequantuminsider.com/2026/05/06/aqt-high-performing-quantum-computer-europe-32768-qv/",
       "title": "AQT 在 LYNX 系统上报告量子体积为 32768",
@@ -68,10 +168,10 @@
       "publish_time": "2026-05-06T16:18:33+08:00",
       "sources": [
         {
-          "name": "Quantum Insider 量子资讯",
+          "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/aqt-high-performing-quantum-computer-europe-32768-qv/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:15.293389+08:00",
+          "verify_time": "2026-05-06T23:25:26.182350+08:00",
           "credibility": 78
         }
       ],
@@ -106,23 +206,23 @@
       "language": "zh-CN"
     },
     {
-      "id": "6dd3f82e3a6f49",
-      "url": "https://thequantuminsider.com/2026/05/06/kist-accelerates-u-s-expansion-of-quantum-deep-tech-startups-through-selectusa-2026/",
-      "title": "KIST 通过 SelectUSA 2026 加速量子深度科技初创企业在美国的扩张",
-      "summary": "内部简报新闻稿 — 韩国科学技术研究院 (KIST) 院长 Oh Sang-rok 宣布将作为韩国代表团成员与量子技术公司一起参加 2026 年 SelectUSA 投资峰会",
-      "content": "内部简报新闻稿 — 韩国科学技术研究院 (KIST) 院长 Oh Sang-rok 宣布将作为韩国代表团成员与量子技术公司一起参加 2026 年 SelectUSA 投资峰会",
+      "id": "59b97410754d78",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
+      "title": "科学家将“时间晶体”与真实设备连接，实现量子突破",
+      "summary": "一种无需能量输入就能永远“滴答作响”的奇怪物质，刚刚在现实世界的应用中迈出了一大步。这种量子系统被称为时间晶体，它不断地重复其运动——就像一个永远不会上发条的时钟——科学家",
+      "content": "一种无需能量输入就能永远“滴答作响”的奇怪物质，刚刚在现实世界的应用中迈出了一大步。这种量子系统被称为时间晶体，它不断地重复其运动——就像一个永远不会上发条的时钟——科学家",
       "category": "quantum",
       "tags": [
         "量子"
       ],
-      "publish_time": "2026-05-06T15:47:20+08:00",
+      "publish_time": "2026-05-06T04:53:45+08:00",
       "sources": [
         {
-          "name": "Quantum Insider 量子资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/kist-accelerates-u-s-expansion-of-quantum-deep-tech-startups-through-selectusa-2026/",
+          "name": "科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:15.293501+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:25:22.844252+08:00",
+          "credibility": 82
         }
       ],
       "stocks": [
@@ -147,163 +247,154 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
+        "credibility_score": 82,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Scientists connect “time crystal” to real device in quantum breakthrough",
+      "original_summary": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientist",
+      "language": "zh-CN"
+    },
+    {
+      "id": "f835cea599fcba",
+      "url": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-simulate-12635-atom-protein-complex/",
+      "title": "克利夫兰诊所、RIKEN 和 IBM 模拟 12,635 个原子蛋白质复合物",
+      "summary": "来自克利夫兰诊所、RIKEN 和 IBM 的合作团队成功模拟了跨越 12,635 个原子的蛋白质-配体复合物，标志着以量子为中心的超级计算领域的一个重要里程碑。这个模拟，模拟了Pro",
+      "content": "来自克利夫兰诊所、RIKEN 和 IBM 的合作团队成功模拟了跨越 12,635 个原子的蛋白质-配体复合物，标志着以量子为中心的超级计算领域的一个重要里程碑。这个模拟，模拟了Pro",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-06T03:24:05+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-simulate-12635-atom-protein-complex/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:27.592463+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 53
+      },
+      "status": "published",
+      "original_title": "Cleveland Clinic, RIKEN, and IBM Simulate 12,635-Atom Protein Complex",
+      "original_summary": "A collaborative team from Cleveland Clinic, RIKEN, and IBM has successfully simulated a protein-ligand complex spanning 12,635 atoms, marking a significant milestone in quantum-centric supercomputing. This simulation, which modeled the prot",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b4472358fdf177",
+      "url": "https://quantumcomputingreport.com/quantum-art-develops-high-resolution-wave-propagation-algorithm/",
+      "title": "量子艺术开发高分辨率波传播算法",
+      "summary": "以色列捕获离子量子计算公司 Quantum Art 宣布成功完成与以色列领先政府研发机构的联合项目，以模拟电磁波传播。这次合作的结果是我",
+      "content": "以色列捕获离子量子计算公司 Quantum Art 宣布成功完成与以色列领先政府研发机构的联合项目，以模拟电磁波传播。这次合作的结果是我",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-06T03:10:39+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/quantum-art-develops-high-resolution-wave-propagation-algorithm/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:27.593109+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 27
+      },
+      "status": "published",
+      "original_title": "Quantum Art Develops High-Resolution Wave Propagation Algorithm",
+      "original_summary": "Quantum Art, an Israeli trapped-ion quantum computing company, has announced the successful completion of a joint project with a leading Israeli governmental R&D agency to model electromagnetic wave propagation. The collaboration resulted i",
+      "language": "zh-CN"
+    },
+    {
+      "id": "78d46e9f3dcbf4",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+      "title": "科学家刚刚创造了不应该存在的奇异新物质形式",
+      "summary": "一项新的量子物理学研究表明，随着时间的推移，简单地改变磁场就可以解锁正常条件下不存在的全新物质形式。通过小心地“驱动”具有定时磁位移的材料，研究人员可以",
+      "content": "一项新的量子物理学研究表明，随着时间的推移，简单地改变磁场就可以解锁正常条件下不存在的全新物质形式。通过小心地“驱动”具有定时磁位移的材料，研究人员可以",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-05T10:48:12+08:00",
+      "sources": [
+        {
+          "name": "科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:22.846348+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
         "opportunity_score": 29
       },
       "status": "published",
-      "original_title": "KIST Accelerates U.S. Expansion of Quantum Deep-Tech Startups Through SelectUSA 2026",
-      "original_summary": "Insider Brief PRESS RELEASE — The Korea Institute of Science and Technology (KIST) President Oh Sang-rok announced that it will participate in the SelectUSA Investment Summit 2026 as part of a Korean delegation, together with quantum techno",
-      "language": "zh-CN"
-    },
-    {
-      "id": "7ba4038c5944ec",
-      "url": "https://quantumcomputingreport.com/parityqc-demonstrates-universal-mbqc-driven-by-yz-plane-measurements/",
-      "title": "ParityQC 演示由 YZ 平面测量驱动的通用 MBQC",
-      "summary": "ParityQC 的物理学家已经确定，使用完全限制在布洛赫球体 YZ 平面的单量子位测量，基于通用测量的量子计算 (MBQC) 是可能的。这项研究发表在预印本上",
-      "content": "ParityQC 的物理学家已经确定，使用完全限制在布洛赫球体 YZ 平面的单量子位测量，基于通用测量的量子计算 (MBQC) 是可能的。这项研究发表在预印本上",
-      "category": "quantum",
-      "tags": [
-        "量子",
-        "qubit"
-      ],
-      "publish_time": "2026-05-06T08:34:26+08:00",
-      "sources": [
-        {
-          "name": "量子计算报告",
-          "url": "https://quantumcomputingreport.com/parityqc-demonstrates-universal-mbqc-driven-by-yz-plane-measurements/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:21.713742+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IBM",
-          "name": "IBM",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 27
-      },
-      "status": "published",
-      "original_title": "ParityQC Demonstrates Universal MBQC Driven by YZ-Plane Measurements",
-      "original_summary": "Physicists at ParityQC have established that universal measurement-based quantum computing (MBQC) is possible using single-qubit measurements restricted entirely to the YZ-plane of the Bloch sphere. This research, published in the preprint",
-      "language": "zh-CN"
-    },
-    {
-      "id": "13552fc7f7fb8d",
-      "url": "https://quantumcomputingreport.com/quantinuum-and-bmw-group-expand-collaboration-with-multi-year-partnership/",
-      "title": "Quantinuum 与宝马集团通过多年合作伙伴关系扩大合作",
-      "summary": "https://youtu.be/6Rb4IfXNnAk Quantinuum 和宝马集团已正式将其持续合作扩展为多年合作伙伴关系，重点是通过量子增强材料科学加速未来的移动性。自2021年起，",
-      "content": "https://youtu.be/6Rb4IfXNnAk Quantinuum 和宝马集团已正式将其持续合作扩展为多年合作伙伴关系，重点是通过量子增强材料科学加速未来的移动性。自2021年起，",
-      "category": "quantum",
-      "tags": [
-        "量子"
-      ],
-      "publish_time": "2026-05-06T08:27:46+08:00",
-      "sources": [
-        {
-          "name": "量子计算报告",
-          "url": "https://quantumcomputingreport.com/quantinuum-and-bmw-group-expand-collaboration-with-multi-year-partnership/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:21.713919+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IBM",
-          "name": "IBM",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 27
-      },
-      "status": "published",
-      "original_title": "Quantinuum and BMW Group Expand Collaboration with Multi-Year Partnership",
-      "original_summary": "https://youtu.be/6Rb4IfXNnAk Quantinuum and the BMW Group have formally expanded their ongoing collaboration into a multi-year partnership focused on accelerating future mobility through quantum-enhanced materials science. Since 2021, the t",
-      "language": "zh-CN"
-    },
-    {
-      "id": "61d722fd91b06d",
-      "url": "https://quantumcomputingreport.com/podcast-with-michaela-eichinger-product-solutions-physicist-at-quantum-machines/",
-      "title": "量子机器产品解决方案物理学家 Michaela Eichinger 的播客",
-      "summary": "Yuval Boger 采访了 Michaela Eichinger，她是 Quantum Machines 的产品解决方案物理学家，也是一本被广泛阅读的量子计算通讯的作者。他们讨论了她从学术界到工业界的转变，以及她对系统的迷恋",
-      "content": "Yuval Boger 采访了 Michaela Eichinger，她是 Quantum Machines 的产品解决方案物理学家，也是一本被广泛阅读的量子计算通讯的作者。他们讨论了她从学术界到工业界的转变，以及她对系统的迷恋",
-      "category": "quantum",
-      "tags": [
-        "量子"
-      ],
-      "publish_time": "2026-05-05T06:51:55+08:00",
-      "sources": [
-        {
-          "name": "量子计算报告",
-          "url": "https://quantumcomputingreport.com/podcast-with-michaela-eichinger-product-solutions-physicist-at-quantum-machines/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:21.715054+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IBM",
-          "name": "IBM",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 27
-      },
-      "status": "published",
-      "original_title": "Podcast with Michaela Eichinger, Product Solutions Physicist at Quantum Machines",
-      "original_summary": "Yuval Boger interviews Michaela Eichinger, a product solutions physicist at Quantum Machines and the author of a widely read quantum computing newsletter. They discuss her transition from academia to industry, her fascination with systems-l",
+      "original_title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+      "original_summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers c",
       "language": "zh-CN"
     }
   ]

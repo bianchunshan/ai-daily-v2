@@ -1,7 +1,7 @@
 {
   "version": "3.0",
-  "updated": "2026-05-06T23:04:59.722596+08:00",
-  "total": 20,
+  "updated": "2026-05-06T23:25:55.415296+08:00",
+  "total": 15,
   "opportunities": [
     {
       "id": "4d5039fc929a90",
@@ -31,34 +31,34 @@
       "quotes": {
         "INTC": {
           "symbol": "INTC",
-          "price": 111.3,
+          "price": 111.43,
           "currency": "USD",
-          "change": 16.55,
-          "change_percent": 17.47,
-          "market_time": "2026-05-06T23:04:53+08:00",
+          "change": 16.68,
+          "change_percent": 17.6,
+          "market_time": "2026-05-06T23:25:50+08:00",
           "source": "雅虎财经"
         },
         "AAPL": {
           "symbol": "AAPL",
-          "price": 284.75,
+          "price": 284.2,
           "currency": "USD",
-          "change": 14.58,
-          "change_percent": 5.4,
-          "market_time": "2026-05-06T23:04:50+08:00",
+          "change": 14.03,
+          "change_percent": 5.19,
+          "market_time": "2026-05-06T23:25:47+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "semiconductor板块出现新催化，相关标的 INTC、AAPL 需要跟踪新闻后续和盘口反应。",
+      "logic": "半导体板块出现新催化，相关标的 INTC、AAPL 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html"
     },
     {
       "id": "3c376bc88f8fc2",
-      "title": "在未解决耐受性问题后，Vertex 放弃了与 Moderna 合作的吸入性囊性纤维化候选药物",
+      "title": "在未解决耐受性问题后，福泰制药放弃了与莫德纳合作的吸入性囊性纤维化候选药物",
       "category": "biotech",
       "category_name": "生物科技",
       "score": 65,
-      "publish_time": "2026-05-06T23:04:09.639167+08:00",
+      "publish_time": "2026-05-06T23:25:23.478039+08:00",
       "stocks": [
         {
           "symbol": "MRNA",
@@ -80,24 +80,24 @@
       "quotes": {
         "MRNA": {
           "symbol": "MRNA",
-          "price": 48.37,
+          "price": 48.52,
           "currency": "USD",
-          "change": 2.65,
-          "change_percent": 5.8,
-          "market_time": "2026-05-06T23:04:53+08:00",
+          "change": 2.8,
+          "change_percent": 6.12,
+          "market_time": "2026-05-06T23:25:45+08:00",
           "source": "雅虎财经"
         },
         "VRTX": {
           "symbol": "VRTX",
-          "price": 426.64,
+          "price": 425.02,
           "currency": "USD",
-          "change": 3.4,
-          "change_percent": 0.8,
-          "market_time": "2026-05-06T23:04:46+08:00",
+          "change": 1.78,
+          "change_percent": 0.42,
+          "market_time": "2026-05-06T23:25:34+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "biotech板块出现新催化，相关标的 MRNA、VRTX 需要跟踪新闻后续和盘口反应。",
+      "logic": "生物科技板块出现新催化，相关标的 MRNA、VRTX 需要跟踪新闻后续和盘口反应。",
       "risk": "新闻含潜在负面因素，需关注业绩、监管和估值回撤风险。",
       "source_url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved"
     },
@@ -121,15 +121,15 @@
       "quotes": {
         "NVDA": {
           "symbol": "NVDA",
-          "price": 204.49,
+          "price": 206.78,
           "currency": "USD",
-          "change": -4.76,
-          "change_percent": -2.27,
-          "market_time": "2026-05-06T23:04:55+08:00",
+          "change": -2.47,
+          "change_percent": -1.18,
+          "market_time": "2026-05-06T23:25:52+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "ai板块出现新催化，相关标的 NVDA 需要跟踪新闻后续和盘口反应。",
+      "logic": "人工智能板块出现新催化，相关标的 NVDA 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html"
     },
@@ -153,23 +153,23 @@
       "quotes": {
         "TSM": {
           "symbol": "TSM",
-          "price": 416.43,
+          "price": 418.24,
           "currency": "USD",
-          "change": 22.6,
-          "change_percent": 5.74,
-          "market_time": "2026-05-06T23:04:56+08:00",
+          "change": 24.41,
+          "change_percent": 6.2,
+          "market_time": "2026-05-06T23:25:54+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "semiconductor板块出现新催化，相关标的 TSM 需要跟踪新闻后续和盘口反应。",
+      "logic": "半导体板块出现新催化，相关标的 TSM 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
     },
     {
       "id": "b39b0f2905d41b",
       "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
-      "category": "consumer",
-      "category_name": "消费电子",
+      "category": "ai",
+      "category_name": "人工智能",
       "score": 63,
       "publish_time": "2026-05-06T20:00:01+08:00",
       "stocks": [
@@ -185,123 +185,25 @@
       "quotes": {
         "AAPL": {
           "symbol": "AAPL",
-          "price": 284.75,
+          "price": 284.2,
           "currency": "USD",
-          "change": 14.58,
-          "change_percent": 5.4,
-          "market_time": "2026-05-06T23:04:50+08:00",
+          "change": 14.03,
+          "change_percent": 5.19,
+          "market_time": "2026-05-06T23:25:47+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "consumer板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
+      "logic": "人工智能板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html"
     },
     {
-      "id": "c16f98aeb60dd8",
-      "title": "Linux 基金会成立 x402 Foundation 组织，旨在开发新型协议实现 AI 智能体“按请求付费”支付体系",
-      "category": "ai",
-      "category_name": "人工智能",
+      "id": "78ffdc3e424204",
+      "title": "Wegovy 药丸销量超出预期，诺和诺德股价上涨 7%",
+      "category": "world",
+      "category_name": "国际局势",
       "score": 63,
-      "publish_time": "2026-05-06T19:42:29+08:00",
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "MSFT": {
-          "symbol": "MSFT",
-          "price": 414.06,
-          "currency": "USD",
-          "change": -10.4,
-          "change_percent": -2.45,
-          "market_time": "2026-05-06T23:04:53+08:00",
-          "source": "雅虎财经"
-        },
-        "GOOGL": {
-          "symbol": "GOOGL",
-          "price": 397.73,
-          "currency": "USD",
-          "change": 47.79,
-          "change_percent": 13.66,
-          "market_time": "2026-05-06T23:04:51+08:00",
-          "source": "雅虎财经"
-        },
-        "AMZN": {
-          "symbol": "AMZN",
-          "price": 274.9,
-          "currency": "USD",
-          "change": 11.86,
-          "change_percent": 4.51,
-          "market_time": "2026-05-06T23:04:49+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "ai板块出现新催化，相关标的 MSFT、GOOGL、AMZN 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.ithome.com/0/946/980.htm"
-    },
-    {
-      "id": "c3bf22d1240b5b",
-      "title": "强生 (J&J) 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
-      "category": "robotics",
-      "category_name": "机器人",
-      "score": 61,
-      "publish_time": "2026-05-06T23:04:09.637437+08:00",
-      "stocks": [
-        {
-          "symbol": "JNJ",
-          "name": "强生",
-          "exchange": "NYSE",
-          "impact": "positive",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "JNJ": {
-          "symbol": "JNJ",
-          "price": 224.11,
-          "currency": "USD",
-          "change": -3.24,
-          "change_percent": -1.43,
-          "market_time": "2026-05-06T23:04:48+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "robotics板块出现新催化，相关标的 JNJ 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study"
-    },
-    {
-      "id": "f8aa57bf55cd0f",
-      "title": "Novo 首席执行官坚称放弃单室设备后 CagriSema 的推出“计划不会改变”",
-      "category": "ai",
-      "category_name": "人工智能",
-      "score": 61,
-      "publish_time": "2026-05-06T23:04:09.637254+08:00",
+      "publish_time": "2026-05-06T16:05:04+08:00",
       "stocks": [
         {
           "symbol": "NVO",
@@ -315,55 +217,87 @@
       "quotes": {
         "NVO": {
           "symbol": "NVO",
-          "price": 46.1,
+          "price": 46.23,
           "currency": "USD",
-          "change": 5.81,
-          "change_percent": 14.43,
-          "market_time": "2026-05-06T23:04:55+08:00",
+          "change": 5.94,
+          "change_percent": 14.73,
+          "market_time": "2026-05-06T23:25:50+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "ai板块出现新催化，相关标的 NVO 需要跟踪新闻后续和盘口反应。",
+      "logic": "国际局势板块出现新催化，相关标的 NVO 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched"
+      "source_url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html"
     },
     {
-      "id": "96a76e6b90cc85",
-      "title": "Google 正在与 XPRIZE 和 Range Media Partners 合作举办价值 350 万美元的 Future Vision 电影竞赛。",
-      "category": "consumer",
-      "category_name": "消费电子",
+      "id": "c3bf22d1240b5b",
+      "title": "强生 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
+      "category": "robotics",
+      "category_name": "机器人",
       "score": 61,
-      "publish_time": "2026-05-06T00:00:00+08:00",
+      "publish_time": "2026-05-06T23:25:23.469722+08:00",
       "stocks": [
         {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
+          "symbol": "JNJ",
+          "name": "强生",
+          "exchange": "NYSE",
+          "impact": "positive",
           "reason": "标题/摘要直接提及",
           "confidence": "direct"
         }
       ],
       "quotes": {
-        "GOOGL": {
-          "symbol": "GOOGL",
-          "price": 397.73,
+        "JNJ": {
+          "symbol": "JNJ",
+          "price": 223.58,
           "currency": "USD",
-          "change": 47.79,
-          "change_percent": 13.66,
-          "market_time": "2026-05-06T23:04:51+08:00",
+          "change": -3.77,
+          "change_percent": -1.66,
+          "market_time": "2026-05-06T23:25:50+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "consumer板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
+      "logic": "机器人板块出现新催化，相关标的 JNJ 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/"
+      "source_url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study"
+    },
+    {
+      "id": "f8aa57bf55cd0f",
+      "title": "诺和诺德首席执行官坚称放弃单室设备后 CagriSema 的推出“计划不会改变”",
+      "category": "biotech",
+      "category_name": "生物科技",
+      "score": 61,
+      "publish_time": "2026-05-06T23:25:23.468865+08:00",
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "NVO": {
+          "symbol": "NVO",
+          "price": 46.23,
+          "currency": "USD",
+          "change": 5.94,
+          "change_percent": 14.73,
+          "market_time": "2026-05-06T23:25:50+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "生物科技板块出现新催化，相关标的 NVO 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched"
     },
     {
       "id": "77f0b1accb2ddc",
-      "title": "AMD 的 Su 解释了预测大幅变化背后的原因，因为股价因盈利而飙升 15%",
-      "category": "ai",
-      "category_name": "人工智能",
+      "title": "超威半导体的 Su 解释了预测大幅变化背后的原因，因为股价因盈利而飙升 15%",
+      "category": "semiconductor",
+      "category_name": "半导体",
       "score": 59,
       "publish_time": "2026-05-06T22:39:39+08:00",
       "stocks": [
@@ -379,70 +313,21 @@
       "quotes": {
         "AMD": {
           "symbol": "AMD",
-          "price": 407.61,
+          "price": 416.8,
           "currency": "USD",
-          "change": 70.5,
-          "change_percent": 20.91,
-          "market_time": "2026-05-06T23:04:50+08:00",
+          "change": 79.69,
+          "change_percent": 23.64,
+          "market_time": "2026-05-06T23:25:48+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "ai板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
+      "logic": "半导体板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html"
     },
     {
-      "id": "3d77383ea9dba5",
-      "title": "华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070",
-      "category": "semiconductor",
-      "category_name": "半导体",
-      "score": 59,
-      "publish_time": "2026-05-06T22:21:29+08:00",
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "AMD",
-          "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "NVDA": {
-          "symbol": "NVDA",
-          "price": 204.49,
-          "currency": "USD",
-          "change": -4.76,
-          "change_percent": -2.27,
-          "market_time": "2026-05-06T23:04:55+08:00",
-          "source": "雅虎财经"
-        },
-        "AMD": {
-          "symbol": "AMD",
-          "price": 407.61,
-          "currency": "USD",
-          "change": 70.5,
-          "change_percent": 20.91,
-          "market_time": "2026-05-06T23:04:50+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "semiconductor板块出现新催化，相关标的 NVDA、AMD 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.ithome.com/0/947/014.htm"
-    },
-    {
       "id": "0457bd15c3bced",
-      "title": "随着数据中心的增长推动收入和指导超出预期，AMD 股价飙升 16%",
+      "title": "随着数据中心的增长推动收入和指导超出预期，超威半导体股价飙升 16%",
       "category": "ai",
       "category_name": "人工智能",
       "score": 59,
@@ -460,15 +345,15 @@
       "quotes": {
         "AMD": {
           "symbol": "AMD",
-          "price": 407.61,
+          "price": 416.8,
           "currency": "USD",
-          "change": 70.5,
-          "change_percent": 20.91,
-          "market_time": "2026-05-06T23:04:50+08:00",
+          "change": 79.69,
+          "change_percent": 23.64,
+          "market_time": "2026-05-06T23:25:48+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "ai板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
+      "logic": "人工智能板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html"
     },
@@ -492,209 +377,17 @@
       "quotes": {
         "NVDA": {
           "symbol": "NVDA",
-          "price": 204.49,
+          "price": 206.78,
           "currency": "USD",
-          "change": -4.76,
-          "change_percent": -2.27,
-          "market_time": "2026-05-06T23:04:55+08:00",
+          "change": -2.47,
+          "change_percent": -1.18,
+          "market_time": "2026-05-06T23:25:52+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "semiconductor板块出现新催化，相关标的 NVDA 需要跟踪新闻后续和盘口反应。",
+      "logic": "半导体板块出现新催化，相关标的 NVDA 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.ithome.com/0/946/984.htm"
-    },
-    {
-      "id": "354748940ca77d",
-      "title": "苹果计划让 iOS 27 成为一场选择你自己的 AI 模型冒险",
-      "category": "consumer",
-      "category_name": "消费电子",
-      "score": 59,
-      "publish_time": "2026-05-06T04:56:41+08:00",
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "AAPL": {
-          "symbol": "AAPL",
-          "price": 284.75,
-          "currency": "USD",
-          "change": 14.58,
-          "change_percent": 5.4,
-          "market_time": "2026-05-06T23:04:50+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "consumer板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
-    },
-    {
-      "id": "8f1b3d6208c191",
-      "title": "ASML 首席执行官 Christophe Fouquet 谈其公司的垄断：没有人会来找我们",
-      "category": "semiconductor",
-      "category_name": "半导体",
-      "score": 59,
-      "publish_time": "2026-05-06T04:06:40+08:00",
-      "stocks": [
-        {
-          "symbol": "ASML",
-          "name": "阿斯麦",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "ASML": {
-          "symbol": "ASML",
-          "price": 1527.77,
-          "currency": "USD",
-          "change": 133.69,
-          "change_percent": 9.59,
-          "market_time": "2026-05-06T23:04:51+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "semiconductor板块出现新催化，相关标的 ASML 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/"
-    },
-    {
-      "id": "a407306cd3ceee",
-      "title": "大众汽车取代亚马逊成为 Rivian 最大股东",
-      "category": "consumer",
-      "category_name": "消费电子",
-      "score": 59,
-      "publish_time": "2026-05-06T03:58:57+08:00",
-      "stocks": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "AMZN": {
-          "symbol": "AMZN",
-          "price": 274.9,
-          "currency": "USD",
-          "change": 11.86,
-          "change_percent": 4.51,
-          "market_time": "2026-05-06T23:04:49+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "consumer板块出现新催化，相关标的 AMZN 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/"
-    },
-    {
-      "id": "8a52b12ec96df7",
-      "title": "国土安全部滥用 20 世纪 30 年代的海关法，试图从 Google 获取有关加拿大人的数据",
-      "category": "consumer",
-      "category_name": "消费电子",
-      "score": 59,
-      "publish_time": "2026-05-05T22:02:19+08:00",
-      "stocks": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "GOOGL": {
-          "symbol": "GOOGL",
-          "price": 397.73,
-          "currency": "USD",
-          "change": 47.79,
-          "change_percent": 13.66,
-          "market_time": "2026-05-06T23:04:51+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "consumer板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/"
-    },
-    {
-      "id": "45e272e001c21d",
-      "title": "AMD 正在为 Linux 添加 HDMI 2.1 支持。这对于 Steam Machine 来说是个好消息。",
-      "category": "semiconductor",
-      "category_name": "半导体",
-      "score": 59,
-      "publish_time": "2026-05-05T00:26:49+08:00",
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "AMD": {
-          "symbol": "AMD",
-          "price": 407.61,
-          "currency": "USD",
-          "change": 70.5,
-          "change_percent": 20.91,
-          "market_time": "2026-05-06T23:04:50+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "semiconductor板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/"
-    },
-    {
-      "id": "dca0904b66ed95",
-      "title": "Blink 将其预算蜂鸣器提高到 2K",
-      "category": "energy",
-      "category_name": "新能源",
-      "score": 57,
-      "publish_time": "2026-05-06T22:00:00+08:00",
-      "stocks": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "AMZN": {
-          "symbol": "AMZN",
-          "price": 274.9,
-          "currency": "USD",
-          "change": 11.86,
-          "change_percent": 4.51,
-          "market_time": "2026-05-06T23:04:49+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "energy板块出现新催化，相关标的 AMZN 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date"
     },
     {
       "id": "82fc41339ea59c",
@@ -716,17 +409,113 @@
       "quotes": {
         "GOOGL": {
           "symbol": "GOOGL",
-          "price": 397.73,
+          "price": 395.94,
           "currency": "USD",
-          "change": 47.79,
-          "change_percent": 13.66,
-          "market_time": "2026-05-06T23:04:51+08:00",
+          "change": 46.0,
+          "change_percent": 13.15,
+          "market_time": "2026-05-06T23:25:47+08:00",
           "source": "雅虎财经"
         }
       },
-      "logic": "ai板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
+      "logic": "人工智能板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
+    },
+    {
+      "id": "966233719dbe44",
+      "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 55,
+      "publish_time": "2026-05-06T22:21:03+08:00",
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AAPL": {
+          "symbol": "AAPL",
+          "price": 284.2,
+          "currency": "USD",
+          "change": 14.03,
+          "change_percent": 5.19,
+          "market_time": "2026-05-06T23:25:47+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "人工智能板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.ithome.com/0/947/013.htm"
+    },
+    {
+      "id": "07b4fca05ba790",
+      "title": "一季度业绩超预期，AMD 盘前一度暴涨超 20%",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 55,
+      "publish_time": "2026-05-06T20:17:39+08:00",
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "超威半导体",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "AMD": {
+          "symbol": "AMD",
+          "price": 416.8,
+          "currency": "USD",
+          "change": 79.69,
+          "change_percent": 23.64,
+          "market_time": "2026-05-06T23:25:48+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "人工智能板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.ithome.com/0/946/988.htm"
+    },
+    {
+      "id": "f835cea599fcba",
+      "title": "克利夫兰诊所、RIKEN 和 IBM 模拟 12,635 个原子蛋白质复合物",
+      "category": "quantum",
+      "category_name": "量子计算",
+      "score": 53,
+      "publish_time": "2026-05-06T03:24:05+08:00",
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "IBM": {
+          "symbol": "IBM",
+          "price": 227.09,
+          "currency": "USD",
+          "change": -0.0,
+          "change_percent": -0.0,
+          "market_time": "2026-05-06T23:25:44+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "量子计算板块出现新催化，相关标的 IBM 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-simulate-12635-atom-protein-complex/"
     }
   ],
   "disclaimer": "仅供信息整理和研究，不构成投资建议。"

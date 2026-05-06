@@ -2,39 +2,30 @@
   "version": "3.0",
   "category": "semiconductor",
   "category_name": "半导体",
-  "total": 11,
-  "updated": "2026-05-06T23:04:59.689168+08:00",
+  "total": 6,
+  "updated": "2026-05-06T23:25:55.407918+08:00",
   "news": [
     {
-      "id": "3d77383ea9dba5",
-      "url": "https://www.ithome.com/0/947/014.htm",
-      "title": "华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070",
-      "summary": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。 该型号的 整体规格与IT之家此前介绍的 酷睿版 类似 ：整机至高 180W TPP，CPU 单烤 90W、GPU 单烤 115W；内置 80Wh 电池，轻约 2.25kg、薄至 17.9",
-      "content": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。 该型号的 整体规格与IT之家此前介绍的 酷睿版 类似 ：整机至高 180W TPP，CPU 单烤 90W、GPU 单烤 115W；内置 80Wh 电池，轻约 2.25kg、薄至 17.9",
+      "id": "77f0b1accb2ddc",
+      "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
+      "title": "超威半导体的 Su 解释了预测大幅变化背后的原因，因为股价因盈利而飙升 15%",
+      "summary": "首席执行官 Lisa Su 强调了对中央处理器不断增长的需求，在第一季度盈利强劲后，她将长期预测提高了一倍。",
+      "content": "首席执行官 Lisa Su 强调了对中央处理器不断增长的需求，在第一季度盈利强劲后，她将长期预测提高了一倍。",
       "category": "semiconductor",
       "tags": [
-        "英伟达",
-        "AMD"
+        "超威半导体"
       ],
-      "publish_time": "2026-05-06T22:21:29+08:00",
+      "publish_time": "2026-05-06T22:39:39+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/947/014.htm",
+          "name": "美国财经媒体·科技",
+          "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.929828+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:25:08.535240+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
         {
           "symbol": "AMD",
           "name": "超威半导体",
@@ -48,54 +39,12 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
+        "credibility_score": 86,
         "opportunity_score": 59
       },
       "status": "published",
-      "original_title": "华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070",
-      "original_summary": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。 该型号的 整体规格与IT之家此前介绍的 酷睿版 类似 ：整机至高 180W TPP，CPU 单烤 90W、GPU 单烤 115W；内置 80Wh 电池，轻约 2.25kg、薄至 17.9",
-      "language": "zh-CN"
-    },
-    {
-      "id": "f22fe52d49548f",
-      "url": "https://www.ithome.com/0/947/011.htm",
-      "title": "华硕天选 7 Pro Max 游戏本上架：搭锐龙 9 9955HX 处理器，可选 RTX5060/5070/5070Ti",
-      "summary": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SKU 如下： RTX 5060 + 16GB RAM + 1TB SSD RTX 5060 + 32GB RAM + 1TB SSD RTX 5070 + 16GB RAM + 1T",
-      "content": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SKU 如下： RTX 5060 + 16GB RAM + 1TB SSD RTX 5060 + 32GB RAM + 1TB SSD RTX 5070 + 16GB RAM + 1T",
-      "category": "semiconductor",
-      "tags": [
-        "AMD"
-      ],
-      "publish_time": "2026-05-06T21:59:10+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/947/011.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:37.930411+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "华硕天选 7 Pro Max 游戏本上架：搭锐龙 9 9955HX 处理器，可选 RTX5060/5070/5070Ti",
-      "original_summary": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SKU 如下： RTX 5060 + 16GB RAM + 1TB SSD RTX 5060 + 32GB RAM + 1TB SSD RTX 5070 + 16GB RAM + 1T",
+      "original_title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings",
+      "original_summary": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long term forecast after strong first-quarter earnings.",
       "language": "zh-CN"
     },
     {
@@ -107,15 +56,15 @@
       "category": "semiconductor",
       "tags": [
         "芯片",
-        "TSMC"
+        "台积电"
       ],
       "publish_time": "2026-05-06T21:54:09+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
+          "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.294998+08:00",
+          "verify_time": "2026-05-06T23:25:10.349795+08:00",
           "credibility": 86
         }
       ],
@@ -159,7 +108,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/984.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.933182+08:00",
+          "verify_time": "2026-05-06T23:25:41.131223+08:00",
           "credibility": 78
         }
       ],
@@ -186,23 +135,22 @@
       "language": "zh-CN"
     },
     {
-      "id": "19bcfd049a2175",
-      "url": "https://www.ithome.com/0/946/971.htm",
-      "title": "ADTechnology 获得 AI HPC 芯粒设计服务订单：400 亿韩元，三星 4nm 制程",
-      "summary": "IT之家 5 月 6 日消息，与三星电子关系密切的韩国芯片设计服务企业 ADTechnology 近日宣布，其从一家美国 Fabless 企业处获得了价值 400 亿韩元（IT之家注：现汇率约合 1.84 亿元人民币）的 AI HPC SoC 芯粒“交钥匙”订单。 该芯片将 采用三星晶圆代工的 4nm 工艺制程 ， 配合“新一代”HBM 内存和 2.5D 异构集成先进封装技术 ，计划 2026 年流片、2028 年大规模量产。 IT之家注意到，ADTechnology 还在今",
-      "content": "IT之家 5 月 6 日消息，与三星电子关系密切的韩国芯片设计服务企业 ADTechnology 近日宣布，其从一家美国 Fabless 企业处获得了价值 400 亿韩元（IT之家注：现汇率约合 1.84 亿元人民币）的 AI HPC SoC 芯粒“交钥匙”订单。 该芯片将 采用三星晶圆代工的 4nm 工艺制程 ， 配合“新一代”HBM 内存和 2.5D 异构集成先进封装技术 ，计划 2026 年流片、2028 年大规模量产。 IT之家注意到，ADTechnology 还在今",
+      "id": "cd3e12bd507039",
+      "url": "https://www.ithome.com/0/946/968.htm",
+      "title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
+      "summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
+      "content": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
       "category": "semiconductor",
       "tags": [
-        "HBM",
-        "芯片"
+        "半导体"
       ],
-      "publish_time": "2026-05-06T18:47:55+08:00",
+      "publish_time": "2026-05-06T18:30:57+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/971.htm",
+          "url": "https://www.ithome.com/0/946/968.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.934776+08:00",
+          "verify_time": "2026-05-06T23:25:41.138168+08:00",
           "credibility": 78
         }
       ],
@@ -229,62 +177,11 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 29
-      },
-      "status": "published",
-      "original_title": "ADTechnology 获得 AI HPC 芯粒设计服务订单：400 亿韩元，三星 4nm 制程",
-      "original_summary": "IT之家 5 月 6 日消息，与三星电子关系密切的韩国芯片设计服务企业 ADTechnology 近日宣布，其从一家美国 Fabless 企业处获得了价值 400 亿韩元（IT之家注：现汇率约合 1.84 亿元人民币）的 AI HPC SoC 芯粒“交钥匙”订单。 该芯片将 采用三星晶圆代工的 4nm 工艺制程 ， 配合“新一代”HBM 内存和 2.5D 异构集成先进封装技术 ，计划 2026 年流片、2028 年大规模量产。 IT之家注意到，ADTechnology 还在今",
-      "language": "zh-CN"
-    },
-    {
-      "id": "97971680dbc71e",
-      "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
-      "title": "随着内存股加速上涨，美光科技市值突破 7000 亿美元",
-      "summary": "由于人工智能芯片所需的内存需求旺盛，美光已成为美国最有价值的科技公司之一。",
-      "content": "由于人工智能芯片所需的内存需求旺盛，美光已成为美国最有价值的科技公司之一。",
-      "category": "semiconductor",
-      "tags": [
-        "芯片",
-        "memory"
-      ],
-      "publish_time": "2026-05-06T04:23:48+08:00",
-      "sources": [
-        {
-          "name": "CNBC 科技",
-          "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.260004+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：半导体",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：半导体",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
         "opportunity_score": 33
       },
       "status": "published",
-      "original_title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
-      "original_summary": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips.",
+      "original_title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
+      "original_summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
       "language": "zh-CN"
     },
     {
@@ -300,10 +197,10 @@
       "publish_time": "2026-05-06T04:21:16+08:00",
       "sources": [
         {
-          "name": "ScienceDaily 科学日报",
+          "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:05.668143+08:00",
+          "verify_time": "2026-05-06T23:25:22.844976+08:00",
           "credibility": 82
         }
       ],
@@ -338,48 +235,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "8f1b3d6208c191",
-      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "title": "ASML 首席执行官 Christophe Fouquet 谈其公司的垄断：没有人会来找我们",
-      "summary": "Christophe Fouquet 在 ASML 工作了十多年，于 2024 年成为首席执行官。周二早上，在出席米尔肯研究所全球会议之前，他在比佛利山庄酒店的屋顶露台上与本编辑坐下来",
-      "content": "Christophe Fouquet 在 ASML 工作了十多年，于 2024 年成为首席执行官。周二早上，在出席米尔肯研究所全球会议之前，他在比佛利山庄酒店的屋顶露台上与本编辑坐下来",
-      "category": "semiconductor",
-      "tags": [
-        "ASML"
-      ],
-      "publish_time": "2026-05-06T04:06:40+08:00",
-      "sources": [
-        {
-          "name": "TechCrunch 科技媒体",
-          "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:35.297185+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "ASML",
-          "name": "阿斯麦",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published",
-      "original_title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "original_summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Confe",
-      "language": "zh-CN"
-    },
-    {
       "id": "4d5039fc929a90",
       "url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
       "title": "苹果芯片谈判报告推动英特尔股价飙升 13%，创历史新高",
@@ -388,15 +243,15 @@
       "category": "semiconductor",
       "tags": [
         "芯片",
-        "Intel"
+        "英特尔"
       ],
       "publish_time": "2026-05-06T04:02:41+08:00",
       "sources": [
         {
-          "name": "CNBC 科技",
+          "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.260347+08:00",
+          "verify_time": "2026-05-06T23:25:08.540364+08:00",
           "credibility": 86
         }
       ],
@@ -428,98 +283,6 @@
       "status": "published",
       "original_title": "Intel soars 13% on report of Apple chip talks, hits new all-time high",
       "original_summary": "The jump comes on reports that Apple is discussing using Intel chips for its U.S. devices and follows a historic 114% surge last month.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "e37bced51e046c",
-      "url": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
-      "title": "新 NGA 负责人在 2026 年 GEOINT 研讨会上首次亮相",
-      "summary": "当米歇尔·布雷登坎普中将在周三的 GEOINT 大会上发表闭幕主题演讲时，这将标志着她首次担任国家地理空间情报局 (NGA) 局长——她在任职期间几乎没有大张旗鼓地担任这一职务。",
-      "content": "当米歇尔·布雷登坎普中将在周三的 GEOINT 大会上发表闭幕主题演讲时，这将标志着她首次担任国家地理空间情报局 (NGA) 局长——她在任职期间几乎没有大张旗鼓地担任这一职务。",
-      "category": "semiconductor",
-      "tags": [
-        "Intel"
-      ],
-      "publish_time": "2026-05-06T03:20:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155768+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：半导体",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：半导体",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "New NGA head makes industry debut at GEOINT Symposium 2026",
-      "original_summary": "When Lt. Gen. Michele Bredenkamp takes the stage for the closing keynote at GEOINT Wednesday, it will mark her first as the director of the National Geospatial-Intelligence Agency (NGA) — a role she assumed with little fanfare during the go",
-      "language": "zh-CN"
-    },
-    {
-      "id": "45e272e001c21d",
-      "url": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
-      "title": "AMD 正在为 Linux 添加 HDMI 2.1 支持。这对于 Steam Machine 来说是个好消息。",
-      "summary": "现已添加固定费率链接；显示流压缩即将推出。",
-      "content": "现已添加固定费率链接；显示流压缩即将推出。",
-      "category": "semiconductor",
-      "tags": [
-        "AMD"
-      ],
-      "publish_time": "2026-05-05T00:26:49+08:00",
-      "sources": [
-        {
-          "name": "Ars Technica 科技媒体",
-          "url": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:39.118156+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published",
-      "original_title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
-      "original_summary": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
       "language": "zh-CN"
     }
   ]

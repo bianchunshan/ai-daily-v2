@@ -2,20 +2,21 @@
   "date": "2026-05-06",
   "type": "daily_digest",
   "summary": {
-    "total_new": 178,
-    "breaking": 7,
-    "opportunities": 20,
+    "total_new": 122,
+    "breaking": 10,
+    "opportunities": 15,
     "by_category": {
-      "biotech": 20,
-      "world": 30,
-      "ai": 30,
-      "robotics": 5,
-      "energy": 30,
-      "consumer": 29,
-      "semiconductor": 10,
-      "gaming": 8,
-      "space": 11,
-      "quantum": 5
+      "biotech": 16,
+      "ai": 23,
+      "robotics": 4,
+      "fusion": 1,
+      "world": 21,
+      "space": 22,
+      "semiconductor": 6,
+      "energy": 20,
+      "quantum": 7,
+      "consumer": 1,
+      "gaming": 1
     }
   },
   "top_news": [
@@ -32,7 +33,7 @@
     },
     {
       "id": "3c376bc88f8fc2",
-      "title": "在未解决耐受性问题后，Vertex 放弃了与 Moderna 合作的吸入性囊性纤维化候选药物",
+      "title": "在未解决耐受性问题后，福泰制药放弃了与莫德纳合作的吸入性囊性纤维化候选药物",
       "category": "biotech",
       "credibility": 84,
       "opportunity_score": 65,
@@ -43,7 +44,7 @@
     },
     {
       "id": "da3120aded2f0f",
-      "title": "NASA 宇航员回答佛罗里达州学生的问题",
+      "title": "美国航天局宇航员回答佛罗里达州学生的问题",
       "category": "space",
       "credibility": 95,
       "opportunity_score": 64,
@@ -72,7 +73,7 @@
     {
       "id": "b39b0f2905d41b",
       "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
-      "category": "consumer",
+      "category": "ai",
       "credibility": 86,
       "opportunity_score": 63,
       "stocks": [
@@ -80,20 +81,18 @@
       ]
     },
     {
-      "id": "c16f98aeb60dd8",
-      "title": "Linux 基金会成立 x402 Foundation 组织，旨在开发新型协议实现 AI 智能体“按请求付费”支付体系",
-      "category": "ai",
-      "credibility": 78,
+      "id": "78ffdc3e424204",
+      "title": "Wegovy 药丸销量超出预期，诺和诺德股价上涨 7%",
+      "category": "world",
+      "credibility": 86,
       "opportunity_score": 63,
       "stocks": [
-        "MSFT",
-        "GOOGL",
-        "AMZN"
+        "NVO"
       ]
     },
     {
       "id": "c3bf22d1240b5b",
-      "title": "强生 (J&J) 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
+      "title": "强生 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
       "category": "robotics",
       "credibility": 84,
       "opportunity_score": 61,
@@ -102,5 +101,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06T23:04:59.723541+08:00"
+  "generated_at": "2026-05-06T23:25:55.416013+08:00"
 }

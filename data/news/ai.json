@@ -2,59 +2,9 @@
   "version": "3.0",
   "category": "ai",
   "category_name": "人工智能",
-  "total": 30,
-  "updated": "2026-05-06T23:04:59.686068+08:00",
+  "total": 23,
+  "updated": "2026-05-06T23:25:55.406740+08:00",
   "news": [
-    {
-      "id": "0461fe4862acf5",
-      "url": "https://www.fiercebiotech.com/biotech/american-biotech-innovation-alliance-debuts-unify-domestic-strategy-amid-global-threats",
-      "title": "美国生物技术创新联盟成立，在全球竞争中统一国内战略",
-      "summary": "生物技术领域的各个领域的领导者正在发起美国生物技术创新联盟（ABIA），其目标是团结利益相关者并制定国家战略，以维持和扩大美国在生物技术创新领域的领导地位。",
-      "content": "生物技术领域的各个领域的领导者正在发起美国生物技术创新联盟（ABIA），其目标是团结利益相关者并制定国家战略，以维持和扩大美国在生物技术创新领域的领导地位。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T23:04:09.638929+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/american-biotech-innovation-alliance-debuts-unify-domestic-strategy-amid-global-threats",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:09.639027+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 35
-      },
-      "status": "published",
-      "original_title": "The American Biotech Innovation Alliance launches to unify domestic strategy amid global competition",
-      "original_summary": "A cross-section of biotech leaders is launching the American Biotech Innovation Alliance (ABIA) with the goal of uniting stakeholders and defining a national strategy to sustain and expand U.S. leadership in biotech innovation.",
-      "language": "zh-CN"
-    },
     {
       "id": "029246d6909bb9",
       "url": "https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub",
@@ -63,16 +13,15 @@
       "content": "赛诺菲正在增强其人工智能能力。这家法国制药公司将投资 2.94 亿美元扩建其位于多伦多的全球人工智能卓越中心，开始扩大其在 Cana 建立的数字基础设施的规模",
       "category": "ai",
       "tags": [
-        "人工智能",
         "人工智能"
       ],
-      "publish_time": "2026-05-06T23:04:09.638258+08:00",
+      "publish_time": "2026-05-06T23:25:23.473375+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech 生物科技",
+          "name": "美国生物科技媒体",
           "url": "https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:09.638360+08:00",
+          "verify_time": "2026-05-06T23:25:23.474111+08:00",
           "credibility": 84
         }
       ],
@@ -107,23 +56,23 @@
       "language": "zh-CN"
     },
     {
-      "id": "a55dbc0fea0910",
-      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-      "title": "Fierce Biotech 筹款跟踪 '26：Cytospire 的 8300 万美元用于 TCE； Vivacta 获得超过 5000 万美元的 A 轮融资",
-      "summary": "Fierce 生物技术筹款追踪记录了由生物技术公司担保的 5000 万美元或更多风险投资轮次。",
-      "content": "Fierce 生物技术筹款追踪记录了由生物技术公司担保的 5000 万美元或更多风险投资轮次。",
+      "id": "47780a5b4f2195",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/cocograph-ai-model-generates-molecules-that-comply-with-rules-of-chemistry/",
+      "title": "CoCoGraph AI 模型生成符合化学规则的分子",
+      "summary": "由于搜索空间广阔，发现可行的新分子具有挑战性。 CoCoGraph 使用扩散模型（一种图像生成中常见的技术）来生成用于治疗和可持续性的逼真分子。帖子",
+      "content": "由于搜索空间广阔，发现可行的新分子具有挑战性。 CoCoGraph 使用扩散模型（一种图像生成中常见的技术）来生成用于治疗和可持续性的逼真分子。帖子",
       "category": "ai",
       "tags": [
         "人工智能"
       ],
-      "publish_time": "2026-05-06T23:04:09.637991+08:00",
+      "publish_time": "2026-05-06T23:19:29+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+          "name": "基因工程新闻",
+          "url": "https://www.genengnews.com/topics/artificial-intelligence/cocograph-ai-model-generates-molecules-that-comply-with-rules-of-chemistry/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:09.638073+08:00",
-          "credibility": 84
+          "verify_time": "2026-05-06T23:25:25.532789+08:00",
+          "credibility": 82
         }
       ],
       "stocks": [
@@ -148,40 +97,40 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 35
+        "credibility_score": 82,
+        "opportunity_score": 29
       },
       "status": "published",
-      "original_title": "Fierce Biotech Fundraising Tracker '26: Cytospire's $83M for TCEs; Vivacta snags $50M+ series A",
-      "original_summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+      "original_title": "CoCoGraph AI Model Generates Molecules that Comply with Rules of Chemistry",
+      "original_summary": "Discovering viable new molecules is challenging due to the vastness of the search space. CoCoGraph uses a diffusion model, a technique common in image generation, to generate realistic molecules for therapeutics and sustainability. The post",
       "language": "zh-CN"
     },
     {
-      "id": "f8aa57bf55cd0f",
-      "url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched",
-      "title": "Novo 首席执行官坚称放弃单室设备后 CagriSema 的推出“计划不会改变”",
-      "summary": "诺和诺德首席执行官坚称，尽管该公司结束了单室输送装置的开发工作，但推出 GLP-1/amylin 组合疗法 CagriSema 的计划仍按计划进行。",
-      "content": "诺和诺德首席执行官坚称，尽管该公司结束了单室输送装置的开发工作，但推出 GLP-1/amylin 组合疗法 CagriSema 的计划仍按计划进行。",
+      "id": "8ea5f804c10d51",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "title": "苹果将​​支付 2.5 亿美元解决 Siri 延迟人工智能功能的诉讼",
+      "summary": "苹果公司同意支付 2.5 亿美元，以了结因过度承诺 Siri 人工智能功能而引发的集体诉讼。",
+      "content": "苹果公司同意支付 2.5 亿美元，以了结因过度承诺 Siri 人工智能功能而引发的集体诉讼。",
       "category": "ai",
       "tags": [
         "人工智能"
       ],
-      "publish_time": "2026-05-06T23:04:09.637254+08:00",
+      "publish_time": "2026-05-06T23:12:49+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched",
+          "name": "美国创业科技媒体",
+          "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:09.637398+08:00",
-          "credibility": 84
+          "verify_time": "2026-05-06T23:25:10.348208+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
         {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "positive",
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "negative",
           "reason": "标题/摘要直接提及",
           "confidence": "direct"
         }
@@ -190,62 +139,12 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 61
+        "credibility_score": 86,
+        "opportunity_score": 49
       },
       "status": "published",
-      "original_title": "Novo CEO insists ‘no change in plan’ for CagriSema launch after single-chamber device ditched",
-      "original_summary": "Novo Nordisk’s CEO has insisted that plans to launch the GLP-1/amylin combo treatment CagriSema remain on track, despite the pharma ending work on a single-chamber delivery device.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "517ae3467256dc",
-      "url": "https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect",
-      "title": "拜耳以 2.4B 美元收购 Perfuse，瞄准中期眼病前景",
-      "summary": "此次收购包括高达 21.5 亿美元的里程碑，将使拜耳控制一种眼病植入物，Perfuse 在去年的两项 2 期试验中将这种植入物与改善结果联系起来。",
-      "content": "此次收购包括高达 21.5 亿美元的里程碑，将使拜耳控制一种眼病植入物，Perfuse 在去年的两项 2 期试验中将这种植入物与改善结果联系起来。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T23:04:09.636852+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:09.636947+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 35
-      },
-      "status": "published",
-      "original_title": "Bayer buys Perfuse in $2.4B deal for midphase eye disease prospect",
-      "original_summary": "The buyout, which includes up to $2.15 billion in milestones, will give Bayer control of an eye disease implant that Perfuse linked to improved outcomes in a pair of phase 2 trials last year.",
+      "original_title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "original_summary": "Apple has agreed to pay $250 million to settle a class-action lawsuit for overpromising the arrival of Siri's AI features.",
       "language": "zh-CN"
     },
     {
@@ -261,10 +160,10 @@
       "publish_time": "2026-05-06T23:00:00+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
+          "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.294492+08:00",
+          "verify_time": "2026-05-06T23:25:10.348458+08:00",
           "credibility": 86
         }
       ],
@@ -311,10 +210,10 @@
       "publish_time": "2026-05-06T23:00:00+08:00",
       "sources": [
         {
-          "name": "SpaceNews 航天新闻",
+          "name": "航天新闻",
           "url": "https://spacenews.com/riding-the-orbital-data-center-wave/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155107+08:00",
+          "verify_time": "2026-05-06T23:25:32.347627+08:00",
           "credibility": 86
         }
       ],
@@ -361,10 +260,10 @@
       "publish_time": "2026-05-06T22:56:55+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
+          "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.294565+08:00",
+          "verify_time": "2026-05-06T23:25:10.348748+08:00",
           "credibility": 86
         }
       ],
@@ -412,10 +311,10 @@
       "publish_time": "2026-05-06T22:53:49+08:00",
       "sources": [
         {
-          "name": "CNBC 科技",
+          "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259345+08:00",
+          "verify_time": "2026-05-06T23:25:08.536433+08:00",
           "credibility": 86
         }
       ],
@@ -442,98 +341,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "77f0b1accb2ddc",
-      "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
-      "title": "AMD 的 Su 解释了预测大幅变化背后的原因，因为股价因盈利而飙升 15%",
-      "summary": "首席执行官 Lisa Su 强调了对中央处理器不断增长的需求，在第一季度盈利强劲后，她将长期预测提高了一倍。",
-      "content": "首席执行官 Lisa Su 强调了对中央处理器不断增长的需求，在第一季度盈利强劲后，她将长期预测提高了一倍。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T22:39:39+08:00",
-      "sources": [
-        {
-          "name": "CNBC 科技",
-          "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259009+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published",
-      "original_title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings",
-      "original_summary": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long term forecast after strong first-quarter earnings.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "cfb7816d1d1659",
-      "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
-      "title": "由于保险业务表现优于大盘，CVS 超出了过去的预期，上调了前景",
-      "summary": "这家医疗保健巨头的所有业务部门，包括保险公司 Aetna、零售药房和医疗服务部门，都超出了预期。",
-      "content": "这家医疗保健巨头的所有业务部门，包括保险公司 Aetna、零售药房和医疗服务部门，都超出了预期。",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T22:35:02+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.931090+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "CVS blows past estimates, hikes outlook as insurance business outperforms",
-      "original_summary": "All of the health-care giant's business segments, including its insurer Aetna, its retail pharmacy and health services unit, surpassed expectations.",
-      "language": "zh-CN"
-    },
-    {
       "id": "966233719dbe44",
       "url": "https://www.ithome.com/0/947/013.htm",
       "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
@@ -541,7 +348,6 @@
       "content": "IT之家 5 月 6 日消息，至少 30 年来，苹果每赚一美元，投入研发的资金首次超过 10 美分，这也是这家 iPhone 制造商为人工智能宏大愿景砸下重金的最有力信号之一。 苹果第一季度研发支出占营收的比例达到 10.3%，高于上一财季的 7.6% 和去年同期的 9%。尽管当期营收同比大涨 17%，创下 2021 年以来单季最快增速，但研发开支增速达到营收增速的两倍，同比增幅近 34%。 苹果首席执行官蒂姆・库克执掌公司 15 年后即将卸任，如今终于在人工智能领域投入了投",
       "category": "ai",
       "tags": [
-        "人工智能",
         "人工智能"
       ],
       "publish_time": "2026-05-06T22:21:03+08:00",
@@ -550,7 +356,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/013.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.930022+08:00",
+          "verify_time": "2026-05-06T23:25:41.122210+08:00",
           "credibility": 78
         }
       ],
@@ -589,10 +395,10 @@
       "publish_time": "2026-05-06T22:15:28+08:00",
       "sources": [
         {
-          "name": "CNBC 科技",
+          "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259424+08:00",
+          "verify_time": "2026-05-06T23:25:08.536741+08:00",
           "credibility": 86
         }
       ],
@@ -627,61 +433,11 @@
       "language": "zh-CN"
     },
     {
-      "id": "bdb4a650167382",
-      "url": "https://electrek.co/2026/05/06/bmw-opens-ix3-preorders-61500-up-to-434-miles-range/",
-      "title": "宝马 2027 年 iX3 开启预订，起价 61,500 美元，续航里程高达 434 英里",
-      "summary": "2027 款 iX3 是 BMW 首款 Neue Klasse 车型，现已在美国接受订购，起价为 61,500 美元。宝马电动 SUV 的续航里程超出预期，一次充电可行驶 434 英里。更多的…",
-      "content": "2027 款 iX3 是 BMW 首款 Neue Klasse 车型，现已在美国接受订购，起价为 61,500 美元。宝马电动 SUV 的续航里程超出预期，一次充电可行驶 434 英里。更多的…",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T22:15:27+08:00",
-      "sources": [
-        {
-          "name": "Electrek 新能源",
-          "url": "https://electrek.co/2026/05/06/bmw-opens-ix3-preorders-61500-up-to-434-miles-range/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:30.038100+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
-      },
-      "status": "published",
-      "original_title": "BMW opens 2027 iX3 preorders starting at $61,500 with up to 434 miles of range",
-      "original_summary": "The 2027 iX3 , BMW’s first Neue Klasse vehicle, is now available to order in the US starting at $61,500. BMW’s electric SUV delivers more range than expected, up to 434 miles on a single charge. more…",
-      "language": "zh-CN"
-    },
-    {
       "id": "0457bd15c3bced",
       "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
-      "title": "随着数据中心的增长推动收入和指导超出预期，AMD 股价飙升 16%",
-      "summary": "AMD 的收益报告发布之际，投资者对人工智能热潮才刚刚开始感到乐观，纷纷涌入该股。",
-      "content": "AMD 的收益报告发布之际，投资者对人工智能热潮才刚刚开始感到乐观，纷纷涌入该股。",
+      "title": "随着数据中心的增长推动收入和指导超出预期，超威半导体股价飙升 16%",
+      "summary": "超威半导体的收益报告发布之际，投资者对人工智能热潮才刚刚开始感到乐观，纷纷涌入该股。",
+      "content": "超威半导体的收益报告发布之际，投资者对人工智能热潮才刚刚开始感到乐观，纷纷涌入该股。",
       "category": "ai",
       "tags": [
         "人工智能"
@@ -689,10 +445,10 @@
       "publish_time": "2026-05-06T22:11:37+08:00",
       "sources": [
         {
-          "name": "CNBC 科技",
+          "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259926+08:00",
+          "verify_time": "2026-05-06T23:25:08.538681+08:00",
           "credibility": 86
         }
       ],
@@ -721,9 +477,9 @@
     {
       "id": "fb25f6ee23901c",
       "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "title": "还剩 3 天，即可锁定第二张 TechCrunch Disrupt 2026 门票 50% 的折扣",
-      "summary": "还剩三天，即可锁定第二张 Disrupt 2026 门票 50% 的折扣。购买一张 TechCrunch Disrupt 2026 门票，即可享受 50% 折扣获得第二张门票。在科技行业获得更多知名度。优惠截至 5 月 8 日晚上 11:59 PT。",
-      "content": "还剩三天，即可锁定第二张 Disrupt 2026 门票 50% 的折扣。购买一张 TechCrunch Disrupt 2026 门票，即可享受 50% 折扣获得第二张门票。在科技行业获得更多知名度。优惠截至 5 月 8 日晚上 11:59 PT。",
+      "title": "还剩 3 天，即可锁定第二张 TechCrunch 创业大会 2026 门票 50% 的折扣",
+      "summary": "还剩三天，即可锁定第二张 Disrupt 2026 门票 50% 的折扣。购买一张 TechCrunch 创业大会 2026 门票，即可享受 50% 折扣获得第二张门票。在科技行业获得更多知名度。优惠截至 5 月 8 日晚上 11:59 PT。",
+      "content": "还剩三天，即可锁定第二张 Disrupt 2026 门票 50% 的折扣。购买一张 TechCrunch 创业大会 2026 门票，即可享受 50% 折扣获得第二张门票。在科技行业获得更多知名度。优惠截至 5 月 8 日晚上 11:59 PT。",
       "category": "ai",
       "tags": [
         "人工智能"
@@ -731,10 +487,10 @@
       "publish_time": "2026-05-06T22:00:00+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
+          "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.294718+08:00",
+          "verify_time": "2026-05-06T23:25:10.349495+08:00",
           "credibility": 86
         }
       ],
@@ -769,24 +525,23 @@
       "language": "zh-CN"
     },
     {
-      "id": "d1876ae882be60",
-      "url": "https://www.ithome.com/0/947/010.htm",
-      "title": "豆包大模型家族首款全模态理解模型：字节跳动 Doubao-Seed-2.0-lite 升级",
-      "summary": "IT之家 5 月 6 日消息，据字节跳动旗下火山引擎官方消息，今天，Doubao-Seed-2.0-lite 升级新版本，这是豆包大模型家族首款全模态理解模型，支持视频、图像、音频、文本原生统一理解，Agent、Coding 与 GUI 能力同步升级。在同等算力成本下，是企业大规模、批量化部署全模态推理任务的更优性价比选择。 Doubao-Seed-2.0-lite 全新版本已在火山方舟上线。 IT之家附官方详细介绍如下： 全模态理解： 不止看懂图文，更能听懂世界 新版本的",
-      "content": "IT之家 5 月 6 日消息，据字节跳动旗下火山引擎官方消息，今天，Doubao-Seed-2.0-lite 升级新版本，这是豆包大模型家族首款全模态理解模型，支持视频、图像、音频、文本原生统一理解，Agent、Coding 与 GUI 能力同步升级。在同等算力成本下，是企业大规模、批量化部署全模态推理任务的更优性价比选择。 Doubao-Seed-2.0-lite 全新版本已在火山方舟上线。 IT之家附官方详细介绍如下： 全模态理解： 不止看懂图文，更能听懂世界 新版本的",
+      "id": "d9df78ece6d878",
+      "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+      "title": "有些孩子用假胡子绕过年龄验证检查",
+      "summary": "一项新的调查发现，尽管世界各地的年龄验证法律有所增加，但孩子们发现很容易绕过年龄检查。",
+      "content": "一项新的调查发现，尽管世界各地的年龄验证法律有所增加，但孩子们发现很容易绕过年龄检查。",
       "category": "ai",
       "tags": [
-        "大模型",
-        "算力"
+        "人工智能"
       ],
-      "publish_time": "2026-05-06T21:51:02+08:00",
+      "publish_time": "2026-05-06T21:49:12+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/947/010.htm",
+          "name": "美国创业科技媒体",
+          "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.930729+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:25:10.350080+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
@@ -811,12 +566,62 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
+        "credibility_score": 86,
+        "opportunity_score": 33
       },
       "status": "published",
-      "original_title": "豆包大模型家族首款全模态理解模型：字节跳动 Doubao-Seed-2.0-lite 升级",
-      "original_summary": "IT之家 5 月 6 日消息，据字节跳动旗下火山引擎官方消息，今天，Doubao-Seed-2.0-lite 升级新版本，这是豆包大模型家族首款全模态理解模型，支持视频、图像、音频、文本原生统一理解，Agent、Coding 与 GUI 能力同步升级。在同等算力成本下，是企业大规模、批量化部署全模态推理任务的更优性价比选择。 Doubao-Seed-2.0-lite 全新版本已在火山方舟上线。 IT之家附官方详细介绍如下： 全模态理解： 不止看懂图文，更能听懂世界 新版本的",
+      "original_title": "Some kids are bypassing age verification checks with a fake mustache",
+      "original_summary": "A new survey found that kids find it easy to bypass age checks, despite a rise in age verification laws around the world.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "521f931a2467a8",
+      "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+      "title": "Ars 要求：分享您的 shell 并向我们展示您精心设计的终端！",
+      "summary": "庆祝让 CLI 的生活更轻松的调整和定制。",
+      "content": "庆祝让 CLI 的生活更轻松的调整和定制。",
+      "category": "ai",
+      "tags": [
+        "人工智能"
+      ],
+      "publish_time": "2026-05-06T21:32:47+08:00",
+      "sources": [
+        {
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:13.702550+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：人工智能",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "original_summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
       "language": "zh-CN"
     },
     {
@@ -827,7 +632,6 @@
       "content": "IT之家 5 月 6 日消息，据美国 CNBC 当地时间 5 日报道，商汤科技联合创始人兼首席科学家林达华表示，公司从 DeepSeek 身上获得启发：即便在 资金和技术条件受限 的情况下，也可以推出高性能模型。 林达华表示，OpenAI 的图像生成工具 ChatGPT Images 2.0 可以根据文本提示生成“精致而漂亮”的图像，但日日新 U1 的成本 只有前者十分之一 。“很多情况下，如果一个模型可以处理大多数任务，那么就未必需要顶级模型。我们与 OpenAI 的 GP",
       "category": "ai",
       "tags": [
-        "人工智能",
         "OpenAI",
         "ChatGPT"
       ],
@@ -837,7 +641,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/007.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.931237+08:00",
+          "verify_time": "2026-05-06T23:25:41.125663+08:00",
           "credibility": 78
         }
       ],
@@ -884,10 +688,10 @@
       "publish_time": "2026-05-06T21:23:15+08:00",
       "sources": [
         {
-          "name": "Quantum Insider 量子资讯",
+          "name": "量子科技资讯",
           "url": "https://thequantuminsider.com/2026/05/06/qutwo-raises-e25-million-to-build-hybrid-quantum-classical-platform/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:15.292433+08:00",
+          "verify_time": "2026-05-06T23:25:26.179575+08:00",
           "credibility": 78
         }
       ],
@@ -934,10 +738,10 @@
       "publish_time": "2026-05-06T21:03:33+08:00",
       "sources": [
         {
-          "name": "CNBC 科技",
+          "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/5-things-to-know-before-the-market-opens.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259109+08:00",
+          "verify_time": "2026-05-06T23:25:08.535541+08:00",
           "credibility": 86
         }
       ],
@@ -984,10 +788,10 @@
       "publish_time": "2026-05-06T21:00:30+08:00",
       "sources": [
         {
-          "name": "The Verge 科技媒体",
+          "name": "美国科技媒体",
           "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:38.352554+08:00",
+          "verify_time": "2026-05-06T23:25:12.350292+08:00",
           "credibility": 84
         }
       ],
@@ -1014,22 +818,22 @@
       "language": "zh-CN"
     },
     {
-      "id": "be3af0830bad2b",
-      "url": "https://spacenews.com/between-resource-scarcity-and-orbital-inflation-rethinking-the-space-model/",
-      "title": "在资源稀缺和轨道膨胀之间：重新思考空间模型",
-      "summary": "太空领域正在蓬勃发展。但它也遇到了我们才刚刚开始承认的极限。像许多行业一样，它正在扩张，就好像材料、能源和轨道容量等资源永远丰富一样，当我",
-      "content": "太空领域正在蓬勃发展。但它也遇到了我们才刚刚开始承认的极限。像许多行业一样，它正在扩张，就好像材料、能源和轨道容量等资源永远丰富一样，当我",
+      "id": "05fee029e24cf4",
+      "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
+      "title": "不仅仅是一辆SUV？ Rivian 电动车正在开发更多 R2 变体。",
+      "summary": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
+      "content": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
       "category": "ai",
       "tags": [
         "人工智能"
       ],
-      "publish_time": "2026-05-06T21:00:00+08:00",
+      "publish_time": "2026-05-06T20:48:53+08:00",
       "sources": [
         {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/between-resource-scarcity-and-orbital-inflation-rethinking-the-space-model/",
+          "name": "美国技术媒体",
+          "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155286+08:00",
+          "verify_time": "2026-05-06T23:25:13.702834+08:00",
           "credibility": 86
         }
       ],
@@ -1059,8 +863,8 @@
         "opportunity_score": 33
       },
       "status": "published",
-      "original_title": "Between resource scarcity and orbital inflation: rethinking the space model",
-      "original_summary": "The space sector is booming. But it is also running up against limits we are only beginning to acknowledge. Like many industries, it is expanding as if resources such as materials, energy and orbital capacity were eternally abundant, when i",
+      "original_title": "More than just an SUV? Rivian is working on more R2 variants.",
+      "original_summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
       "language": "zh-CN"
     },
     {
@@ -1079,7 +883,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/989.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.932602+08:00",
+          "verify_time": "2026-05-06T23:25:41.129408+08:00",
           "credibility": 78
         }
       ],
@@ -1122,7 +926,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/988.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.932759+08:00",
+          "verify_time": "2026-05-06T23:25:41.129816+08:00",
           "credibility": 78
         }
       ],
@@ -1149,61 +953,11 @@
       "language": "zh-CN"
     },
     {
-      "id": "5abe6d3268e35b",
-      "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
-      "title": "荷兰合作伙伴探索将硅光伏带入太空",
-      "summary": "荷兰应用科学研究组织 (TNO) 正在与太阳能制造商 MCPV 和航空巨头空中客车公司合作，将经过地面验证的硅技术应用于太空运营。预计该技术可以",
-      "content": "荷兰应用科学研究组织 (TNO) 正在与太阳能制造商 MCPV 和航空巨头空中客车公司合作，将经过地面验证的硅技术应用于太空运营。预计该技术可以",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T20:15:24+08:00",
-      "sources": [
-        {
-          "name": "PV Magazine 光伏杂志",
-          "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174298+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
-      },
-      "status": "published",
-      "original_title": "Dutch partners explore bringing silicon PV into space",
-      "original_summary": "The Netherlands Organization for Applied Scientific Research (TNO) is working with solar manufacturer MCPV and aviation giant Airbus to adapt terrestrial-proven silicon technology for space operations. It is envisaged the technology could s",
-      "language": "zh-CN"
-    },
-    {
-      "id": "1e822d480d643d",
-      "url": "https://thequantuminsider.com/2026/05/06/sic-systems-orca-computing-partnership-chemical-biomanufacturin/",
-      "title": "ORCA 计算和 SiC Systems 合作开发工业人工智能和量子计算",
-      "summary": "内幕简报新闻稿 — ORCA 计算公司（一家领先的量子计算公司）和 SiC 系统公司（工业过程系统中基于物理的多智能体人工智能领域的领导者）今天宣布建立战略合作伙伴关系，以应用混合量子",
-      "content": "内幕简报新闻稿 — ORCA 计算公司（一家领先的量子计算公司）和 SiC 系统公司（工业过程系统中基于物理的多智能体人工智能领域的领导者）今天宣布建立战略合作伙伴关系，以应用混合量子",
+      "id": "90dfdafd97ff31",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "title": "下载：海底科学和军事聊天机器人",
+      "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。廉价的海底跳跃潜水器可能会推动深海科学和采矿业上周，两个长方形潜水器",
+      "content": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。廉价的海底跳跃潜水器可能会推动深海科学和采矿业上周，两个长方形潜水器",
       "category": "ai",
       "tags": [
         "人工智能"
@@ -1211,11 +965,11 @@
       "publish_time": "2026-05-06T20:10:00+08:00",
       "sources": [
         {
-          "name": "Quantum Insider 量子资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/sic-systems-orca-computing-partnership-chemical-biomanufacturin/",
+          "name": "麻省理工科技评论",
+          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:15.292786+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:25:16.064381+08:00",
+          "credibility": 90
         }
       ],
       "stocks": [
@@ -1240,62 +994,54 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
+        "credibility_score": 90,
+        "opportunity_score": 37
       },
       "status": "published",
-      "original_title": "ORCA Computing and SiC Systems Partner on Industrial AI and Quantum Computing",
-      "original_summary": "Insider Brief PRESS RELEASE — ORCA Computing, a leading quantum computing company, and SiC Systems, a leader in physics-informed multi-agent AI for industrial process systems, today announced a strategic partnership to apply hybrid quantum–",
+      "original_title": "The Download: seafloor science and military chatbots",
+      "original_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblon",
       "language": "zh-CN"
     },
     {
-      "id": "7bdc6df65d05bc",
-      "url": "https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention",
-      "title": "Energizer 的新型纽扣电池吞咽不会造成摄入灼伤",
-      "summary": "Energizer 推出了一款新的锂纽扣电池系列，据称这是世界上第一个消除吞咽灼伤风险的产品。其 Ultimate Child Shield 系列包括从今天开始提供的三种尺寸 - 2032、2025、a",
-      "content": "Energizer 推出了一款新的锂纽扣电池系列，据称这是世界上第一个消除吞咽灼伤风险的产品。其 Ultimate Child Shield 系列包括从今天开始提供的三种尺寸 - 2032、2025、a",
+      "id": "b39b0f2905d41b",
+      "url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html",
+      "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
+      "summary": "苹果的研发支出占收入的比例至少 30 年来首次突破 10%，并且最新季度的增长速度是销售额的两倍。",
+      "content": "苹果的研发支出占收入的比例至少 30 年来首次突破 10%，并且最新季度的增长速度是销售额的两倍。",
       "category": "ai",
       "tags": [
         "人工智能"
       ],
-      "publish_time": "2026-05-06T20:00:00+08:00",
+      "publish_time": "2026-05-06T20:00:01+08:00",
       "sources": [
         {
-          "name": "The Verge 科技媒体",
-          "url": "https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention",
+          "name": "美国财经媒体·科技",
+          "url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:38.353090+08:00",
-          "credibility": 84
+          "verify_time": "2026-05-06T23:25:08.536110+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
         {
-          "symbol": "NVDA",
-          "name": "英伟达",
+          "symbol": "AAPL",
+          "name": "苹果",
           "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
         }
       ],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
+        "credibility_score": 86,
+        "opportunity_score": 63
       },
       "status": "published",
-      "original_title": "Energizer’s new coin batteries won’t cause ingestion burns if swallowed",
-      "original_summary": "Energizer has announced a new line of lithium coin batteries it claims are the world's first to eliminate the risk of ingestion burns if swallowed. Its Ultimate Child Shield line includes three sizes available starting today - 2032, 2025, a",
+      "original_title": "Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency'",
+      "original_summary": "Apple’s R&D spending has crossed 10% of revenue for the first time in at least 30 years, and increased twice as fast as sales in the latest quarter.",
       "language": "zh-CN"
     },
     {
@@ -1314,7 +1060,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/982.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.933414+08:00",
+          "verify_time": "2026-05-06T23:25:41.132073+08:00",
           "credibility": 78
         }
       ],
@@ -1346,114 +1092,6 @@
       "status": "published",
       "original_title": "《刺客信条》回应网传新作截图：可能是 AI 改的，但项目已在推进",
       "original_summary": "IT之家 5 月 6 日消息，据外媒 VGC 今晚报道，《刺客信条》官方 X 账号回应了一张据称系列多人游戏新作者私人测试的截图，并称图片 已经被“大幅修改” 。 曾多次曝光《刺客信条》系列未公开内容的 X 用户 @xj0nathan 发布了一张图片，称图片来自即将推出的多人游戏《刺客信条：不败（Invictus）》。 《刺客信条》官方账号随后罕见下场回应：“不错的尝试…… 这张图可能最初确实来自我们的私人测试，但已经被大幅修改， 很可能是用 AI 改的，传播错误信息可不太好",
-      "language": "zh-CN"
-    },
-    {
-      "id": "c16f98aeb60dd8",
-      "url": "https://www.ithome.com/0/946/980.htm",
-      "title": "Linux 基金会成立 x402 Foundation 组织，旨在开发新型协议实现 AI 智能体“按请求付费”支付体系",
-      "summary": "IT之家 5 月 6 日消息，为应对 AI 智能体带来的自动化交易需求，Linux 基金会宣布成立“x402 Foundation”组织，推动开发一种可嵌入网页交互流程的通用支付标准。 据介绍，参与 x402 Foundation 组织的成员横跨云计算、支付与金融领域，包括亚马逊、谷歌、微软、Mastercard、Visa 以及 Shopify 等企业，相应组织将以开源模式持续发展。 从设计思路来看，x402 基金会计划研发一种新型协议，相应协议核心是在网页请求（HTTP）过",
-      "content": "IT之家 5 月 6 日消息，为应对 AI 智能体带来的自动化交易需求，Linux 基金会宣布成立“x402 Foundation”组织，推动开发一种可嵌入网页交互流程的通用支付标准。 据介绍，参与 x402 Foundation 组织的成员横跨云计算、支付与金融领域，包括亚马逊、谷歌、微软、Mastercard、Visa 以及 Shopify 等企业，相应组织将以开源模式持续发展。 从设计思路来看，x402 基金会计划研发一种新型协议，相应协议核心是在网页请求（HTTP）过",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T19:42:29+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/980.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:37.933697+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 63
-      },
-      "status": "published",
-      "original_title": "Linux 基金会成立 x402 Foundation 组织，旨在开发新型协议实现 AI 智能体“按请求付费”支付体系",
-      "original_summary": "IT之家 5 月 6 日消息，为应对 AI 智能体带来的自动化交易需求，Linux 基金会宣布成立“x402 Foundation”组织，推动开发一种可嵌入网页交互流程的通用支付标准。 据介绍，参与 x402 Foundation 组织的成员横跨云计算、支付与金融领域，包括亚马逊、谷歌、微软、Mastercard、Visa 以及 Shopify 等企业，相应组织将以开源模式持续发展。 从设计思路来看，x402 基金会计划研发一种新型协议，相应协议核心是在网页请求（HTTP）过",
-      "language": "zh-CN"
-    },
-    {
-      "id": "7361a782be11c3",
-      "url": "https://thequantuminsider.com/2026/05/06/quantum-algorithms-may-add-shine-to-surface-coatings/",
-      "title": "量子算法可以为表面涂层增添光彩",
-      "summary": "内幕简报新闻稿 — 汽车、桥梁和飞机有什么共同点？它们大部分时间都暴露在露天，并受到太阳紫外线 (UV) 辐射的影响。飞机尤其容易受到此影响",
-      "content": "内幕简报新闻稿 — 汽车、桥梁和飞机有什么共同点？它们大部分时间都暴露在露天，并受到太阳紫外线 (UV) 辐射的影响。飞机尤其容易受到此影响",
-      "category": "ai",
-      "tags": [
-        "人工智能"
-      ],
-      "publish_time": "2026-05-06T19:23:12+08:00",
-      "sources": [
-        {
-          "name": "Quantum Insider 量子资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/quantum-algorithms-may-add-shine-to-surface-coatings/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:15.293087+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：人工智能",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 25
-      },
-      "status": "published",
-      "original_title": "Quantum Algorithms May Add Shine to Surface Coatings",
-      "original_summary": "Insider Brief PRESS RELEASE — What do cars, bridges and airplanes have in common? They are all exposed to the open air most of the time and are subjected to the sun’s ultraviolet (UV) radiation. Airplanes are particularly vulnerable to this",
       "language": "zh-CN"
     }
   ]

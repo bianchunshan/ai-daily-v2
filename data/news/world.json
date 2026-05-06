@@ -2,125 +2,26 @@
   "version": "3.0",
   "category": "world",
   "category_name": "国际局势",
-  "total": 30,
-  "updated": "2026-05-06T23:04:59.682673+08:00",
+  "total": 21,
+  "updated": "2026-05-06T23:25:55.404582+08:00",
   "news": [
     {
-      "id": "2f58f8357b36cb",
-      "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
-      "title": "Windward 抓住了 1.65 亿美元的机遇，推动了长期 TSLP 的雄心",
-      "summary": "Windward Bio 正全力以赴，获得 1.65 亿美元的交叉融资，将其长效抗 TSLP 抗体推向 3 期，押注每年两次的给药方案将成为日益拥挤的呼吸系统疾病中的关键差异化因素。",
-      "content": "Windward Bio 正全力以赴，获得 1.65 亿美元的交叉融资，将其长效抗 TSLP 抗体推向 3 期，押注每年两次的给药方案将成为日益拥挤的呼吸系统疾病中的关键差异化因素。",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T23:04:09.639707+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:09.639804+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 49
-      },
-      "status": "published",
-      "original_title": "Windward catches $165M breeze to fuel long-acting TSLP ambitions",
-      "original_summary": "Windward Bio is in full sail with a $165 million crossover financing to push its long-acting anti-TSLP antibody into phase 3, betting that a twice-yearly dosing schedule will be a key differentiator in an increasingly crowded respiratory ma",
-      "language": "zh-CN"
-    },
-    {
-      "id": "00fc95db0d8887",
-      "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
-      "title": "在公共融资放缓的情况下，瑞士私营生物技术公司的融资额创历史新高",
-      "summary": "去年，瑞士私营生物技术公司的融资额创下新高，增长 38%，达到 11.5 亿瑞士法郎（15 亿美元）。然而，推动融资增长的公司数量相对较少，而许多同行却没有筹集到任何资金，例如",
-      "content": "去年，瑞士私营生物技术公司的融资额创下新高，增长 38%，达到 11.5 亿瑞士法郎（15 亿美元）。然而，推动融资增长的公司数量相对较少，而许多同行却没有筹集到任何资金，例如",
-      "category": "world",
-      "tags": [
-        "trade"
-      ],
-      "publish_time": "2026-05-06T23:04:09.639048+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:09.639149+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 53
-      },
-      "status": "published",
-      "original_title": "Private Swiss biotechs hit record funding amid slowdown in public financing",
-      "original_summary": "Funding for privately traded Swiss biotechs hit a new high last year, climbing 38% to 1.15 billion Swiss francs ($1.5 billion). However, a relatively small pool of companies drove the funding jump while many of their peers raised nothing, e",
-      "language": "zh-CN"
-    },
-    {
-      "id": "db237e637e2990",
-      "url": "https://www.ithome.com/0/947/018.htm",
-      "title": "初创公司 Tin Can 的 100 美元“儿童座机”走红：多彩外观，相互间能免费通话",
-      "summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。 这款“儿童座机”售价 100 美元（IT之家注：现汇率约合 684 元人民币），是一部复古固定电话风格、支持 Wi-Fi 的设备，通过 Communities，家长和组织者可以批量订购。订单最低 50 部起可申请折扣",
-      "content": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。 这款“儿童座机”售价 100 美元（IT之家注：现汇率约合 684 元人民币），是一部复古固定电话风格、支持 Wi-Fi 的设备，通过 Communities，家长和组织者可以批量订购。订单最低 50 部起可申请折扣",
+      "id": "f9930ef35e64e6",
+      "url": "https://www.cnbc.com/2026/05/06/former-yankee-mariano-rivera-mlb-salary-cap.html",
+      "title": "洋基队传奇人物马里亚诺·里维拉表示，他支持 MLB 工资帽",
+      "summary": "前纽约洋基队球员马里亚诺·里维拉表示，只要小市场球队也能花钱，他就支持美国职业棒球大联盟的工资上限。",
+      "content": "前纽约洋基队球员马里亚诺·里维拉表示，只要小市场球队也能花钱，他就支持美国职业棒球大联盟的工资上限。",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-06T23:03:08+08:00",
+      "publish_time": "2026-05-06T23:09:48+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/947/018.htm",
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/former-yankee-mariano-rivera-mlb-salary-cap.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.928080+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 47
-      },
-      "status": "published",
-      "original_title": "初创公司 Tin Can 的 100 美元“儿童座机”走红：多彩外观，相互间能免费通话",
-      "original_summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。 这款“儿童座机”售价 100 美元（IT之家注：现汇率约合 684 元人民币），是一部复古固定电话风格、支持 Wi-Fi 的设备，通过 Communities，家长和组织者可以批量订购。订单最低 50 部起可申请折扣",
-      "language": "zh-CN"
-    },
-    {
-      "id": "f6f6edc758a228",
-      "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
-      "title": "商务部霍华德·卢特尼克周三回答众议院小组提出的爱泼斯坦问题",
-      "summary": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
-      "content": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T22:53:43+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.930234+08:00",
+          "verify_time": "2026-05-06T23:25:09.559644+08:00",
           "credibility": 86
         }
       ],
@@ -133,8 +34,8 @@
         "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "Commerce Sec. Howard Lutnick to answer Epstein questions from House panel Wednesday",
-      "original_summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+      "original_title": "Yankees legend Mariano Rivera says he supports an MLB salary cap",
+      "original_summary": "Former New York Yankee Mariano Rivera says he supports MLB salary cap as long as small-market teams are also spending.",
       "language": "zh-CN"
     },
     {
@@ -147,13 +48,13 @@
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-06T22:42:41+08:00",
+      "publish_time": "2026-05-06T23:04:17+08:00",
       "sources": [
         {
-          "name": "CNBC 市场",
+          "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.930700+08:00",
+          "verify_time": "2026-05-06T23:25:09.560306+08:00",
           "credibility": 86
         }
       ],
@@ -171,22 +72,22 @@
       "language": "zh-CN"
     },
     {
-      "id": "31107ff9bf19a4",
-      "url": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
-      "title": "Ken Griffin：Citadel 在迈阿密扩张，以回应纽约市市长 Mamdani 的“低俗”税务视频",
-      "summary": "马姆达尼办公室在回应格里芬的问题时表示，“我们的税收制度从根本上被破坏了。它奖励极端财富，而工薪阶层则被推向边缘。”",
-      "content": "马姆达尼办公室在回应格里芬的问题时表示，“我们的税收制度从根本上被破坏了。它奖励极端财富，而工薪阶层则被推向边缘。”",
+      "id": "7391040b6dfa1e",
+      "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+      "title": "优步和迪士尼在当前经济中也看到了同样显着的动态。两只股票都在飙升",
+      "summary": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
+      "content": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
       "category": "world",
       "tags": [
-        "war"
+        "国际局势"
       ],
-      "publish_time": "2026-05-06T21:41:37+08:00",
+      "publish_time": "2026-05-06T22:56:57+08:00",
       "sources": [
         {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.930427+08:00",
+          "verify_time": "2026-05-06T23:25:09.557945+08:00",
           "credibility": 86
         }
       ],
@@ -199,8 +100,239 @@
         "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "Ken Griffin: Citadel expanding in Miami in response to NYC Mayor Mamdani's 'poor taste' tax video",
-      "original_summary": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\"",
+      "original_title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+      "original_summary": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "f6f6edc758a228",
+      "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+      "title": "商务部霍华德·卢特尼克周三回答众议院小组提出的爱泼斯坦问题",
+      "summary": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
+      "content": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T22:53:43+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.558610+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Commerce Sec. Howard Lutnick to answer Epstein questions from House panel Wednesday",
+      "original_summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "0913a2e0805f1e",
+      "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
+      "title": "在汉堡王扭亏为盈的推动下，餐饮品牌国际的盈利高于预期",
+      "summary": "餐饮品牌国际公布的季度盈利和收入超出了华尔街的预期。",
+      "content": "餐饮品牌国际公布的季度盈利和收入超出了华尔街的预期。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T22:48:47+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.563025+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Restaurant Brands International earnings top estimates, fueled by Burger King turnaround",
+      "original_summary": "Restaurant Brands International reported quarterly earnings and revenue that topped Wall Street's estimates.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "cfb7816d1d1659",
+      "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
+      "title": "由于保险业务表现优于大盘，CVS 超出了过去的预期，上调了前景",
+      "summary": "这家医疗保健巨头的所有业务部门，包括保险公司 Aetna、零售药房和医疗服务部门，都超出了预期。",
+      "content": "这家医疗保健巨头的所有业务部门，包括保险公司 Aetna、零售药房和医疗服务部门，都超出了预期。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T22:35:02+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.561577+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "CVS blows past estimates, hikes outlook as insurance business outperforms",
+      "original_summary": "All of the health-care giant's business segments, including its insurer Aetna, its retail pharmacy and health services unit, surpassed expectations.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "da66f43c38335d",
+      "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+      "title": "特朗普表示，如果伊朗不同意和平协议，伊朗将受到“更高级别”的轰炸",
+      "summary": "据报道，华盛顿预计德黑兰将在未来 48 小时内就几个关键问题做出回应。",
+      "content": "据报道，华盛顿预计德黑兰将在未来 48 小时内就几个关键问题做出回应。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T22:32:39+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.557565+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
+      "original_summary": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "507982d7bcb3b3",
+      "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
+      "title": "报告发现，由于汽车债务达到 1.68 万亿美元，汽车支付挤压了美国人",
+      "summary": "一项新的分析发现，汽车债务已增至 1.68 万亿美元。美国人面临着更昂贵的车辆、更高的利率和更长的贷款期限。",
+      "content": "一项新的分析发现，汽车债务已增至 1.68 万亿美元。美国人面临着更昂贵的车辆、更高的利率和更长的贷款期限。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T22:09:50+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.560645+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Car payments squeeze Americans as auto debt hits $1.68 trillion, report finds",
+      "original_summary": "Auto debt has swelled to $1.68 trillion, a new analysis finds. Americans face costlier vehicles, higher interest rates and lengthier loan terms.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "fbd111f3a83d6b",
+      "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
+      "title": "迪士尼在首席执行官乔什·达马罗 (Josh D'Amaro) 领导下的第一份报告中，流媒体和公园推动收入增长 7%",
+      "summary": "当媒体巨头迪士尼周三公布第二财季收益时，其收入超出了分析师的预期。",
+      "content": "当媒体巨头迪士尼周三公布第二财季收益时，其收入超出了分析师的预期。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T21:52:22+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.560941+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Disney pops 7% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro",
+      "original_summary": "Disney revenue topped analyst expectations when the media giant reported its fiscal second-quarter earnings on Wednesday.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2cacd870cb6868",
+      "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
+      "title": "ADP 称 4 月份私营部门就业人数增加 109,000 人，超出预期",
+      "summary": "该报告提供了更多劳动力市场稳定的证据，并减少了美联储降息的动力。",
+      "content": "该报告提供了更多劳动力市场稳定的证据，并减少了美联储降息的动力。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T21:49:25+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.559948+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
+      "original_summary": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
       "language": "zh-CN"
     },
     {
@@ -219,7 +351,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/008.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.931083+08:00",
+          "verify_time": "2026-05-06T23:25:41.125257+08:00",
           "credibility": 78
         }
       ],
@@ -234,72 +366,6 @@
       "status": "published",
       "original_title": "继社媒禁令后，印尼考虑为 7000 万名 16 岁以下人群祭出“网购禁令”",
       "original_summary": "IT之家 5 月 6 日消息，据新华社报道，印度尼西亚政府官员 6 日说，正在考虑对 16 岁以下人群实施“网购禁令”， 以避免未成年人在网购平台遭遇诈骗 。 印尼通信和数字事务部长默蒂娅 · 哈菲兹表示，印尼出台针对 16 岁以下人群的社交媒体禁令后，接下来将把禁令扩展至购物网站。“电子商务平台将是下一个，因为我们发现 有孩子在网购时成为诈骗案受害者 。”不过，她没有说明“网购禁令”的详细方案。 今年 3 月 28 日，印尼正式实施针对 16 岁以下人群的“社媒禁令”，成为",
-      "language": "zh-CN"
-    },
-    {
-      "id": "ed969c27572698",
-      "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
-      "title": "海趣推出Agentic量子操作系统用于企业应用研发",
-      "summary": "内幕简报新闻稿 — 领先的量子中间件开发商 Haiqu 今天宣布推出 Agentic 量子操作系统 (OS)，这是第一个面向企业和科学量子的全栈量子智能平台。",
-      "content": "内幕简报新闻稿 — 领先的量子中间件开发商 Haiqu 今天宣布推出 Agentic 量子操作系统 (OS)，这是第一个面向企业和科学量子的全栈量子智能平台。",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T21:35:04+08:00",
-      "sources": [
-        {
-          "name": "Quantum Insider 量子资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:15.292250+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 47
-      },
-      "status": "published",
-      "original_title": "Haiqu Launches Agentic Quantum Operating System For Enterprise Applications R&D",
-      "original_summary": "Insider Brief PRESS RELEASE — Haiqu, a leading developer of quantum middleware, today announced the launch of its Agentic Quantum Operating System (OS), the first full-stack quantum intelligence platform for enterprise and scientific quantu",
-      "language": "zh-CN"
-    },
-    {
-      "id": "28ec0d6fa6adf4",
-      "url": "https://www.ithome.com/0/947/003.htm",
-      "title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
-      "summary": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。 宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。 而据外媒 BMW Blog 今晚报道，从 2026 年第一季度销量看，Z4 在退场前 反而迎来一波需求回升 。今年 Q1 宝马交付 2555 辆 Z4，同比增长 4.9% 。不过，Z4",
-      "content": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。 宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。 而据外媒 BMW Blog 今晚报道，从 2026 年第一季度销量看，Z4 在退场前 反而迎来一波需求回升 。今年 Q1 宝马交付 2555 辆 Z4，同比增长 4.9% 。不过，Z4",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T21:22:25+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/947/003.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:37.931557+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 47
-      },
-      "status": "published",
-      "original_title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
-      "original_summary": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。 宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。 而据外媒 BMW Blog 今晚报道，从 2026 年第一季度销量看，Z4 在退场前 反而迎来一波需求回升 。今年 Q1 宝马交付 2555 辆 Z4，同比增长 4.9% 。不过，Z4",
       "language": "zh-CN"
     },
     {
@@ -318,7 +384,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/994.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.931844+08:00",
+          "verify_time": "2026-05-06T23:25:41.127304+08:00",
           "credibility": 78
         }
       ],
@@ -336,23 +402,23 @@
       "language": "zh-CN"
     },
     {
-      "id": "d0941c731e03ed",
-      "url": "https://www.ithome.com/0/946/992.htm",
-      "title": "福特 CEO 法利誓言要造美国人买得起的车：这是行业的优先任务",
-      "summary": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担， 必须成为汽车行业的优先任务 ，福特正在为此采取行动。 被问到美国消费者现在是否还能负担新车价格时，法利回答：“ 有些美国人 可以。但作为一个品牌，也作为一个行业，我们必须把工作做好，让汽车变得更可负担。我认为，未来几年你肯定会在福特看到这一点。” Kelley Blue Book 数据显示，目前美国新车 平均价格接近 5 万美元（IT之",
-      "content": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担， 必须成为汽车行业的优先任务 ，福特正在为此采取行动。 被问到美国消费者现在是否还能负担新车价格时，法利回答：“ 有些美国人 可以。但作为一个品牌，也作为一个行业，我们必须把工作做好，让汽车变得更可负担。我认为，未来几年你肯定会在福特看到这一点。” Kelley Blue Book 数据显示，目前美国新车 平均价格接近 5 万美元（IT之",
+      "id": "205e9dc529c6ef",
+      "url": "https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html",
+      "title": "抵押贷款利率创一个月来最高水平，导致首次购房者退出",
+      "summary": "上周抵押贷款利率上升，导致贷款需求回落，导致平均贷款规模上升，这表明低收入借款人退出。",
+      "content": "上周抵押贷款利率上升，导致贷款需求回落，导致平均贷款规模上升，这表明低收入借款人退出。",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-06T20:40:55+08:00",
+      "publish_time": "2026-05-06T20:03:13+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/992.htm",
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.932153+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:25:09.562542+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [],
@@ -360,78 +426,12 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
+        "credibility_score": 86,
+        "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "福特 CEO 法利誓言要造美国人买得起的车：这是行业的优先任务",
-      "original_summary": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担， 必须成为汽车行业的优先任务 ，福特正在为此采取行动。 被问到美国消费者现在是否还能负担新车价格时，法利回答：“ 有些美国人 可以。但作为一个品牌，也作为一个行业，我们必须把工作做好，让汽车变得更可负担。我认为，未来几年你肯定会在福特看到这一点。” Kelley Blue Book 数据显示，目前美国新车 平均价格接近 5 万美元（IT之",
-      "language": "zh-CN"
-    },
-    {
-      "id": "a300d80f89aaf3",
-      "url": "https://www.ithome.com/0/946/990.htm",
-      "title": "联合创新推出“GA27V1M MAX”27 英寸显示器：4K 160Hz / FHD 320Hz 双模 + 双扬 + 光线传感器，3499 元",
-      "summary": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器， 定价为 3499 元 ，部分地区国补后定价低至 3133.6 元。 京东 联合创新“GA27V1M MAX”显示器 3499 元 直达链接 该机采用纯白机身 / 支架，显示器配备的 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 1",
-      "content": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器， 定价为 3499 元 ，部分地区国补后定价低至 3133.6 元。 京东 联合创新“GA27V1M MAX”显示器 3499 元 直达链接 该机采用纯白机身 / 支架，显示器配备的 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 1",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T20:25:32+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/990.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:37.932441+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
-      },
-      "status": "published",
-      "original_title": "联合创新推出“GA27V1M MAX”27 英寸显示器：4K 160Hz / FHD 320Hz 双模 + 双扬 + 光线传感器，3499 元",
-      "original_summary": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器， 定价为 3499 元 ，部分地区国补后定价低至 3133.6 元。 京东 联合创新“GA27V1M MAX”显示器 3499 元 直达链接 该机采用纯白机身 / 支架，显示器配备的 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 1",
-      "language": "zh-CN"
-    },
-    {
-      "id": "90dfdafd97ff31",
-      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-      "title": "下载：海底科学和军事聊天机器人",
-      "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。廉价的海底跳跃潜水器可能会推动深海科学和采矿业上周，两个长方形潜水器",
-      "content": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。廉价的海底跳跃潜水器可能会推动深海科学和采矿业上周，两个长方形潜水器",
-      "category": "world",
-      "tags": [
-        "military"
-      ],
-      "publish_time": "2026-05-06T20:10:00+08:00",
-      "sources": [
-        {
-          "name": "麻省理工科技评论",
-          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:39.949202+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 90,
-        "opportunity_score": 55
-      },
-      "status": "published",
-      "original_title": "The Download: seafloor science and military chatbots",
-      "original_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblon",
+      "original_title": "Mortgage rates hit the highest level in a month, causing first-time homebuyers to drop out",
+      "original_summary": "Mortgage rates rose last week, causing loan demand to drop back and causing the average loan size to rise — indicating that lower-income borrowers dropped out.",
       "language": "zh-CN"
     },
     {
@@ -450,7 +450,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/978.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.933919+08:00",
+          "verify_time": "2026-05-06T23:25:41.134329+08:00",
           "credibility": 78
         }
       ],
@@ -483,7 +483,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/973.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.934460+08:00",
+          "verify_time": "2026-05-06T23:25:41.136064+08:00",
           "credibility": 78
         }
       ],
@@ -498,82 +498,6 @@
       "status": "published",
       "original_title": "三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
       "original_summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布 三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
-      "language": "zh-CN"
-    },
-    {
-      "id": "5fbcc31b4fe47e",
-      "url": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
-      "title": "地面站运营商努力应对军事目标",
-      "summary": "最近对云设施和卫星地面基础设施的袭击加剧了人们的担忧，即航天工业的一些最重要的资产正在成为现代冲突的目标。尽管是卫星之间的重要联系",
-      "content": "最近对云设施和卫星地面基础设施的袭击加剧了人们的担忧，即航天工业的一些最重要的资产正在成为现代冲突的目标。尽管是卫星之间的重要联系",
-      "category": "world",
-      "tags": [
-        "military",
-        "conflict"
-      ],
-      "publish_time": "2026-05-06T19:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155466+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Ground station operators grapple with military targeting",
-      "original_summary": "Recent strikes on cloud facilities and satellite ground infrastructure are sharpening concerns that some of the space industry’s most critical assets are becoming targets in modern conflict. Despite being the essential link between satellit",
-      "language": "zh-CN"
-    },
-    {
-      "id": "02d490f84d2f3d",
-      "url": "https://thequantuminsider.com/2026/05/06/qctrl-practical-quantum-advantage-materials-discovery/",
-      "title": "Q-CTRL 通过量子计算将能源领域的材料发现速度提高 3,000 倍",
-      "summary": "内部简报新闻稿 — 量子基础设施软件领域的全球领导者 Q-CTRL 今天宣布，它使用 IBM Quantum Platform 将商业相关问题的速度提高了 3,000 倍。 Q-CTRL已取得明显成果",
-      "content": "内部简报新闻稿 — 量子基础设施软件领域的全球领导者 Q-CTRL 今天宣布，它使用 IBM Quantum Platform 将商业相关问题的速度提高了 3,000 倍。 Q-CTRL已取得明显成果",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T18:48:23+08:00",
-      "sources": [
-        {
-          "name": "Quantum Insider 量子资讯",
-          "url": "https://thequantuminsider.com/2026/05/06/qctrl-practical-quantum-advantage-materials-discovery/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:15.293266+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IBM",
-          "name": "IBM",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Q-CTRL Delivers 3,000x Speedup in Materials Discovery for the Energy Sector with Quantum Computing",
-      "original_summary": "Insider Brief PRESS RELEASE — Q-CTRL, the global leader in quantum infrastructure software, today announced it has achieved a 3,000 times speedup on a problem of commercial relevance using the IBM Quantum Platform. Q-CTRL has achieved evide",
       "language": "zh-CN"
     },
     {
@@ -592,7 +516,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/970.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.934944+08:00",
+          "verify_time": "2026-05-06T23:25:41.137339+08:00",
           "credibility": 78
         }
       ],
@@ -625,7 +549,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/969.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.935073+08:00",
+          "verify_time": "2026-05-06T23:25:41.137749+08:00",
           "credibility": 78
         }
       ],
@@ -650,16 +574,16 @@
       "content": "由于中东冲突带来“巨大挑战”，德国最大的航空公司汉莎航空正在承担额外的燃油成本。",
       "category": "world",
       "tags": [
-        "conflict",
-        "war"
+        "冲突",
+        "战争"
       ],
       "publish_time": "2026-05-06T16:38:10+08:00",
       "sources": [
         {
-          "name": "CNBC 市场",
+          "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/lufthansa-q1-middle-east-conflict-2-billion-fuel-cost.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.932379+08:00",
+          "verify_time": "2026-05-06T23:25:09.567007+08:00",
           "credibility": 86
         }
       ],
@@ -684,15 +608,15 @@
       "content": "中国呼吁“立即恢复霍尔木兹海峡的航运交通”，尽管伊朗的声明中没有提及这一点。",
       "category": "world",
       "tags": [
-        "war"
+        "战争"
       ],
       "publish_time": "2026-05-06T16:28:18+08:00",
       "sources": [
         {
-          "name": "CNBC 市场",
+          "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.931857+08:00",
+          "verify_time": "2026-05-06T23:25:09.565071+08:00",
           "credibility": 86
         }
       ],
@@ -710,255 +634,64 @@
       "language": "zh-CN"
     },
     {
-      "id": "ed0f4ebe1f0c6c",
-      "url": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
-      "title": "在全球人工智能竞赛中，一家受制裁的中国公司表示，更便宜的模型仍然可以获胜",
-      "summary": "联合创始人林大华表示，随着中国人工智能竞争的加剧，商汤科技正在转向多模态人工智能、低成本模式和海外扩张，以保持竞争力。",
-      "content": "联合创始人林大华表示，随着中国人工智能竞争的加剧，商汤科技正在转向多模态人工智能、低成本模式和海外扩张，以保持竞争力。",
-      "category": "world",
-      "tags": [
-        "war",
-        "sanction"
-      ],
-      "publish_time": "2026-05-06T13:09:56+08:00",
-      "sources": [
-        {
-          "name": "CNBC 科技",
-          "url": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259614+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "In the global AI race, a sanctioned Chinese firm says cheaper models can still win",
-      "original_summary": "As China’s AI competition intensifies, SenseTime is shifting toward multimodal AI, lower-cost models and overseas expansion to remain competitive, co-founder Lin Dahua said.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "d1cea56c348c5e",
-      "url": "https://quantumcomputingreport.com/quantum-machines-acquires-qharbor/",
-      "title": "Quantum Machines 收购 QHarbor 以扩大欧洲研发和控制堆栈能力",
-      "summary": "总部位于以色列的 Quantum Machines (QM) 收购了荷兰代尔夫特理工大学的衍生公司 QHarbor，以增强其软件能力并在荷兰量子中心建立实体存在。本次收购的条款不存在差异",
-      "content": "总部位于以色列的 Quantum Machines (QM) 收购了荷兰代尔夫特理工大学的衍生公司 QHarbor，以增强其软件能力并在荷兰量子中心建立实体存在。本次收购的条款不存在差异",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T06:50:36+08:00",
-      "sources": [
-        {
-          "name": "量子计算报告",
-          "url": "https://quantumcomputingreport.com/quantum-machines-acquires-qharbor/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:21.714249+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 45
-      },
-      "status": "published",
-      "original_title": "Quantum Machines Acquires QHarbor to Expand European R&D and Control Stack Capabilities",
-      "original_summary": "Israel-based Quantum Machines (QM) has acquired QHarbor, a spin-off from TU Delft in the Netherlands, to bolster its software capabilities and establish a physical presence in the Dutch quantum hub. The terms of this acquisition were not di",
-      "language": "zh-CN"
-    },
-    {
-      "id": "58b8d2cb580038",
-      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html",
-      "title": "铝价正在飙升。以下是公司处理成本的方式",
-      "summary": "自伊朗战争爆发以来铝价的飙升给美国一些最大的公司带来了成本压力。",
-      "content": "自伊朗战争爆发以来铝价的飙升给美国一些最大的公司带来了成本压力。",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T05:17:20+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.932191+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published",
-      "original_title": "Aluminum prices are surging. Here's how companies are handling the costs",
-      "original_summary": "Aluminum's surge since the start of the Iran war is creating cost pressures for some of America's largest companies.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "59b97410754d78",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
-      "title": "科学家将“时间晶体”与真实设备连接，实现量子突破",
-      "summary": "一种无需能量输入就能永远“滴答作响”的奇怪物质，刚刚在现实世界的应用中迈出了一大步。这种量子系统被称为时间晶体，它不断地重复其运动——就像一个永远不会上发条的时钟——科学家",
-      "content": "一种无需能量输入就能永远“滴答作响”的奇怪物质，刚刚在现实世界的应用中迈出了一大步。这种量子系统被称为时间晶体，它不断地重复其运动——就像一个永远不会上发条的时钟——科学家",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T04:53:45+08:00",
-      "sources": [
-        {
-          "name": "ScienceDaily 科学日报",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:05.668032+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Scientists connect “time crystal” to real device in quantum breakthrough",
-      "original_summary": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientist",
-      "language": "zh-CN"
-    },
-    {
-      "id": "21c4609f26961c",
-      "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-      "title": "Anthropic 首席执行官警告网络“危险时刻”，因为人工智能暴露了数千个漏洞",
-      "summary": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 警告称，人工智能为软件公司、政府和银行修复数以万计的漏洞创造了一个狭窄的窗口。",
-      "content": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 警告称，人工智能为软件公司、政府和银行修复数以万计的漏洞创造了一个狭窄的窗口。",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T03:36:16+08:00",
-      "sources": [
-        {
-          "name": "CNBC 科技",
-          "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.260111+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 46
-      },
-      "status": "published",
-      "original_title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-      "original_summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "d27642d1272a5c",
-      "url": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
-      "title": "Startup 开发软件帮助军方利用商业成像卫星",
-      "summary": "Divergent Space 平台将跨多个提供商自动执行图像请求",
-      "content": "Divergent Space 平台将跨多个提供商自动执行图像请求",
-      "category": "world",
-      "tags": [
-        "military",
-        "war"
-      ],
-      "publish_time": "2026-05-06T03:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155836+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "Startup develops software to help military tap commercial imaging satellites",
-      "original_summary": "Divergent Space platform would automate imagery requests across multiple providers",
-      "language": "zh-CN"
-    },
-    {
-      "id": "ae82c38fd6decd",
-      "url": "https://quantumcomputingreport.com/eleqtron-secures-e57-million-61-5m-usd-series-a-to-scale-ion-trap-systems/",
-      "title": "eleQtron 获得 5700 万欧元（6150 万美元）A 轮融资，以扩展 MAGIC 俘获离子平台",
-      "summary": "总部位于锡根和汉堡的俘获离子量子计算机开发商 eleQtron 已完成 5700 万欧元（6150 万美元）的 A 轮融资。此次投资由 Schwarz Group 的 IT 部门 Schwarz Digits 牵头，",
-      "content": "总部位于锡根和汉堡的俘获离子量子计算机开发商 eleQtron 已完成 5700 万欧元（6150 万美元）的 A 轮融资。此次投资由 Schwarz Group 的 IT 部门 Schwarz Digits 牵头，",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T02:51:41+08:00",
-      "sources": [
-        {
-          "name": "量子计算报告",
-          "url": "https://quantumcomputingreport.com/eleqtron-secures-e57-million-61-5m-usd-series-a-to-scale-ion-trap-systems/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:21.714763+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 49
-      },
-      "status": "published",
-      "original_title": "eleQtron Secures €57 Million ($61.5M USD) Series A to Scale MAGIC Trapped-Ion Platform",
-      "original_summary": "eleQtron, a developer of trapped-ion quantum computers based in Siegen and Hamburg, has closed a €57 million ($61.5M USD) Series A funding round. The investment is led by Schwarz Digits, the IT division of the Schwarz Group, with significan",
-      "language": "zh-CN"
-    },
-    {
-      "id": "4da5f2f6564ffe",
-      "url": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
-      "title": "Threads 最终将消息传递带入网络",
-      "summary": "通过将消息传递引入网络，Threads 正在使其桌面体验与 X 和 Bluesky 等竞争对手更加紧密地结合起来。",
-      "content": "通过将消息传递引入网络，Threads 正在使其桌面体验与 X 和 Bluesky 等竞争对手更加紧密地结合起来。",
+      "id": "78ffdc3e424204",
+      "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
+      "title": "Wegovy 药丸销量超出预期，诺和诺德股价上涨 7%",
+      "summary": "在新推出的 Wegovy 药丸表现强劲后，诺和诺德上调了 2026 年的前景。",
+      "content": "在新推出的 Wegovy 药丸表现强劲后，诺和诺德上调了 2026 年的前景。",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-06T02:34:20+08:00",
+      "publish_time": "2026-05-06T16:05:04+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
-          "url": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.297379+08:00",
+          "verify_time": "2026-05-06T23:25:09.564707+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 63
+      },
+      "status": "published",
+      "original_title": "Wegovy pill sales smash forecasts, sending Novo Nordisk stock 7% higher",
+      "original_summary": "Novo Nordisk raised its outlook for 2026 after a strong performance from its newly launched Wegovy pill.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "36a8877e695440",
+      "url": "https://www.cnbc.com/2026/05/05/waters-ceo-china-key-innovation-biopharma-market.html",
+      "title": "沃特世首席执行官强调中国是生物制药市场的关键创新来源",
+      "summary": "沃特世首席执行官强调中国是新兴的全球生物制药强国。",
+      "content": "沃特世首席执行官强调中国是新兴的全球生物制药强国。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T06:47:16+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/05/waters-ceo-china-key-innovation-biopharma-market.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:09.567869+08:00",
           "credibility": 86
         }
       ],
@@ -971,41 +704,8 @@
         "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "Threads finally brings messaging to the web",
-      "original_summary": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "fd3a6bb3ba01bf",
-      "url": "https://quantumcomputingreport.com/quantware-secures-178m-series-b-to-scale-vio-architecture-and-expand-fabrication-capacity/",
-      "title": "QuantWare 获得 1.78 亿美元的 B 轮融资，以扩展 VIO™ 架构并扩大制造能力",
-      "summary": "总部位于代尔夫特的超导量子处理单元 (QPU) 开发商 QuantWare 宣布完成 1.78 亿美元（1.52 亿欧元）的 B 轮融资。该投资是有史以来最大的私募融资轮",
-      "content": "总部位于代尔夫特的超导量子处理单元 (QPU) 开发商 QuantWare 宣布完成 1.78 亿美元（1.52 亿欧元）的 B 轮融资。该投资是有史以来最大的私募融资轮",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-06T01:52:19+08:00",
-      "sources": [
-        {
-          "name": "量子计算报告",
-          "url": "https://quantumcomputingreport.com/quantware-secures-178m-series-b-to-scale-vio-architecture-and-expand-fabrication-capacity/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:21.714912+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 49
-      },
-      "status": "published",
-      "original_title": "QuantWare Secures $178M Series B to Scale VIO™ Architecture and Expand Fabrication Capacity",
-      "original_summary": "QuantWare, the Delft-based developer of superconducting quantum processing units (QPUs), has announced a $178 million (€152 million) Series B funding round. The investment, which represents the largest private round ever raised by a dedicat",
+      "original_title": "Waters CEO highlights China as key innovation source in the biopharma market",
+      "original_summary": "Waters CEO highlighted China as an emerging global biopharmaceutical powerhouse.",
       "language": "zh-CN"
     }
   ]

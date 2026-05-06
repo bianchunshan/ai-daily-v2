@@ -2,19 +2,118 @@
   "version": "3.0",
   "category": "space",
   "category_name": "商业航天",
-  "total": 20,
-  "updated": "2026-05-06T23:04:59.697419+08:00",
+  "total": 24,
+  "updated": "2026-05-06T23:25:55.410564+08:00",
   "news": [
+    {
+      "id": "bbc75a82e09df7",
+      "url": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/",
+      "title": "解开 X 射线点的奥秘",
+      "summary": "美国宇航局钱德拉 X 射线天文台发现的一个新“X 射线点”（可能看起来像这位艺术家于 2026 年 4 月 28 日发布的插图）可以解释数百个甚至可能数千个这些物体的含义。美国宇航局 (美国航天局) 发布后不久",
+      "content": "美国宇航局钱德拉 X 射线天文台发现的一个新“X 射线点”（可能看起来像这位艺术家于 2026 年 4 月 28 日发布的插图）可以解释数百个甚至可能数千个这些物体的含义。美国宇航局 (美国航天局) 发布后不久",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T23:07:18+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.618549+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "Unlocking the Mystery of X-ray Dots",
+      "original_summary": "A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s",
+      "language": "zh-CN"
+    },
+    {
+      "id": "1501d84dc4100d",
+      "url": "https://spacenews.com/powering-unified-space-systems-operations/",
+      "title": "为统一空间系统运营提供动力",
+      "summary": "2025 年，Space42 的系统在 25 起灾难事件中帮助拯救了 660 多人的生命，其中包括缅甸、尼泊尔和土耳其的地震，莫桑比克的飓风和尼日利亚的洪水。在每个[...]帖子中为统一空间系统运营提供动力",
+      "content": "2025 年，Space42 的系统在 25 起灾难事件中帮助拯救了 660 多人的生命，其中包括缅甸、尼泊尔和土耳其的地震，莫桑比克的飓风和尼日利亚的洪水。在每个[...]帖子中为统一空间系统运营提供动力",
+      "category": "space",
+      "tags": [
+        "航天"
+      ],
+      "publish_time": "2026-05-06T22:26:21+08:00",
+      "sources": [
+        {
+          "name": "航天新闻",
+          "url": "https://spacenews.com/powering-unified-space-systems-operations/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:32.348142+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Powering Unified Space Systems Operations",
+      "original_summary": "In 2025, Space42’s systems helped save over 660 lives across 25 distress events, from earthquakes in Myanmar, Nepal, and Turkey to cyclones in Mozambique and floods in Nigeria. In each […] The post Powering Unified Space Systems Operations",
+      "language": "zh-CN"
+    },
+    {
+      "id": "e36436eaf91602",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+      "title": "美国航天局的罗马人准备改变对难以捉摸的中子星的搜寻",
+      "summary": "天文学家早就知道中子星（大质量恒星爆炸后留下的破碎核心）应该分散在整个银河系中。然而，它们中的大多数实际上是不可见的。发表在 Astron 上的一项新研究",
+      "content": "天文学家早就知道中子星（大质量恒星爆炸后留下的破碎核心）应该分散在整个银河系中。然而，它们中的大多数实际上是不可见的。发表在 Astron 上的一项新研究",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T22:00:00+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.619470+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
+      "original_summary": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astron",
+      "language": "zh-CN"
+    },
     {
       "id": "5eb54a98ccd861",
       "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
-      "title": "NASA 新技术模仿月球夜晚的极冷",
+      "title": "美国航天局新技术模仿月球夜晚的极冷",
       "summary": "当美国宇航局希望探索月球、火星及其他地方时，研究人员必须开发能够承受太空、其他行星及其卫星的极端温度的材料。在寒冷的条件下，橡胶会像玻璃一样破碎",
       "content": "当美国宇航局希望探索月球、火星及其他地方时，研究人员必须开发能够承受太空、其他行星及其卫星的极端温度的材料。在寒冷的条件下，橡胶会像玻璃一样破碎",
       "category": "space",
       "tags": [
         "航天",
-        "NASA"
+        "美国航天局"
       ],
       "publish_time": "2026-05-06T22:00:00+08:00",
       "sources": [
@@ -22,7 +121,7 @@
           "name": "美国国家航空航天局",
           "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:25.254027+08:00",
+          "verify_time": "2026-05-06T23:25:29.620296+08:00",
           "credibility": 95
         }
       ],
@@ -55,7 +154,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/002.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.931691+08:00",
+          "verify_time": "2026-05-06T23:25:41.126896+08:00",
           "credibility": 78
         }
       ],
@@ -73,22 +172,22 @@
       "language": "zh-CN"
     },
     {
-      "id": "27ce57b0d4051e",
-      "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
-      "title": "reMarkable 的新款 Paper Pure 平板电脑回归基础，配备单色屏幕",
-      "summary": "新款 Paper Pure 比 reMarkable 2 更轻、更快，而 reMarkable 2 将于推出六年后退役。",
-      "content": "新款 Paper Pure 比 reMarkable 2 更轻、更快，而 reMarkable 2 将于推出六年后退役。",
+      "id": "be3af0830bad2b",
+      "url": "https://spacenews.com/between-resource-scarcity-and-orbital-inflation-rethinking-the-space-model/",
+      "title": "在资源稀缺和轨道膨胀之间：重新思考空间模型",
+      "summary": "太空领域正在蓬勃发展。但它也遇到了我们才刚刚开始承认的极限。像许多行业一样，它正在扩张，就好像材料、能源和轨道容量等资源永远丰富一样，当我",
+      "content": "太空领域正在蓬勃发展。但它也遇到了我们才刚刚开始承认的极限。像许多行业一样，它正在扩张，就好像材料、能源和轨道容量等资源永远丰富一样，当我",
       "category": "space",
       "tags": [
-        "launch"
+        "航天"
       ],
-      "publish_time": "2026-05-06T20:00:00+08:00",
+      "publish_time": "2026-05-06T21:00:00+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
-          "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+          "name": "航天新闻",
+          "url": "https://spacenews.com/between-resource-scarcity-and-orbital-inflation-rethinking-the-space-model/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.295523+08:00",
+          "verify_time": "2026-05-06T23:25:32.348693+08:00",
           "credibility": 86
         }
       ],
@@ -98,11 +197,11 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 86,
-        "opportunity_score": 55
+        "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
-      "original_summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
+      "original_title": "Between resource scarcity and orbital inflation: rethinking the space model",
+      "original_summary": "The space sector is booming. But it is also running up against limits we are only beginning to acknowledge. Like many industries, it is expanding as if resources such as materials, energy and orbital capacity were eternally abundant, when i",
       "language": "zh-CN"
     },
     {
@@ -118,10 +217,10 @@
       "publish_time": "2026-05-06T20:00:00+08:00",
       "sources": [
         {
-          "name": "SpaceNews 航天新闻",
+          "name": "航天新闻",
           "url": "https://spacenews.com/astranis-secures-450-million-in-equity-debt-to-expand-small-geo-satellite-production/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155332+08:00",
+          "verify_time": "2026-05-06T23:25:32.348989+08:00",
           "credibility": 86
         }
       ],
@@ -139,57 +238,22 @@
       "language": "zh-CN"
     },
     {
-      "id": "cd3e12bd507039",
-      "url": "https://www.ithome.com/0/946/968.htm",
-      "title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
-      "summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
-      "content": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
+      "id": "16ab58c68e66e2",
+      "url": "https://spacenews.com/overview-energy-wins-air-force-contract-to-study-space-based-solar-power-for-military-bases/",
+      "title": "概述 Energy 赢得空军合同，为军事基地研究天基太阳能",
+      "summary": "能源公司赢得了美国空军的一份合同，研究将太空太阳能传输到军事设施，复兴了二十年前研究的概念。",
+      "content": "能源公司赢得了美国空军的一份合同，研究将太空太阳能传输到军事设施，复兴了二十年前研究的概念。",
       "category": "space",
       "tags": [
-        "航天",
-        "SpaceX"
+        "航天"
       ],
-      "publish_time": "2026-05-06T18:30:57+08:00",
+      "publish_time": "2026-05-06T19:59:36+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/968.htm",
+          "name": "航天新闻",
+          "url": "https://spacenews.com/overview-energy-wins-air-force-contract-to-study-space-based-solar-power-for-military-bases/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.935212+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
-      "original_summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
-      "language": "zh-CN"
-    },
-    {
-      "id": "4460b1c679de50",
-      "url": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
-      "title": "在 NASA 可能发生的变化中，Voyager 对 Starlab “非常乐观”",
-      "summary": "Voyager Technologies 表示，如果 NASA 改变支持商业空间站开发的计划，该公司已做好准备。",
-      "content": "Voyager Technologies 表示，如果 NASA 改变支持商业空间站开发的计划，该公司已做好准备。",
-      "category": "space",
-      "tags": [
-        "航天",
-        "NASA"
-      ],
-      "publish_time": "2026-05-06T04:29:20+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155569+08:00",
+          "verify_time": "2026-05-06T23:25:32.349727+08:00",
           "credibility": 86
         }
       ],
@@ -202,16 +266,281 @@
         "opportunity_score": 51
       },
       "status": "published",
-      "original_title": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
-      "original_summary": "Voyager Technologies says it is ready should NASA change plans for supporting development of commercial space stations.",
+      "original_title": "Overview Energy wins Air Force contract to study space-based solar power for military bases",
+      "original_summary": "Overview Energy has won a contract from the U.S. Air Force to study beaming space solar power to military installations, reviving a concept studied two decades ago.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "5fbcc31b4fe47e",
+      "url": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
+      "title": "地面站运营商努力应对军事目标",
+      "summary": "最近对云设施和卫星地面基础设施的袭击加剧了人们的担忧，即航天工业的一些最重要的资产正在成为现代冲突的目标。尽管是卫星之间的重要联系",
+      "content": "最近对云设施和卫星地面基础设施的袭击加剧了人们的担忧，即航天工业的一些最重要的资产正在成为现代冲突的目标。尽管是卫星之间的重要联系",
+      "category": "space",
+      "tags": [
+        "航天",
+        "卫星"
+      ],
+      "publish_time": "2026-05-06T19:00:00+08:00",
+      "sources": [
+        {
+          "name": "航天新闻",
+          "url": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:32.350313+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Ground station operators grapple with military targeting",
+      "original_summary": "Recent strikes on cloud facilities and satellite ground infrastructure are sharpening concerns that some of the space industry’s most critical assets are becoming targets in modern conflict. Despite being the essential link between satellit",
+      "language": "zh-CN"
+    },
+    {
+      "id": "551736d38c47ba",
+      "url": "https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/",
+      "title": "Scout Space 融资 1800 万美元用于扩展轨道跟踪技术",
+      "summary": "A 系列资金将支持北弗吉尼亚州的制造业扩张",
+      "content": "A 系列资金将支持北弗吉尼亚州的制造业扩张",
+      "category": "space",
+      "tags": [
+        "航天"
+      ],
+      "publish_time": "2026-05-06T18:30:00+08:00",
+      "sources": [
+        {
+          "name": "航天新闻",
+          "url": "https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:32.350569+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Scout Space raises $18 million to expand orbital tracking technology",
+      "original_summary": "Series A funding will support manufacturing expansion in Northern Virginia",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7004380e53ccc6",
+      "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
+      "title": "Shivyuch 融雪",
+      "summary": "俄罗斯火山的活动几乎持续不断。",
+      "content": "俄罗斯火山的活动几乎持续不断。",
+      "category": "space",
+      "tags": [
+        "商业航天"
+      ],
+      "publish_time": "2026-05-06T12:01:00+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.620721+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "Melting Snow Off Shivelyuch",
+      "original_summary": "Near-constant activity continues on the volcano in Russia.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6e261e059f7672",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
+      "title": "韦伯太空望远镜揭示了一个酷似水星的灼热“超级地球”",
+      "summary": "距离地球仅 48 光年的一个炎热、无空气的世界为科学家们提供了难得一睹遥远行星地质情况的机会。研究人员利用詹姆斯·韦伯太空望远镜研究了 LHS 3844 b——一颗被潮汐锁定的“超级地球”",
+      "content": "距离地球仅 48 光年的一个炎热、无空气的世界为科学家们提供了难得一睹遥远行星地质情况的机会。研究人员利用詹姆斯·韦伯太空望远镜研究了 LHS 3844 b——一颗被潮汐锁定的“超级地球”",
+      "category": "space",
+      "tags": [
+        "航天"
+      ],
+      "publish_time": "2026-05-06T08:57:44+08:00",
+      "sources": [
+        {
+          "name": "科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:22.847073+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 47
+      },
+      "status": "published",
+      "original_title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
+      "original_summary": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a perman",
+      "language": "zh-CN"
+    },
+    {
+      "id": "abdd991ed9f21b",
+      "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "title": "Nuro 在 Uber 机器人出租车服务推出之前获得无人驾驶测试许可",
+      "summary": "这家硅谷自动驾驶初创公司尚未开始无人驾驶测试。",
+      "content": "这家硅谷自动驾驶初创公司尚未开始无人驾驶测试。",
+      "category": "space",
+      "tags": [
+        "发射"
+      ],
+      "publish_time": "2026-05-06T08:07:47+08:00",
+      "sources": [
+        {
+          "name": "美国创业科技媒体",
+          "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:10.351340+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "original_summary": "The Silicon Valley AV startup has not started driverless testing yet.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7075508a2a8ad0",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
+      "title": "美国航天局 eClips 和 GLOBE 教育工作者加强了弗吉尼亚州沿海地区的 STEM 生态系统",
+      "summary": "代表弗吉尼亚州潮水地区七个学区的 38 名科学教育工作者与伊丽莎白河项目等社区组织联手，通过动态的活动深化他们的教学实践。",
+      "content": "代表弗吉尼亚州潮水地区七个学区的 38 名科学教育工作者与伊丽莎白河项目等社区组织联手，通过动态的活动深化他们的教学实践。",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T05:20:16+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.621713+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
+      "original_summary": "Thirty-eight science educators representing seven school districts across Virginia’s Tidewater region joined forces with community organizations, such as the Elizabeth River Project, to deepen their instructional practice through a dynamic",
+      "language": "zh-CN"
+    },
+    {
+      "id": "459a0da1110ea5",
+      "url": "https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/",
+      "title": "乌克兰军队测试前线部队的直接设备卫星图像",
+      "summary": "Vantor 高管：“我们拥有更多图像、更多传感器，但大部分数据仍未到达需要的人手中”",
+      "content": "Vantor 高管：“我们拥有更多图像、更多传感器，但大部分数据仍未到达需要的人手中”",
+      "category": "space",
+      "tags": [
+        "卫星"
+      ],
+      "publish_time": "2026-05-06T04:21:23+08:00",
+      "sources": [
+        {
+          "name": "航天新闻",
+          "url": "https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:32.351204+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 46
+      },
+      "status": "published",
+      "original_title": "Ukrainian forces test direct-to-device satellite imagery for frontline troops",
+      "original_summary": "Vantor executive: ‘We have more imagery, more sensors but much of that data still isn’t reaching the people who need it’",
+      "language": "zh-CN"
+    },
+    {
+      "id": "ec88ef4a6e74ee",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
+      "title": "美国宇航局毅力号火星探测器勘测“鳄鱼桥”",
+      "summary": "美国宇航局的毅力号火星探测器使用其 Mastcam-Z 相机系统拍摄了 Jezero 陨石坑边缘一个绰号为“鳄鱼桥”的区域的 360 度全景图。全景图由 980 张图像组成，其中 971 张是拍摄的",
+      "content": "美国宇航局的毅力号火星探测器使用其 Mastcam-Z 相机系统拍摄了 Jezero 陨石坑边缘一个绰号为“鳄鱼桥”的区域的 360 度全景图。全景图由 980 张图像组成，其中 971 张是拍摄的",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T04:10:02+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.622468+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’",
+      "original_summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken",
       "language": "zh-CN"
     },
     {
       "id": "d47ee01910c2b3",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
       "title": "好奇心博客，Sols 4879-4885：阿塔卡马的斗争",
-      "summary": "作者：William Farrand，空间科学研究所高级研究科学家 地球规划日期：2026 年 5 月 1 日星期五 智利的阿塔卡马沙漠是世界上最干燥的中纬度沙漠，仅接收 15 毫米（0.59 英寸）的降雨量。",
-      "content": "作者：William Farrand，空间科学研究所高级研究科学家 地球规划日期：2026 年 5 月 1 日星期五 智利的阿塔卡马沙漠是世界上最干燥的中纬度沙漠，仅接收 15 毫米（0.59 英寸）的降雨量。",
+      "summary": "作者：William Farrand，空间科学研究所高级研究科学家地球规划日期：2026 年 5 月 1 日星期五智利的阿塔卡马沙漠是世界上最干燥的中纬度沙漠，仅接收 15 毫米（0.59 英寸）的降雨量。",
+      "content": "作者：William Farrand，空间科学研究所高级研究科学家地球规划日期：2026 年 5 月 1 日星期五智利的阿塔卡马沙漠是世界上最干燥的中纬度沙漠，仅接收 15 毫米（0.59 英寸）的降雨量。",
       "category": "space",
       "tags": [
         "航天"
@@ -222,7 +551,7 @@
           "name": "美国国家航空航天局",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:25.254315+08:00",
+          "verify_time": "2026-05-06T23:25:29.623256+08:00",
           "credibility": 95
         }
       ],
@@ -240,6 +569,39 @@
       "language": "zh-CN"
     },
     {
+      "id": "d27642d1272a5c",
+      "url": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
+      "title": "Startup 开发软件帮助军方利用商业成像卫星",
+      "summary": "Divergent Space 平台将跨多个提供商自动执行图像请求",
+      "content": "Divergent Space 平台将跨多个提供商自动执行图像请求",
+      "category": "space",
+      "tags": [
+        "航天"
+      ],
+      "publish_time": "2026-05-06T03:00:00+08:00",
+      "sources": [
+        {
+          "name": "航天新闻",
+          "url": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:32.351864+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Startup develops software to help military tap commercial imaging satellites",
+      "original_summary": "Divergent Space platform would automate imagery requests across multiple providers",
+      "language": "zh-CN"
+    },
+    {
       "id": "a89e82e2b2ec35",
       "url": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
       "title": "即将离任的 NRO 局长克里斯·斯科莱斯 (Chris Scolese) 的遗产：商业伙伴关系；公众参与",
@@ -247,16 +609,15 @@
       "content": "在 2022 年向情报和国家安全联盟发表的讲话中，国家侦察办公室主任克里斯·斯科利斯发出了警告。他说，正在发射的卫星数量创纪录，竞争对手包括",
       "category": "space",
       "tags": [
-        "卫星",
-        "launch"
+        "商业航天"
       ],
       "publish_time": "2026-05-06T02:54:33+08:00",
       "sources": [
         {
-          "name": "SpaceNews 航天新闻",
+          "name": "航天新闻",
           "url": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155949+08:00",
+          "verify_time": "2026-05-06T23:25:32.352288+08:00",
           "credibility": 86
         }
       ],
@@ -274,15 +635,81 @@
       "language": "zh-CN"
     },
     {
+      "id": "bcffea6ad3a0f1",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/",
+      "title": "650 名美国航天局志愿者共同撰写了科学论文",
+      "summary": "经过最近的统计，美国航天局公民科学自豪地报告说，超过 650 名自愿参与美国航天局公民科学项目的人与这些项目的科学家共同撰写了经过同行评审的研究论文",
+      "content": "经过最近的统计，美国航天局公民科学自豪地报告说，超过 650 名自愿参与美国航天局公民科学项目的人与这些项目的科学家共同撰写了经过同行评审的研究论文",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T02:34:54+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.624269+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "650 NASA Volunteers Have Co-Authored Scientific Papers",
+      "original_summary": "After a recent count, NASA Citizen Science is proud to report that more than 650 people who have volunteered to participate in NASA citizen science projects have co-authored peer-reviewed research papers with scientists on those project tea",
+      "language": "zh-CN"
+    },
+    {
+      "id": "98365642c479d8",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
+      "title": "美国宇航局好奇号火星车将其钻头从岩石中解放出来",
+      "summary": "这一系列图像显示了美国宇航局的好奇号火星探测器，它的机械臂末端的钻头上粘着一块岩石，在挥动手臂并运行钻头几次后，最终将岩石分离。所显示的图像",
+      "content": "这一系列图像显示了美国宇航局的好奇号火星探测器，它的机械臂末端的钻头上粘着一块岩石，在挥动手臂并运行钻头几次后，最终将岩石分离。所显示的图像",
+      "category": "space",
+      "tags": [
+        "美国航天局"
+      ],
+      "publish_time": "2026-05-06T01:58:42+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:29.625109+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 60
+      },
+      "status": "published",
+      "original_title": "NASA’s Curiosity Rover Frees Its Drill From a Rock",
+      "original_summary": "Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock. The imagery showin",
+      "language": "zh-CN"
+    },
+    {
       "id": "da3120aded2f0f",
       "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
-      "title": "NASA 宇航员回答佛罗里达州学生的问题",
-      "summary": "佛罗里达州的学生将在国际空间站上听到 NASA 宇航员 Chris Williams 回答预先录制的科学、技术、工程和数学 (STEM) 问题。地对空通话将开始",
-      "content": "佛罗里达州的学生将在国际空间站上听到 NASA 宇航员 Chris Williams 回答预先录制的科学、技术、工程和数学 (STEM) 问题。地对空通话将开始",
+      "title": "美国航天局宇航员回答佛罗里达州学生的问题",
+      "summary": "佛罗里达州的学生将在国际空间站上听到美国航天局宇航员 Chris Williams 回答预先录制的科学、技术、工程和数学 (STEM) 问题。地对空通话将开始",
+      "content": "佛罗里达州的学生将在国际空间站上听到美国航天局宇航员 Chris Williams 回答预先录制的科学、技术、工程和数学 (STEM) 问题。地对空通话将开始",
       "category": "space",
       "tags": [
         "航天",
-        "NASA"
+        "美国航天局"
       ],
       "publish_time": "2026-05-06T00:59:59+08:00",
       "sources": [
@@ -290,7 +717,7 @@
           "name": "美国国家航空航天局",
           "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:25.254511+08:00",
+          "verify_time": "2026-05-06T23:25:29.625787+08:00",
           "credibility": 95
         }
       ],
@@ -308,75 +735,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "cb21a5e8f05154",
-      "url": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
-      "title": "波兰航天公司 Eycore 发射首颗 SAR 地球观测卫星",
-      "summary": "波兰华沙——波兰航天公司 Eycore 发射了 Eycore-1，这是一颗配备该公司合成孔径雷达 (SAR) 技术的地球观测卫星。 5 月 3 日，猎鹰 9 号火箭从范登堡太空部队基地发射",
-      "content": "波兰华沙——波兰航天公司 Eycore 发射了 Eycore-1，这是一颗配备该公司合成孔径雷达 (SAR) 技术的地球观测卫星。 5 月 3 日，猎鹰 9 号火箭从范登堡太空部队基地发射",
-      "category": "space",
-      "tags": [
-        "航天",
-        "火箭",
-        "卫星",
-        "launch"
-      ],
-      "publish_time": "2026-05-06T00:46:22+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156095+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published",
-      "original_title": "Polish space company Eycore launches first SAR Earth observation satellite",
-      "original_summary": "WARSAW, Poland — Polish space company Eycore has launched Eycore-1, an Earth observation satellite equipped with the company’s synthetic aperture radar (SAR) technology. The May 3 launch of a Falcon 9 rocket from Vandenberg Space Force Base",
-      "language": "zh-CN"
-    },
-    {
-      "id": "58d419276256ba",
-      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
-      "title": "美国宇航局研究表明早期生命依赖稀有金属",
-      "summary": "美国国家航空航天局 (NASA) 资助的科学家发现，30 亿多年前地球上的生命依赖于金属钼，而金属钼在当时的环境中极其稀缺。这项研究于周二发表在《自然通讯》上，",
-      "content": "美国国家航空航天局 (NASA) 资助的科学家发现，30 亿多年前地球上的生命依赖于金属钼，而金属钼在当时的环境中极其稀缺。这项研究于周二发表在《自然通讯》上，",
-      "category": "space",
-      "tags": [
-        "NASA"
-      ],
-      "publish_time": "2026-05-06T00:34:49+08:00",
-      "sources": [
-        {
-          "name": "美国国家航空航天局",
-          "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:25.254577+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 60
-      },
-      "status": "published",
-      "original_title": "NASA Research Shows Early Life Relied on Rare Metal",
-      "original_summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the",
-      "language": "zh-CN"
-    },
-    {
       "id": "b50d127cd88c86",
       "url": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
       "title": "令 Artemis 2 黯然失色的预算提案",
@@ -384,15 +742,15 @@
       "content": "《阿尔忒弥斯 2》在很多方面都取得了成功。这次任务持续了仅仅九天多一点，证明了猎户座飞船可以安全地支持宇航员绕月旅行。猎户座只用了一些小技术就完成了飞行",
       "category": "space",
       "tags": [
-        "航天"
+        "商业航天"
       ],
       "publish_time": "2026-05-05T23:00:00+08:00",
       "sources": [
         {
-          "name": "SpaceNews 航天新闻",
+          "name": "航天新闻",
           "url": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156237+08:00",
+          "verify_time": "2026-05-06T23:25:32.353712+08:00",
           "credibility": 86
         }
       ],
@@ -423,10 +781,10 @@
       "publish_time": "2026-05-05T21:56:36+08:00",
       "sources": [
         {
-          "name": "SpaceNews 航天新闻",
+          "name": "航天新闻",
           "url": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156292+08:00",
+          "verify_time": "2026-05-06T23:25:32.354055+08:00",
           "credibility": 86
         }
       ],
@@ -441,249 +799,6 @@
       "status": "published",
       "original_title": "Extending space-enabled intelligence below the ocean surface",
       "original_summary": "Rising pressure to secure strategic waters is driving demand for more persistent monitoring of subsea activity, creating opportunities for satellite-connected autonomous vessels that can watch areas beyond the reach of space-based sensors.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "57f3be120b8650",
-      "url": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
-      "title": "Quantum Space 聘请 Bridenstine 担任首席执行官",
-      "summary": "美国宇航局前局长吉姆·布里登斯汀将加入量子空间担任首席执行官，该公司正在寻求国家安全领域的新兴机遇。",
-      "content": "美国宇航局前局长吉姆·布里登斯汀将加入量子空间担任首席执行官，该公司正在寻求国家安全领域的新兴机遇。",
-      "category": "space",
-      "tags": [
-        "航天",
-        "NASA"
-      ],
-      "publish_time": "2026-05-05T21:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156391+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 46
-      },
-      "status": "published",
-      "original_title": "Quantum Space hires Bridenstine as CEO",
-      "original_summary": "Former NASA Administrator Jim Bridenstine is joining Quantum Space as its chief executive as the company pursues emerging opportunities in national security space.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "91094901f37ea5",
-      "url": "https://electrek.co/2026/05/05/juiced-bikes-is-back-new-e-bikes-models-bring-big-power-better-safety-and-aggressive-pricing/",
-      "title": "Juiced Bikes 回来了：新型电动自行车带来更大的动力、更好的安全性和更低的价格",
-      "summary": "Juiced Bikes 正式回归。在该品牌被 Lectric eBikes（也许是廉价电动自行车领域最著名的品牌）背后的团队收购后，Juiced 重新推出了新的重点 - 以及两款感觉非常相似的新型号",
-      "content": "Juiced Bikes 正式回归。在该品牌被 Lectric eBikes（也许是廉价电动自行车领域最著名的品牌）背后的团队收购后，Juiced 重新推出了新的重点 - 以及两款感觉非常相似的新型号",
-      "category": "space",
-      "tags": [
-        "航天",
-        "launch"
-      ],
-      "publish_time": "2026-05-05T21:00:00+08:00",
-      "sources": [
-        {
-          "name": "Electrek 新能源",
-          "url": "https://electrek.co/2026/05/05/juiced-bikes-is-back-new-e-bikes-models-bring-big-power-better-safety-and-aggressive-pricing/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:30.039917+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 47
-      },
-      "status": "published",
-      "original_title": "Juiced Bikes is back: New e-bikes bring big power, better safety, and lower prices",
-      "original_summary": "Juiced Bikes is officially back. After the brand was acquired by the team behind Lectric eBikes , perhaps the biggest name in the budget e-bike space, Juiced is relaunching with a renewed focus – and two new models that feel very much like",
-      "language": "zh-CN"
-    },
-    {
-      "id": "d8c55cf8aa30b5",
-      "url": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
-      "title": "Hancom InSpace 获得高光谱传感器",
-      "summary": "丹佛 — — 韩国 Hancom InSpace 正在利用 Sejong-3 扩大其地球观测星座，Sejong-3 是一颗带有高光谱传感器的立方体卫星，于 3 月份通过 SpaceX Transporter 共享飞行器发射升空，目前正在进行调试。 “世宗",
-      "content": "丹佛 — — 韩国 Hancom InSpace 正在利用 Sejong-3 扩大其地球观测星座，Sejong-3 是一颗带有高光谱传感器的立方体卫星，于 3 月份通过 SpaceX Transporter 共享飞行器发射升空，目前正在进行调试。 “世宗",
-      "category": "space",
-      "tags": [
-        "航天",
-        "SpaceX",
-        "launch"
-      ],
-      "publish_time": "2026-05-05T20:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156562+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published",
-      "original_title": "Hancom InSpace gains hyperspectral sensor",
-      "original_summary": "DENVER – South Korea’s Hancom InSpace is expanding its Earth-observation constellation with Sejong-3, a cubesat with a hyperspectral sensor, launched in March on a SpaceX Transporter rideshare and currently undergoing commissioning. “Sejong",
-      "language": "zh-CN"
-    },
-    {
-      "id": "18d2271600d832",
-      "url": "https://spacenews.com/ignition-relaunches-artemis-plans/",
-      "title": "Ignition 重新启动 Artemis 计划",
-      "summary": "3 月 24 日，来自整个航天行业的高管和来自数十个国家的官员涌入 NASA 华盛顿总部，不确定他们被叫来要听什么。该机构仅宣布了这一被称为“点火”的活动",
-      "content": "3 月 24 日，来自整个航天行业的高管和来自数十个国家的官员涌入 NASA 华盛顿总部，不确定他们被叫来要听什么。该机构仅宣布了这一被称为“点火”的活动",
-      "category": "space",
-      "tags": [
-        "航天",
-        "NASA",
-        "launch"
-      ],
-      "publish_time": "2026-05-05T19:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/ignition-relaunches-artemis-plans/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156635+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 50
-      },
-      "status": "published",
-      "original_title": "Ignition relaunches Artemis plans",
-      "original_summary": "On March 24, executives from across the space industry and officials from dozens of countries filed into NASA’s Washington headquarters, unsure what they had been called to hear. The agency had announced the event — dubbed “Ignition” — only",
-      "language": "zh-CN"
-    },
-    {
-      "id": "5000e3de309d5d",
-      "url": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
-      "title": "Firefly 计划夏末发射首枚 Alpha Block 2 火箭",
-      "summary": "萤火虫航空航天公司计划在今年夏末推出其阿尔法火箭的升级版，因为该公司看到对该火箭的强劲需求，特别是在国家安全应用方面。",
-      "content": "萤火虫航空航天公司计划在今年夏末推出其阿尔法火箭的升级版，因为该公司看到对该火箭的强劲需求，特别是在国家安全应用方面。",
-      "category": "space",
-      "tags": [
-        "航天",
-        "火箭",
-        "launch"
-      ],
-      "publish_time": "2026-05-05T08:45:52+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.156726+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published",
-      "original_title": "Firefly plans late summer launch of first Alpha Block 2 rocket",
-      "original_summary": "Firefly Aerospace plans to debut the upgraded version of its Alpha rocket late this summer as it sees strong demand for the vehicle, particularly for national security applications.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "aedcfaee00a530",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
-      "title": "在阿耳忒弥斯二号成功之后，美国宇航局向月球迈出了一大步",
-      "summary": "阿耳忒弥斯二号证明了美国宇航局的深空系统已经为下一次飞跃做好了准备。凭借改进的隔热罩性能和精确的着陆精度，猎户座在高速返回中幸存下来，而 SLS 火箭则牢牢锁定了其轨道。就连发射p",
-      "content": "阿耳忒弥斯二号证明了美国宇航局的深空系统已经为下一次飞跃做好了准备。凭借改进的隔热罩性能和精确的着陆精度，猎户座在高速返回中幸存下来，而 SLS 火箭则牢牢锁定了其轨道。就连发射p",
-      "category": "space",
-      "tags": [
-        "航天",
-        "火箭",
-        "NASA",
-        "launch"
-      ],
-      "publish_time": "2026-05-04T19:45:06+08:00",
-      "sources": [
-        {
-          "name": "ScienceDaily 科学日报",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:05.668877+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "NASA just took a huge step toward the Moon after Artemis II success",
-      "original_summary": "Artemis II proved NASA’s deep space systems are ready for the next leap. Orion survived its high-speed return with improved heat shield performance and pinpoint landing accuracy, while the SLS rocket nailed its trajectory. Even the launch p",
-      "language": "zh-CN"
-    },
-    {
-      "id": "3e2b8fcf699286",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
-      "title": "NASA 关闭了已有 49 年历史的航行者 1 号仪器以维持其生命",
-      "summary": "航海者一号刚刚关闭了一台已有近 50 年历史的仪器，以便在深空保持活力。该航天器的能量严重不足，迫使美国宇航局做出谨慎的牺牲才能继续其任务。尽管停业，但仍在继续",
-      "content": "航海者一号刚刚关闭了一台已有近 50 年历史的仪器，以便在深空保持活力。该航天器的能量严重不足，迫使美国宇航局做出谨慎的牺牲才能继续其任务。尽管停业，但仍在继续",
-      "category": "space",
-      "tags": [
-        "航天",
-        "NASA"
-      ],
-      "publish_time": "2026-05-04T19:27:10+08:00",
-      "sources": [
-        {
-          "name": "ScienceDaily 科学日报",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:05.669027+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 47
-      },
-      "status": "published",
-      "original_title": "NASA shuts down 49-year-old Voyager 1 instrument to keep it alive",
-      "original_summary": "Voyager 1 just powered down a nearly 50-year-old instrument to stay alive in deep space. The spacecraft is running critically low on energy, forcing NASA to make careful sacrifices to keep its mission going. Despite the shutdown, it continu",
       "language": "zh-CN"
     }
   ]

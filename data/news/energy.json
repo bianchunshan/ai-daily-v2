@@ -2,159 +2,9 @@
   "version": "3.0",
   "category": "energy",
   "category_name": "新能源",
-  "total": 30,
-  "updated": "2026-05-06T23:04:59.692413+08:00",
+  "total": 20,
+  "updated": "2026-05-06T23:25:55.408651+08:00",
   "news": [
-    {
-      "id": "2775bdb63ddb67",
-      "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
-      "title": "BioCryst 放弃眼科候选药物，专注于罕见疾病",
-      "summary": "该公司宣布已完成血浆激肽释放酶抑制剂的开发，该抑制剂正在研究用于治疗糖尿病性黄斑水肿。",
-      "content": "该公司宣布已完成血浆激肽释放酶抑制剂的开发，该抑制剂正在研究用于治疗糖尿病性黄斑水肿。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T23:04:09.636517+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech 生物科技",
-          "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:09.636658+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published",
-      "original_title": "BioCryst scraps eye candidate to focus on rare diseases",
-      "original_summary": "The company announced it has concluded development of the plasma kallikrein inhibitor, which was being studied to treat diabetic macular edema.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "0913a2e0805f1e",
-      "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
-      "title": "在汉堡王扭亏为盈的推动下，Restaurant Brands International 的盈利高于预期",
-      "summary": "Restaurant Brands International 公布的季度盈利和收入超出了华尔街的预期。",
-      "content": "Restaurant Brands International 公布的季度盈利和收入超出了华尔街的预期。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T22:48:47+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.931362+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Restaurant Brands International earnings top estimates, fueled by Burger King turnaround",
-      "original_summary": "Restaurant Brands International reported quarterly earnings and revenue that topped Wall Street's estimates.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "713b53d2f1ce6d",
-      "url": "https://electrek.co/2026/05/06/hiplok-switch-105-folding-lock-vs-urban-d-lock-tested-on-e-bikes/",
-      "title": "Hiplok Switch 105 折叠锁与 Urban D 锁在电动自行车上的测试",
-      "summary": "我最近有机会测试了 Hiplok 的两种截然不同风格的锁：Hiplok Urban D 和 Switch 105。它们具有独特的用例和安全级别，因此测试这两种锁让我对何时何地使用锁有了独特的了解。",
-      "content": "我最近有机会测试了 Hiplok 的两种截然不同风格的锁：Hiplok Urban D 和 Switch 105。它们具有独特的用例和安全级别，因此测试这两种锁让我对何时何地使用锁有了独特的了解。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T22:48:00+08:00",
-      "sources": [
-        {
-          "name": "Electrek 新能源",
-          "url": "https://electrek.co/2026/05/06/hiplok-switch-105-folding-lock-vs-urban-d-lock-tested-on-e-bikes/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:30.037981+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 20
-      },
-      "status": "published",
-      "original_title": "Hiplok Switch 105 folding lock vs Urban D lock tested on e-bikes",
-      "original_summary": "I recently had the chance to test out two very different styles of locks from Hiplok: Their Hiplok Urban D and their Switch 105. They come with unique use cases and security levels, so testing both gave me a unique view of when and where th",
-      "language": "zh-CN"
-    },
     {
       "id": "c50dd2f94e2622",
       "url": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
@@ -163,16 +13,15 @@
       "content": "Lucid 集团表示，将采取措施更好地调整其生产，以满足客户对其豪华全电动汽车的需求。",
       "category": "energy",
       "tags": [
-        "电动车",
-        "electric vehicle"
+        "电动车"
       ],
       "publish_time": "2026-05-06T22:35:54+08:00",
       "sources": [
         {
-          "name": "CNBC 市场",
+          "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.932112+08:00",
+          "verify_time": "2026-05-06T23:25:09.565980+08:00",
           "credibility": 86
         }
       ],
@@ -207,298 +56,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "da66f43c38335d",
-      "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
-      "title": "特朗普表示，如果伊朗不同意和平协议，伊朗将受到“更高级别”的轰炸",
-      "summary": "据报道，华盛顿预计德黑兰将在未来 48 小时内就几个关键问题做出回应。",
-      "content": "据报道，华盛顿预计德黑兰将在未来 48 小时内就几个关键问题做出回应。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T22:32:39+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.929878+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 37
-      },
-      "status": "published",
-      "original_title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
-      "original_summary": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "1501d84dc4100d",
-      "url": "https://spacenews.com/powering-unified-space-systems-operations/",
-      "title": "为统一空间系统运营提供动力",
-      "summary": "2025 年，Space42 的系统在 25 起灾难事件中帮助拯救了 660 多人的生命，其中包括缅甸、尼泊尔和土耳其的地震，莫桑比克的飓风和尼日利亚的洪水。在每个[...]帖子中为统一空间系统运营提供动力",
-      "content": "2025 年，Space42 的系统在 25 起灾难事件中帮助拯救了 660 多人的生命，其中包括缅甸、尼泊尔和土耳其的地震，莫桑比克的飓风和尼日利亚的洪水。在每个[...]帖子中为统一空间系统运营提供动力",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T22:26:21+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/powering-unified-space-systems-operations/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155217+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Powering Unified Space Systems Operations",
-      "original_summary": "In 2025, Space42’s systems helped save over 660 lives across 25 distress events, from earthquakes in Myanmar, Nepal, and Turkey to cyclones in Mozambique and floods in Nigeria. In each […] The post Powering Unified Space Systems Operations",
-      "language": "zh-CN"
-    },
-    {
-      "id": "dca0904b66ed95",
-      "url": "https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date",
-      "title": "Blink 将其预算蜂鸣器提高到 2K",
-      "summary": "亚马逊旗下的 Blink 有两款新的视频门铃：Blink 有线门铃 2K+ 和 Blink 电池门铃 2K+。有线门铃在亚马逊上的售价为 49.99 美元，但该公司的一篇博客文章称其起价为 39.99 美元。电池选项",
-      "content": "亚马逊旗下的 Blink 有两款新的视频门铃：Blink 有线门铃 2K+ 和 Blink 电池门铃 2K+。有线门铃在亚马逊上的售价为 49.99 美元，但该公司的一篇博客文章称其起价为 39.99 美元。电池选项",
-      "category": "energy",
-      "tags": [
-        "电池"
-      ],
-      "publish_time": "2026-05-06T22:00:00+08:00",
-      "sources": [
-        {
-          "name": "The Verge 科技媒体",
-          "url": "https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:38.352380+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 57
-      },
-      "status": "published",
-      "original_title": "Blink bumps its budget buzzer to 2K",
-      "original_summary": "Amazon-owned Blink has two new video doorbells, the Blink Wired Doorbell 2K+ and the Blink Battery Doorbell 2K+. The wired doorbell is listed at $49.99 on Amazon, but a blog post from the company says it starts at $39.99. The Battery option",
-      "language": "zh-CN"
-    },
-    {
-      "id": "e36436eaf91602",
-      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
-      "title": "NASA 的罗马人准备改变对难以捉摸的中子星的搜寻",
-      "summary": "天文学家早就知道中子星（大质量恒星爆炸后留下的破碎核心）应该分散在整个银河系中。然而，它们中的大多数实际上是不可见的。发表在 Astron 上的一项新研究",
-      "content": "天文学家早就知道中子星（大质量恒星爆炸后留下的破碎核心）应该分散在整个银河系中。然而，它们中的大多数实际上是不可见的。发表在 Astron 上的一项新研究",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T22:00:00+08:00",
-      "sources": [
-        {
-          "name": "美国国家航空航天局",
-          "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:25.253939+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 42
-      },
-      "status": "published",
-      "original_title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
-      "original_summary": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astron",
-      "language": "zh-CN"
-    },
-    {
-      "id": "fbd111f3a83d6b",
-      "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
-      "title": "迪士尼在首席执行官乔什·达马罗 (Josh D'Amaro) 领导下的第一份报告中，流媒体和公园推动收入增长 7%",
-      "summary": "当媒体巨头迪士尼周三公布第二财季收益时，其收入超出了分析师的预期。",
-      "content": "当媒体巨头迪士尼周三公布第二财季收益时，其收入超出了分析师的预期。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T21:52:22+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.931010+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Disney pops 7% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro",
-      "original_summary": "Disney revenue topped analyst expectations when the media giant reported its fiscal second-quarter earnings on Wednesday.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "2cacd870cb6868",
-      "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
-      "title": "ADP 称 4 月份私营部门就业人数增加 109,000 人，超出预期",
-      "summary": "该报告提供了更多劳动力市场稳定的证据，并减少了美联储降息的动力。",
-      "content": "该报告提供了更多劳动力市场稳定的证据，并减少了美联储降息的动力。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T21:49:25+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.930514+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
-      "original_summary": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
-      "language": "zh-CN"
-    },
-    {
       "id": "650786656e9c47",
       "url": "https://www.pv-magazine.com/2026/05/06/there-are-now-more-than-2-million-uk-solar-installations/",
       "title": "英国目前有超过 200 万个太阳能装置",
@@ -506,16 +63,15 @@
       "content": "2026 年 3 月，安装量恢复了 2012 年以来的最高水平，屋顶和大规模部署将英国太阳能推向了新的里程碑。随着政府的进一步支持，预计每月安装量将会更大。",
       "category": "energy",
       "tags": [
-        "solar",
-        "电动车"
+        "太阳能"
       ],
       "publish_time": "2026-05-06T21:30:10+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/there-are-now-more-than-2-million-uk-solar-installations/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174186+08:00",
+          "verify_time": "2026-05-06T23:25:35.362676+08:00",
           "credibility": 78
         }
       ],
@@ -557,18 +113,18 @@
       "content": "国际可再生​​能源机构 (IRENA) 的一份新报告发现，在优质资源地区，全天候太阳能和风能与电池存储相结合，以比新化石燃料发电更低的成本提供电力。",
       "category": "energy",
       "tags": [
-        "renewable",
-        "solar",
+        "可再生能源",
+        "太阳能",
         "电池",
-        "storage"
+        "储能"
       ],
       "publish_time": "2026-05-06T20:30:14+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/firm-solar-and-storage-costs-fall-to-54-mwh-says-irena/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174252+08:00",
+          "verify_time": "2026-05-06T23:25:35.363073+08:00",
           "credibility": 78
         }
       ],
@@ -603,6 +159,56 @@
       "language": "zh-CN"
     },
     {
+      "id": "5abe6d3268e35b",
+      "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
+      "title": "荷兰合作伙伴探索将硅光伏带入太空",
+      "summary": "荷兰应用科学研究组织 (TNO) 正在与太阳能制造商 MCPV 和航空巨头空中客车公司合作，将经过地面验证的硅技术应用于太空运营。预计该技术可以",
+      "content": "荷兰应用科学研究组织 (TNO) 正在与太阳能制造商 MCPV 和航空巨头空中客车公司合作，将经过地面验证的硅技术应用于太空运营。预计该技术可以",
+      "category": "energy",
+      "tags": [
+        "太阳能"
+      ],
+      "publish_time": "2026-05-06T20:15:24+08:00",
+      "sources": [
+        {
+          "name": "光伏杂志",
+          "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:35.363447+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "Dutch partners explore bringing silicon PV into space",
+      "original_summary": "The Netherlands Organization for Applied Scientific Research (TNO) is working with solar manufacturer MCPV and aviation giant Airbus to adapt terrestrial-proven silicon technology for space operations. It is envisaged the technology could s",
+      "language": "zh-CN"
+    },
+    {
       "id": "4731296944311a",
       "url": "https://www.ithome.com/0/946/985.htm",
       "title": "乘联分会崔东树建议推出经济型电动车标准：适配国内老龄化及县乡市场需求",
@@ -618,7 +224,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/985.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:37.933010+08:00",
+          "verify_time": "2026-05-06T23:25:41.130764+08:00",
           "credibility": 78
         }
       ],
@@ -653,207 +259,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "205e9dc529c6ef",
-      "url": "https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html",
-      "title": "抵押贷款利率创一个月来最高水平，导致首次购房者退出",
-      "summary": "上周抵押贷款利率上升，导致贷款需求回落，导致平均贷款规模上升，这表明低收入借款人退出。",
-      "content": "上周抵押贷款利率上升，导致贷款需求回落，导致平均贷款规模上升，这表明低收入借款人退出。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T20:03:13+08:00",
-      "sources": [
-        {
-          "name": "CNBC 市场",
-          "url": "https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.931278+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Mortgage rates hit the highest level in a month, causing first-time homebuyers to drop out",
-      "original_summary": "Mortgage rates rose last week, causing loan demand to drop back and causing the average loan size to rise — indicating that lower-income borrowers dropped out.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "d2cdee8d3fe59e",
-      "url": "https://www.genengnews.com/topics/bioprocessing/novelty-nobility-expands-agc-biologics-deal-to-take-product-candidate-through-gmp-manufacturing/",
-      "title": "Novelty Nobility 扩大 AGC Biologics 交易，通过 GMP 制造生产候选产品",
-      "summary": "该项目利用 AGC Biologics 的全球网络，已在丹麦哥本哈根完成细胞系开发，随后将技术转移到日本千叶，进行下一制造阶段。后新奇贵族扩展 AGC Bi",
-      "content": "该项目利用 AGC Biologics 的全球网络，已在丹麦哥本哈根完成细胞系开发，随后将技术转移到日本千叶，进行下一制造阶段。后新奇贵族扩展 AGC Bi",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T20:00:40+08:00",
-      "sources": [
-        {
-          "name": "GEN 基因工程新闻",
-          "url": "https://www.genengnews.com/topics/bioprocessing/novelty-nobility-expands-agc-biologics-deal-to-take-product-candidate-through-gmp-manufacturing/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:14.335634+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Novelty Nobility Expands AGC Biologics Deal to Take Product Candidate Through GMP Manufacturing",
-      "original_summary": "The project leverages AGC Biologics’ global network, having completed cell line development in Copenhagen, Denmark, to be followed by tech transfer to Chiba, Japan, for the next manufacturing stages. The post Novelty Nobility Expands AGC Bi",
-      "language": "zh-CN"
-    },
-    {
-      "id": "e4b94cf0163527",
-      "url": "https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on",
-      "title": "Remarkable Paper Pure 是我用过的最好的数字记事本",
-      "summary": "我是用笔和纸书写，还是用手写笔在平板电脑上书写？现在比以往任何时候都更难说。 Remarkable Paper Pure 是 2020 年 Remarkable 2 的后续产品，也是几款优质彩色 E Ink 平板电脑。与 Remarkable 的第一个一样",
-      "content": "我是用笔和纸书写，还是用手写笔在平板电脑上书写？现在比以往任何时候都更难说。 Remarkable Paper Pure 是 2020 年 Remarkable 2 的后续产品，也是几款优质彩色 E Ink 平板电脑。与 Remarkable 的第一个一样",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T20:00:00+08:00",
-      "sources": [
-        {
-          "name": "The Verge 科技媒体",
-          "url": "https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:38.352849+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published",
-      "original_title": "The Remarkable Paper Pure is the best digital notepad I’ve ever used",
-      "original_summary": "Was I writing with pen and paper, or a stylus on a tablet? It’s getting more difficult than ever to tell. The Remarkable Paper Pure is a follow-up to 2020’s Remarkable 2 and a couple of premium color E Ink tablets. As with Remarkable’s firs",
-      "language": "zh-CN"
-    },
-    {
-      "id": "16ab58c68e66e2",
-      "url": "https://spacenews.com/overview-energy-wins-air-force-contract-to-study-space-based-solar-power-for-military-bases/",
-      "title": "概述 Energy 赢得空军合同，为军事基地研究天基太阳能",
-      "summary": "能源公司赢得了美国空军的一份合同，研究将太空太阳能传输到军事设施，复兴了二十年前研究的概念。",
-      "content": "能源公司赢得了美国空军的一份合同，研究将太空太阳能传输到军事设施，复兴了二十年前研究的概念。",
-      "category": "energy",
-      "tags": [
-        "solar",
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T19:59:36+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews 航天新闻",
-          "url": "https://spacenews.com/overview-energy-wins-air-force-contract-to-study-space-based-solar-power-for-military-bases/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:29.155383+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Overview Energy wins Air Force contract to study space-based solar power for military bases",
-      "original_summary": "Overview Energy has won a contract from the U.S. Air Force to study beaming space solar power to military installations, reviving a concept studied two decades ago.",
-      "language": "zh-CN"
-    },
-    {
       "id": "b3d9bf69af9f0a",
       "url": "https://www.pv-magazine.com/2026/05/06/norwegian-startup-testing-hybrid-solar-wave-wind-system/",
       "title": "挪威初创公司测试混合太阳能、波浪、风能系统",
@@ -861,15 +266,15 @@
       "content": "挪威的 Flex2Future 已开始与研究公司 SINTEF 合作测试其海上能源系统的缩小模型。该初创公司的首席执行官表示，该系统集成了太阳能、波浪能和风能，可以以相对较低的速度提供电力。",
       "category": "energy",
       "tags": [
-        "solar"
+        "太阳能"
       ],
       "publish_time": "2026-05-06T19:43:42+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/norwegian-startup-testing-hybrid-solar-wave-wind-system/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174339+08:00",
+          "verify_time": "2026-05-06T23:25:35.363964+08:00",
           "credibility": 78
         }
       ],
@@ -904,6 +309,106 @@
       "language": "zh-CN"
     },
     {
+      "id": "2399cd6ab3116b",
+      "url": "https://www.pv-magazine.com/2026/05/06/sinovoltaics-launches-free-tool-for-project-specific-pv-module-test-scopes/",
+      "title": "中国光伏推出针对特定项目光伏组件测试范围的免费工具",
+      "summary": "荷兰-德国质量保证公司中国光伏发布了一款基于浏览器的免费工具，该工具可为公用事业规模的太阳能项目生成特定于项目的可靠性测试策略，按优先级对推荐的实验室测试进行排序并生成",
+      "content": "荷兰-德国质量保证公司中国光伏发布了一款基于浏览器的免费工具，该工具可为公用事业规模的太阳能项目生成特定于项目的可靠性测试策略，按优先级对推荐的实验室测试进行排序并生成",
+      "category": "energy",
+      "tags": [
+        "太阳能"
+      ],
+      "publish_time": "2026-05-06T19:00:41+08:00",
+      "sources": [
+        {
+          "name": "光伏杂志",
+          "url": "https://www.pv-magazine.com/2026/05/06/sinovoltaics-launches-free-tool-for-project-specific-pv-module-test-scopes/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:35.364388+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Sinovoltaics launches free tool for project-specific PV module test scopes",
+      "original_summary": "Dutch-German quality assurance firm Sinovoltaics has released a free browser-based tool that generates project-specific reliability testing strategies for utility-scale solar projects, sorting recommended lab tests by priority and producing",
+      "language": "zh-CN"
+    },
+    {
+      "id": "79210c2b2c2f33",
+      "url": "https://www.pv-magazine.com/2026/05/06/pv-module-recycling-technologies-progressing-says-iea-pvps/",
+      "title": "IEA-PVPS 表示，光伏组件回收技术“不断进步”",
+      "summary": "国际能源署 (IEA) 光伏发电系统计划 (PVPS) 的最新报告发现，与之前的研究相比，光伏组件回收性能取得了显着进步，包括更高的材料回收率、",
+      "content": "国际能源署 (IEA) 光伏发电系统计划 (PVPS) 的最新报告发现，与之前的研究相比，光伏组件回收性能取得了显着进步，包括更高的材料回收率、",
+      "category": "energy",
+      "tags": [
+        "新能源"
+      ],
+      "publish_time": "2026-05-06T18:43:30+08:00",
+      "sources": [
+        {
+          "name": "光伏杂志",
+          "url": "https://www.pv-magazine.com/2026/05/06/pv-module-recycling-technologies-progressing-says-iea-pvps/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:35.364805+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "PV module recycling technologies ‘progressing’, says IEA-PVPS",
+      "original_summary": "Latest report from the International Energy Agency's (IEA) Photovoltaic Power Systems Programme (PVPS) finds measurable advancements in PV module recycling performance compared to its prior studies, including higher material recovery rates,",
+      "language": "zh-CN"
+    },
+    {
       "id": "815bbe97e57a99",
       "url": "https://electrek.co/2026/05/06/massachusetts-proposes-first-in-the-nation-e-bike-and-moped-laws-based-on-speed/",
       "title": "马萨诸塞州提出了“全国首个”基于速度的电动自行车和轻便摩托车法律",
@@ -911,15 +416,15 @@
       "content": "马萨诸塞州立法者正在考虑美国迄今为止最全面的微型交通监管改革之一，提出一个新的法律框架，该框架将对从自行车、电动自行车到电动滑板车的所有物品进行分类",
       "category": "energy",
       "tags": [
-        "电动车"
+        "新能源"
       ],
       "publish_time": "2026-05-06T18:18:00+08:00",
       "sources": [
         {
-          "name": "Electrek 新能源",
+          "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/06/massachusetts-proposes-first-in-the-nation-e-bike-and-moped-laws-based-on-speed/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:30.038232+08:00",
+          "verify_time": "2026-05-06T23:25:33.187732+08:00",
           "credibility": 78
         }
       ],
@@ -954,49 +459,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "6dc9f357c63d83",
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "title": "Chrome 的 AI 功能可能会占用 4GB 的计算机存储",
-      "summary": "由于设备上存在大型 AI 模型文件，Google Chrome 可能会占用比预期更多的存储空间，在某些情况下，该文件会自动下载到浏览器的系统文件夹中。注意到无法解释的流量下降的用户",
-      "content": "由于设备上存在大型 AI 模型文件，Google Chrome 可能会占用比预期更多的存储空间，在某些情况下，该文件会自动下载到浏览器的系统文件夹中。注意到无法解释的流量下降的用户",
-      "category": "energy",
-      "tags": [
-        "电动车",
-        "storage"
-      ],
-      "publish_time": "2026-05-06T18:13:09+08:00",
-      "sources": [
-        {
-          "name": "The Verge 科技媒体",
-          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:38.353414+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "GOOGL",
-          "name": "谷歌",
-          "exchange": "NASDAQ",
-          "impact": "negative",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 57
-      },
-      "status": "published",
-      "original_title": "Chrome’s AI features may be hogging 4GB of your computer storage",
-      "original_summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in",
-      "language": "zh-CN"
-    },
-    {
       "id": "ce4e9e88e6f79e",
       "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
       "title": "安哥拉启用非洲最大的离网太阳能+储能园区",
@@ -1004,17 +466,17 @@
       "content": "该离网太阳能项目包括 31.85 兆瓦的太阳能，连接到 75.26 兆瓦时的电池储能系统，将为安哥拉东部超过 90,000 人提供能源。",
       "category": "energy",
       "tags": [
-        "solar",
+        "太阳能",
         "电池",
-        "storage"
+        "储能"
       ],
       "publish_time": "2026-05-06T16:24:50+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174482+08:00",
+          "verify_time": "2026-05-06T23:25:35.365174+08:00",
           "credibility": 78
         }
       ],
@@ -1056,15 +518,15 @@
       "content": "弗劳恩霍夫太阳能系统研究所 ISE 在德国弗莱堡开设了一个专门实验室，利用行业标准工艺将钙钛矿-硅串联电池设计扩展到大型晶圆格式。",
       "category": "energy",
       "tags": [
-        "solar"
+        "太阳能"
       ],
       "publish_time": "2026-05-06T15:19:29+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/fraunhofer-ise-opens-perovskite-silicon-tandem-scale-up-lab/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174519+08:00",
+          "verify_time": "2026-05-06T23:25:35.365510+08:00",
           "credibility": 78
         }
       ],
@@ -1099,6 +561,106 @@
       "language": "zh-CN"
     },
     {
+      "id": "c267107aca279c",
+      "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
+      "title": "如何将商用光伏板改造为光热模块",
+      "summary": "巴西的研究人员发现，将商用光伏电池板改造为 PVT 系统可以将总效率提高到 46-50% 左右，但增加的热阻限制了热量的提取，并略微降低了电气性能。他们的实验",
+      "content": "巴西的研究人员发现，将商用光伏电池板改造为 PVT 系统可以将总效率提高到 46-50% 左右，但增加的热阻限制了热量的提取，并略微降低了电气性能。他们的实验",
+      "category": "energy",
+      "tags": [
+        "新能源"
+      ],
+      "publish_time": "2026-05-06T15:00:53+08:00",
+      "sources": [
+        {
+          "name": "光伏杂志",
+          "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:35.366197+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "How to retrofit commercial PV panels into photovoltaic-thermal modules",
+      "original_summary": "Researchers in Brazil found that retrofitting commercial PV panels into PVT systems can boost total efficiency to around 46–50%, but added thermal resistance limits heat extraction and slightly reduces electrical performance. Their experime",
+      "language": "zh-CN"
+    },
+    {
+      "id": "e506ef06498116",
+      "url": "https://www.pv-magazine.com/2026/05/06/solar-panels-reduces-thermal-stress-in-dairy-barns-during-critical-afternoon-hours/",
+      "title": "太阳能电池板可减少下午关键时段奶牛场的热应力",
+      "summary": "中国的一项研究表明，奶牛棚的屋顶光伏系统可以显着降低屋顶热通量并改善室内热条件。现场测量和模拟发现，在船尾峰值期间，室内温度最多降低 2.3 C",
+      "content": "中国的一项研究表明，奶牛棚的屋顶光伏系统可以显着降低屋顶热通量并改善室内热条件。现场测量和模拟发现，在船尾峰值期间，室内温度最多降低 2.3 C",
+      "category": "energy",
+      "tags": [
+        "太阳能"
+      ],
+      "publish_time": "2026-05-06T14:28:14+08:00",
+      "sources": [
+        {
+          "name": "光伏杂志",
+          "url": "https://www.pv-magazine.com/2026/05/06/solar-panels-reduces-thermal-stress-in-dairy-barns-during-critical-afternoon-hours/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:35.366979+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "Solar panels reduce thermal stress in dairy barns during critical afternoon hours",
+      "original_summary": "A study from China shows rooftop PV systems on dairy barns can significantly reduce roof heat flux and improve indoor thermal conditions. Field measurements and simulations found up to a 2.3 C reduction in indoor temperature during peak aft",
+      "language": "zh-CN"
+    },
+    {
       "id": "eb168c30fe70c1",
       "url": "https://www.pv-magazine.com/2026/05/06/brazil-revokes-3-57-gw-of-solar-permits-amid-grid-connection-constraints/",
       "title": "由于电网连接受限，巴西撤销了 3.57 吉瓦的太阳能许可证",
@@ -1106,16 +668,15 @@
       "content": "巴西Aneel已通过四项决议撤销了3.57吉瓦的光伏项目授权，主要是应开发商的要求，理由是电网疏散能力不足和弃电率上升。",
       "category": "energy",
       "tags": [
-        "solar",
-        "电动车"
+        "太阳能"
       ],
       "publish_time": "2026-05-06T13:54:09+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/brazil-revokes-3-57-gw-of-solar-permits-amid-grid-connection-constraints/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174666+08:00",
+          "verify_time": "2026-05-06T23:25:35.367447+08:00",
           "credibility": 78
         }
       ],
@@ -1150,22 +711,22 @@
       "language": "zh-CN"
     },
     {
-      "id": "73d0eb980ff17d",
-      "url": "https://www.pv-magazine.com/2026/05/06/solex-energy-plans-5-gw-solar-cell-factory-in-india/",
-      "title": "Solex Energy 计划在印度建设 5 吉瓦太阳能电池工厂",
-      "summary": "这家印度制造商将投资约 4.2 亿美元扩大其制造足迹，同时通过与 ISC Konstanz 的合作来推进高效光伏技术。",
-      "content": "这家印度制造商将投资约 4.2 亿美元扩大其制造足迹，同时通过与 ISC Konstanz 的合作来推进高效光伏技术。",
+      "id": "276bdbc39ed622",
+      "url": "https://www.pv-magazine.com/2026/05/06/arctech-debuts-topcon-photovoltaic-pavement-solution/",
+      "title": "Arctech推出TOPCon光伏路面解决方案",
+      "summary": "Harmony-F太阳能地板可承受至少2吨的均匀分布荷载，硬度在莫氏7级以上，具有很高的耐磨性。",
+      "content": "Harmony-F太阳能地板可承受至少2吨的均匀分布荷载，硬度在莫氏7级以上，具有很高的耐磨性。",
       "category": "energy",
       "tags": [
-        "solar"
+        "太阳能"
       ],
-      "publish_time": "2026-05-06T12:42:42+08:00",
+      "publish_time": "2026-05-06T13:43:09+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
-          "url": "https://www.pv-magazine.com/2026/05/06/solex-energy-plans-5-gw-solar-cell-factory-in-india/",
+          "name": "光伏杂志",
+          "url": "https://www.pv-magazine.com/2026/05/06/arctech-debuts-topcon-photovoltaic-pavement-solution/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174772+08:00",
+          "verify_time": "2026-05-06T23:25:35.367762+08:00",
           "credibility": 78
         }
       ],
@@ -1195,27 +756,77 @@
         "opportunity_score": 25
       },
       "status": "published",
-      "original_title": "Solex Energy plans 5 GW solar cell factory in India",
-      "original_summary": "The Indian manufacturer is investing around $420 million to expand its manufacturing footprint alongside efforts to advance high-efficiency PV technologies through its partnership with ISC Konstanz.",
+      "original_title": "Arctech debuts TOPCon photovoltaic pavement solution",
+      "original_summary": "Harmony-F solar flooring can withstand uniformly distributed loads of at least 2 tons and has a hardness above 7 on the Mohs scale, indicating high resistance to wear and abrasion.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "9dab90ed00545f",
+      "url": "https://electrek.co/2026/05/05/really-quick-charge-greenlane-ceo-talks-expansion-deals-and-more/",
+      "title": "真正快速充电：Greenlane 首席执行官谈论扩张、交易等",
+      "summary": "在这一集“快速充电”节目中，Greenlane 宣布将其重型电动卡车充电网络扩展到加利福尼亚州以外的地区，并将柴油级充电通道直接引入德克萨斯州最繁忙的货运走廊之一",
+      "content": "在这一集“快速充电”节目中，Greenlane 宣布将其重型电动卡车充电网络扩展到加利福尼亚州以外的地区，并将柴油级充电通道直接引入德克萨斯州最繁忙的货运走廊之一",
+      "category": "energy",
+      "tags": [
+        "电动车"
+      ],
+      "publish_time": "2026-05-06T12:57:09+08:00",
+      "sources": [
+        {
+          "name": "新能源交通媒体",
+          "url": "https://electrek.co/2026/05/05/really-quick-charge-greenlane-ceo-talks-expansion-deals-and-more/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:25:33.188155+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSLA",
+          "name": "特斯拉",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "BYD",
+          "name": "比亚迪",
+          "exchange": "OTC",
+          "impact": "neutral",
+          "reason": "板块弱关联：新能源",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "REALLY Quick Charge: Greenlane CEO talks expansion, deals, and more",
+      "original_summary": "On this really quick episode of Quick Charge , Greenlane announces it’s taking its heavy-duty EV truck charging network beyond California, and bringing diesel-level charging access straight into one of the busiest freight corridors in Texas",
       "language": "zh-CN"
     },
     {
       "id": "911d9eca9622f9",
       "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
       "title": "天合光能推出低压设计屋顶太阳能组件",
-      "summary": "这家中国制造商推出了 Vertex S+ 模块的“澳大利亚专用”变体，其功率输出为 515 W，最高效率为 24.65%。据报道，其较低电压设计可以实现更灵活的串大小调整，等等",
-      "content": "这家中国制造商推出了 Vertex S+ 模块的“澳大利亚专用”变体，其功率输出为 515 W，最高效率为 24.65%。据报道，其较低电压设计可以实现更灵活的串大小调整，等等",
+      "summary": "这家中国制造商推出了福泰制药 S+ 模块的“澳大利亚专用”变体，其功率输出为 515 W，最高效率为 24.65%。据报道，其较低电压设计可以实现更灵活的串大小调整，等等",
+      "content": "这家中国制造商推出了福泰制药 S+ 模块的“澳大利亚专用”变体，其功率输出为 515 W，最高效率为 24.65%。据报道，其较低电压设计可以实现更灵活的串大小调整，等等",
       "category": "energy",
       "tags": [
-        "solar"
+        "太阳能"
       ],
       "publish_time": "2026-05-06T12:34:57+08:00",
       "sources": [
         {
-          "name": "PV Magazine 光伏杂志",
+          "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:31.174829+08:00",
+          "verify_time": "2026-05-06T23:25:35.368489+08:00",
           "credibility": 78
         }
       ],
@@ -1252,9 +863,9 @@
     {
       "id": "7a7471a616ca07",
       "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
-      "title": "Rivian (RIVN) 在构建完整的自动驾驶堆栈时考虑制造自己的激光雷达",
-      "summary": "随着电动汽车制造商积极垂直整合其整个自动驾驶堆栈，Rivian 正在考虑在美国制造自己的激光雷达传感器，可能通过与中国公司合作。此举将增加",
-      "content": "随着电动汽车制造商积极垂直整合其整个自动驾驶堆栈，Rivian 正在考虑在美国制造自己的激光雷达传感器，可能通过与中国公司合作。此举将增加",
+      "title": "Rivian 电动车 (RIVN) 在构建完整的自动驾驶堆栈时考虑制造自己的激光雷达",
+      "summary": "随着电动汽车制造商积极垂直整合其整个自动驾驶堆栈，Rivian 电动车正在考虑在美国制造自己的激光雷达传感器，可能通过与中国公司合作。此举将增加",
+      "content": "随着电动汽车制造商积极垂直整合其整个自动驾驶堆栈，Rivian 电动车正在考虑在美国制造自己的激光雷达传感器，可能通过与中国公司合作。此举将增加",
       "category": "energy",
       "tags": [
         "电动车"
@@ -1262,10 +873,10 @@
       "publish_time": "2026-05-06T09:32:04+08:00",
       "sources": [
         {
-          "name": "Electrek 新能源",
+          "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
           "verified": true,
-          "verify_time": "2026-05-06T23:04:30.038544+08:00",
+          "verify_time": "2026-05-06T23:25:33.189021+08:00",
           "credibility": 78
         }
       ],
@@ -1300,23 +911,23 @@
       "language": "zh-CN"
     },
     {
-      "id": "3056f7014e1fdf",
-      "url": "https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html",
-      "title": "比特币财务公司 Strategy 打破了“永不出售”的策略，转向旗舰加密货币",
-      "summary": "策略正在从被动积累比特币转向主动管理资产负债表，以提高比特币每股价值。",
-      "content": "策略正在从被动积累比特币转向主动管理资产负债表，以提高比特币每股价值。",
+      "id": "0336a0d3fd9b2e",
+      "url": "https://electrek.co/2026/05/05/high-power-ev-charging-us-busiest-freight-routes-greenlane/",
+      "title": "高功率电动汽车充电进入美国最繁忙的货运路线之一",
+      "summary": "Greenlane 正在将其重型电动卡车充电网络扩展到加州以外的地区，并直接进入美国最繁忙的货运走廊之一。更多的…",
+      "content": "Greenlane 正在将其重型电动卡车充电网络扩展到加州以外的地区，并直接进入美国最繁忙的货运走廊之一。更多的…",
       "category": "energy",
       "tags": [
         "电动车"
       ],
-      "publish_time": "2026-05-06T07:54:03+08:00",
+      "publish_time": "2026-05-06T07:24:41+08:00",
       "sources": [
         {
-          "name": "CNBC 科技",
-          "url": "https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html",
+          "name": "新能源交通媒体",
+          "url": "https://electrek.co/2026/05/05/high-power-ev-charging-us-busiest-freight-routes-greenlane/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259694+08:00",
-          "credibility": 86
+          "verify_time": "2026-05-06T23:25:33.189467+08:00",
+          "credibility": 78
         }
       ],
       "stocks": [
@@ -1341,32 +952,32 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
+        "credibility_score": 78,
+        "opportunity_score": 25
       },
       "status": "published",
-      "original_title": "Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto",
-      "original_summary": "Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.",
+      "original_title": "High-power EV charging hits one of the US’s busiest freight routes",
+      "original_summary": "Greenlane is taking its heavy-duty EV truck charging network beyond California, and it’s heading straight into one of the busiest freight corridors in the US. more…",
       "language": "zh-CN"
     },
     {
-      "id": "2dd1d40c75a9ed",
-      "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "title": "Bumble 的付费用户正在下滑，因为它押注于今年晚些时候进行彻底改革",
-      "summary": "该公司下了很大的赌注，认为刷卡模式已经过时，而且大多数匹配永远不会变成实际日期。该公司希望通过重新设计个人资料、改变人们互动的方式以及更多地关注吸引用户来解决这个问题",
-      "content": "该公司下了很大的赌注，认为刷卡模式已经过时，而且大多数匹配永远不会变成实际日期。该公司希望通过重新设计个人资料、改变人们互动的方式以及更多地关注吸引用户来解决这个问题",
+      "id": "d2fdc355ce4417",
+      "url": "https://electrek.co/2026/05/05/ev-charger-system-runs-like-a-mini-power-plant-10-mw-abb/",
+      "title": "该电动汽车充电器系统的运行就像一个迷你发电厂 – 高达 10 MW",
+      "summary": "ABB 电动汽车正在利用功能强大的新型充电系统来应对最艰巨的电动汽车充电工作，该系统可在交通站点、物流中心和交通繁忙的走廊上不间断运行。更多的…",
+      "content": "ABB 电动汽车正在利用功能强大的新型充电系统来应对最艰巨的电动汽车充电工作，该系统可在交通站点、物流中心和交通繁忙的走廊上不间断运行。更多的…",
       "category": "energy",
       "tags": [
         "电动车"
       ],
-      "publish_time": "2026-05-06T07:05:50+08:00",
+      "publish_time": "2026-05-06T05:52:44+08:00",
       "sources": [
         {
-          "name": "TechCrunch 科技媒体",
-          "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+          "name": "新能源交通媒体",
+          "url": "https://electrek.co/2026/05/05/ev-charger-system-runs-like-a-mini-power-plant-10-mw-abb/",
           "verified": true,
-          "verify_time": "2026-05-06T23:03:35.296296+08:00",
-          "credibility": 86
+          "verify_time": "2026-05-06T23:25:33.189926+08:00",
+          "credibility": 78
         }
       ],
       "stocks": [
@@ -1391,112 +1002,12 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
+        "credibility_score": 78,
+        "opportunity_score": 25
       },
       "status": "published",
-      "original_title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-      "original_summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users",
-      "language": "zh-CN"
-    },
-    {
-      "id": "7ddc447aeb39d5",
-      "url": "https://www.genengnews.com/topics/omics/chromosome-engineering-reveals-new-locus-for-fusarium-resistance-in-wheat/",
-      "title": "染色体工程揭示了小麦抗镰刀菌的新位点",
-      "summary": "已在小麦中绘制了从白披碱引入的一个新的赤霉病抗性基因座。细胞遗传学和靶向分析定义了细分市场并实现了标记开发，以支持更具弹性的小麦品种的育种",
-      "content": "已在小麦中绘制了从白披碱引入的一个新的赤霉病抗性基因座。细胞遗传学和靶向分析定义了细分市场并实现了标记开发，以支持更具弹性的小麦品种的育种",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T06:46:39+08:00",
-      "sources": [
-        {
-          "name": "GEN 基因工程新闻",
-          "url": "https://www.genengnews.com/topics/omics/chromosome-engineering-reveals-new-locus-for-fusarium-resistance-in-wheat/",
-          "verified": true,
-          "verify_time": "2026-05-06T23:04:14.336027+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 29
-      },
-      "status": "published",
-      "original_title": "Chromosome Engineering Reveals New Locus for Fusarium Resistance in Wheat",
-      "original_summary": "A new Fusarium head blight resistance locus introgressed from Elymus repens has been mapped in wheat. Cytogenetic and targeted analyses defined the segment and enabled marker development to support breeding of more resilient wheat varieties",
-      "language": "zh-CN"
-    },
-    {
-      "id": "0b0da94a65c318",
-      "url": "https://www.cnbc.com/2026/05/05/super-micro-smci-q3-earnings-report-2026.html",
-      "title": "随着收入增加一倍以上，Super Micro 股价在指引下上涨 18%",
-      "summary": "超微发布强于预期的季度预测，指出美国制造业取得进展。",
-      "content": "超微发布强于预期的季度预测，指出美国制造业取得进展。",
-      "category": "energy",
-      "tags": [
-        "电动车"
-      ],
-      "publish_time": "2026-05-06T06:45:25+08:00",
-      "sources": [
-        {
-          "name": "CNBC 科技",
-          "url": "https://www.cnbc.com/2026/05/05/super-micro-smci-q3-earnings-report-2026.html",
-          "verified": true,
-          "verify_time": "2026-05-06T23:03:33.259850+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "TSLA",
-          "name": "特斯拉",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "neutral",
-          "reason": "板块弱关联：新能源",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "Super Micro stock jumps 18% on guidance beat as revenue more than doubles",
-      "original_summary": "Super Micro pointed to progress in U.S. manufacturing in issuing a stronger-than-expected quarterly forecast.",
+      "original_title": "This EV charger system runs like a mini power plant – up to 10 MW",
+      "original_summary": "ABB E-mobility is going after the toughest EV charging jobs with a powerful new charger system built to run nonstop at transit depots, logistics hubs, and high-traffic corridors. more…",
       "language": "zh-CN"
     }
   ]

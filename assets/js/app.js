@@ -15,6 +15,7 @@ const CONFIG = {
 };
 
 function dataUrl(path) {
+    if (window.location.protocol === 'file:') return path;
     const separator = path.includes('?') ? '&' : '?';
     return `${path}${separator}v=${CONFIG.VERSION}-${Date.now()}`;
 }
@@ -249,7 +250,7 @@ const Renderer = {
                     <i class="fas fa-${cat.icon}"></i>
                 </div>
                 <p class="text-sm font-medium">${cat.name}</p>
-                <p class="text-xs text-gray-500 mt-1">100+条</p>
+                <p class="text-xs text-gray-500 mt-1">${State.news.filter(item => item.category === key).length}条</p>
             </button>
         `).join('');
     },
@@ -311,6 +312,7 @@ const Renderer = {
                 return `
                     <span class="inline-flex items-center gap-1 px-2 py-1 rounded bg-white/5 text-xs">
                         <b class="font-mono">${stock.symbol}</b>
+                        <span class="text-gray-300">${stock.name || ''}</span>
                         <span class="${pctClass}">${pctText}</span>
                     </span>
                 `;
@@ -454,7 +456,7 @@ const App = {
      * 初始化应用
      */
     async init() {
-        console.log('🚀 AI日报 v2.0 启动中...');
+        console.log(`AI日报 v${CONFIG.VERSION} 启动中...`);
         
         // 更新日期
         this.updateDate();
@@ -490,6 +492,7 @@ const App = {
             DataService.backup(State.news);
             
             // 渲染
+            Renderer.renderCategories();
             Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
             Renderer.renderBreakingNews();
             Renderer.renderOpportunities(State.opportunities);
@@ -711,6 +714,7 @@ const App = {
      */
     updateStats() {
         document.getElementById('stat-total').textContent = State.news.length.toLocaleString();
+        document.getElementById('stat-opportunities').textContent = State.opportunities.length.toLocaleString();
         
         // 计算24小时内新增
         const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000);
