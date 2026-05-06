@@ -1,22 +1,21 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "type": "daily_digest",
   "summary": {
-    "total_new": 122,
+    "total_new": 111,
     "breaking": 10,
     "opportunities": 15,
     "by_category": {
-      "biotech": 16,
-      "ai": 23,
+      "biotech": 18,
+      "ai": 22,
       "robotics": 4,
-      "fusion": 1,
-      "world": 21,
-      "space": 22,
-      "semiconductor": 6,
-      "energy": 20,
-      "quantum": 7,
+      "fusion": 2,
+      "world": 19,
       "consumer": 1,
-      "gaming": 1
+      "space": 13,
+      "semiconductor": 5,
+      "energy": 20,
+      "quantum": 7
     }
   },
   "top_news": [
@@ -51,6 +50,16 @@
       "stocks": []
     },
     {
+      "id": "78ffdc3e424204",
+      "title": "Wegovy 药丸销售超出预期，导致诺和诺德股价走高",
+      "category": "world",
+      "credibility": 86,
+      "opportunity_score": 63,
+      "stocks": [
+        "NVO"
+      ]
+    },
+    {
       "id": "a54dfb999e3bc9",
       "title": "英伟达与康宁合作开展大规模光纤交易，这可能会改变人工智能的游戏规则",
       "category": "ai",
@@ -71,35 +80,25 @@
       ]
     },
     {
-      "id": "b39b0f2905d41b",
-      "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
-      "category": "ai",
-      "credibility": 86,
-      "opportunity_score": 63,
-      "stocks": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "78ffdc3e424204",
-      "title": "Wegovy 药丸销量超出预期，诺和诺德股价上涨 7%",
-      "category": "world",
-      "credibility": 86,
-      "opportunity_score": 63,
-      "stocks": [
-        "NVO"
-      ]
-    },
-    {
       "id": "c3bf22d1240b5b",
-      "title": "强生 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
+      "title": "强生的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
       "category": "robotics",
       "credibility": 84,
       "opportunity_score": 61,
       "stocks": [
         "JNJ"
       ]
+    },
+    {
+      "id": "f8aa57bf55cd0f",
+      "title": "诺和诺德首席执行官坚称放弃单室设备后 CagriSema 的推出“计划不会改变”",
+      "category": "biotech",
+      "credibility": 84,
+      "opportunity_score": 61,
+      "stocks": [
+        "NVO"
+      ]
     }
   ],
-  "generated_at": "2026-05-06T23:25:55.416013+08:00"
+  "generated_at": "2026-05-07T00:06:32.650406+08:00"
 }

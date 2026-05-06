@@ -96,6 +96,8 @@ class RealNewsScraper:
         enriched.sort(key=lambda item: item["publish_time"], reverse=True)
         enriched = self.limit_by_category(enriched)
         self.localize_items(enriched)
+        for item in enriched:
+            normalize_visible_fields(item)
         enriched = [item for item in enriched if publishable_chinese_item(item)]
 
         stock_quotes = self.fetch_stock_quotes(enriched)
@@ -257,7 +259,7 @@ class RealNewsScraper:
 
     def translate_pair(self, title: str, summary: str) -> tuple[str, str]:
         if mostly_chinese(title) and mostly_chinese(summary):
-            return title, summary
+            return cleanup_translation(title, 180), cleanup_translation(summary, 280)
         joined = f"{title}\n|||AI_DAILY_SUMMARY|||\n{summary}"
         translated = self.translate_to_chinese(joined)
         translated = translated.replace("AI_DAILY_SUMMARY--", "|||AI_DAILY_SUMMARY|||")
@@ -515,12 +517,21 @@ def cleanup_translation(value: str, limit: int) -> str:
     value = value.strip(" -—|")
     value = localize_known_names(value)
     value = value.replace("美国航天局 的", "美国航天局的")
+    value = re.sub(r"(美国\s*)+FDA", "美国 FDA", value)
+    value = re.sub(r"(美国\s*)+航天局", "美国航天局", value)
     value = value.replace("谷歌 正在", "谷歌正在")
     value = value.replace("超威半导体 的", "超威半导体的")
     value = value.replace("强生 的", "强生的")
     value = re.sub(r"([\u4e00-\u9fff])\s+([\u4e00-\u9fff])", r"\1\2", value)
     value = re.sub(r"([\u4e00-\u9fff]{2,})\s*\(\1\)", r"\1", value)
     return clean_text(value, limit)
+
+
+def normalize_visible_fields(item: dict[str, Any]) -> None:
+    item["title"] = cleanup_translation(item.get("title", ""), 180)
+    item["summary"] = cleanup_translation(item.get("summary", ""), 280)
+    item["content"] = cleanup_translation(item.get("content", item.get("summary", "")), 280)
+    item["tags"] = unique_values(translate_tag(tag) for tag in item.get("tags", []))
 
 
 def text_of(entry: ET.Element, tag: str) -> str:

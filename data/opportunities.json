@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updated": "2026-05-06T23:25:55.415296+08:00",
+  "updated": "2026-05-07T00:06:32.649874+08:00",
   "total": 15,
   "opportunities": [
     {
@@ -31,20 +31,20 @@
       "quotes": {
         "INTC": {
           "symbol": "INTC",
-          "price": 111.43,
+          "price": 110.84,
           "currency": "USD",
-          "change": 16.68,
-          "change_percent": 17.6,
-          "market_time": "2026-05-06T23:25:50+08:00",
+          "change": 16.09,
+          "change_percent": 16.99,
+          "market_time": "2026-05-07T00:06:26+08:00",
           "source": "雅虎财经"
         },
         "AAPL": {
           "symbol": "AAPL",
-          "price": 284.2,
+          "price": 285.33,
           "currency": "USD",
-          "change": 14.03,
-          "change_percent": 5.19,
-          "market_time": "2026-05-06T23:25:47+08:00",
+          "change": 15.16,
+          "change_percent": 5.61,
+          "market_time": "2026-05-07T00:06:25+08:00",
           "source": "雅虎财经"
         }
       },
@@ -58,7 +58,7 @@
       "category": "biotech",
       "category_name": "生物科技",
       "score": 65,
-      "publish_time": "2026-05-06T23:25:23.478039+08:00",
+      "publish_time": "2026-05-07T00:06:04.950173+08:00",
       "stocks": [
         {
           "symbol": "MRNA",
@@ -84,22 +84,54 @@
           "currency": "USD",
           "change": 2.8,
           "change_percent": 6.12,
-          "market_time": "2026-05-06T23:25:45+08:00",
+          "market_time": "2026-05-07T00:06:26+08:00",
           "source": "雅虎财经"
         },
         "VRTX": {
           "symbol": "VRTX",
-          "price": 425.02,
+          "price": 425.08,
           "currency": "USD",
-          "change": 1.78,
-          "change_percent": 0.42,
-          "market_time": "2026-05-06T23:25:34+08:00",
+          "change": 1.84,
+          "change_percent": 0.43,
+          "market_time": "2026-05-07T00:06:07+08:00",
           "source": "雅虎财经"
         }
       },
       "logic": "生物科技板块出现新催化，相关标的 MRNA、VRTX 需要跟踪新闻后续和盘口反应。",
       "risk": "新闻含潜在负面因素，需关注业绩、监管和估值回撤风险。",
       "source_url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved"
+    },
+    {
+      "id": "78ffdc3e424204",
+      "title": "Wegovy 药丸销售超出预期，导致诺和诺德股价走高",
+      "category": "world",
+      "category_name": "国际局势",
+      "score": 63,
+      "publish_time": "2026-05-06T23:59:41+08:00",
+      "stocks": [
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "NVO": {
+          "symbol": "NVO",
+          "price": 45.83,
+          "currency": "USD",
+          "change": 5.54,
+          "change_percent": 13.74,
+          "market_time": "2026-05-07T00:06:30+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "国际局势板块出现新催化，相关标的 NVO 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html"
     },
     {
       "id": "a54dfb999e3bc9",
@@ -121,11 +153,11 @@
       "quotes": {
         "NVDA": {
           "symbol": "NVDA",
-          "price": 206.78,
+          "price": 205.17,
           "currency": "USD",
-          "change": -2.47,
-          "change_percent": -1.18,
-          "market_time": "2026-05-06T23:25:52+08:00",
+          "change": -4.08,
+          "change_percent": -1.95,
+          "market_time": "2026-05-07T00:06:29+08:00",
           "source": "雅虎财经"
         }
       },
@@ -153,11 +185,11 @@
       "quotes": {
         "TSM": {
           "symbol": "TSM",
-          "price": 418.24,
+          "price": 416.63,
           "currency": "USD",
-          "change": 24.41,
-          "change_percent": 6.2,
-          "market_time": "2026-05-06T23:25:54+08:00",
+          "change": 22.8,
+          "change_percent": 5.79,
+          "market_time": "2026-05-07T00:06:31+08:00",
           "source": "雅虎财经"
         }
       },
@@ -166,76 +198,12 @@
       "source_url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
     },
     {
-      "id": "b39b0f2905d41b",
-      "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
-      "category": "ai",
-      "category_name": "人工智能",
-      "score": 63,
-      "publish_time": "2026-05-06T20:00:01+08:00",
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "AAPL": {
-          "symbol": "AAPL",
-          "price": 284.2,
-          "currency": "USD",
-          "change": 14.03,
-          "change_percent": 5.19,
-          "market_time": "2026-05-06T23:25:47+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "人工智能板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html"
-    },
-    {
-      "id": "78ffdc3e424204",
-      "title": "Wegovy 药丸销量超出预期，诺和诺德股价上涨 7%",
-      "category": "world",
-      "category_name": "国际局势",
-      "score": 63,
-      "publish_time": "2026-05-06T16:05:04+08:00",
-      "stocks": [
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "positive",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "NVO": {
-          "symbol": "NVO",
-          "price": 46.23,
-          "currency": "USD",
-          "change": 5.94,
-          "change_percent": 14.73,
-          "market_time": "2026-05-06T23:25:50+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "国际局势板块出现新催化，相关标的 NVO 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html"
-    },
-    {
       "id": "c3bf22d1240b5b",
-      "title": "强生 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
+      "title": "强生的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
       "category": "robotics",
       "category_name": "机器人",
       "score": 61,
-      "publish_time": "2026-05-06T23:25:23.469722+08:00",
+      "publish_time": "2026-05-07T00:06:04.945683+08:00",
       "stocks": [
         {
           "symbol": "JNJ",
@@ -249,11 +217,11 @@
       "quotes": {
         "JNJ": {
           "symbol": "JNJ",
-          "price": 223.58,
+          "price": 224.21,
           "currency": "USD",
-          "change": -3.77,
-          "change_percent": -1.66,
-          "market_time": "2026-05-06T23:25:50+08:00",
+          "change": -3.14,
+          "change_percent": -1.38,
+          "market_time": "2026-05-07T00:06:26+08:00",
           "source": "雅虎财经"
         }
       },
@@ -267,7 +235,7 @@
       "category": "biotech",
       "category_name": "生物科技",
       "score": 61,
-      "publish_time": "2026-05-06T23:25:23.468865+08:00",
+      "publish_time": "2026-05-07T00:06:04.945215+08:00",
       "stocks": [
         {
           "symbol": "NVO",
@@ -281,17 +249,81 @@
       "quotes": {
         "NVO": {
           "symbol": "NVO",
-          "price": 46.23,
+          "price": 45.83,
           "currency": "USD",
-          "change": 5.94,
-          "change_percent": 14.73,
-          "market_time": "2026-05-06T23:25:50+08:00",
+          "change": 5.54,
+          "change_percent": 13.74,
+          "market_time": "2026-05-07T00:06:30+08:00",
           "source": "雅虎财经"
         }
       },
       "logic": "生物科技板块出现新催化，相关标的 NVO 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched"
+    },
+    {
+      "id": "7fd7635574ec52",
+      "title": "您可以在搜索中尝试的 5 个园艺技巧",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 61,
+      "publish_time": "2026-05-07T00:00:00+08:00",
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 397.29,
+          "currency": "USD",
+          "change": 47.35,
+          "change_percent": 13.53,
+          "market_time": "2026-05-07T00:06:25+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "人工智能板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
+    },
+    {
+      "id": "eb5fc0a4ced6a8",
+      "title": "谷歌更新了人工智能搜索，以包含来自 Reddit 和其他网络论坛的“专家建议”",
+      "category": "ai",
+      "category_name": "人工智能",
+      "score": 59,
+      "publish_time": "2026-05-06T23:49:39+08:00",
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "quotes": {
+        "GOOGL": {
+          "symbol": "GOOGL",
+          "price": 397.29,
+          "currency": "USD",
+          "change": 47.35,
+          "change_percent": 13.53,
+          "market_time": "2026-05-07T00:06:25+08:00",
+          "source": "雅虎财经"
+        }
+      },
+      "logic": "人工智能板块出现新催化，相关标的 GOOGL 需要跟踪新闻后续和盘口反应。",
+      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
+      "source_url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
     },
     {
       "id": "77f0b1accb2ddc",
@@ -313,11 +345,11 @@
       "quotes": {
         "AMD": {
           "symbol": "AMD",
-          "price": 416.8,
+          "price": 414.75,
           "currency": "USD",
-          "change": 79.69,
-          "change_percent": 23.64,
-          "market_time": "2026-05-06T23:25:48+08:00",
+          "change": 77.64,
+          "change_percent": 23.03,
+          "market_time": "2026-05-07T00:06:25+08:00",
           "source": "雅虎财经"
         }
       },
@@ -345,11 +377,11 @@
       "quotes": {
         "AMD": {
           "symbol": "AMD",
-          "price": 416.8,
+          "price": 414.75,
           "currency": "USD",
-          "change": 79.69,
-          "change_percent": 23.64,
-          "market_time": "2026-05-06T23:25:48+08:00",
+          "change": 77.64,
+          "change_percent": 23.03,
+          "market_time": "2026-05-07T00:06:25+08:00",
           "source": "雅虎财经"
         }
       },
@@ -377,11 +409,11 @@
       "quotes": {
         "NVDA": {
           "symbol": "NVDA",
-          "price": 206.78,
+          "price": 205.17,
           "currency": "USD",
-          "change": -2.47,
-          "change_percent": -1.18,
-          "market_time": "2026-05-06T23:25:52+08:00",
+          "change": -4.08,
+          "change_percent": -1.95,
+          "market_time": "2026-05-07T00:06:29+08:00",
           "source": "雅虎财经"
         }
       },
@@ -409,11 +441,11 @@
       "quotes": {
         "GOOGL": {
           "symbol": "GOOGL",
-          "price": 395.94,
+          "price": 397.29,
           "currency": "USD",
-          "change": 46.0,
-          "change_percent": 13.15,
-          "market_time": "2026-05-06T23:25:47+08:00",
+          "change": 47.35,
+          "change_percent": 13.53,
+          "market_time": "2026-05-07T00:06:25+08:00",
           "source": "雅虎财经"
         }
       },
@@ -441,49 +473,17 @@
       "quotes": {
         "AAPL": {
           "symbol": "AAPL",
-          "price": 284.2,
+          "price": 285.33,
           "currency": "USD",
-          "change": 14.03,
-          "change_percent": 5.19,
-          "market_time": "2026-05-06T23:25:47+08:00",
+          "change": 15.16,
+          "change_percent": 5.61,
+          "market_time": "2026-05-07T00:06:25+08:00",
           "source": "雅虎财经"
         }
       },
       "logic": "人工智能板块出现新催化，相关标的 AAPL 需要跟踪新闻后续和盘口反应。",
       "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
       "source_url": "https://www.ithome.com/0/947/013.htm"
-    },
-    {
-      "id": "07b4fca05ba790",
-      "title": "一季度业绩超预期，AMD 盘前一度暴涨超 20%",
-      "category": "ai",
-      "category_name": "人工智能",
-      "score": 55,
-      "publish_time": "2026-05-06T20:17:39+08:00",
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "quotes": {
-        "AMD": {
-          "symbol": "AMD",
-          "price": 416.8,
-          "currency": "USD",
-          "change": 79.69,
-          "change_percent": 23.64,
-          "market_time": "2026-05-06T23:25:48+08:00",
-          "source": "雅虎财经"
-        }
-      },
-      "logic": "人工智能板块出现新催化，相关标的 AMD 需要跟踪新闻后续和盘口反应。",
-      "risk": "仅代表资讯催化，不代表买卖建议；需结合估值、财报和市场风险。",
-      "source_url": "https://www.ithome.com/0/946/988.htm"
     },
     {
       "id": "f835cea599fcba",
@@ -505,11 +505,11 @@
       "quotes": {
         "IBM": {
           "symbol": "IBM",
-          "price": 227.09,
+          "price": 227.0,
           "currency": "USD",
-          "change": -0.0,
-          "change_percent": -0.0,
-          "market_time": "2026-05-06T23:25:44+08:00",
+          "change": -0.1,
+          "change_percent": -0.04,
+          "market_time": "2026-05-07T00:06:20+08:00",
           "source": "雅虎财经"
         }
       },

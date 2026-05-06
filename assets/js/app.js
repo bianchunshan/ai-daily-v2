@@ -6,7 +6,7 @@
 
 // ==================== 配置常量 ====================
 const CONFIG = {
-    VERSION: '3.2.0',
+    VERSION: '3.2.1',
     API_BASE: 'data/news',
     ITEMS_PER_PAGE: 10,
     CACHE_TTL: 5 * 60 * 1000, // 5分钟缓存
@@ -237,7 +237,6 @@ const Renderer = {
      */
     renderCategories() {
         const grid = document.getElementById('category-grid');
-        const nav = document.getElementById('top-category-nav');
         const colors = {
             primary: 'from-primary/20 to-secondary/10 text-primary',
             success: 'from-success/20 to-emerald-600/10 text-success',
@@ -254,20 +253,10 @@ const Renderer = {
             teal: 'from-teal-500/20 to-teal-600/10 text-teal-400'
         };
         const filters = filterDefinitions();
-        const activeClass = 'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition whitespace-nowrap';
-        const idleClass = 'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition whitespace-nowrap';
-
-        if (nav) {
-            nav.innerHTML = Object.entries(filters).map(([key, item]) => `
-                <button onclick="App.filterCategory('${key}')" class="${State.currentCategory === key ? activeClass : idleClass}" data-cat="${key}">
-                    ${item.name}
-                </button>
-            `).join('');
-        }
 
         grid.innerHTML = Object.entries(filters).map(([key, cat]) => `
             <button onclick="App.filterCategory('${key}')" 
-                    class="category-btn glass rounded-xl p-4 text-center transition border border-border hover:border-primary/50 group"
+                    class="category-btn glass rounded-xl p-4 text-center transition border ${State.currentCategory === key ? 'border-primary bg-primary/10' : 'border-border'} hover:border-primary/50 group"
                     data-cat="${key}">
                 <div class="w-10 h-10 mx-auto mb-2 rounded-lg bg-gradient-to-br ${colors[cat.color]} 
                             flex items-center justify-center group-hover:scale-110 transition">
@@ -314,25 +303,6 @@ const Renderer = {
 
         // 更新数量显示
         document.getElementById('news-count').textContent = `${newsList.length}条`;
-    },
-
-    /**
-     * 渲染投资机会
-     */
-    renderOpportunities(items) {
-        const container = document.getElementById('opportunities-container');
-        if (!container) return;
-
-        if (!items || items.length === 0) {
-            container.innerHTML = `
-                <div class="glass rounded-xl p-5 border border-border text-gray-400">
-                    暂无高分机会，等待下一次自动更新。
-                </div>
-            `;
-            return;
-        }
-
-        container.innerHTML = items.slice(0, 6).map(item => this.createOpportunityCard(item)).join('');
     },
 
     renderOpportunityList(items) {
@@ -518,7 +488,6 @@ const App = {
             // 渲染
             Renderer.renderCategories();
             Renderer.renderNews(State.filtered.slice(0, State.displayedCount));
-            Renderer.renderOpportunities(State.opportunities);
             
             // 更新统计
             this.updateStats();
@@ -546,13 +515,8 @@ const App = {
         State.displayedCount = CONFIG.ITEMS_PER_PAGE;
         
         // 更新导航样式
-        document.querySelectorAll('.nav-btn, .category-btn').forEach(btn => {
+        document.querySelectorAll('.category-btn').forEach(btn => {
             const isActive = btn.dataset.cat === category;
-            if (btn.classList.contains('nav-btn')) {
-                btn.className = isActive ? 
-                    'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-primary bg-primary/10 transition whitespace-nowrap' :
-                    'nav-btn px-3 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-white/5 transition whitespace-nowrap';
-            }
             if (btn.classList.contains('category-btn')) {
                 btn.classList.toggle('border-primary', isActive);
                 btn.classList.toggle('bg-primary/10', isActive);

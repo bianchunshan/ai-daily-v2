@@ -2,8 +2,8 @@
   "version": "3.0",
   "category": "semiconductor",
   "category_name": "半导体",
-  "total": 6,
-  "updated": "2026-05-06T23:25:55.407918+08:00",
+  "total": 5,
+  "updated": "2026-05-07T00:06:32.641088+08:00",
   "news": [
     {
       "id": "77f0b1accb2ddc",
@@ -21,7 +21,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:25:08.535240+08:00",
+          "verify_time": "2026-05-07T00:05:55.917311+08:00",
           "credibility": 86
         }
       ],
@@ -64,7 +64,7 @@
           "name": "美国创业科技媒体",
           "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
           "verified": true,
-          "verify_time": "2026-05-06T23:25:10.349795+08:00",
+          "verify_time": "2026-05-07T00:05:57.528880+08:00",
           "credibility": 86
         }
       ],
@@ -108,7 +108,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/984.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:25:41.131223+08:00",
+          "verify_time": "2026-05-07T00:06:20.072090+08:00",
           "credibility": 78
         }
       ],
@@ -135,56 +135,6 @@
       "language": "zh-CN"
     },
     {
-      "id": "cd3e12bd507039",
-      "url": "https://www.ithome.com/0/946/968.htm",
-      "title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
-      "summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
-      "content": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
-      "category": "semiconductor",
-      "tags": [
-        "半导体"
-      ],
-      "publish_time": "2026-05-06T18:30:57+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/968.htm",
-          "verified": true,
-          "verify_time": "2026-05-06T23:25:41.138168+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：半导体",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "TSM",
-          "name": "台积电",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：半导体",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 33
-      },
-      "status": "published",
-      "original_title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
-      "original_summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
-      "language": "zh-CN"
-    },
-    {
       "id": "4e12cc4b462678",
       "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm",
       "title": "斯坦福大学的新芯片以惊人的低能量将光增强 100 倍",
@@ -200,7 +150,7 @@
           "name": "科学日报",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm",
           "verified": true,
-          "verify_time": "2026-05-06T23:25:22.844976+08:00",
+          "verify_time": "2026-05-07T00:06:04.227829+08:00",
           "credibility": 82
         }
       ],
@@ -251,7 +201,7 @@
           "name": "美国财经媒体·科技",
           "url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
           "verified": true,
-          "verify_time": "2026-05-06T23:25:08.540364+08:00",
+          "verify_time": "2026-05-07T00:05:55.924607+08:00",
           "credibility": 86
         }
       ],

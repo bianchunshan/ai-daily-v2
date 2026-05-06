@@ -3,7 +3,7 @@
  * @version 2.0
  */
 
-const CACHE_NAME = 'frontier-tech-daily-cache-v5';
+const CACHE_NAME = 'frontier-tech-daily-cache-v6';
 const STATIC_ASSETS = [
     './',
     './index.html',

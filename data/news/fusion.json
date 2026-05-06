@@ -2,8 +2,8 @@
   "version": "3.0",
   "category": "fusion",
   "category_name": "核聚变",
-  "total": 1,
-  "updated": "2026-05-06T23:25:55.411118+08:00",
+  "total": 2,
+  "updated": "2026-05-07T00:06:32.644139+08:00",
   "news": [
     {
       "id": "2775bdb63ddb67",
@@ -15,13 +15,13 @@
       "tags": [
         "等离子体"
       ],
-      "publish_time": "2026-05-06T23:25:23.463662+08:00",
+      "publish_time": "2026-05-07T00:06:04.942379+08:00",
       "sources": [
         {
           "name": "美国生物科技媒体",
           "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
           "verified": true,
-          "verify_time": "2026-05-06T23:25:23.464338+08:00",
+          "verify_time": "2026-05-07T00:06:04.943151+08:00",
           "credibility": 84
         }
       ],
@@ -36,6 +36,39 @@
       "status": "published",
       "original_title": "BioCryst scraps eye candidate to focus on rare diseases",
       "original_summary": "The company announced it has concluded development of the plasma kallikrein inhibitor, which was being studied to treat diabetic macular edema.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "143e5470cb65c4",
+      "url": "https://www.genengnews.com/topics/bioprocessing/light-controlled-gene-expression-platform-reportedly-doubles-standard-fed-batch-manufacturing-performance/",
+      "title": "据报道，光控基因表达平台使标准补料分批生产性能提高了一倍",
+      "summary": "真正的机会在于下一代复杂的生物制剂，例如多特异性、细胞因子和融合蛋白。这些分子占当今早期管道的 50% 以上。后光控基因表达平台Re",
+      "content": "真正的机会在于下一代复杂的生物制剂，例如多特异性、细胞因子和融合蛋白。这些分子占当今早期管道的 50% 以上。后光控基因表达平台Re",
+      "category": "fusion",
+      "tags": [
+        "核聚变"
+      ],
+      "publish_time": "2026-05-06T23:00:45+08:00",
+      "sources": [
+        {
+          "name": "基因工程新闻",
+          "url": "https://www.genengnews.com/topics/bioprocessing/light-controlled-gene-expression-platform-reportedly-doubles-standard-fed-batch-manufacturing-performance/",
+          "verified": true,
+          "verify_time": "2026-05-07T00:06:06.996725+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 47
+      },
+      "status": "published",
+      "original_title": "Light-Controlled Gene Expression Platform Reportedly Doubles Standard Fed-Batch Manufacturing Performance",
+      "original_summary": "The real opportunity lies in next generation complex biologics such as multispecifics, cytokines, and fusion proteins. These molecules represent more than 50% of today's early pipelines. The post Light-Controlled Gene Expression Platform Re",
       "language": "zh-CN"
     }
   ]
