@@ -2,38 +2,7 @@
   "version": "3.0",
   "category": "fusion",
   "category_name": "核聚变",
-  "total": 1,
-  "updated": "2026-05-02T21:38:12.279744+08:00",
-  "news": [
-    {
-      "id": "12007df35a1ba2",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260501052854.htm",
-      "title": "This laser turns metal into a star-like plasma in trillionths of a second",
-      "summary": "In a striking glimpse into extreme physics, scientists have captured the split-second chaos that unfolds when powerful laser flashes blast matter into a superheated plasma. By combining two cutting-edge lasers, researchers were able to trac",
-      "content": "In a striking glimpse into extreme physics, scientists have captured the split-second chaos that unfolds when powerful laser flashes blast matter into a superheated plasma. By combining two cutting-edge lasers, researchers were able to trac",
-      "category": "fusion",
-      "tags": [
-        "plasma"
-      ],
-      "publish_time": "2026-05-02T11:36:51+08:00",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260501052854.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:49.505320+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 42
-      },
-      "status": "published"
-    }
-  ]
+  "total": 0,
+  "updated": "2026-05-06T23:04:59.703128+08:00",
+  "news": []
 }

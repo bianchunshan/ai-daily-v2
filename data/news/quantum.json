@@ -2,112 +2,26 @@
   "version": "3.0",
   "category": "quantum",
   "category_name": "量子计算",
-  "total": 5,
-  "updated": "2026-05-02T21:38:12.274249+08:00",
+  "total": 6,
+  "updated": "2026-05-06T23:04:59.696187+08:00",
   "news": [
     {
-      "id": "920621e380412e",
-      "url": "https://thequantuminsider.com/2026/05/02/ionq-ceo-says-2025-marked-turning-point-for-quantum-commercialization/",
-      "title": "IonQ CEO Says 2025 Marked Turning Point for Quantum Commercialization",
-      "summary": "Insider Brief IonQ is positioning itself as a full-stack quantum technology provider with growing commercial traction, arguing that recent technical and financial milestones mark a turning point for the industry, according to its latest ann",
-      "content": "Insider Brief IonQ is positioning itself as a full-stack quantum technology provider with growing commercial traction, arguing that recent technical and financial milestones mark a turning point for the industry, according to its latest ann",
+      "id": "47a2d94c7988a6",
+      "url": "https://thequantuminsider.com/2026/05/06/korea-expands-post-quantum-cryptography-pilot/",
+      "title": "韩国将后量子安全计划扩展到关键领域",
+      "summary": "内幕简报 韩国正在扩大其在关键基础设施领域的后量子密码实施。科学和信息通信技术部 (MSIT) 宣布将扩大后量子密码转换试点项目",
+      "content": "内幕简报 韩国正在扩大其在关键基础设施领域的后量子密码实施。科学和信息通信技术部 (MSIT) 宣布将扩大后量子密码转换试点项目",
       "category": "quantum",
       "tags": [
-        "quantum"
+        "量子"
       ],
-      "publish_time": "2026-05-02T20:36:18+08:00",
+      "publish_time": "2026-05-06T19:24:20+08:00",
       "sources": [
         {
-          "name": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/05/02/ionq-ceo-says-2025-marked-turning-point-for-quantum-commercialization/",
+          "name": "Quantum Insider 量子资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/korea-expands-post-quantum-cryptography-pilot/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:52.647459+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "f71795668c0c88",
-      "url": "https://quantumcomputingreport.com/house-committee-passes-their-version-of-the-u-s-national-quantum-initiative-reauthorization-act/",
-      "title": "House Committee Passes Their Version of the U.S. National Quantum Initiative Reauthorization Act",
-      "summary": "A couple of weeks ago we reported that the U.S. Senate Committee on Commerce, Science, and Transportation had passed S.3597 - National Quantum Initiative Reauthorization Act of 2026 and it will now be up to vote by the full Senate. Similarl",
-      "content": "A couple of weeks ago we reported that the U.S. Senate Committee on Commerce, Science, and Transportation had passed S.3597 - National Quantum Initiative Reauthorization Act of 2026 and it will now be up to vote by the full Senate. Similarl",
-      "category": "quantum",
-      "tags": [
-        "quantum"
-      ],
-      "publish_time": "2026-05-02T08:09:09+08:00",
-      "sources": [
-        {
-          "name": "Quantum Computing Report",
-          "url": "https://quantumcomputingreport.com/house-committee-passes-their-version-of-the-u-s-national-quantum-initiative-reauthorization-act/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:53.303932+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IBM",
-          "name": "IBM",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 27
-      },
-      "status": "published"
-    },
-    {
-      "id": "e7f123782e8b45",
-      "url": "https://thequantuminsider.com/2026/05/01/u-s-quantum-policy-bill-advances-to-full-house-consideration/",
-      "title": "U.S. Quantum Policy Bill Advances to Full House Consideration",
-      "summary": "Insider Brief The U.S. House Committee on Science, Space, and Technology has advanced legislation that would extend and update the federal government’s quantum technology strategy, moving the effort one step closer to a full House vote, acc",
-      "content": "Insider Brief The U.S. House Committee on Science, Space, and Technology has advanced legislation that would extend and update the federal government’s quantum technology strategy, moving the effort one step closer to a full House vote, acc",
-      "category": "quantum",
-      "tags": [
-        "quantum"
-      ],
-      "publish_time": "2026-05-01T16:18:00+08:00",
-      "sources": [
-        {
-          "name": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/05/01/u-s-quantum-policy-bill-advances-to-full-house-consideration/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:52.649358+08:00",
+          "verify_time": "2026-05-06T23:04:15.292928+08:00",
           "credibility": 78
         }
       ],
@@ -136,74 +50,28 @@
         "credibility_score": 78,
         "opportunity_score": 25
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "South Korea Expands Post-Quantum Security Program Across Critical Sectors",
+      "original_summary": "Insider Brief South Korea is expanding its post-quantum cryptography implementation across critical infrastructure sectors. The Ministry of Science and ICT (MSIT) announced it will broaden its pilot conversion project for post-quantum crypt",
+      "language": "zh-CN"
     },
     {
-      "id": "2e5c2995ec4173",
-      "url": "https://quantumcomputingreport.com/groove-quantum-secures-e16-million-18-7m-usd-to-scale-germanium-spin-qubits-debuts-18-qubit-processor/",
-      "title": "Groove Quantum Secures €16 Million ($18.7M USD) to Scale Germanium Spin-Qubits; Debuts 18-Qubit Processor",
-      "summary": "Groove Quantum, a spin-out from the Delft University of Technology (TU Delft) has secured €16 million ($18.7M USD) in combined equity and grants to accelerate the development of its germanium-based quantum processors. Alongside the funding,",
-      "content": "Groove Quantum, a spin-out from the Delft University of Technology (TU Delft) has secured €16 million ($18.7M USD) in combined equity and grants to accelerate the development of its germanium-based quantum processors. Alongside the funding,",
+      "id": "eb80c21bef429f",
+      "url": "https://thequantuminsider.com/2026/05/06/aqt-high-performing-quantum-computer-europe-32768-qv/",
+      "title": "AQT 在 LYNX 系统上报告量子体积为 32768",
+      "summary": "内幕简报新闻稿 — 量子体积 (QV) 测试是最初由 IBM 提出的国际通用基准。该基准测试严格评估和描述了单个数字量子计算机的计算能力",
+      "content": "内幕简报新闻稿 — 量子体积 (QV) 测试是最初由 IBM 提出的国际通用基准。该基准测试严格评估和描述了单个数字量子计算机的计算能力",
       "category": "quantum",
       "tags": [
-        "quantum",
-        "qubit"
+        "量子"
       ],
-      "publish_time": "2026-05-01T03:10:21+08:00",
+      "publish_time": "2026-05-06T16:18:33+08:00",
       "sources": [
         {
-          "name": "Quantum Computing Report",
-          "url": "https://quantumcomputingreport.com/groove-quantum-secures-e16-million-18-7m-usd-to-scale-germanium-spin-qubits-debuts-18-qubit-processor/",
+          "name": "Quantum Insider 量子资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/aqt-high-performing-quantum-computer-europe-32768-qv/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:53.304109+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "IBM",
-          "name": "IBM",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：量子计算",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 27
-      },
-      "status": "published"
-    },
-    {
-      "id": "b6e2f74588941d",
-      "url": "https://thequantuminsider.com/2026/04/30/researchers-demonstrate-ultra-low-noise-levels-of-new-qubit-platform/",
-      "title": "Researchers Demonstrate Ultra-low Noise Levels of New Qubit Platform",
-      "summary": "Insider Brief PRESS RELEASE — Quantum bits (qubits) are the fundamental building blocks of quantum information processing. A novel qubit platform invented at the U.S. Department of Energy’s (DOE) Argonne National Laboratory exhibits noise l",
-      "content": "Insider Brief PRESS RELEASE — Quantum bits (qubits) are the fundamental building blocks of quantum information processing. A novel qubit platform invented at the U.S. Department of Energy’s (DOE) Argonne National Laboratory exhibits noise l",
-      "category": "quantum",
-      "tags": [
-        "quantum",
-        "qubit"
-      ],
-      "publish_time": "2026-04-30T21:43:27+08:00",
-      "sources": [
-        {
-          "name": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/04/30/researchers-demonstrate-ultra-low-noise-levels-of-new-qubit-platform/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:52.649496+08:00",
+          "verify_time": "2026-05-06T23:04:15.293389+08:00",
           "credibility": 78
         }
       ],
@@ -232,7 +100,211 @@
         "credibility_score": 78,
         "opportunity_score": 25
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "AQT Reports Quantum Volume of 32768 on LYNX System",
+      "original_summary": "Insider Brief PRESS RELEASE — The Quantum Volume (QV) test is an internationally applied benchmark originally proposed by IBM. The benchmark rigorously assesses and describes the computational power of a quantum computer with a single numbe",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6dd3f82e3a6f49",
+      "url": "https://thequantuminsider.com/2026/05/06/kist-accelerates-u-s-expansion-of-quantum-deep-tech-startups-through-selectusa-2026/",
+      "title": "KIST 通过 SelectUSA 2026 加速量子深度科技初创企业在美国的扩张",
+      "summary": "内部简报新闻稿 — 韩国科学技术研究院 (KIST) 院长 Oh Sang-rok 宣布将作为韩国代表团成员与量子技术公司一起参加 2026 年 SelectUSA 投资峰会",
+      "content": "内部简报新闻稿 — 韩国科学技术研究院 (KIST) 院长 Oh Sang-rok 宣布将作为韩国代表团成员与量子技术公司一起参加 2026 年 SelectUSA 投资峰会",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-06T15:47:20+08:00",
+      "sources": [
+        {
+          "name": "Quantum Insider 量子资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/kist-accelerates-u-s-expansion-of-quantum-deep-tech-startups-through-selectusa-2026/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:15.293501+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "KIST Accelerates U.S. Expansion of Quantum Deep-Tech Startups Through SelectUSA 2026",
+      "original_summary": "Insider Brief PRESS RELEASE — The Korea Institute of Science and Technology (KIST) President Oh Sang-rok announced that it will participate in the SelectUSA Investment Summit 2026 as part of a Korean delegation, together with quantum techno",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7ba4038c5944ec",
+      "url": "https://quantumcomputingreport.com/parityqc-demonstrates-universal-mbqc-driven-by-yz-plane-measurements/",
+      "title": "ParityQC 演示由 YZ 平面测量驱动的通用 MBQC",
+      "summary": "ParityQC 的物理学家已经确定，使用完全限制在布洛赫球体 YZ 平面的单量子位测量，基于通用测量的量子计算 (MBQC) 是可能的。这项研究发表在预印本上",
+      "content": "ParityQC 的物理学家已经确定，使用完全限制在布洛赫球体 YZ 平面的单量子位测量，基于通用测量的量子计算 (MBQC) 是可能的。这项研究发表在预印本上",
+      "category": "quantum",
+      "tags": [
+        "量子",
+        "qubit"
+      ],
+      "publish_time": "2026-05-06T08:34:26+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/parityqc-demonstrates-universal-mbqc-driven-by-yz-plane-measurements/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:21.713742+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 27
+      },
+      "status": "published",
+      "original_title": "ParityQC Demonstrates Universal MBQC Driven by YZ-Plane Measurements",
+      "original_summary": "Physicists at ParityQC have established that universal measurement-based quantum computing (MBQC) is possible using single-qubit measurements restricted entirely to the YZ-plane of the Bloch sphere. This research, published in the preprint",
+      "language": "zh-CN"
+    },
+    {
+      "id": "13552fc7f7fb8d",
+      "url": "https://quantumcomputingreport.com/quantinuum-and-bmw-group-expand-collaboration-with-multi-year-partnership/",
+      "title": "Quantinuum 与宝马集团通过多年合作伙伴关系扩大合作",
+      "summary": "https://youtu.be/6Rb4IfXNnAk Quantinuum 和宝马集团已正式将其持续合作扩展为多年合作伙伴关系，重点是通过量子增强材料科学加速未来的移动性。自2021年起，",
+      "content": "https://youtu.be/6Rb4IfXNnAk Quantinuum 和宝马集团已正式将其持续合作扩展为多年合作伙伴关系，重点是通过量子增强材料科学加速未来的移动性。自2021年起，",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-06T08:27:46+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/quantinuum-and-bmw-group-expand-collaboration-with-multi-year-partnership/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:21.713919+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 27
+      },
+      "status": "published",
+      "original_title": "Quantinuum and BMW Group Expand Collaboration with Multi-Year Partnership",
+      "original_summary": "https://youtu.be/6Rb4IfXNnAk Quantinuum and the BMW Group have formally expanded their ongoing collaboration into a multi-year partnership focused on accelerating future mobility through quantum-enhanced materials science. Since 2021, the t",
+      "language": "zh-CN"
+    },
+    {
+      "id": "61d722fd91b06d",
+      "url": "https://quantumcomputingreport.com/podcast-with-michaela-eichinger-product-solutions-physicist-at-quantum-machines/",
+      "title": "量子机器产品解决方案物理学家 Michaela Eichinger 的播客",
+      "summary": "Yuval Boger 采访了 Michaela Eichinger，她是 Quantum Machines 的产品解决方案物理学家，也是一本被广泛阅读的量子计算通讯的作者。他们讨论了她从学术界到工业界的转变，以及她对系统的迷恋",
+      "content": "Yuval Boger 采访了 Michaela Eichinger，她是 Quantum Machines 的产品解决方案物理学家，也是一本被广泛阅读的量子计算通讯的作者。他们讨论了她从学术界到工业界的转变，以及她对系统的迷恋",
+      "category": "quantum",
+      "tags": [
+        "量子"
+      ],
+      "publish_time": "2026-05-05T06:51:55+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/podcast-with-michaela-eichinger-product-solutions-physicist-at-quantum-machines/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:21.715054+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：量子计算",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 27
+      },
+      "status": "published",
+      "original_title": "Podcast with Michaela Eichinger, Product Solutions Physicist at Quantum Machines",
+      "original_summary": "Yuval Boger interviews Michaela Eichinger, a product solutions physicist at Quantum Machines and the author of a widely read quantum computing newsletter. They discuss her transition from academia to industry, her fascination with systems-l",
+      "language": "zh-CN"
     }
   ]
 }

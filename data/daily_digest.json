@@ -1,84 +1,78 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-06",
   "type": "daily_digest",
   "summary": {
-    "total_new": 167,
-    "breaking": 5,
+    "total_new": 178,
+    "breaking": 7,
     "opportunities": 20,
     "by_category": {
-      "world": 37,
-      "energy": 28,
-      "biotech": 12,
-      "ai": 48,
-      "consumer": 20,
-      "quantum": 2,
-      "semiconductor": 6,
-      "gaming": 4,
-      "space": 7,
-      "fusion": 1,
-      "robotics": 2
+      "biotech": 20,
+      "world": 30,
+      "ai": 30,
+      "robotics": 5,
+      "energy": 30,
+      "consumer": 29,
+      "semiconductor": 10,
+      "gaming": 8,
+      "space": 11,
+      "quantum": 5
     }
   },
   "top_news": [
     {
-      "id": "33c1ee68ad64d6",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "category": "ai",
+      "id": "4d5039fc929a90",
+      "title": "苹果芯片谈判报告推动英特尔股价飙升 13%，创历史新高",
+      "category": "semiconductor",
       "credibility": 86,
       "opportunity_score": 71,
       "stocks": [
-        "NVDA",
-        "MSFT"
+        "INTC",
+        "AAPL"
       ]
     },
     {
-      "id": "b3fe2ebbe82723",
-      "title": "谷歌、微软等四巨头今年将豪掷超 7000 亿美元，分析师直言 AI 熊市论就是“垃圾”",
-      "category": "ai",
-      "credibility": 78,
-      "opportunity_score": 67,
+      "id": "3c376bc88f8fc2",
+      "title": "在未解决耐受性问题后，Vertex 放弃了与 Moderna 合作的吸入性囊性纤维化候选药物",
+      "category": "biotech",
+      "credibility": 84,
+      "opportunity_score": 65,
       "stocks": [
-        "MSFT",
-        "GOOGL",
-        "AMZN",
-        "META"
+        "MRNA",
+        "VRTX"
       ]
     },
     {
-      "id": "abfd9516b22b27",
-      "title": "A major shift could soon happen in the Mag 7",
-      "category": "ai",
-      "credibility": 86,
-      "opportunity_score": 67,
-      "stocks": [
-        "NVDA",
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "d930a8694d6007",
-      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "id": "da3120aded2f0f",
+      "title": "NASA 宇航员回答佛罗里达州学生的问题",
       "category": "space",
       "credibility": 95,
       "opportunity_score": 64,
       "stocks": []
     },
     {
-      "id": "13623e73aaaae4",
-      "title": "《深海迷航 2》游戏 PC 版配置要求公布：最低 i5-8400/GTX 1660、推荐 i7-13700/RTX 3070",
-      "category": "semiconductor",
-      "credibility": 78,
+      "id": "a54dfb999e3bc9",
+      "title": "英伟达与康宁合作开展大规模光纤交易，这可能会改变人工智能的游戏规则",
+      "category": "ai",
+      "credibility": 86,
       "opportunity_score": 63,
       "stocks": [
-        "NVDA",
-        "AMD",
-        "INTC"
+        "NVDA"
       ]
     },
     {
-      "id": "4f6e7b2863e1f5",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "category": "energy",
+      "id": "5fc818b755da8c",
+      "title": "AI 热潮将三星推至 1T 美元",
+      "category": "semiconductor",
+      "credibility": 86,
+      "opportunity_score": 63,
+      "stocks": [
+        "TSM"
+      ]
+    },
+    {
+      "id": "b39b0f2905d41b",
+      "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
+      "category": "consumer",
       "credibility": 86,
       "opportunity_score": 63,
       "stocks": [
@@ -86,23 +80,27 @@
       ]
     },
     {
-      "id": "0a0ba5f4b160fb",
-      "title": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
-      "category": "world",
-      "credibility": 86,
+      "id": "c16f98aeb60dd8",
+      "title": "Linux 基金会成立 x402 Foundation 组织，旨在开发新型协议实现 AI 智能体“按请求付费”支付体系",
+      "category": "ai",
+      "credibility": 78,
       "opportunity_score": 63,
       "stocks": [
-        "TSLA"
+        "MSFT",
+        "GOOGL",
+        "AMZN"
       ]
     },
     {
-      "id": "73cb57bee75fd4",
-      "title": "NASA Kennedy Center Director Announces Plans to Retire",
-      "category": "space",
-      "credibility": 95,
-      "opportunity_score": 60,
-      "stocks": []
+      "id": "c3bf22d1240b5b",
+      "title": "强生 (J&J) 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
+      "category": "robotics",
+      "credibility": 84,
+      "opportunity_score": 61,
+      "stocks": [
+        "JNJ"
+      ]
     }
   ],
-  "generated_at": "2026-05-02T21:38:12.293080+08:00"
+  "generated_at": "2026-05-06T23:04:59.723541+08:00"
 }

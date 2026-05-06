@@ -2,515 +2,297 @@
   "version": "3.0",
   "category": "biotech",
   "category_name": "生物科技",
-  "total": 17,
-  "updated": "2026-05-02T21:38:12.275297+08:00",
+  "total": 25,
+  "updated": "2026-05-06T23:04:59.696536+08:00",
   "news": [
     {
-      "id": "74671232f93d47",
-      "url": "https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug",
-      "title": "Teva inks $700M Emalex buyout to bag near-approval Tourette drug",
-      "summary": "Teva Pharmaceuticals has struck a deal to buy Emalex Biosciences for $700 million upfront, positioning the drugmaker to advance a Tourette syndrome candidate that is on the cusp of approval.",
-      "content": "Teva Pharmaceuticals has struck a deal to buy Emalex Biosciences for $700 million upfront, positioning the drugmaker to advance a Tourette syndrome candidate that is on the cusp of approval.",
+      "id": "e4d2146abccc2f",
+      "url": "https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study",
+      "title": "Celcuity 的 gedatolisib 在 3 期乳腺癌研究中击败了诺华的 Piqray",
+      "summary": "Celcuity 的泛 PI3K/mTOR 抑制剂的 3 期试验已达到主要终点，这使得该生物技术公司可以针对 FDA 正在审查的分子提交第二份申请。",
+      "content": "Celcuity 的泛 PI3K/mTOR 抑制剂的 3 期试验已达到主要终点，这使得该生物技术公司可以针对 FDA 正在审查的分子提交第二份申请。",
       "category": "biotech",
       "tags": [
-        "pharma",
-        "drug"
-      ],
-      "publish_time": "2026-05-02T21:37:50.098695+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.098754+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 39
-      },
-      "status": "published"
-    },
-    {
-      "id": "b39900ad067637",
-      "url": "https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death",
-      "title": "FDA hits Newron’s phase 3 schizophrenia trial with clinical hold in US after patient death",
-      "summary": "The FDA has halted U.S. enrollment for Newron Pharmaceuticals’ phase 3 schizophrenia trial, following the death of a patient outside of the country.",
-      "content": "The FDA has halted U.S. enrollment for Newron Pharmaceuticals’ phase 3 schizophrenia trial, following the death of a patient outside of the country.",
-      "category": "biotech",
-      "tags": [
-        "pharma",
-        "FDA",
-        "clinical"
-      ],
-      "publish_time": "2026-05-02T21:37:50.098435+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.098508+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "c82f6066f5b69b",
-      "url": "https://www.fiercebiotech.com/medtech/caredx-expands-cancer-testing-260m-naveris-buy",
-      "title": "CareDx expands into cancer testing with $260M Naveris buy",
-      "summary": "Transplant-focused precision medicine company CareDx is making a move into the oncology space, scooping up Massachusetts-based biotech Naveris in a deal worth up to $260 million.",
-      "content": "Transplant-focused precision medicine company CareDx is making a move into the oncology space, scooping up Massachusetts-based biotech Naveris in a deal worth up to $260 million.",
-      "category": "biotech",
-      "tags": [
-        "biotech"
-      ],
-      "publish_time": "2026-05-02T21:37:50.098241+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/medtech/caredx-expands-cancer-testing-260m-naveris-buy",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.098320+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 35
-      },
-      "status": "published"
-    },
-    {
-      "id": "2faec709bfb756",
-      "url": "https://www.fiercebiotech.com/biotech/avalyn-heads-nasdaq-oversized-300m-ipo-fund-reformulated-respiratory-drugs",
-      "title": "Avalyn heads to Nasdaq with oversized $300M IPO to fund reformulated respiratory drugs",
-      "summary": "Avalyn Pharma has overshot its expectations with a $300 million IPO that the biotech will use to fund late-stage studies of its inhaled versions of approved respiratory drugs.",
-      "content": "Avalyn Pharma has overshot its expectations with a $300 million IPO that the biotech will use to fund late-stage studies of its inhaled versions of approved respiratory drugs.",
-      "category": "biotech",
-      "tags": [
-        "biotech",
-        "pharma",
-        "drug"
-      ],
-      "publish_time": "2026-05-02T21:37:50.098128+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/avalyn-heads-nasdaq-oversized-300m-ipo-fund-reformulated-respiratory-drugs",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.098220+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "2d9bd4cbf1df6a",
-      "url": "https://www.fiercebiotech.com/biotech/gsks-700m-alector-bet-blows-alzheimers-drug-flunks-phase-2",
-      "title": "GSK’s $700M Alector bet blows up as Alzheimer’s drug flunks phase 2",
-      "summary": "GSK and Alector have stopped a phase 2 trial of their Alzheimer’s disease drug candidate after an interim analysis found the study was unlikely to hit its primary endpoint.",
-      "content": "GSK and Alector have stopped a phase 2 trial of their Alzheimer’s disease drug candidate after an interim analysis found the study was unlikely to hit its primary endpoint.",
-      "category": "biotech",
-      "tags": [
-        "drug"
-      ],
-      "publish_time": "2026-05-02T21:37:50.097993+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/gsks-700m-alector-bet-blows-alzheimers-drug-flunks-phase-2",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.098107+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "c416d49c40dca2",
-      "url": "https://www.fiercebiotech.com/biotech/beone-agrees-2b-deal-option-preclinical-trispecific-antibody-chinas-huahui",
-      "title": "BeOne signs $2B deal for option on preclinical trispecific antibody from China’s Huahui",
-      "summary": "BeOne Medicines is paying $20 million upfront to reserve the right to buy a preclinical PD-1xCTLA-4xVEGF trispecific antibody from China’s Huahui Health.",
-      "content": "BeOne Medicines is paying $20 million upfront to reserve the right to buy a preclinical PD-1xCTLA-4xVEGF trispecific antibody from China’s Huahui Health.",
-      "category": "biotech",
-      "tags": [
-        "clinical"
-      ],
-      "publish_time": "2026-05-02T21:37:50.097860+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/beone-agrees-2b-deal-option-preclinical-trispecific-antibody-chinas-huahui",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.097974+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 35
-      },
-      "status": "published"
-    },
-    {
-      "id": "b2b9802a8b215d",
-      "url": "https://www.fiercebiotech.com/biotech/denmarks-leo-pharma-pays-50m-replay-and-its-preclinical-skin-disease-gene-therapy",
-      "title": "Leo Pharma pays $50M for Replay and its preclinical skin disease gene therapy",
-      "summary": "Danish dermatology specialist Leo Pharma is paying $50 million for U.S. gene writing biotech Replay and its preclinical gene therapy for a rare skin disease.",
-      "content": "Danish dermatology specialist Leo Pharma is paying $50 million for U.S. gene writing biotech Replay and its preclinical gene therapy for a rare skin disease.",
-      "category": "biotech",
-      "tags": [
-        "biotech",
-        "pharma",
-        "clinical",
-        "gene therapy"
-      ],
-      "publish_time": "2026-05-02T21:37:50.097666+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/denmarks-leo-pharma-pays-50m-replay-and-its-preclinical-skin-disease-gene-therapy",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.097747+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "4cd21fd6b720a0",
-      "url": "https://www.fiercebiotech.com/biotech/bms-calls-time-zymeworks-collab-ending-work-phase-1-stage-cancer-bispecific",
-      "title": "BMS calls time on Zymeworks collab, ending work on phase 1 cancer bispecific",
-      "summary": "Bristol Myers Squibb has called time on a bispecific antibody partnership with Zymeworks that the Big Pharma inherited from Celgene.",
-      "content": "Bristol Myers Squibb has called time on a bispecific antibody partnership with Zymeworks that the Big Pharma inherited from Celgene.",
-      "category": "biotech",
-      "tags": [
-        "pharma"
-      ],
-      "publish_time": "2026-05-02T21:37:50.097396+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/bms-calls-time-zymeworks-collab-ending-work-phase-1-stage-cancer-bispecific",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.097474+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "5acc421dca2c63",
-      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-      "title": "Fierce Biotech Layoff Tracker 2026: Autolus decreases headcount by 13%; Replimune reduces staff",
-      "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
-      "content": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
-      "category": "biotech",
-      "tags": [
-        "biotech"
-      ],
-      "publish_time": "2026-05-02T21:37:50.097289+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.097374+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "506f95d8232582",
-      "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-candidates-cancer-and-sjogrens-syndrome-after-ph-2-data-not-par",
-      "title": "Amgen abandons candidates for cancer, Sjögren’s syndrome over weak ph. 2 data",
-      "summary": "Amgen has pulled the plug on midstage drug candidates for cancer and the autoimmune disease Sjögren’s syndrome, terminating five clinical trials in the process.",
-      "content": "Amgen has pulled the plug on midstage drug candidates for cancer and the autoimmune disease Sjögren’s syndrome, terminating five clinical trials in the process.",
-      "category": "biotech",
-      "tags": [
-        "drug",
-        "clinical"
-      ],
-      "publish_time": "2026-05-02T21:37:50.096976+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-candidates-cancer-and-sjogrens-syndrome-after-ph-2-data-not-par",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.097085+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 26
-      },
-      "status": "published"
-    },
-    {
-      "id": "89eaea368d98ac",
-      "url": "https://www.biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/",
-      "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
-      "summary": "Known as Veppanu, the drug is the first of its kind to get to market. But Arvinas and partner Pfizer are still searching for a new partner to sell it.",
-      "content": "Known as Veppanu, the drug is the first of its kind to get to market. But Arvinas and partner Pfizer are still searching for a new partner to sell it.",
-      "category": "biotech",
-      "tags": [
-        "drug",
+        "生物科技",
         "FDA"
       ],
-      "publish_time": "2026-05-02T04:01:00+08:00",
+      "publish_time": "2026-05-06T23:04:09.639820+08:00",
       "sources": [
         {
-          "name": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/",
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:51.202636+08:00",
+          "verify_time": "2026-05-06T23:04:09.639921+08:00",
           "credibility": 84
         }
       ],
       "stocks": [
         {
-          "symbol": "PFE",
-          "name": "辉瑞",
+          "symbol": "LLY",
+          "name": "礼来",
           "exchange": "NYSE",
           "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Celcuity’s gedatolisib beats Novartis’ Piqray in phase 3 breast cancer study",
+      "original_summary": "A phase 3 trial of Celcuity’s pan-PI3K/mTOR inhibitor has hit its primary endpoint, clearing the biotech to file a second submission for a molecule already under review by the FDA.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "958dba3afbaf38",
+      "url": "https://www.fiercebiotech.com/biotech/mirum-maps-fda-path-after-anti-itch-candidate-scores-ph-2-win",
+      "title": "Mirum 在止痒候选药物获得 ph 值后绘制了 FDA 路径图。 2 胜",
+      "summary": "Mirum Pharmaceuticals 正在向 FDA 提交申请，此前该公司的小分子 volixibat 显着减轻了罕见肝病患者的严重瘙痒症状。",
+      "content": "Mirum Pharmaceuticals 正在向 FDA 提交申请，此前该公司的小分子 volixibat 显着减轻了罕见肝病患者的严重瘙痒症状。",
+      "category": "biotech",
+      "tags": [
+        "制药",
+        "FDA"
+      ],
+      "publish_time": "2026-05-06T23:04:09.639625+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/mirum-maps-fda-path-after-anti-itch-candidate-scores-ph-2-win",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.639692+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Mirum maps FDA path after anti-itch candidate scores ph. 2 win",
+      "original_summary": "Mirum Pharmaceuticals is moving toward an FDA filing after its small molecule volixibat significantly reduced severe itching in patients with a rare liver disease.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7c00b8479e5dc3",
+      "url": "https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win",
+      "title": "武田关键试验的胜利相对于 HyQvia 提高了 PID 患者的便利性",
+      "summary": "武田原发性免疫缺陷病（PID）资产的一项关键研究已达到其主要终点，证明该资产与 HyQvia 之间的药代动力学（PK）可比性，HyQvia 于 2014 年被批准用于治疗 PID。",
+      "content": "武田原发性免疫缺陷病（PID）资产的一项关键研究已达到其主要终点，证明该资产与 HyQvia 之间的药代动力学（PK）可比性，HyQvia 于 2014 年被批准用于治疗 PID。",
+      "category": "biotech",
+      "tags": [
+        "制药"
+      ],
+      "publish_time": "2026-05-06T23:04:09.639531+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.639610+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Takeda pivotal trial win improves convenience for PID patients relative to HyQvia",
+      "original_summary": "A pivotal study of a Takeda primary immunodeficiency disease (PID) asset has hit its primary endpoint, demonstrating pharmacokinetic (PK) comparability between the asset and HyQvia, which was approved to treat PID in 2014.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4e6fc9585d6f01",
+      "url": "https://www.fiercebiotech.com/biotech/concerted-industry-government-effort-strand-ceo-jake-becraft-fda-ind-reform-and-china",
+      "title": "“行业与政府的共同努力”：Strand Therapeutics 首席执行官 Jake Becraft 谈 FDA 的 IND 改革和中国",
+      "summary": "对于杰克·贝克拉夫特博士来说，美国生物医学创新的未来不仅仅在实验室中发挥作用，而且正在受到产业政策的影响。在最近接受 Fierce Biotech 采访时，Strand Therapeutics 首席执行官警告称，美国",
+      "content": "对于杰克·贝克拉夫特博士来说，美国生物医学创新的未来不仅仅在实验室中发挥作用，而且正在受到产业政策的影响。在最近接受 Fierce Biotech 采访时，Strand Therapeutics 首席执行官警告称，美国",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "FDA"
+      ],
+      "publish_time": "2026-05-06T23:04:09.639383+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/concerted-industry-government-effort-strand-ceo-jake-becraft-fda-ind-reform-and-china",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.639514+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "‘A concerted industry-government effort’: Strand Therapeutics CEO Jake Becraft on FDA’s IND reform and China",
+      "original_summary": "For Jake Becraft, Ph.D., the future of America’s biomedical innovation isn’t just playing out in the lab but is being shaped by industrial policy. In a recent interview with Fierce Biotech, the Strand Therapeutics CEO warned that the U.S. f",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7109623c745eda",
+      "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
+      "title": "基因治疗路径被 FDA 阻断后 Passage 启动战略审查并裁员 75%",
+      "summary": "在 FDA 对其主导基因疗法的前进道路提出了一些严厉的反馈后，Passage Bio 启动了一项战略审查，并制定了一项将其员工人数削减 75% 的计划。",
+      "content": "在 FDA 对其主导基因疗法的前进道路提出了一些严厉的反馈后，Passage Bio 启动了一项战略审查，并制定了一项将其员工人数削减 75% 的计划。",
+      "category": "biotech",
+      "tags": [
+        "FDA",
+        "gene therapy"
+      ],
+      "publish_time": "2026-05-06T23:04:09.639287+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.639366+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 35
+      },
+      "status": "published",
+      "original_title": "Passage launches strategic review and 75% layoffs after gene therapy path blocked by FDA",
+      "original_summary": "After some tough feedback from the FDA on the path forward for its lead gene therapy, Passage Bio has launched a strategic review and set out a plan to whittle down its headcount by 75%.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "3c376bc88f8fc2",
+      "url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved",
+      "title": "在未解决耐受性问题后，Vertex 放弃了与 Moderna 合作的吸入性囊性纤维化候选药物",
+      "summary": "由于耐受性不佳而暂停了与 Moderna 合作的囊性纤维化候选药物的试验后，Vertex Pharmaceuticals 现在决定完全停止该项目。",
+      "content": "由于耐受性不佳而暂停了与 Moderna 合作的囊性纤维化候选药物的试验后，Vertex Pharmaceuticals 现在决定完全停止该项目。",
+      "category": "biotech",
+      "tags": [
+        "制药"
+      ],
+      "publish_time": "2026-05-06T23:04:09.639167+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.639268+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "exchange": "NASDAQ",
+          "impact": "negative",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "VRTX",
+          "name": "福泰制药",
+          "exchange": "NASDAQ",
+          "impact": "negative",
           "reason": "标题/摘要直接提及",
           "confidence": "direct"
         }
@@ -520,265 +302,30 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 84,
-        "opportunity_score": 57
+        "opportunity_score": 65
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Vertex drops Moderna-partnered inhaled cystic fibrosis candidate after unresolved tolerability issues",
+      "original_summary": "After pausing a trial for a Moderna-partnered cystic fibrosis candidate due to subpar tolerability, Vertex Pharmaceuticals has now decided to discontinue the program entirely.",
+      "language": "zh-CN"
     },
     {
-      "id": "66ddba62e4a7a1",
-      "url": "https://www.genengnews.com/industry-news/figurate-scada-system-launched-to-overcome-digital-bottlenecks-during-biopharma-manufacturing/",
-      "title": "Figurate SCADA System Launched to Overcome Digital Bottlenecks During Biopharma Manufacturing",
-      "summary": "The new system directly addresses this roadblock by having an open architecture, allowing for third-party instrument integration, and real-time oversight of integration capable unit operations from a single interface, according to Cytiva, T",
-      "content": "The new system directly addresses this roadblock by having an open architecture, allowing for third-party instrument integration, and real-time oversight of integration capable unit operations from a single interface, according to Cytiva, T",
+      "id": "8d21f2cacdfb61",
+      "url": "https://www.fiercebiotech.com/biotech/viridians-tepezza-rival-racks-second-phase-3-win-clearing-path-fda",
+      "title": "Viridian 的 Tepezza 竞争对手在第 3 阶段取得了第二场胜利，为 FDA 扫清了道路",
+      "summary": "Viridian Therapeutics 的抗 IGF-1R 抗体的第二项 3 期试验已达到主要终点，该公司准备明年申请 FDA 批准，并挑战安进（Amgen）争夺重磅市场。",
+      "content": "Viridian Therapeutics 的抗 IGF-1R 抗体的第二项 3 期试验已达到主要终点，该公司准备明年申请 FDA 批准，并挑战安进（Amgen）争夺重磅市场。",
       "category": "biotech",
       "tags": [
-        "pharma"
+        "FDA"
       ],
-      "publish_time": "2026-05-02T01:00:44+08:00",
+      "publish_time": "2026-05-06T23:04:09.638785+08:00",
       "sources": [
         {
-          "name": "GEN",
-          "url": "https://www.genengnews.com/industry-news/figurate-scada-system-launched-to-overcome-digital-bottlenecks-during-biopharma-manufacturing/",
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/viridians-tepezza-rival-racks-second-phase-3-win-clearing-path-fda",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:52.024172+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 33
-      },
-      "status": "published"
-    },
-    {
-      "id": "4d28cd24bb77b1",
-      "url": "https://www.genengnews.com/topics/drug-discovery/approaches-to-reducing-toxicity-and-side-effects-in-cell-and-gene-therapy/",
-      "title": "Approaches to Reducing Toxicity and Side Effects in Cell and Gene Therapy",
-      "summary": "Companies are adopting diverse approaches to reducing unwanted toxicities associated with cell and gene therapy. The post Approaches to Reducing Toxicity and Side Effects in Cell and Gene Therapy appeared first on GEN - Genetic Engineering",
-      "content": "Companies are adopting diverse approaches to reducing unwanted toxicities associated with cell and gene therapy. The post Approaches to Reducing Toxicity and Side Effects in Cell and Gene Therapy appeared first on GEN - Genetic Engineering",
-      "category": "biotech",
-      "tags": [
-        "gene therapy"
-      ],
-      "publish_time": "2026-05-01T19:25:04+08:00",
-      "sources": [
-        {
-          "name": "GEN",
-          "url": "https://www.genengnews.com/topics/drug-discovery/approaches-to-reducing-toxicity-and-side-effects-in-cell-and-gene-therapy/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:52.024289+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 29
-      },
-      "status": "published"
-    },
-    {
-      "id": "8e8068e27c7ae0",
-      "url": "https://www.genengnews.com/topics/bioprocessing/smarter-aavs-drive-gene-therapys-next-chapter/",
-      "title": "Smarter AAVs Drive Gene Therapy’s Next Chapter",
-      "summary": "Advances in viral-vector engineering, analytics, and scalable manufacturing are reshaping how adeno-associated viruses enable safer, more accessible gene therapies. The post Smarter AAVs Drive Gene Therapy’s Next Chapter appeared first on G",
-      "content": "Advances in viral-vector engineering, analytics, and scalable manufacturing are reshaping how adeno-associated viruses enable safer, more accessible gene therapies. The post Smarter AAVs Drive Gene Therapy’s Next Chapter appeared first on G",
-      "category": "biotech",
-      "tags": [
-        "gene therapy"
-      ],
-      "publish_time": "2026-05-01T19:13:58+08:00",
-      "sources": [
-        {
-          "name": "GEN",
-          "url": "https://www.genengnews.com/topics/bioprocessing/smarter-aavs-drive-gene-therapys-next-chapter/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:52.024958+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 29
-      },
-      "status": "published"
-    },
-    {
-      "id": "c7d2f4e3141c7e",
-      "url": "https://www.biopharmadive.com/news/seaport-hemab-ipo-price-biotech-2026/818965/",
-      "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
-      "summary": "Seaport Therapeutics and Hemab Therapeutics on Thursday became the latest drugmakers to debut on Wall Street, continuing a stretch of large IPOs this year that collectively raised almost $3.2 billion.",
-      "content": "Seaport Therapeutics and Hemab Therapeutics on Thursday became the latest drugmakers to debut on Wall Street, continuing a stretch of large IPOs this year that collectively raised almost $3.2 billion.",
-      "category": "biotech",
-      "tags": [
-        "biotech",
-        "drug"
-      ],
-      "publish_time": "2026-05-01T10:03:00+08:00",
-      "sources": [
-        {
-          "name": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/seaport-hemab-ipo-price-biotech-2026/818965/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:51.203347+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "7bcb1f0a3c4801",
-      "url": "https://www.biopharmadive.com/news/avalyn-biotech-ipo-price-pulmonary-fibrosis-esbriet-ofev/818851/",
-      "title": "Avalyn, in pursuit of better lung drugs, banks $300M in an IPO",
-      "summary": "The biotech will use the proceeds to develop inhalable versions of therapies already on the market for the “idiopathic” and “progressive” forms of pulmonary fibrosis.",
-      "content": "The biotech will use the proceeds to develop inhalable versions of therapies already on the market for the “idiopathic” and “progressive” forms of pulmonary fibrosis.",
-      "category": "biotech",
-      "tags": [
-        "biotech",
-        "drug"
-      ],
-      "publish_time": "2026-04-30T09:06:00+08:00",
-      "sources": [
-        {
-          "name": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/avalyn-biotech-ipo-price-pulmonary-fibrosis-esbriet-ofev/818851/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:51.204324+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "礼来",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "NVO",
-          "name": "诺和诺德",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "板块弱关联：生物科技",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 26
-      },
-      "status": "published"
-    },
-    {
-      "id": "7a2717b3ce10eb",
-      "url": "https://www.biopharmadive.com/news/teva-emalex-acquisition-deal-tourette-drug-biotech/818827/",
-      "title": "Teva nabs experimental Tourette drug in $700M Emalex buyout",
-      "summary": "A Jefferies analyst argued the deal — Teva’s largest in a decade — “makes sense” given the synergies between Emalex and the pharmaceutical giant’s neurology business.",
-      "content": "A Jefferies analyst argued the deal — Teva’s largest in a decade — “makes sense” given the synergies between Emalex and the pharmaceutical giant’s neurology business.",
-      "category": "biotech",
-      "tags": [
-        "pharma",
-        "drug"
-      ],
-      "publish_time": "2026-04-29T23:53:00+08:00",
-      "sources": [
-        {
-          "name": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/teva-emalex-acquisition-deal-tourette-drug-biotech/818827/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:51.204505+08:00",
+          "verify_time": "2026-05-06T23:04:09.638909+08:00",
           "credibility": 84
         }
       ],
@@ -807,7 +354,913 @@
         "credibility_score": 84,
         "opportunity_score": 35
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Viridian’s Tepezza rival racks up second phase 3 win, clearing path to FDA",
+      "original_summary": "A second phase 3 trial of Viridian Therapeutics’ anti-IGF-1R antibody has hit its primary endpoint as the company prepares to file for FDA approval next year and challenge Amgen for a blockbuster market.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b5e366b6122769",
+      "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-links-fulgent-genetics-offer-new-gene-test",
+      "title": "Foundation Medicine 与 Fulgent Genetics 合作提供新的基因测试",
+      "summary": "罗氏 Foundation Medicine 与 Fulgent Genetics 合作提供了一种新的诊断测试，可以识别一个人的基因组成，从而确定他们如何代谢和处理药物。",
+      "content": "罗氏 Foundation Medicine 与 Fulgent Genetics 合作提供了一种新的诊断测试，可以识别一个人的基因组成，从而确定他们如何代谢和处理药物。",
+      "category": "biotech",
+      "tags": [
+        "drug"
+      ],
+      "publish_time": "2026-05-06T23:04:09.638629+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-links-fulgent-genetics-offer-new-gene-test",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.638761+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Foundation Medicine links with Fulgent Genetics to offer new gene test",
+      "original_summary": "Roche’s Foundation Medicine has linked with Fulgent Genetics to offer a new diagnostic test that identifies a person’s genetic makeup that can determine how they metabolize and process drugs.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2a628c8916deb9",
+      "url": "https://www.fiercebiotech.com/biotech/pfizers-23b-trillium-bet-ends-failure-remaining-cd47-blocker-scrapped",
+      "title": "辉瑞 (Pfizer) 的 $2.3B Trillium 赌注以失败告终，因为剩余的 CD47 阻滞剂与 T 细胞接合剂一起报废",
+      "summary": "辉瑞 (Pfizer) 对 Trillium Therapeutics 的 23 亿美元押注似乎永远不会获得回报，这家大型制药公司放弃了此次收购中的第二个也是最后一个临床阶段候选药物。",
+      "content": "辉瑞 (Pfizer) 对 Trillium Therapeutics 的 23 亿美元押注似乎永远不会获得回报，这家大型制药公司放弃了此次收购中的第二个也是最后一个临床阶段候选药物。",
+      "category": "biotech",
+      "tags": [
+        "制药",
+        "clinical"
+      ],
+      "publish_time": "2026-05-06T23:04:09.638380+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/pfizers-23b-trillium-bet-ends-failure-remaining-cd47-blocker-scrapped",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.638588+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "PFE",
+          "name": "辉瑞",
+          "exchange": "NYSE",
+          "impact": "negative",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 52
+      },
+      "status": "published",
+      "original_title": "Pfizer’s $2.3B Trillium bet ends in failure as remaining CD47 blocker scrapped along with T-cell engager",
+      "original_summary": "Pfizer’s $2.3 billion bet on Trillium Therapeutics doesn’t look like it will ever pay out, with the Big Pharma abandoning the second and final clinical-stage candidate from that acquisition.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "d7599ebf7f0028",
+      "url": "https://www.fiercebiotech.com/biotech/madrigal-boosts-mash-pipeline-1b-biobucks-license-arrowhead-asset",
+      "title": "Madrigal 继续 MASH 交易热潮，为 Arrowhead 资产提供 10 亿美元的 biobucks 许可证，但被强生拒绝",
+      "summary": "Madrigal Pharmaceuticals 已达成一项延期交易，获得 Arrowhead Pharmaceuticals 一项针对代谢功能障碍相关脂肪性肝炎 (MASH) 患者的一期资产的全球许可。",
+      "content": "Madrigal Pharmaceuticals 已达成一项延期交易，获得 Arrowhead Pharmaceuticals 一项针对代谢功能障碍相关脂肪性肝炎 (MASH) 患者的一期资产的全球许可。",
+      "category": "biotech",
+      "tags": [
+        "制药"
+      ],
+      "publish_time": "2026-05-06T23:04:09.637836+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/madrigal-boosts-mash-pipeline-1b-biobucks-license-arrowhead-asset",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.637963+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 35
+      },
+      "status": "published",
+      "original_title": "Madrigal continues MASH deal spree with $1B biobucks license for Arrowhead asset rejected by J&J",
+      "original_summary": "Madrigal Pharmaceuticals has struck a backloaded deal for the global license to an Arrowhead Pharmaceuticals phase 1 asset for patients with metabolic dysfunction-associated steatohepatitis (MASH).",
+      "language": "zh-CN"
+    },
+    {
+      "id": "d36664152b4889",
+      "url": "https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotechs-redwood-city-outpost",
+      "title": "更新：Arcellx 收购结束后，吉利德在 CAR-T 生物技术的红木城和罗克维尔前哨​​基地裁员 192 人",
+      "summary": "随着吉利德以 78 亿美元收购 Arcellx 的完成，这家加州制药公司正在整合被收购公司的部分员工。",
+      "content": "随着吉利德以 78 亿美元收购 Arcellx 的完成，这家加州制药公司正在整合被收购公司的部分员工。",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "制药"
+      ],
+      "publish_time": "2026-05-06T23:04:09.637620+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotechs-redwood-city-outpost",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.637770+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "UPDATED: After Arcellx buyout close, Gilead trims 192 jobs at CAR-T biotech's Redwood City and Rockville outposts",
+      "original_summary": "With Gilead's $7.8 billion buyout of Arcellx complete, the California pharma is consolidating some of the workforce at the acquired company.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4c5b68c3070531",
+      "url": "https://www.fiercebiotech.com/biotech/avalos-phase-2-win-fuels-pursuit-abbvie-despite-placebo-headwind",
+      "title": "尽管存在安慰剂逆风，Avalo 在皮肤病 2 期临床试验中的胜利仍推动了对艾伯维 (AbbVie) 的追捧",
+      "summary": "安慰剂调整后的结果未达到 Avalo、分析师和艾伯维竞争对手计划设定的标准，但该生物技术公司的股价在盘前交易中上涨。",
+      "content": "安慰剂调整后的结果未达到 Avalo、分析师和艾伯维竞争对手计划设定的标准，但该生物技术公司的股价在盘前交易中上涨。",
+      "category": "biotech",
+      "tags": [
+        "生物科技"
+      ],
+      "publish_time": "2026-05-06T23:04:09.637163+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/avalos-phase-2-win-fuels-pursuit-abbvie-despite-placebo-headwind",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.637240+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Avalo’s phase 2 skin disease win fuels pursuit of AbbVie despite placebo headwind",
+      "original_summary": "The placebo-adjusted result fell short of the bar set by Avalo, analysts and AbbVie’s rival program, but the biotech’s stock jumped in premarket trading.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b69185871bf311",
+      "url": "https://www.fiercebiotech.com/biotech/after-decade-hype-najat-khan-bringing-recursion-back-down-earth",
+      "title": "经过十年的炒作，Najat Khan 正在将递归带回现实",
+      "summary": "克里斯·吉布森 (Chris Gibson) 在大胆承诺的基础上建立了开创性的人工智能生物技术 Recursion Pharmaceuticals。但在掌舵十多年后，吉布森于 2025 年 11 月辞去了首席执行官一职。他的继任者纳贾特·汗 (Najat Khan) 博士是激光博士",
+      "content": "克里斯·吉布森 (Chris Gibson) 在大胆承诺的基础上建立了开创性的人工智能生物技术 Recursion Pharmaceuticals。但在掌舵十多年后，吉布森于 2025 年 11 月辞去了首席执行官一职。他的继任者纳贾特·汗 (Najat Khan) 博士是激光博士",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "制药"
+      ],
+      "publish_time": "2026-05-06T23:04:09.637082+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/after-decade-hype-najat-khan-bringing-recursion-back-down-earth",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.637150+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "After a decade of hype, Najat Khan is bringing Recursion back down to earth",
+      "original_summary": "Chris Gibson built the pioneering AI biotech Recursion Pharmaceuticals on a foundation of bold promises. But after more than a decade at the helm, Gibson stepped down as CEO in November 2025. And his replacement, Najat Khan, Ph.D., is laser",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b95cbeefb043ac",
+      "url": "https://www.fiercebiotech.com/biotech/cellcentric-announces-220m-series-d-advance-drug-through-registration-and-potential-ipo",
+      "title": "CellCentric 筹集了 2.2 亿美元的 D 轮融资，通过注册推进骨髓瘤药物的开发，并有望进行 IPO",
+      "summary": "在过去三年中，CellCentric 首席执行官 Will West 经历了一段改变他对公司未来看法的旅程。他告诉 Fierce Biotech，他曾经“沉迷于制药交易”。现在，临床阶段的生物技术",
+      "content": "在过去三年中，CellCentric 首席执行官 Will West 经历了一段改变他对公司未来看法的旅程。他告诉 Fierce Biotech，他曾经“沉迷于制药交易”。现在，临床阶段的生物技术",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "制药",
+        "drug",
+        "clinical"
+      ],
+      "publish_time": "2026-05-06T23:04:09.636963+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/cellcentric-announces-220m-series-d-advance-drug-through-registration-and-potential-ipo",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.637067+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 35
+      },
+      "status": "published",
+      "original_title": "CellCentric raises $220M series D to advance myeloma drug through registration, eyes potential IPO",
+      "original_summary": "In the last three years, CellCentric CEO Will West has been on a journey that has transformed how he thinks about the future of his company. He used to be “obsessed with pharma deals,” he told Fierce Biotech. Now, the clinical-stage biotech",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2c80c11b5215a9",
+      "url": "https://www.fiercebiotech.com/biotech/gsk-pens-1b-deal-chinas-siranbio-oligonucleotide-could-reduce-adominal-fat",
+      "title": "葛兰素史克 (GSK) 与中国思然生物 (SiranBio) 签署了价值 10 亿美元的寡核苷酸交易，可减少腹部脂肪",
+      "summary": "葛兰素史克发现了另一种治疗心脏代谢疾病的潜在方法，其方式接近该制药公司的核心——寡核苷酸。",
+      "content": "葛兰素史克发现了另一种治疗心脏代谢疾病的潜在方法，其方式接近该制药公司的核心——寡核苷酸。",
+      "category": "biotech",
+      "tags": [
+        "制药"
+      ],
+      "publish_time": "2026-05-06T23:04:09.636685+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/gsk-pens-1b-deal-chinas-siranbio-oligonucleotide-could-reduce-adominal-fat",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.636772+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 35
+      },
+      "status": "published",
+      "original_title": "GSK pens $1B deal with China’s SiranBio for oligonucleotide that could reduce abdominal fat",
+      "original_summary": "GSK has found another potential way to treat cardiometabolic disease with a modality close to the pharma’s heart—oligonucleotides.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "e711b4d32f8b75",
+      "url": "https://www.biopharmadive.com/news/avalo-hidradenitis-suppurativa-biontech-madrigal-johnson-duet/819233/",
+      "title": "Avalo 股价因皮肤药物数据飙升； BioNTech 将裁员",
+      "summary": "阿瓦洛 (Avalo) 报告称，在治疗一种难以治疗的皮肤病方面取得了成功。在其他地方，BioNTech 宣布计划关闭多家工厂，而 Madrigal 则为 MASH 购买了一种基于 RNA 的药物。",
+      "content": "阿瓦洛 (Avalo) 报告称，在治疗一种难以治疗的皮肤病方面取得了成功。在其他地方，BioNTech 宣布计划关闭多家工厂，而 Madrigal 则为 MASH 购买了一种基于 RNA 的药物。",
+      "category": "biotech",
+      "tags": [
+        "drug"
+      ],
+      "publish_time": "2026-05-06T22:30:00+08:00",
+      "sources": [
+        {
+          "name": "BioPharma Dive 生物医药",
+          "url": "https://www.biopharmadive.com/news/avalo-hidradenitis-suppurativa-biontech-madrigal-johnson-duet/819233/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:11.309866+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 26
+      },
+      "status": "published",
+      "original_title": "Avalo shares spike on skin drug data; BioNTech to cut staff",
+      "original_summary": "Avalo reported study success in what’s proven to be a tough-to-treat skin disease. Elsewhere, BioNTech announced plans to close multiple plants and Madrigal picked up an RNA-based drug for MASH.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7c068bd7773da3",
+      "url": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
+      "title": "CellCentric 为“变革性”多发性骨髓瘤药物筹集了 2.2 亿美元",
+      "summary": "由 Venrock 牵头的 D 轮融资将支持正在进行的 2 期研究和计划中的 3 期试验，该生物技术公司认为口服药物是持续性疾病患者的差异化选择。",
+      "content": "由 Venrock 牵头的 D 轮融资将支持正在进行的 2 期研究和计划中的 3 期试验，该生物技术公司认为口服药物是持续性疾病患者的差异化选择。",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "drug"
+      ],
+      "publish_time": "2026-05-06T19:00:00+08:00",
+      "sources": [
+        {
+          "name": "BioPharma Dive 生物医药",
+          "url": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:11.310088+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "CellCentric raises $220M for a ‘transformative’ multiple myeloma medicine",
+      "original_summary": "A Series D round led by Venrock will support an ongoing Phase 2 study, and planned Phase 3 trial, of an oral drug the biotech sees as a differentiated option for patients with persistent disease.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "36a8877e695440",
+      "url": "https://www.cnbc.com/2026/05/05/waters-ceo-china-key-innovation-biopharma-market.html",
+      "title": "沃特世首席执行官强调中国是生物制药市场的关键创新来源",
+      "summary": "沃特世首席执行官强调中国是新兴的全球生物制药强国。",
+      "content": "沃特世首席执行官强调中国是新兴的全球生物制药强国。",
+      "category": "biotech",
+      "tags": [
+        "制药"
+      ],
+      "publish_time": "2026-05-06T06:47:16+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/05/waters-ceo-china-key-innovation-biopharma-market.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.932595+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Waters CEO highlights China as key innovation source in the biopharma market",
+      "original_summary": "Waters CEO highlighted China as an emerging global biopharmaceutical powerhouse.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "dfb2a9da46d490",
+      "url": "https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html",
+      "title": "FDA 撤回了发现新冠病毒和带状疱疹疫苗安全的研究",
+      "summary": "该发言人告诉 CNBC，这些研究“被撤回，因为作者得出了没有基础数据支持的广泛结论”。",
+      "content": "该发言人告诉 CNBC，这些研究“被撤回，因为作者得出了没有基础数据支持的广泛结论”。",
+      "category": "biotech",
+      "tags": [
+        "FDA",
+        "vaccine"
+      ],
+      "publish_time": "2026-05-06T04:45:44+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.931625+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "FDA withdrew studies finding Covid, shingles vaccines were safe",
+      "original_summary": "The studies were \"withdrawn because the authors drew broad conclusions that were not supported by the underlying data,\" the spokesperson told CNBC.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "0e1139f88b5777",
+      "url": "https://www.biopharmadive.com/news/viridian-chronic-thyroid-eye-disease-elegrobart-study-results/819308/",
+      "title": "Viridian 数据提升了甲状腺眼病药物的前景",
+      "summary": "尽管早期的第三阶段结果让华尔街感到失望，但分析师认为针对患有“慢性”疾病的人的新发现比安进的 Tepezza 更具竞争力。",
+      "content": "尽管早期的第三阶段结果让华尔街感到失望，但分析师认为针对患有“慢性”疾病的人的新发现比安进的 Tepezza 更具竞争力。",
+      "category": "biotech",
+      "tags": [
+        "drug"
+      ],
+      "publish_time": "2026-05-06T00:04:48+08:00",
+      "sources": [
+        {
+          "name": "BioPharma Dive 生物医药",
+          "url": "https://www.biopharmadive.com/news/viridian-chronic-thyroid-eye-disease-elegrobart-study-results/819308/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:11.310240+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Viridian data lift prospects for thyroid eye disease drug",
+      "original_summary": "Whereas earlier Phase 3 results disappointed Wall Street, new findings in people with “chronic” disease were viewed by analysts as much more competitive with Amgen’s Tepezza.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6ca13bc5e7f708",
+      "url": "https://www.biopharmadive.com/news/cytokinetics-aficamten-acacia-results-non-obstructive-hypertrophic-cardiomyopathy/819266/",
+      "title": "密切关注的试验中的细胞动力学心脏药物评分",
+      "summary": "Myqorzo 在“非梗阻性”肥厚性心肌病方面的成功使其与百时美施贵宝的竞争对手 Camzyos 区分开来，并开辟了数十亿美元的市场机会。",
+      "content": "Myqorzo 在“非梗阻性”肥厚性心肌病方面的成功使其与百时美施贵宝的竞争对手 Camzyos 区分开来，并开辟了数十亿美元的市场机会。",
+      "category": "biotech",
+      "tags": [
+        "drug"
+      ],
+      "publish_time": "2026-05-05T20:38:00+08:00",
+      "sources": [
+        {
+          "name": "BioPharma Dive 生物医药",
+          "url": "https://www.biopharmadive.com/news/cytokinetics-aficamten-acacia-results-non-obstructive-hypertrophic-cardiomyopathy/819266/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:11.310487+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Cytokinetics heart drug scores in closely watched trial",
+      "original_summary": "Myqorzo’s success in “non-obstructive” hypertrophic cardiomyopathy separates it from Bristol Myers Squibb’s rival Camzyos and opens up a multibillion-dollar market opportunity.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "2322ba28ede82b",
+      "url": "https://www.biopharmadive.com/news/cytospire-gamma-delta-t-cell-engager-series-a/819234/",
+      "title": "Cytospire 为新型 T 细胞接合器筹集了 8300 万美元",
+      "summary": "这家英国生物技术初创公司正在制造“泛伽马德尔塔”T 细胞接合剂，据称可以解决类似现有疗法的局限性。",
+      "content": "这家英国生物技术初创公司正在制造“泛伽马德尔塔”T 细胞接合剂，据称可以解决类似现有疗法的局限性。",
+      "category": "biotech",
+      "tags": [
+        "生物科技"
+      ],
+      "publish_time": "2026-05-05T15:00:00+08:00",
+      "sources": [
+        {
+          "name": "BioPharma Dive 生物医药",
+          "url": "https://www.biopharmadive.com/news/cytospire-gamma-delta-t-cell-engager-series-a/819234/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:11.310630+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "Cytospire hauls in $83M for a new type of T cell engager",
+      "original_summary": "The British biotechnology startup is making \"pan-gamma delta” T cell engagers it says can address the limitations of similar, existing therapies.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "de67e28790bbd1",
+      "url": "https://www.genengnews.com/resources/ebooks/protein-biomarkers-in-practice-strategies-to-reduce-drug-development-risk/",
+      "title": "蛋白质生物标志物的实践：降低药物开发风险的策略",
+      "summary": "这本电子书旨在提供战略见解和实践指导。它以一份白皮书开头，其中包含了领先制药组织高级转化领导者的专家观点。这些专家探索如何",
+      "content": "这本电子书旨在提供战略见解和实践指导。它以一份白皮书开头，其中包含了领先制药组织高级转化领导者的专家观点。这些专家探索如何",
+      "category": "biotech",
+      "tags": [
+        "制药",
+        "drug"
+      ],
+      "publish_time": "2026-05-05T04:03:22+08:00",
+      "sources": [
+        {
+          "name": "GEN 基因工程新闻",
+          "url": "https://www.genengnews.com/resources/ebooks/protein-biomarkers-in-practice-strategies-to-reduce-drug-development-risk/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:14.336770+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Protein Biomarkers in Practice: Strategies to Reduce Drug Development Risk",
+      "original_summary": "This eBook is designed to deliver both strategic insight and practical guidance. It opens with a White Paper informed by expert perspectives from senior translational leaders at leading pharmaceutical organizations. These experts explore ho",
+      "language": "zh-CN"
+    },
+    {
+      "id": "5d9b9c97fb136d",
+      "url": "https://www.genengnews.com/multimedia/webinars/optical-pooled-crispr-screen-reveals-regulators-of-nf-%ce%bab-dynamics-in-human-cells/",
+      "title": "光学汇集 CRISPR 筛选揭示了人类细胞中 NF-κB 动态的调节因子",
+      "summary": "在本次 GEN 网络研讨会中，Myllia Biotechnology 的 CSO Tilmann Buerckstuemmer 博士将展示如何利用 NF-κB 核转位蛋白将高通量 CRISPR 筛选与细胞绘制读数相结合来表征重要的信号通路",
+      "content": "在本次 GEN 网络研讨会中，Myllia Biotechnology 的 CSO Tilmann Buerckstuemmer 博士将展示如何利用 NF-κB 核转位蛋白将高通量 CRISPR 筛选与细胞绘制读数相结合来表征重要的信号通路",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "CRISPR"
+      ],
+      "publish_time": "2026-05-05T01:47:26+08:00",
+      "sources": [
+        {
+          "name": "GEN 基因工程新闻",
+          "url": "https://www.genengnews.com/multimedia/webinars/optical-pooled-crispr-screen-reveals-regulators-of-nf-%ce%bab-dynamics-in-human-cells/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:14.337365+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Optical Pooled CRISPR Screen Reveals Regulators of NF-κB Dynamics in Human Cells",
+      "original_summary": "In this GEN webinar , Tilmann Buerckstuemmer, PhD, CSO at Myllia Biotechnology will show how high-throughput pooled CRISPR screening combined with cell painting readouts characterized important signaling pathways using NF-κB nuclear translo",
+      "language": "zh-CN"
+    },
+    {
+      "id": "f1a3681346e35a",
+      "url": "https://www.biopharmadive.com/news/ucb-candid-deal-bispecifics-t-cell-engagers-autoimmune-china/819155/",
+      "title": "UCB 以 2.2B 美元收购 Candid，押注于治疗自身免疫性疾病的双特异性药物",
+      "summary": "此次收购涉及由中国生物技术公司许可的 Candid 抗体药物组合，UCB 将其视为免疫性疾病治疗“下一波”浪潮的一部分。",
+      "content": "此次收购涉及由中国生物技术公司许可的 Candid 抗体药物组合，UCB 将其视为免疫性疾病治疗“下一波”浪潮的一部分。",
+      "category": "biotech",
+      "tags": [
+        "生物科技",
+        "drug"
+      ],
+      "publish_time": "2026-05-04T18:20:00+08:00",
+      "sources": [
+        {
+          "name": "BioPharma Dive 生物医药",
+          "url": "https://www.biopharmadive.com/news/ucb-candid-deal-bispecifics-t-cell-engagers-autoimmune-china/819155/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:11.311069+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "礼来",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "NVO",
+          "name": "诺和诺德",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：生物科技",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "UCB to acquire Candid in $2.2B bet on bispecifics for autoimmune diseases",
+      "original_summary": "The buyout involves a portfolio of antibody drugs Candid licensed from China-based biotechs and that UCB sees as part of the “next wave” of care for immunological conditions.",
+      "language": "zh-CN"
     }
   ]
 }

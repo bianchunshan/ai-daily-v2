@@ -2,27 +2,27 @@
   "version": "3.0",
   "category": "semiconductor",
   "category_name": "半导体",
-  "total": 9,
-  "updated": "2026-05-02T21:38:12.269337+08:00",
+  "total": 11,
+  "updated": "2026-05-06T23:04:59.689168+08:00",
   "news": [
     {
-      "id": "5f3151e1f3d3e4",
-      "url": "https://www.ithome.com/0/946/064.htm",
-      "title": "英伟达 DLSS 4.5 盲测“碾压”AMD FSR 4.1，七款 3A 大作赢下六款",
-      "summary": "IT之家 5 月 2 日消息，当地时间 4 月 29 日，ComputerBase 公布的一项盲测结果显示，在 DLSS 4.5 和 FSR 4.1 的画质对比中，玩家整体 更偏向英伟达 DLSS 4.5 。 DLSS 4.5 是英伟达当前主推的超采样技术，FSR 4.1 则是 AMD 阵营最新旗舰方案。相比早期版本，两者都通过更好的 锐化、降噪和更好的运动清晰度 提供了最佳的视觉效果。 不过，单独看画面很难判断谁更好，关键还是并排对比。ComputerBase 此前已经做过",
-      "content": "IT之家 5 月 2 日消息，当地时间 4 月 29 日，ComputerBase 公布的一项盲测结果显示，在 DLSS 4.5 和 FSR 4.1 的画质对比中，玩家整体 更偏向英伟达 DLSS 4.5 。 DLSS 4.5 是英伟达当前主推的超采样技术，FSR 4.1 则是 AMD 阵营最新旗舰方案。相比早期版本，两者都通过更好的 锐化、降噪和更好的运动清晰度 提供了最佳的视觉效果。 不过，单独看画面很难判断谁更好，关键还是并排对比。ComputerBase 此前已经做过",
+      "id": "3d77383ea9dba5",
+      "url": "https://www.ithome.com/0/947/014.htm",
+      "title": "华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070",
+      "summary": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。 该型号的 整体规格与IT之家此前介绍的 酷睿版 类似 ：整机至高 180W TPP，CPU 单烤 90W、GPU 单烤 115W；内置 80Wh 电池，轻约 2.25kg、薄至 17.9",
+      "content": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。 该型号的 整体规格与IT之家此前介绍的 酷睿版 类似 ：整机至高 180W TPP，CPU 单烤 90W、GPU 单烤 115W；内置 80Wh 电池，轻约 2.25kg、薄至 17.9",
       "category": "semiconductor",
       "tags": [
-        "AMD",
-        "英伟达"
+        "英伟达",
+        "AMD"
       ],
-      "publish_time": "2026-05-02T20:27:48+08:00",
+      "publish_time": "2026-05-06T22:21:29+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/064.htm",
+          "url": "https://www.ithome.com/0/947/014.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.647283+08:00",
+          "verify_time": "2026-05-06T23:04:37.929828+08:00",
           "credibility": 78
         }
       ],
@@ -51,128 +51,35 @@
         "credibility_score": 78,
         "opportunity_score": 59
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070",
+      "original_summary": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。 该型号的 整体规格与IT之家此前介绍的 酷睿版 类似 ：整机至高 180W TPP，CPU 单烤 90W、GPU 单烤 115W；内置 80Wh 电池，轻约 2.25kg、薄至 17.9",
+      "language": "zh-CN"
     },
     {
-      "id": "5f324dda29b5e2",
-      "url": "https://thequantuminsider.com/2026/05/02/psiquantum-lip-bu-tan-board-appointment/",
-      "title": "PsiQuantum Appoints Lip-Bu Tan to Board of Directors",
-      "summary": "Insider Brief PRESS RELEASE — PsiQuantum today announced that Lip-Bu Tan, a leader of the semiconductor industry and Chief Executive Officer of Intel Corporation, has joined the PsiQuantum Board of Directors. Tan brings decades of experienc",
-      "content": "Insider Brief PRESS RELEASE — PsiQuantum today announced that Lip-Bu Tan, a leader of the semiconductor industry and Chief Executive Officer of Intel Corporation, has joined the PsiQuantum Board of Directors. Tan brings decades of experienc",
+      "id": "f22fe52d49548f",
+      "url": "https://www.ithome.com/0/947/011.htm",
+      "title": "华硕天选 7 Pro Max 游戏本上架：搭锐龙 9 9955HX 处理器，可选 RTX5060/5070/5070Ti",
+      "summary": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SKU 如下： RTX 5060 + 16GB RAM + 1TB SSD RTX 5060 + 32GB RAM + 1TB SSD RTX 5070 + 16GB RAM + 1T",
+      "content": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SKU 如下： RTX 5060 + 16GB RAM + 1TB SSD RTX 5060 + 32GB RAM + 1TB SSD RTX 5070 + 16GB RAM + 1T",
       "category": "semiconductor",
       "tags": [
-        "semiconductor",
-        "Intel"
+        "AMD"
       ],
-      "publish_time": "2026-05-02T17:00:00+08:00",
-      "sources": [
-        {
-          "name": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/05/02/psiquantum-lip-bu-tan-board-appointment/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:52.647770+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "INTC",
-          "name": "英特尔",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 46
-      },
-      "status": "published"
-    },
-    {
-      "id": "13623e73aaaae4",
-      "url": "https://www.ithome.com/0/946/019.htm",
-      "title": "《深海迷航 2》游戏 PC 版配置要求公布：最低 i5-8400/GTX 1660、推荐 i7-13700/RTX 3070",
-      "summary": "IT之家 5 月 2 日消息，开发商 Unknown Worlds 现已在 Steam 平台公布了《深海迷航 2》PC 版配置要求。 IT之家附具体配置需求如下： 项目 最低配置 推荐配置 操作系统 Windows 10/11 Windows 11 处理器 英特尔酷睿 i5-8400/AMD 锐龙 5 2600 英特尔酷睿 i7-13700/AMD 锐龙 7 7700X 内存 12GB 16GB 显卡 英伟达 GTX 1660 6GB / AMD RX 5500 XT 6GB",
-      "content": "IT之家 5 月 2 日消息，开发商 Unknown Worlds 现已在 Steam 平台公布了《深海迷航 2》PC 版配置要求。 IT之家附具体配置需求如下： 项目 最低配置 推荐配置 操作系统 Windows 10/11 Windows 11 处理器 英特尔酷睿 i5-8400/AMD 锐龙 5 2600 英特尔酷睿 i7-13700/AMD 锐龙 7 7700X 内存 12GB 16GB 显卡 英伟达 GTX 1660 6GB / AMD RX 5500 XT 6GB",
-      "category": "semiconductor",
-      "tags": [
-        "AMD",
-        "英伟达"
-      ],
-      "publish_time": "2026-05-02T15:38:32+08:00",
+      "publish_time": "2026-05-06T21:59:10+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/019.htm",
+          "url": "https://www.ithome.com/0/947/011.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651885+08:00",
+          "verify_time": "2026-05-06T23:04:37.930411+08:00",
           "credibility": 78
         }
       ],
       "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "英伟达",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
         {
           "symbol": "AMD",
           "name": "超威半导体",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "INTC",
-          "name": "英特尔",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 63
-      },
-      "status": "published"
-    },
-    {
-      "id": "348906fcc2c590",
-      "url": "https://www.ithome.com/0/946/017.htm",
-      "title": "技嘉官宣英特尔 600 / 700 / 800 系主板支持单子通道的 HUDIMM 内存条",
-      "summary": "IT之家 5 月 2 日消息，技嘉 (GIGABYTE)4 月 30 日宣布为其英特尔 600 / 700 / 800 系列主板推出支持单子通道 HUDIMM 内存模组的 BIOS 更新，以应对全球 DDR5 持续供应短缺导致价格居高不下的现状。 技嘉表示，HUDIMM 通过调整单条内存条的 DRAM 芯片数量 使内存制造商能够以显著更低的价格提供 DDR5 内存条 ，让此前因价格因素被排除在 DDR5 生态系统之外的主流用户、系统集成商、入门级装机用户也能更轻松地使用现代",
-      "content": "IT之家 5 月 2 日消息，技嘉 (GIGABYTE)4 月 30 日宣布为其英特尔 600 / 700 / 800 系列主板推出支持单子通道 HUDIMM 内存模组的 BIOS 更新，以应对全球 DDR5 持续供应短缺导致价格居高不下的现状。 技嘉表示，HUDIMM 通过调整单条内存条的 DRAM 芯片数量 使内存制造商能够以显著更低的价格提供 DDR5 内存条 ，让此前因价格因素被排除在 DDR5 生态系统之外的主流用户、系统集成商、入门级装机用户也能更轻松地使用现代",
-      "category": "semiconductor",
-      "tags": [
-        "芯片"
-      ],
-      "publish_time": "2026-05-02T15:34:42+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/017.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.652134+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "INTC",
-          "name": "英特尔",
           "exchange": "NASDAQ",
           "impact": "neutral",
           "reason": "标题/摘要直接提及",
@@ -186,25 +93,167 @@
         "credibility_score": 78,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "华硕天选 7 Pro Max 游戏本上架：搭锐龙 9 9955HX 处理器，可选 RTX5060/5070/5070Ti",
+      "original_summary": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SKU 如下： RTX 5060 + 16GB RAM + 1TB SSD RTX 5060 + 32GB RAM + 1TB SSD RTX 5070 + 16GB RAM + 1T",
+      "language": "zh-CN"
     },
     {
-      "id": "39e48ff503871a",
-      "url": "https://www.cnbc.com/2026/05/01/what-sandisks-play-on-surging-memory-prices-means-for-our-tech-stocks.html",
-      "title": "What Sandisk's play on surging memory prices means for our tech stocks",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "id": "5fc818b755da8c",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "title": "AI 热潮将三星推至 1T 美元",
+      "summary": "由于人工智能驱动的芯片需求，三星股价飙升，估值突破 1 万亿美元大关，成为继台积电之后第二家达到这一里程碑的亚洲公司。",
+      "content": "由于人工智能驱动的芯片需求，三星股价飙升，估值突破 1 万亿美元大关，成为继台积电之后第二家达到这一里程碑的亚洲公司。",
       "category": "semiconductor",
       "tags": [
-        "memory"
+        "芯片",
+        "TSMC"
       ],
-      "publish_time": "2026-05-02T03:27:52+08:00",
+      "publish_time": "2026-05-06T21:54:09+08:00",
       "sources": [
         {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/what-sandisks-play-on-surging-memory-prices-means-for-our-tech-stocks.html",
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:43.206890+08:00",
+          "verify_time": "2026-05-06T23:03:35.294998+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "exchange": "NYSE",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 63
+      },
+      "status": "published",
+      "original_title": "AI boom pushes Samsung to $1T",
+      "original_summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4677eb6c19e7d7",
+      "url": "https://www.ithome.com/0/946/984.htm",
+      "title": "英伟达、康宁宣布在美国建三座新厂，专注研发 CPO 技术",
+      "summary": "IT之家 5 月 6 日消息，英伟达这家身处人工智能热潮核心的芯片制造商，正与玻璃材料巨头康宁展开合作，双方将在北卡罗来纳州和得克萨斯州新建三座先进制造工厂，全部专注于为这家全球市值最高的半导体企业研发光通信技术。 两家公司在当地时间周三发布的联合新闻稿中表示，这批新工厂将至少创造 3000 个就业岗位， 同时让康宁在美国的光通信制造产能提升 10 倍，并将其在美国的光纤产能提升 50% 以上。 此外，康宁还与英伟达签署证券购买协议，作为双方长期合作伙伴关系的重要组成部分，康",
+      "content": "IT之家 5 月 6 日消息，英伟达这家身处人工智能热潮核心的芯片制造商，正与玻璃材料巨头康宁展开合作，双方将在北卡罗来纳州和得克萨斯州新建三座先进制造工厂，全部专注于为这家全球市值最高的半导体企业研发光通信技术。 两家公司在当地时间周三发布的联合新闻稿中表示，这批新工厂将至少创造 3000 个就业岗位， 同时让康宁在美国的光通信制造产能提升 10 倍，并将其在美国的光纤产能提升 50% 以上。 此外，康宁还与英伟达签署证券购买协议，作为双方长期合作伙伴关系的重要组成部分，康",
+      "category": "semiconductor",
+      "tags": [
+        "芯片",
+        "半导体",
+        "英伟达"
+      ],
+      "publish_time": "2026-05-06T19:58:55+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/984.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.933182+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "英伟达、康宁宣布在美国建三座新厂，专注研发 CPO 技术",
+      "original_summary": "IT之家 5 月 6 日消息，英伟达这家身处人工智能热潮核心的芯片制造商，正与玻璃材料巨头康宁展开合作，双方将在北卡罗来纳州和得克萨斯州新建三座先进制造工厂，全部专注于为这家全球市值最高的半导体企业研发光通信技术。 两家公司在当地时间周三发布的联合新闻稿中表示，这批新工厂将至少创造 3000 个就业岗位， 同时让康宁在美国的光通信制造产能提升 10 倍，并将其在美国的光纤产能提升 50% 以上。 此外，康宁还与英伟达签署证券购买协议，作为双方长期合作伙伴关系的重要组成部分，康",
+      "language": "zh-CN"
+    },
+    {
+      "id": "19bcfd049a2175",
+      "url": "https://www.ithome.com/0/946/971.htm",
+      "title": "ADTechnology 获得 AI HPC 芯粒设计服务订单：400 亿韩元，三星 4nm 制程",
+      "summary": "IT之家 5 月 6 日消息，与三星电子关系密切的韩国芯片设计服务企业 ADTechnology 近日宣布，其从一家美国 Fabless 企业处获得了价值 400 亿韩元（IT之家注：现汇率约合 1.84 亿元人民币）的 AI HPC SoC 芯粒“交钥匙”订单。 该芯片将 采用三星晶圆代工的 4nm 工艺制程 ， 配合“新一代”HBM 内存和 2.5D 异构集成先进封装技术 ，计划 2026 年流片、2028 年大规模量产。 IT之家注意到，ADTechnology 还在今",
+      "content": "IT之家 5 月 6 日消息，与三星电子关系密切的韩国芯片设计服务企业 ADTechnology 近日宣布，其从一家美国 Fabless 企业处获得了价值 400 亿韩元（IT之家注：现汇率约合 1.84 亿元人民币）的 AI HPC SoC 芯粒“交钥匙”订单。 该芯片将 采用三星晶圆代工的 4nm 工艺制程 ， 配合“新一代”HBM 内存和 2.5D 异构集成先进封装技术 ，计划 2026 年流片、2028 年大规模量产。 IT之家注意到，ADTechnology 还在今",
+      "category": "semiconductor",
+      "tags": [
+        "HBM",
+        "芯片"
+      ],
+      "publish_time": "2026-05-06T18:47:55+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/971.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.934776+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：半导体",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：半导体",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "ADTechnology 获得 AI HPC 芯粒设计服务订单：400 亿韩元，三星 4nm 制程",
+      "original_summary": "IT之家 5 月 6 日消息，与三星电子关系密切的韩国芯片设计服务企业 ADTechnology 近日宣布，其从一家美国 Fabless 企业处获得了价值 400 亿韩元（IT之家注：现汇率约合 1.84 亿元人民币）的 AI HPC SoC 芯粒“交钥匙”订单。 该芯片将 采用三星晶圆代工的 4nm 工艺制程 ， 配合“新一代”HBM 内存和 2.5D 异构集成先进封装技术 ，计划 2026 年流片、2028 年大规模量产。 IT之家注意到，ADTechnology 还在今",
+      "language": "zh-CN"
+    },
+    {
+      "id": "97971680dbc71e",
+      "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
+      "title": "随着内存股加速上涨，美光科技市值突破 7000 亿美元",
+      "summary": "由于人工智能芯片所需的内存需求旺盛，美光已成为美国最有价值的科技公司之一。",
+      "content": "由于人工智能芯片所需的内存需求旺盛，美光已成为美国最有价值的科技公司之一。",
+      "category": "semiconductor",
+      "tags": [
+        "芯片",
+        "memory"
+      ],
+      "publish_time": "2026-05-06T04:23:48+08:00",
+      "sources": [
+        {
+          "name": "CNBC 科技",
+          "url": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.260004+08:00",
           "credibility": 86
         }
       ],
@@ -233,26 +282,171 @@
         "credibility_score": 86,
         "opportunity_score": 33
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
+      "original_summary": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips.",
+      "language": "zh-CN"
     },
     {
-      "id": "62e952e02196b6",
-      "url": "https://www.cnbc.com/2026/05/01/nvidia-chips-jensen-huang-h200-lutnick-chris-coons.html",
-      "title": "Lutnick gets grilling on Nvidia chip sales to China in letter from Sen. Chris Coons",
-      "summary": "Sen. Chris Coons demanded answers on H200 chips sales to China after Commerce Secretary Howard Lutnick and the Nvidia CEO Jensen Huang give differing answers.",
-      "content": "Sen. Chris Coons demanded answers on H200 chips sales to China after Commerce Secretary Howard Lutnick and the Nvidia CEO Jensen Huang give differing answers.",
+      "id": "4e12cc4b462678",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm",
+      "title": "斯坦福大学的新芯片以惊人的低能量将光增强 100 倍",
+      "summary": "斯坦福大学的研究人员开发了一种紧凑型光学放大器，可以用很少的功率显着增强光信号。通过在环形谐振器内回收能量，该器件以最小的噪声实现了强大的放大",
+      "content": "斯坦福大学的研究人员开发了一种紧凑型光学放大器，可以用很少的功率显着增强光信号。通过在环形谐振器内回收能量，该器件以最小的噪声实现了强大的放大",
       "category": "semiconductor",
       "tags": [
-        "chip",
-        "NVIDIA"
+        "芯片"
       ],
-      "publish_time": "2026-05-01T22:08:32+08:00",
+      "publish_time": "2026-05-06T04:21:16+08:00",
       "sources": [
         {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/nvidia-chips-jensen-huang-h200-lutnick-chris-coons.html",
+          "name": "ScienceDaily 科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:43.207812+08:00",
+          "verify_time": "2026-05-06T23:04:05.668143+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：半导体",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：半导体",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Stanford’s new chip boosts light 100x with surprisingly low energy",
+      "original_summary": "Researchers at Stanford have developed a compact optical amplifier that dramatically boosts light signals using very little power. By recycling energy inside a looping resonator, the device achieves strong amplification with minimal noise a",
+      "language": "zh-CN"
+    },
+    {
+      "id": "8f1b3d6208c191",
+      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "title": "ASML 首席执行官 Christophe Fouquet 谈其公司的垄断：没有人会来找我们",
+      "summary": "Christophe Fouquet 在 ASML 工作了十多年，于 2024 年成为首席执行官。周二早上，在出席米尔肯研究所全球会议之前，他在比佛利山庄酒店的屋顶露台上与本编辑坐下来",
+      "content": "Christophe Fouquet 在 ASML 工作了十多年，于 2024 年成为首席执行官。周二早上，在出席米尔肯研究所全球会议之前，他在比佛利山庄酒店的屋顶露台上与本编辑坐下来",
+      "category": "semiconductor",
+      "tags": [
+        "ASML"
+      ],
+      "publish_time": "2026-05-06T04:06:40+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:35.297185+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "ASML",
+          "name": "阿斯麦",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "original_summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Confe",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4d5039fc929a90",
+      "url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
+      "title": "苹果芯片谈判报告推动英特尔股价飙升 13%，创历史新高",
+      "summary": "有报道称，苹果公司正在讨论在其美国设备中使用英特尔芯片，继上个月历史性地飙升 114% 后，股价出现了上涨。",
+      "content": "有报道称，苹果公司正在讨论在其美国设备中使用英特尔芯片，继上个月历史性地飙升 114% 后，股价出现了上涨。",
+      "category": "semiconductor",
+      "tags": [
+        "芯片",
+        "Intel"
+      ],
+      "publish_time": "2026-05-06T04:02:41+08:00",
+      "sources": [
+        {
+          "name": "CNBC 科技",
+          "url": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.260347+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "INTC",
+          "name": "英特尔",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        },
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 71
+      },
+      "status": "published",
+      "original_title": "Intel soars 13% on report of Apple chip talks, hits new all-time high",
+      "original_summary": "The jump comes on reports that Apple is discussing using Intel chips for its U.S. devices and follows a historic 114% surge last month.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "e37bced51e046c",
+      "url": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
+      "title": "新 NGA 负责人在 2026 年 GEOINT 研讨会上首次亮相",
+      "summary": "当米歇尔·布雷登坎普中将在周三的 GEOINT 大会上发表闭幕主题演讲时，这将标志着她首次担任国家地理空间情报局 (NGA) 局长——她在任职期间几乎没有大张旗鼓地担任这一职务。",
+      "content": "当米歇尔·布雷登坎普中将在周三的 GEOINT 大会上发表闭幕主题演讲时，这将标志着她首次担任国家地理空间情报局 (NGA) 局长——她在任职期间几乎没有大张旗鼓地担任这一职务。",
+      "category": "semiconductor",
+      "tags": [
+        "Intel"
+      ],
+      "publish_time": "2026-05-06T03:20:00+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.155768+08:00",
           "credibility": 86
         }
       ],
@@ -262,8 +456,16 @@
           "name": "英伟达",
           "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
+          "reason": "板块弱关联：半导体",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "TSM",
+          "name": "台积电",
+          "exchange": "NYSE",
+          "impact": "neutral",
+          "reason": "板块弱关联：半导体",
+          "confidence": "sector"
         }
       ],
       "metrics": {
@@ -271,35 +473,37 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 86,
-        "opportunity_score": 59
+        "opportunity_score": 33
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "New NGA head makes industry debut at GEOINT Symposium 2026",
+      "original_summary": "When Lt. Gen. Michele Bredenkamp takes the stage for the closing keynote at GEOINT Wednesday, it will mark her first as the director of the National Geospatial-Intelligence Agency (NGA) — a role she assumed with little fanfare during the go",
+      "language": "zh-CN"
     },
     {
-      "id": "19635d5449bb01",
-      "url": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
-      "title": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq",
-      "summary": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
-      "content": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
+      "id": "45e272e001c21d",
+      "url": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+      "title": "AMD 正在为 Linux 添加 HDMI 2.1 支持。这对于 Steam Machine 来说是个好消息。",
+      "summary": "现已添加固定费率链接；显示流压缩即将推出。",
+      "content": "现已添加固定费率链接；显示流压缩即将推出。",
       "category": "semiconductor",
       "tags": [
-        "chip",
-        "Intel"
+        "AMD"
       ],
-      "publish_time": "2026-05-01T04:10:36+08:00",
+      "publish_time": "2026-05-05T00:26:49+08:00",
       "sources": [
         {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
+          "name": "Ars Technica 科技媒体",
+          "url": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:42.493288+08:00",
+          "verify_time": "2026-05-06T23:03:39.118156+08:00",
           "credibility": 86
         }
       ],
       "stocks": [
         {
-          "symbol": "INTC",
-          "name": "英特尔",
+          "symbol": "AMD",
+          "name": "超威半导体",
           "exchange": "NASDAQ",
           "impact": "neutral",
           "reason": "标题/摘要直接提及",
@@ -313,94 +517,10 @@
         "credibility_score": 86,
         "opportunity_score": 59
       },
-      "status": "published"
-    },
-    {
-      "id": "3fa659602edbc4",
-      "url": "https://electrek.co/2026/04/30/byd-denza-z-1000-hp-luxury-drop-top-ev-hypercar-images/",
-      "title": "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images]",
-      "summary": "BYD calls it the world’s first intelligent electric supercar. After its global debut at the Beijing Auto Show, the Denza Z is set to go head-to-head with Europe’s top luxury automakers this summer. more…",
-      "content": "BYD calls it the world’s first intelligent electric supercar. After its global debut at the Beijing Auto Show, the Denza Z is set to go head-to-head with Europe’s top luxury automakers this summer. more…",
-      "category": "semiconductor",
-      "tags": [
-        "Intel"
-      ],
-      "publish_time": "2026-05-01T03:45:28+08:00",
-      "sources": [
-        {
-          "name": "Electrek",
-          "url": "https://electrek.co/2026/04/30/byd-denza-z-1000-hp-luxury-drop-top-ev-hypercar-images/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:56.308904+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "negative",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "f0714b081908ea",
-      "url": "https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-q-cab-q-ant-enqase-iqmp-and-ionq/",
-      "title": "Who’s News: Strategic Leadership Appointments at PsiQuantum, Q-CAB, Q.ANT, enQase, IQMP, and IonQ",
-      "summary": "PsiQuantum has announced the appointment of Lip-Bu Tan to its Board of Directors. Tan, a titan of the semiconductor industry and current CEO of Intel Corporation, brings decades of experience in building and scaling foundational computing t",
-      "content": "PsiQuantum has announced the appointment of Lip-Bu Tan to its Board of Directors. Tan, a titan of the semiconductor industry and current CEO of Intel Corporation, brings decades of experience in building and scaling foundational computing t",
-      "category": "semiconductor",
-      "tags": [
-        "semiconductor",
-        "Intel"
-      ],
-      "publish_time": "2026-04-30T09:06:39+08:00",
-      "sources": [
-        {
-          "name": "Quantum Computing Report",
-          "url": "https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-q-cab-q-ant-enqase-iqmp-and-ionq/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:53.304271+08:00",
-          "credibility": 80
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "INTC",
-          "name": "英特尔",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ",
-          "exchange": "NYSE",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 80,
-        "opportunity_score": 61
-      },
-      "status": "published"
+      "status": "published",
+      "original_title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
+      "original_summary": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
+      "language": "zh-CN"
     }
   ]
 }

@@ -2,26 +2,135 @@
   "version": "3.0",
   "category": "robotics",
   "category_name": "机器人",
-  "total": 3,
-  "updated": "2026-05-02T21:38:12.273017+08:00",
+  "total": 5,
+  "updated": "2026-05-06T23:04:59.695743+08:00",
   "news": [
     {
-      "id": "f2f3448b2fde97",
-      "url": "https://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/",
-      "title": "NASA to increase value of CLPS contract to support surge of lunar lander missions",
-      "summary": "NASA is planning to increase the total value of a contract for robotic lunar lander missions to support a proposed surge in flights for the agency’s moon base plans. The post NASA to increase value of CLPS contract to support surge of lunar",
-      "content": "NASA is planning to increase the total value of a contract for robotic lunar lander missions to support a proposed surge in flights for the agency’s moon base plans. The post NASA to increase value of CLPS contract to support surge of lunar",
+      "id": "2b8de1b2ea99f3",
+      "url": "https://www.fiercebiotech.com/medtech/olympus-endorobotics-distribution-pact-robot-assisted-endoscopic-tech",
+      "title": "奥林巴斯与 EndoRobotics 签署机器人辅助内窥镜技术分销协议",
+      "summary": "奥林巴斯签署了一项合作协议，在全球范围内分销韩国 EndoRobotics 生产的机器人辅助技术，重点关注内窥镜手术。",
+      "content": "奥林巴斯签署了一项合作协议，在全球范围内分销韩国 EndoRobotics 生产的机器人辅助技术，重点关注内窥镜手术。",
       "category": "robotics",
       "tags": [
-        "robot"
+        "机器人",
+        "机器人"
       ],
-      "publish_time": "2026-05-02T06:43:05+08:00",
+      "publish_time": "2026-05-06T23:04:09.638098+08:00",
       "sources": [
         {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/",
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/medtech/olympus-endorobotics-distribution-pact-robot-assisted-endoscopic-tech",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:55.628121+08:00",
+          "verify_time": "2026-05-06T23:04:09.638235+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 53
+      },
+      "status": "published",
+      "original_title": "Olympus, EndoRobotics in distribution pact for robot-assisted endoscopic tech",
+      "original_summary": "Olympus inked a collaboration deal for the global distribution of robot-assisted technologies produced by South Korea’s EndoRobotics with a focus on endoscopic procedures.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "c3bf22d1240b5b",
+      "url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study",
+      "title": "强生 (J&J) 的 Ottava 手术机器人在胃绕道手术研究中达到了主要终点",
+      "summary": "强生医疗科技公司正在宣传其 Ottava 软组织手术机器人的首次临床研究的积极结果，表明该系统可以安全地进行胃绕道手术。",
+      "content": "强生医疗科技公司正在宣传其 Ottava 软组织手术机器人的首次临床研究的积极结果，表明该系统可以安全地进行胃绕道手术。",
+      "category": "robotics",
+      "tags": [
+        "机器人"
+      ],
+      "publish_time": "2026-05-06T23:04:09.637437+08:00",
+      "sources": [
+        {
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:09.637595+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "JNJ",
+          "name": "强生",
+          "exchange": "NYSE",
+          "impact": "positive",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 61
+      },
+      "status": "published",
+      "original_title": "J&J’s Ottava surgical robot meets primary endpoints in gastric bypass study",
+      "original_summary": "Johnson & Johnson MedTech is touting positive results from the first clinical study of its Ottava soft-tissue surgical robot, showing the system can safely perform gastric bypass surgery.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6a1d1dca1ca641",
+      "url": "https://www.ithome.com/0/946/972.htm",
+      "title": "江苏盐城积极引入无人机空中执法：预判当地易堵节点、全天候自动识别违停占道",
+      "summary": "IT之家 5 月 6 日消息，据“江苏警方”公众号，江苏盐城近年来积极引入警用无人机参与交通管理工作，在城市部署大疆机场 3 打造“空地一体、全域覆盖”智慧警务体系，可实现“分钟级”处警、“主动式”预警。 IT之家参考报道获悉，目前盐城公安交管部门将市区全域划分为 44 个飞控网格，每个网格配备 1 套自动机场，另配备便携式 4G 无人机 75 架，单机勤务半径达 7 公里，总覆盖里程超 150 公里。 例如，在最近的 2026 年五一节假日场景，盐城公安交管部门依托智慧平台",
+      "content": "IT之家 5 月 6 日消息，据“江苏警方”公众号，江苏盐城近年来积极引入警用无人机参与交通管理工作，在城市部署大疆机场 3 打造“空地一体、全域覆盖”智慧警务体系，可实现“分钟级”处警、“主动式”预警。 IT之家参考报道获悉，目前盐城公安交管部门将市区全域划分为 44 个飞控网格，每个网格配备 1 套自动机场，另配备便携式 4G 无人机 75 架，单机勤务半径达 7 公里，总覆盖里程超 150 公里。 例如，在最近的 2026 年五一节假日场景，盐城公安交管部门依托智慧平台",
+      "category": "robotics",
+      "tags": [
+        "无人机"
+      ],
+      "publish_time": "2026-05-06T18:54:55+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/972.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.934592+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 43
+      },
+      "status": "published",
+      "original_title": "江苏盐城积极引入无人机空中执法：预判当地易堵节点、全天候自动识别违停占道",
+      "original_summary": "IT之家 5 月 6 日消息，据“江苏警方”公众号，江苏盐城近年来积极引入警用无人机参与交通管理工作，在城市部署大疆机场 3 打造“空地一体、全域覆盖”智慧警务体系，可实现“分钟级”处警、“主动式”预警。 IT之家参考报道获悉，目前盐城公安交管部门将市区全域划分为 44 个飞控网格，每个网格配备 1 套自动机场，另配备便携式 4G 无人机 75 架，单机勤务半径达 7 公里，总覆盖里程超 150 公里。 例如，在最近的 2026 年五一节假日场景，盐城公安交管部门依托智慧平台",
+      "language": "zh-CN"
+    },
+    {
+      "id": "abdd991ed9f21b",
+      "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "title": "Nuro 在 Uber 机器人出租车服务推出之前获得无人驾驶测试许可",
+      "summary": "这家硅谷自动驾驶初创公司尚未开始无人驾驶测试。",
+      "content": "这家硅谷自动驾驶初创公司尚未开始无人驾驶测试。",
+      "category": "robotics",
+      "tags": [
+        "机器人"
+      ],
+      "publish_time": "2026-05-06T08:07:47+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:35.295976+08:00",
           "credibility": 86
         }
       ],
@@ -33,68 +142,29 @@
         "credibility_score": 86,
         "opportunity_score": 55
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "original_summary": "The Silicon Valley AV startup has not started driverless testing yet.",
+      "language": "zh-CN"
     },
     {
-      "id": "dd9cbea755815f",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "content": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "id": "98365642c479d8",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
+      "title": "美国宇航局好奇号火星车将其钻头从岩石中解放出来",
+      "summary": "这一系列图像显示了美国宇航局的好奇号火星探测器，它的机械臂末端的钻头上粘着一块岩石，在挥动手臂并运行钻头几次后，最终将岩石分离。所显示的图像",
+      "content": "这一系列图像显示了美国宇航局的好奇号火星探测器，它的机械臂末端的钻头上粘着一块岩石，在挥动手臂并运行钻头几次后，最终将岩石分离。所显示的图像",
       "category": "robotics",
       "tags": [
-        "robot",
-        "robotics",
-        "humanoid"
+        "机器人"
       ],
-      "publish_time": "2026-05-02T06:13:27+08:00",
+      "publish_time": "2026-05-06T01:58:42+08:00",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:43.770748+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published"
-    },
-    {
-      "id": "66f473029918a9",
-      "url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
-      "title": "Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite",
-      "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
-      "content": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
-      "category": "robotics",
-      "tags": [
-        "robot",
-        "humanoid"
-      ],
-      "publish_time": "2026-05-01T14:58:26+08:00",
-      "sources": [
-        {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:42.492683+08:00",
-          "credibility": 86
+          "verify_time": "2026-05-06T23:04:25.254450+08:00",
+          "credibility": 95
         }
       ],
       "stocks": [],
@@ -102,10 +172,13 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
+        "credibility_score": 95,
+        "opportunity_score": 60
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "NASA’s Curiosity Rover Frees Its Drill From a Rock",
+      "original_summary": "Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock. The imagery showin",
+      "language": "zh-CN"
     }
   ]
 }

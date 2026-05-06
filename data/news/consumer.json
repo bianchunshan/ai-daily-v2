@@ -3,26 +3,27 @@
   "category": "consumer",
   "category_name": "消费电子",
   "total": 30,
-  "updated": "2026-05-02T21:38:12.280460+08:00",
+  "updated": "2026-05-06T23:04:59.704076+08:00",
   "news": [
     {
-      "id": "e7dfcbd7a35af6",
-      "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astellas-appoints-new-top-strategist-sanofi-japan",
-      "title": "Chutes & Ladders—Astellas appoints new top strategist from Sanofi Japan",
-      "summary": "After last month’s departure of longtime executive Adam Pearson, Astellas has picked out a new strategist to fill the open spot on its C-suite with Takahiko Iwaya, who takes over as chief strategy officer on July 1.",
-      "content": "After last month’s departure of longtime executive Adam Pearson, Astellas has picked out a new strategist to fill the open spot on its C-suite with Takahiko Iwaya, who takes over as chief strategy officer on July 1.",
+      "id": "3f77ec0ead8c3d",
+      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
+      "title": "机器人应用商店已经到来：Hugging Face 推出开源 Reachy Mini 应用商店，其中包含 200 多个应用",
+      "summary": "如今，几乎所有可以想象到的用户和用例都有一款应用程序，但它们的一个共同点是它们都以一种设备为中心：智能手机。如今，这种情况发生了变化，因为 Hugging Face 是一家拥有 10 年历史的纽约市街店。",
+      "content": "如今，几乎所有可以想象到的用户和用例都有一款应用程序，但它们的一个共同点是它们都以一种设备为中心：智能手机。如今，这种情况发生了变化，因为 Hugging Face 是一家拥有 10 年历史的纽约市街店。",
       "category": "consumer",
       "tags": [
+        "smartphone",
         "AR"
       ],
-      "publish_time": "2026-05-02T21:37:50.096611+08:00",
+      "publish_time": "2026-05-06T23:00:00+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astellas-appoints-new-top-strategist-sanofi-japan",
+          "name": "VentureBeat 科技媒体",
+          "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:50.096734+08:00",
-          "credibility": 84
+          "verify_time": "2026-05-06T23:04:33.007244+08:00",
+          "credibility": 80
         }
       ],
       "stocks": [
@@ -47,76 +48,32 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 26
-      },
-      "status": "published"
-    },
-    {
-      "id": "0a94d8f57207a8",
-      "url": "https://www.fiercebiotech.com/biotech/cber-chief-prasad-steps-aside-deputy-takes-reins-search-successor-continues",
-      "title": "CBER chief Prasad steps aside, deputy takes the reins as search for successor continues",
-      "summary": "Katherine Szarama, Ph.D., will take over as CBER director in an acting capacity while the search for a permanent director continues.",
-      "content": "Katherine Szarama, Ph.D., will take over as CBER director in an acting capacity while the search for a permanent director continues.",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-02T21:37:50.096315+08:00",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/cber-chief-prasad-steps-aside-deputy-takes-reins-search-successor-continues",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:50.096455+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
+        "credibility_score": 80,
         "opportunity_score": 31
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
+      "original_summary": "There's an app for nearly every imaginable user and use case these days, but one thing they all have in common is that they're centered around one device: the smartphone. That changes today as Hugging Face , the 10-year-old New York City st",
+      "language": "zh-CN"
     },
     {
-      "id": "bdc7fde2774e79",
-      "url": "https://www.fiercebiotech.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble",
-      "title": "Summit's PD-1xVEGF interim trial miss surprises analysts, shares tumble",
-      "summary": "A surprise interim trial miss in ivonescimab’s closely watched Harmoni-3 trial has sent Summit Therapeutics’ shares tumbling, casting a shadow over the company’s momentum as the star PD-1xVEGF bispecific heads into the ASCO annual meeting w",
-      "content": "A surprise interim trial miss in ivonescimab’s closely watched Harmoni-3 trial has sent Summit Therapeutics’ shares tumbling, casting a shadow over the company’s momentum as the star PD-1xVEGF bispecific heads into the ASCO annual meeting w",
+      "id": "7391040b6dfa1e",
+      "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+      "title": "优步和迪士尼在当前经济中也看到了同样显着的动态。两只股票都在飙升",
+      "summary": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
+      "content": "优步和迪士尼指出了消费背景的弹性，消费者继续为乘车、送餐、度假和主题公园旅行付费。",
       "category": "consumer",
       "tags": [
         "AR"
       ],
-      "publish_time": "2026-05-02T21:37:50.096035+08:00",
+      "publish_time": "2026-05-06T22:56:57+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble",
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:50.096280+08:00",
-          "credibility": 84
+          "verify_time": "2026-05-06T23:03:33.930014+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [
@@ -141,201 +98,31 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
+        "credibility_score": 86,
+        "opportunity_score": 33
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+      "original_summary": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
+      "language": "zh-CN"
     },
     {
-      "id": "7b7d5abe4b9e6c",
-      "url": "https://www.ithome.com/0/946/068.htm",
-      "title": "影石 GO Ultra x Hello Kitty 限定版口袋相机 5 月 14 日发布",
-      "summary": "IT之家 5 月 2 日消息，影石 4 月 30 日宣布，影石 GO Ultra x Hello Kitty 限定版，5 月 14 日 20:00 即将甜蜜来袭。 IT之家注意到， 影石 Insta360 GO Ultra 口袋相机于 2025 年 8 月发布 ，支持 4K60fps 视频拍摄，售价 2598 元。这款产品采用 53g 小方块机身设计，标配内含磁吸简易夹和角度可调整磁吸挂绳，无需时刻盯着手机或相机取景框。 影石 GO Ultra 采用全新 1/1.28 英寸大",
-      "content": "IT之家 5 月 2 日消息，影石 4 月 30 日宣布，影石 GO Ultra x Hello Kitty 限定版，5 月 14 日 20:00 即将甜蜜来袭。 IT之家注意到， 影石 Insta360 GO Ultra 口袋相机于 2025 年 8 月发布 ，支持 4K60fps 视频拍摄，售价 2598 元。这款产品采用 53g 小方块机身设计，标配内含磁吸简易夹和角度可调整磁吸挂绳，无需时刻盯着手机或相机取景框。 影石 GO Ultra 采用全新 1/1.28 英寸大",
-      "category": "consumer",
-      "tags": [
-        "手机"
-      ],
-      "publish_time": "2026-05-02T21:01:48+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/068.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.645877+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 29
-      },
-      "status": "published"
-    },
-    {
-      "id": "7c24518b237966",
-      "url": "https://www.ithome.com/0/946/038.htm",
-      "title": "联想拯救者游戏手机 Y70 新一代预计搭载高通骁龙 8 Gen 5 应用处理器",
-      "summary": "IT之家 5 月 2 日消息，联想 (Lenovo) 官方在 4 月 29 日对拯救者游戏手机 Y70 新一代的散热系统进行了介绍， IT之家此前做过报道 。而根据进一步的分析，相关图片很可能还包含了该智能手机的应用处理器 (AP) 型号信息。 IT之家注意到，宣传图里应用处理器图标的左下方仅写有 \"8\"，而 无 \"Elite\" ；另一方面，高通在骁龙 8 Elite Gen 5 和 8 Gen 5 的官方图标上采用了两种不同的配色方案，而 宣传图里图标的配色 很明显 与 8",
-      "content": "IT之家 5 月 2 日消息，联想 (Lenovo) 官方在 4 月 29 日对拯救者游戏手机 Y70 新一代的散热系统进行了介绍， IT之家此前做过报道 。而根据进一步的分析，相关图片很可能还包含了该智能手机的应用处理器 (AP) 型号信息。 IT之家注意到，宣传图里应用处理器图标的左下方仅写有 \"8\"，而 无 \"Elite\" ；另一方面，高通在骁龙 8 Elite Gen 5 和 8 Gen 5 的官方图标上采用了两种不同的配色方案，而 宣传图里图标的配色 很明显 与 8",
-      "category": "consumer",
-      "tags": [
-        "手机"
-      ],
-      "publish_time": "2026-05-02T19:01:51+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/038.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.649425+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "e8bc6db64dd2f3",
-      "url": "https://www.ithome.com/0/946/015.htm",
-      "title": "最低配不涨价？消息称苹果计划对 iPhone 18 Pro 系列手机采取激进定价策略",
-      "summary": "IT之家 5 月 2 日消息，据科技媒体 9To5Mac 昨天报道，广发证券分析师蒲得宇（Jeff Pu）预测，苹果将对 iPhone 18 Pro 系列手机采取激进定价策略。与此同时许多安卓厂商已经扛不住 DRAM 涨价潮，旗下机型不约而同地涨价。 蒲得宇在研究报告中表示，苹果将在 iPhone 18 Pro 和 Pro Max 中采用“激进定价策略”， 至少最低配置版本会采用这种策略 。 同时，知名“果链”分析师郭明錤也曾表示， 苹果希望今年的新机能与此前机型保持相同价格",
-      "content": "IT之家 5 月 2 日消息，据科技媒体 9To5Mac 昨天报道，广发证券分析师蒲得宇（Jeff Pu）预测，苹果将对 iPhone 18 Pro 系列手机采取激进定价策略。与此同时许多安卓厂商已经扛不住 DRAM 涨价潮，旗下机型不约而同地涨价。 蒲得宇在研究报告中表示，苹果将在 iPhone 18 Pro 和 Pro Max 中采用“激进定价策略”， 至少最低配置版本会采用这种策略 。 同时，知名“果链”分析师郭明錤也曾表示， 苹果希望今年的新机能与此前机型保持相同价格",
-      "category": "consumer",
-      "tags": [
-        "iPhone",
-        "手机"
-      ],
-      "publish_time": "2026-05-02T15:08:26+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/015.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.652358+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "defb2c7658069e",
-      "url": "https://www.ithome.com/0/946/012.htm",
-      "title": "时代的眼泪：中国移动“移动梦网”等业务下线",
-      "summary": "IT之家 5 月 2 日消息，根据中国移动今年 3 月发布的公告，因产品运营策略调整，和生活、农信通、Mobile Market、12590 (语音杂志)、梦网全网短彩业务 5 款产品，将于 2026 年 4 月 30 日 24:00 正式下线并停止相关服务。 据IT之家了解，公告中提到的梦网全网短彩业务， 隶属于中国移动在 2000 年推出的移动数据业务品牌“移动梦网” 。移动梦网（Monternet）意为“Mobile+Internet”，是中国移动向客户提供的移动数据业",
-      "content": "IT之家 5 月 2 日消息，根据中国移动今年 3 月发布的公告，因产品运营策略调整，和生活、农信通、Mobile Market、12590 (语音杂志)、梦网全网短彩业务 5 款产品，将于 2026 年 4 月 30 日 24:00 正式下线并停止相关服务。 据IT之家了解，公告中提到的梦网全网短彩业务， 隶属于中国移动在 2000 年推出的移动数据业务品牌“移动梦网” 。移动梦网（Monternet）意为“Mobile+Internet”，是中国移动向客户提供的移动数据业",
+      "id": "1e749f9107cd27",
+      "url": "https://www.ithome.com/0/947/017.htm",
+      "title": "“最强陆巡”丰田兰德酷路泽 300 混动版在澳大利亚上市：3.5 升双涡轮 V6 心脏加持",
+      "summary": "IT之家 5 月 6 日消息，丰田兰德酷路泽 300 混动版今日在澳大利亚正式上市，新车是迄今动力最强、价格也最高的兰德酷路泽。 该车在澳大利亚市场提供两个版本。GR Sport 主打越野，基本沿用标准 V6 车型的车身套件；Sahara ZX 更偏豪华，采用专属前保险杠，并通过重新设计的进气口体现混动版身份，均搭载丰田坦途和雷克萨斯 LX 700h 同款的 i-Force Max 3.5 升 双涡轮增压 V6 混动系统 。 这套“性能混动”系统 综合输出 341 千瓦，约合",
+      "content": "IT之家 5 月 6 日消息，丰田兰德酷路泽 300 混动版今日在澳大利亚正式上市，新车是迄今动力最强、价格也最高的兰德酷路泽。 该车在澳大利亚市场提供两个版本。GR Sport 主打越野，基本沿用标准 V6 车型的车身套件；Sahara ZX 更偏豪华，采用专属前保险杠，并通过重新设计的进气口体现混动版身份，均搭载丰田坦途和雷克萨斯 LX 700h 同款的 i-Force Max 3.5 升 双涡轮增压 V6 混动系统 。 这套“性能混动”系统 综合输出 341 千瓦，约合",
       "category": "consumer",
       "tags": [
         "AR"
       ],
-      "publish_time": "2026-05-02T15:04:07+08:00",
+      "publish_time": "2026-05-06T22:49:38+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/012.htm",
+          "url": "https://www.ithome.com/0/947/017.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.652549+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 29
-      },
-      "status": "published"
-    },
-    {
-      "id": "379e66f4074fdb",
-      "url": "https://www.ithome.com/0/946/004.htm",
-      "title": "StarTech 推出业界首创 MacBook 免驱 USB4 原生双屏扩展坞",
-      "summary": "IT之家 5 月 2 日消息，加拿大配件制造商 StarTech.com 当地时间 4 月 30 日宣布推出 “业界首创”的 MacBook 免驱动 USB4 原生双屏扩展坞 208N-USB4-DOCK，该设备同时支持 Windows 和 Linux 操作系统。 这款扩展坞采用 21V DC-in 供电，正面提供 2 个 USB-A 10Gbps、1 个 USB-C 10Gbps；反面则包括 1 个 2.5GbE RJ45、1 个 USB-A 480Mbps、2 个 Dis",
-      "content": "IT之家 5 月 2 日消息，加拿大配件制造商 StarTech.com 当地时间 4 月 30 日宣布推出 “业界首创”的 MacBook 免驱动 USB4 原生双屏扩展坞 208N-USB4-DOCK，该设备同时支持 Windows 和 Linux 操作系统。 这款扩展坞采用 21V DC-in 供电，正面提供 2 个 USB-A 10Gbps、1 个 USB-C 10Gbps；反面则包括 1 个 2.5GbE RJ45、1 个 USB-A 480Mbps、2 个 Dis",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-02T14:34:15+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/004.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.653385+08:00",
+          "verify_time": "2026-05-06T23:04:37.929404+08:00",
           "credibility": 78
         }
       ],
@@ -364,104 +151,28 @@
         "credibility_score": 78,
         "opportunity_score": 25
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "“最强陆巡”丰田兰德酷路泽 300 混动版在澳大利亚上市：3.5 升双涡轮 V6 心脏加持",
+      "original_summary": "IT之家 5 月 6 日消息，丰田兰德酷路泽 300 混动版今日在澳大利亚正式上市，新车是迄今动力最强、价格也最高的兰德酷路泽。 该车在澳大利亚市场提供两个版本。GR Sport 主打越野，基本沿用标准 V6 车型的车身套件；Sahara ZX 更偏豪华，采用专属前保险杠，并通过重新设计的进气口体现混动版身份，均搭载丰田坦途和雷克萨斯 LX 700h 同款的 i-Force Max 3.5 升 双涡轮增压 V6 混动系统 。 这套“性能混动”系统 综合输出 341 千瓦，约合",
+      "language": "zh-CN"
     },
     {
-      "id": "58083087bf608b",
-      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
-      "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
-      "summary": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Ex",
-      "content": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Ex",
+      "id": "de77881f8c0a91",
+      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "title": "在 TechCrunch Disrupt 2026 上，您所有的并购问题都将得到解答",
+      "summary": "来自 Coinbase、M13 和 Mignano Law Group 的领导者在 TechCrunch Disrupt 2026 上谈论并购如何成为一种早期战略。注册即可收听现场直播。",
+      "content": "来自 Coinbase、M13 和 Mignano Law Group 的领导者在 TechCrunch Disrupt 2026 上谈论并购如何成为一种早期战略。注册即可收听现场直播。",
       "category": "consumer",
       "tags": [
         "AR"
       ],
-      "publish_time": "2026-05-02T06:01:53+08:00",
+      "publish_time": "2026-05-06T22:30:00+08:00",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:44.589969+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 57
-      },
-      "status": "published"
-    },
-    {
-      "id": "536c7e7caf067c",
-      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-      "title": "Apple raises the Mac Mini’s starting price",
-      "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during a",
-      "content": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during a",
-      "category": "consumer",
-      "tags": [
-        "Apple",
-        "AR"
-      ],
-      "publish_time": "2026-05-02T05:52:09+08:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:44.590083+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 57
-      },
-      "status": "published"
-    },
-    {
-      "id": "4c84df2c88f257",
-      "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
-      "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
-      "summary": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
-      "content": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-02T05:05:37+08:00",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:45.513976+08:00",
+          "verify_time": "2026-05-06T23:03:35.294644+08:00",
           "credibility": 86
         }
       ],
@@ -490,113 +201,28 @@
         "credibility_score": 86,
         "opportunity_score": 33
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "original_summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+      "language": "zh-CN"
     },
     {
-      "id": "c36587de8c652d",
-      "url": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
-      "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
-      "summary": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
-      "content": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
+      "id": "aedecd291dcfa5",
+      "url": "https://www.ithome.com/0/947/015.htm",
+      "title": "街电：10000mAh 共享充电宝“彩宝 3.0 Pro”已在全国多座城市落地，支持 22.5W 输出",
+      "summary": "IT之家 5 月 6 日消息，共享充电宝服务商“街电”发文，宣布旗下共享充电宝彩宝 3.0 Pro 已在全国多座城市正式落地， 相应产品内置 10000mAh 电池，支持 22.5W 输出 ，对于存在充电需求的用户而言较为友好。 IT之家获悉，相应充电宝提供 USB-C+Lightning 双输出线设计，外壳采用纳米级防火 PC+ABS 合金，通过 UL94V-0 级阻燃测试，内置 10000mAh ATL 电芯，支持 PD、SCP、QC 等协议，号称 30 分钟即可将手机从",
+      "content": "IT之家 5 月 6 日消息，共享充电宝服务商“街电”发文，宣布旗下共享充电宝彩宝 3.0 Pro 已在全国多座城市正式落地， 相应产品内置 10000mAh 电池，支持 22.5W 输出 ，对于存在充电需求的用户而言较为友好。 IT之家获悉，相应充电宝提供 USB-C+Lightning 双输出线设计，外壳采用纳米级防火 PC+ABS 合金，通过 UL94V-0 级阻燃测试，内置 10000mAh ATL 电芯，支持 PD、SCP、QC 等协议，号称 30 分钟即可将手机从",
       "category": "consumer",
       "tags": [
-        "Apple",
-        "iPhone",
-        "AR"
+        "手机"
       ],
-      "publish_time": "2026-05-02T04:11:58+08:00",
+      "publish_time": "2026-05-06T22:28:31+08:00",
       "sources": [
         {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/947/015.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:42.491801+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "positive",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published"
-    },
-    {
-      "id": "81695e5bc0eb2c",
-      "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
-      "title": "Trump's new executive order, with help from Congress, could increase U.S. retirement wealth up to 77%, researchers find",
-      "summary": "Trump's executive order created a new way for Americans to save for retirement and called on Congress to expand the parameters of the deal.",
-      "content": "Trump's executive order created a new way for Americans to save for retirement and called on Congress to expand the parameters of the deal.",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-02T03:00:09+08:00",
-      "sources": [
-        {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:43.207319+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 32
-      },
-      "status": "published"
-    },
-    {
-      "id": "33be641ac2f169",
-      "url": "https://electrek.co/2026/05/01/1-4b-saved-massachusetts-locks-in-cheaper-offshore-wind-power/",
-      "title": "$1.4B saved: Massachusetts locks in cheaper offshore wind power",
-      "summary": "Massachusetts has activated long-term contracts for Vineyard Wind, the state’s first utility-scale offshore wind project. Officials say the move will stabilize prices for 20 years and cut a projected $1.4 billion from customer electricity b",
-      "content": "Massachusetts has activated long-term contracts for Vineyard Wind, the state’s first utility-scale offshore wind project. Officials say the move will stabilize prices for 20 years and cut a projected $1.4 billion from customer electricity b",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-02T02:24:12+08:00",
-      "sources": [
-        {
-          "name": "Electrek",
-          "url": "https://electrek.co/2026/05/01/1-4b-saved-massachusetts-locks-in-cheaper-offshore-wind-power/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:56.307148+08:00",
+          "verify_time": "2026-05-06T23:04:37.929699+08:00",
           "credibility": 78
         }
       ],
@@ -623,27 +249,30 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 20
+        "opportunity_score": 25
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "街电：10000mAh 共享充电宝“彩宝 3.0 Pro”已在全国多座城市落地，支持 22.5W 输出",
+      "original_summary": "IT之家 5 月 6 日消息，共享充电宝服务商“街电”发文，宣布旗下共享充电宝彩宝 3.0 Pro 已在全国多座城市正式落地， 相应产品内置 10000mAh 电池，支持 22.5W 输出 ，对于存在充电需求的用户而言较为友好。 IT之家获悉，相应充电宝提供 USB-C+Lightning 双输出线设计，外壳采用纳米级防火 PC+ABS 合金，通过 UL94V-0 级阻燃测试，内置 10000mAh ATL 电芯，支持 PD、SCP、QC 等协议，号称 30 分钟即可将手机从",
+      "language": "zh-CN"
     },
     {
-      "id": "c1aa070a8b3893",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
-      "content": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "id": "507982d7bcb3b3",
+      "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
+      "title": "报告发现，由于汽车债务达到 1.68 万亿美元，汽车支付挤压了美国人",
+      "summary": "一项新的分析发现，汽车债务已增至 1.68 万亿美元。美国人面临着更昂贵的车辆、更高的利率和更长的贷款期限。",
+      "content": "一项新的分析发现，汽车债务已增至 1.68 万亿美元。美国人面临着更昂贵的车辆、更高的利率和更长的贷款期限。",
       "category": "consumer",
       "tags": [
         "AR"
       ],
-      "publish_time": "2026-05-02T02:23:04+08:00",
+      "publish_time": "2026-05-06T22:09:50+08:00",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:43.770831+08:00",
+          "verify_time": "2026-05-06T23:03:33.930606+08:00",
           "credibility": 86
         }
       ],
@@ -672,26 +301,129 @@
         "credibility_score": 86,
         "opportunity_score": 33
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Car payments squeeze Americans as auto debt hits $1.68 trillion, report finds",
+      "original_summary": "Auto debt has swelled to $1.68 trillion, a new analysis finds. Americans face costlier vehicles, higher interest rates and lengthier loan terms.",
+      "language": "zh-CN"
     },
     {
-      "id": "085fa64cf770b2",
-      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
-      "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
-      "summary": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in Ca",
-      "content": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in Ca",
+      "id": "d9df78ece6d878",
+      "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+      "title": "有些孩子用假胡子绕过年龄验证检查",
+      "summary": "一项新的调查发现，尽管世界各地的年龄验证法律有所增加，但孩子们发现很容易绕过年龄检查。",
+      "content": "一项新的调查发现，尽管世界各地的年龄验证法律有所增加，但孩子们发现很容易绕过年龄检查。",
       "category": "consumer",
       "tags": [
-        "smartphone",
         "AR"
       ],
-      "publish_time": "2026-05-02T01:55:08+08:00",
+      "publish_time": "2026-05-06T21:49:12+08:00",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:44.590625+08:00",
+          "verify_time": "2026-05-06T23:03:35.295213+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Some kids are bypassing age verification checks with a fake mustache",
+      "original_summary": "A new survey found that kids find it easy to bypass age checks, despite a rise in age verification laws around the world.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "521f931a2467a8",
+      "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+      "title": "Ars 要求：分享您的 shell 并向我们展示您精心设计的终端！",
+      "summary": "庆祝让 CLI 的生活更轻松的调整和定制。",
+      "content": "庆祝让 CLI 的生活更轻松的调整和定制。",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T21:32:47+08:00",
+      "sources": [
+        {
+          "name": "Ars Technica 科技媒体",
+          "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:39.116641+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "original_summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6ceeafc1c950fb",
+      "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
+      "title": "是时候放下我的 iPhone Mini",
+      "summary": "不是Mini，是我。推出近五年后，13 Mini 仍然是有史以来最好的手机。这一点没有改变；只是我变了。再次使用它几周后，尽管承认这一点是痛苦的",
+      "content": "不是Mini，是我。推出近五年后，13 Mini 仍然是有史以来最好的手机。这一点没有改变；只是我变了。再次使用它几周后，尽管承认这一点是痛苦的",
+      "category": "consumer",
+      "tags": [
+        "iPhone",
+        "AR"
+      ],
+      "publish_time": "2026-05-06T21:00:00+08:00",
+      "sources": [
+        {
+          "name": "The Verge 科技媒体",
+          "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:38.352671+08:00",
           "credibility": 84
         }
       ],
@@ -720,72 +452,28 @@
         "credibility_score": 84,
         "opportunity_score": 35
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "It’s time to let my iPhone Mini go",
+      "original_summary": "It's not the Mini, it's me. Nearly five years after it launched, the 13 Mini is still the best phone ever made. That hasn't changed; it's just that I changed. And as painful as it is to admit this, after using it again for a couple of weeks",
+      "language": "zh-CN"
     },
     {
-      "id": "9a667a9b5283df",
-      "url": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
-      "title": "Senators ban themselves from prediction markets after candidates bet on own races",
-      "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
-      "content": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
+      "id": "05fee029e24cf4",
+      "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
+      "title": "不仅仅是一辆SUV？ Rivian 正在开发更多 R2 变体。",
+      "summary": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
+      "content": "首席执行官 RJ Scaringe 没有透露太多内容，而是调侃了 R2 皮卡和 R2X 的想法。",
       "category": "consumer",
       "tags": [
         "AR"
       ],
-      "publish_time": "2026-05-02T01:51:24+08:00",
+      "publish_time": "2026-05-06T20:48:53+08:00",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+          "name": "Ars Technica 科技媒体",
+          "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:45.514141+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 28
-      },
-      "status": "published"
-    },
-    {
-      "id": "415cb4cfbcb2df",
-      "url": "https://www.cnbc.com/2026/05/01/kentucky-derby-prediction-platforms.html",
-      "title": "Why you won't find Kentucky Derby bets on prediction platforms",
-      "summary": "The Kentucky Derby takes place Saturday in Louisville. Prediction market platforms like Kalshi and Polymarket are sitting the race out.",
-      "content": "The Kentucky Derby takes place Saturday in Louisville. Prediction market platforms like Kalshi and Polymarket are sitting the race out.",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-02T01:11:45+08:00",
-      "sources": [
-        {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/kentucky-derby-prediction-platforms.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:43.206468+08:00",
+          "verify_time": "2026-05-06T23:03:39.116738+08:00",
           "credibility": 86
         }
       ],
@@ -814,246 +502,29 @@
         "credibility_score": 86,
         "opportunity_score": 33
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "More than just an SUV? Rivian is working on more R2 variants.",
+      "original_summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
+      "language": "zh-CN"
     },
     {
-      "id": "bea309fa078bb9",
-      "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
-      "title": "This accessory can snap a Steam Controller to your phone — or almost anything else",
-      "summary": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism'",
-      "content": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism'",
+      "id": "fb0fdc384b9129",
+      "url": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
+      "title": "可穿戴贴片：Barrière 如何试图颠覆补充剂行业",
+      "summary": "补充剂贴剂公司 Barrière 独家向 CNBC 透露，该公司将在 1,700 家沃尔玛商店推出首款乳糖不耐受贴剂。",
+      "content": "补充剂贴剂公司 Barrière 独家向 CNBC 透露，该公司将在 1,700 家沃尔玛商店推出首款乳糖不耐受贴剂。",
       "category": "consumer",
       "tags": [
+        "wearable",
         "AR"
       ],
-      "publish_time": "2026-05-02T01:00:00+08:00",
+      "publish_time": "2026-05-06T20:42:11+08:00",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:44.590762+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 31
-      },
-      "status": "published"
-    },
-    {
-      "id": "836d9caece4144",
-      "url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-      "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
-      "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
-      "content": "Chip shortages and demand from AI enthusiasts are both playing a part.",
-      "category": "consumer",
-      "tags": [
-        "Apple",
-        "AR"
-      ],
-      "publish_time": "2026-05-01T22:10:48+08:00",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:45.514644+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published"
-    },
-    {
-      "id": "feb4913b93859b",
-      "url": "https://www.cnbc.com/2026/05/01/5-things-to-know-before-the-market-opens.html",
-      "title": "Apple earnings, DHS shutdown, 'Ozempic breath' and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "content": "Here are five key things investors need to know to start the trading day.",
-      "category": "consumer",
-      "tags": [
-        "Apple",
-        "AR"
-      ],
-      "publish_time": "2026-05-01T20:09:15+08:00",
-      "sources": [
-        {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/05/01/5-things-to-know-before-the-market-opens.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:42.492080+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published"
-    },
-    {
-      "id": "4d40aaca5cf86f",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102032.htm",
-      "title": "This new aluminum could replace rare metals and cut costs dramatically",
-      "summary": "A team at King’s College London has created a powerful new aluminum compound capable of doing the work of expensive rare metals. Its unique triangular structure gives it remarkable stability and reactivity, allowing it to drive chemical rea",
-      "content": "A team at King’s College London has created a powerful new aluminum compound capable of doing the work of expensive rare metals. Its unique triangular structure gives it remarkable stability and reactivity, allowing it to drive chemical rea",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-01T19:48:11+08:00",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260429102032.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:49.505823+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 24
-      },
-      "status": "published"
-    },
-    {
-      "id": "aeb883e6799beb",
-      "url": "https://www.genengnews.com/topics/drug-discovery/going-non-viral-gene-delivery-enters-its-translation-era/",
-      "title": "Going Non-Viral: Gene Delivery Enters Its Translation Era",
-      "summary": "Advanced non-viral gene delivery systems are expanding the range of indications and therapy modalities possible for the new generation of genetic medicines. The post Going Non-Viral: Gene Delivery Enters Its Translation Era appeared first o",
-      "content": "Advanced non-viral gene delivery systems are expanding the range of indications and therapy modalities possible for the new generation of genetic medicines. The post Going Non-Viral: Gene Delivery Enters Its Translation Era appeared first o",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-01T19:20:03+08:00",
-      "sources": [
-        {
-          "name": "GEN",
-          "url": "https://www.genengnews.com/topics/drug-discovery/going-non-viral-gene-delivery-enters-its-translation-era/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:52.024519+08:00",
-          "credibility": 82
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 29
-      },
-      "status": "published"
-    },
-    {
-      "id": "41e6130b60cdd3",
-      "url": "https://www.cnbc.com/2026/05/01/apollo-sports-capital-tom-dundon-pickleball-investment.html",
-      "title": "Apollo Sports Capital and Tom Dundon make landmark $225 million investment in pickleball",
-      "summary": "The fresh funds bring the total investment in Pickleball Inc. to $315 million, as investors continue to look at emerging sports as a place to park their money.",
-      "content": "The fresh funds bring the total investment in Pickleball Inc. to $315 million, as investors continue to look at emerging sports as a place to park their money.",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-01T19:00:01+08:00",
-      "sources": [
-        {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/apollo-sports-capital-tom-dundon-pickleball-investment.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:43.206378+08:00",
+          "verify_time": "2026-05-06T23:03:33.930790+08:00",
           "credibility": 86
         }
       ],
@@ -1082,72 +553,28 @@
         "credibility_score": 86,
         "opportunity_score": 37
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Wearable patches: How Barrière is trying to disrupt the supplement industry",
+      "original_summary": "Supplement patch company Barrière is launching the first-ever lactose intolerance patch in 1,700 Walmart stores, the company told CNBC exclusively.",
+      "language": "zh-CN"
     },
     {
-      "id": "25cfa06680929f",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "title": "Trump’s mass firing just dealt another blow to American science",
-      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were",
-      "content": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were",
+      "id": "9cf7b3bb12e04f",
+      "url": "https://thequantuminsider.com/2026/05/06/uc-katherine-yelick-berkeley-lab-director/",
+      "title": "加州大学任命 Katherine Yelick 为劳伦斯伯克利国家实验室",
+      "summary": "内幕简报新闻稿 — 加州大学董事会于 5 月 5 日批准凯瑟琳·耶利克 (Katherine Yelick) 担任劳伦斯伯克利国家实验室 (伯克利实验室) 的下一任主任。她的董事任命将于 7 月 1 日开始。 Yelic",
+      "content": "内幕简报新闻稿 — 加州大学董事会于 5 月 5 日批准凯瑟琳·耶利克 (Katherine Yelick) 担任劳伦斯伯克利国家实验室 (伯克利实验室) 的下一任主任。她的董事任命将于 7 月 1 日开始。 Yelic",
       "category": "consumer",
       "tags": [
         "AR"
       ],
-      "publish_time": "2026-05-01T17:00:00+08:00",
+      "publish_time": "2026-05-06T20:21:24+08:00",
       "sources": [
         {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+          "name": "Quantum Insider 量子资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/uc-katherine-yelick-berkeley-lab-director/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:46.342178+08:00",
-          "credibility": 90
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        },
-        {
-          "symbol": "QCOM",
-          "name": "高通",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "板块弱关联：消费电子",
-          "confidence": "sector"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 90,
-        "opportunity_score": 41
-      },
-      "status": "published"
-    },
-    {
-      "id": "0d9f4416afb9ea",
-      "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
-      "title": "20-month field tests show tracker-based bifacial PV outpeforms fixed tilt counterparts with 13.5% higher ouput in desert enviroments",
-      "summary": "Qatari researchers found that bifacial 2P horizontal single-axis tracking PV systems in desert conditions produced up to 13.5% more electricity than fixed-tilt systems over long-term field testing in Qatar. The study also showed strong seas",
-      "content": "Qatari researchers found that bifacial 2P horizontal single-axis tracking PV systems in desert conditions produced up to 13.5% more electricity than fixed-tilt systems over long-term field testing in Qatar. The study also showed strong seas",
-      "category": "consumer",
-      "tags": [
-        "AR"
-      ],
-      "publish_time": "2026-05-01T16:00:12+08:00",
-      "sources": [
-        {
-          "name": "pv magazine",
-          "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:57.170947+08:00",
+          "verify_time": "2026-05-06T23:04:15.292600+08:00",
           "credibility": 78
         }
       ],
@@ -1176,26 +603,79 @@
         "credibility_score": 78,
         "opportunity_score": 25
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "UC Names Katherine Yelick for Lawrence Berkeley National Laboratory",
+      "original_summary": "Insider Brief PRESS RELEASE — The University of California Board of Regents on May 5 approved Katherine Yelick as the next director of Lawrence Berkeley National Laboratory (Berkeley Lab). Her appointment as director begins on July 1. Yelic",
+      "language": "zh-CN"
     },
     {
-      "id": "4c48fbfbd72da7",
-      "url": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
-      "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
-      "summary": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
-      "content": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
+      "id": "c7f3bbf5afd2f7",
+      "url": "https://www.ithome.com/0/946/987.htm",
+      "title": "Remarkable Paper Pure 阅读器发布：10.3 英寸无背光 Carta 1300 面板，2998 港币起",
+      "summary": "IT之家 5 月 6 日消息，制造商 Remarkable 宣布推出定位入门的 Remarkable ﻿Paper Pure 阅读器，该机搭载一块 10.3 英寸无背光黑白墨水屏， 定价 2998 港币（IT之家注：现汇率约合 2617 元人民币）起 。 该机厚度 6mm，重量 360g，海洋蓝、雾绿和沙漠粉三种颜色可选，配备了一块 10.3 英寸 1872x1404 分辨率 Carta 1300 黑白墨水屏面板（支持主动式手写笔），机身搭载双核 Cortex A55 处理器",
+      "content": "IT之家 5 月 6 日消息，制造商 Remarkable 宣布推出定位入门的 Remarkable ﻿Paper Pure 阅读器，该机搭载一块 10.3 英寸无背光黑白墨水屏， 定价 2998 港币（IT之家注：现汇率约合 2617 元人民币）起 。 该机厚度 6mm，重量 360g，海洋蓝、雾绿和沙漠粉三种颜色可选，配备了一块 10.3 英寸 1872x1404 分辨率 Carta 1300 黑白墨水屏面板（支持主动式手写笔），机身搭载双核 Cortex A55 处理器",
       "category": "consumer",
       "tags": [
-        "Apple",
         "AR"
       ],
-      "publish_time": "2026-05-01T15:00:01+08:00",
+      "publish_time": "2026-05-06T20:13:59+08:00",
       "sources": [
         {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/987.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:42.492465+08:00",
+          "verify_time": "2026-05-06T23:04:37.932882+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "Remarkable Paper Pure 阅读器发布：10.3 英寸无背光 Carta 1300 面板，2998 港币起",
+      "original_summary": "IT之家 5 月 6 日消息，制造商 Remarkable 宣布推出定位入门的 Remarkable ﻿Paper Pure 阅读器，该机搭载一块 10.3 英寸无背光黑白墨水屏， 定价 2998 港币（IT之家注：现汇率约合 2617 元人民币）起 。 该机厚度 6mm，重量 360g，海洋蓝、雾绿和沙漠粉三种颜色可选，配备了一块 10.3 英寸 1872x1404 分辨率 Carta 1300 黑白墨水屏面板（支持主动式手写笔），机身搭载双核 Cortex A55 处理器",
+      "language": "zh-CN"
+    },
+    {
+      "id": "b39b0f2905d41b",
+      "url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html",
+      "title": "AI 竞赛引发“紧迫感”，苹果研发投资占销售额 10%",
+      "summary": "苹果的研发支出占收入的比例至少 30 年来首次突破 10%，并且最新季度的增长速度是销售额的两倍。",
+      "content": "苹果的研发支出占收入的比例至少 30 年来首次突破 10%，并且最新季度的增长速度是销售额的两倍。",
+      "category": "consumer",
+      "tags": [
+        "苹果",
+        "AR"
+      ],
+      "publish_time": "2026-05-06T20:00:01+08:00",
+      "sources": [
+        {
+          "name": "CNBC 科技",
+          "url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.259257+08:00",
           "credibility": 86
         }
       ],
@@ -1205,46 +685,6 @@
           "name": "苹果",
           "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
-      },
-      "status": "published"
-    },
-    {
-      "id": "693f98f4f422bd",
-      "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-      "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-      "content": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-      "category": "consumer",
-      "tags": [
-        "Apple",
-        "AR"
-      ],
-      "publish_time": "2026-05-01T07:59:15+08:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:43.771724+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "positive",
           "reason": "标题/摘要直接提及",
           "confidence": "direct"
         }
@@ -1256,27 +696,29 @@
         "credibility_score": 86,
         "opportunity_score": 63
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Apple's R&D investments top 10% of sales as AI race creates 'sense of urgency'",
+      "original_summary": "Apple’s R&D spending has crossed 10% of revenue for the first time in at least 30 years, and increased twice as fast as sales in the latest quarter.",
+      "language": "zh-CN"
     },
     {
-      "id": "8beb46c35212f2",
-      "url": "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
-      "title": "Apple delivers a nearly perfect quarter, with a CEO change and an AI update ahead",
-      "summary": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
-      "content": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
+      "id": "fd9986c090df47",
+      "url": "https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability",
+      "title": "Remarkable 的下一款 E Ink 数字记事本跳过彩屏",
+      "summary": "Remarkable 今天发布了一款新的纸质平板电脑，尽管它没有最新的 Paper Pro 和 Paper Pro Move 平板电脑中的高级彩色屏幕。新的 Remarkable Paper Pure 采用了黑白的升级版",
+      "content": "Remarkable 今天发布了一款新的纸质平板电脑，尽管它没有最新的 Paper Pro 和 Paper Pro Move 平板电脑中的高级彩色屏幕。新的 Remarkable Paper Pure 采用了黑白的升级版",
       "category": "consumer",
       "tags": [
-        "Apple",
         "AR"
       ],
-      "publish_time": "2026-05-01T07:43:06+08:00",
+      "publish_time": "2026-05-06T20:00:00+08:00",
       "sources": [
         {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
+          "name": "The Verge 科技媒体",
+          "url": "https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:42.492758+08:00",
-          "credibility": 86
+          "verify_time": "2026-05-06T23:03:38.352979+08:00",
+          "credibility": 84
         }
       ],
       "stocks": [
@@ -1285,37 +727,526 @@
           "name": "苹果",
           "exchange": "NASDAQ",
           "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
         }
       ],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 59
+        "credibility_score": 84,
+        "opportunity_score": 31
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Remarkable’s next E Ink digital notepad skips the color screen",
+      "original_summary": "Remarkable announced a new paper tablet today - albeit one without the advanced color screen found in its recent Paper Pro and Paper Pro Move tablets. The new Remarkable Paper Pure instead features an upgraded version of the black-and-white",
+      "language": "zh-CN"
     },
     {
-      "id": "c0912dad05adee",
-      "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
-      "title": "Apple revenue guidance tops estimates on booming iPhone, Mac demand",
-      "summary": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
-      "content": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short.",
+      "id": "1eede6829f11e0",
+      "url": "https://www.ithome.com/0/946/983.htm",
+      "title": "iQOO 15T 手机谍照曝光：透明风格方形摄像头模组、同档唯一 6.83 英寸 2K 大直屏",
+      "summary": "IT之家 5 月 6 日消息，博主 @数码闲聊站 发文，展示了一张网传的手机泄露图，并透露该机系 iQOO 15T 手机。 该博主补充表示，该机采用自家 Ultra 同款设计语言，使用透明风格方形摄像头模组，搭载同档唯一 6.83 英寸 2K 大直屏及首款 2 亿大底主摄。 参考IT之家先前报道，此前还有消息称该机将搭载天玑 9500 处理器，屏幕刷新率为 144Hz，手机内置超 8000mAh 大电池，支持 100W 快充。 作为参考，目前在售的 iQOO Neo11 手机",
+      "content": "IT之家 5 月 6 日消息，博主 @数码闲聊站 发文，展示了一张网传的手机泄露图，并透露该机系 iQOO 15T 手机。 该博主补充表示，该机采用自家 Ultra 同款设计语言，使用透明风格方形摄像头模组，搭载同档唯一 6.83 英寸 2K 大直屏及首款 2 亿大底主摄。 参考IT之家先前报道，此前还有消息称该机将搭载天玑 9500 处理器，屏幕刷新率为 144Hz，手机内置超 8000mAh 大电池，支持 100W 快充。 作为参考，目前在售的 iQOO Neo11 手机",
       "category": "consumer",
       "tags": [
-        "Apple",
-        "iPhone"
+        "手机"
       ],
-      "publish_time": "2026-05-01T07:06:23+08:00",
+      "publish_time": "2026-05-06T19:53:39+08:00",
       "sources": [
         {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/983.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:42.493609+08:00",
+          "verify_time": "2026-05-06T23:04:37.933295+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "iQOO 15T 手机谍照曝光：透明风格方形摄像头模组、同档唯一 6.83 英寸 2K 大直屏",
+      "original_summary": "IT之家 5 月 6 日消息，博主 @数码闲聊站 发文，展示了一张网传的手机泄露图，并透露该机系 iQOO 15T 手机。 该博主补充表示，该机采用自家 Ultra 同款设计语言，使用透明风格方形摄像头模组，搭载同档唯一 6.83 英寸 2K 大直屏及首款 2 亿大底主摄。 参考IT之家先前报道，此前还有消息称该机将搭载天玑 9500 处理器，屏幕刷新率为 144Hz，手机内置超 8000mAh 大电池，支持 100W 快充。 作为参考，目前在售的 iQOO Neo11 手机",
+      "language": "zh-CN"
+    },
+    {
+      "id": "f6e064821d2f74",
+      "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+      "title": "微软 Office 和 LinkedIn 首席执行官在最新的重组中现在负责管理 Teams",
+      "summary": "微软 LinkedIn 首席执行官瑞安·罗斯兰斯基 (Ryan Roslansky) 去​​年在公司担任了 Office 主管一职，职责范围扩大，现在，作为微软内部最新领导层改组的一部分，他承担了更多职责。消息人士告诉我，",
+      "content": "微软 LinkedIn 首席执行官瑞安·罗斯兰斯基 (Ryan Roslansky) 去​​年在公司担任了 Office 主管一职，职责范围扩大，现在，作为微软内部最新领导层改组的一部分，他承担了更多职责。消息人士告诉我，",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T19:45:41+08:00",
+      "sources": [
+        {
+          "name": "The Verge 科技媒体",
+          "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:38.353207+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 57
+      },
+      "status": "published",
+      "original_title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "original_summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that th",
+      "language": "zh-CN"
+    },
+    {
+      "id": "e54e1188291f84",
+      "url": "https://www.ithome.com/0/946/979.htm",
+      "title": "微软警告有黑客假借 DeepSeek V4 名义，在 GitHub 建立虚假仓库传播木马",
+      "summary": "IT之家 5 月 6 日消息，微软威胁情报团队在领英发布警告称，目前有不少黑客冒充 DeepSeek V4 模型名义，在 GitHub 创建虚假仓库，诱导用户下载所谓“模型文件”，相应“模型文件”实为 Vidar、GhostSocks 等木马。 微软指出，此次事件属于“蹭热点”攻击，黑客只是借用 DeepSeek 名称作为诱饵进行钓鱼，DeepSeek 官方代码和账号本身并未被入侵。官方强调，DeepSeek V4 是通过 API 和 Hugging Face 发布，并没有在",
+      "content": "IT之家 5 月 6 日消息，微软威胁情报团队在领英发布警告称，目前有不少黑客冒充 DeepSeek V4 模型名义，在 GitHub 创建虚假仓库，诱导用户下载所谓“模型文件”，相应“模型文件”实为 Vidar、GhostSocks 等木马。 微软指出，此次事件属于“蹭热点”攻击，黑客只是借用 DeepSeek 名称作为诱饵进行钓鱼，DeepSeek 官方代码和账号本身并未被入侵。官方强调，DeepSeek V4 是通过 API 和 Hugging Face 发布，并没有在",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T19:27:06+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/979.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.933810+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "微软",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "微软警告有黑客假借 DeepSeek V4 名义，在 GitHub 建立虚假仓库传播木马",
+      "original_summary": "IT之家 5 月 6 日消息，微软威胁情报团队在领英发布警告称，目前有不少黑客冒充 DeepSeek V4 模型名义，在 GitHub 创建虚假仓库，诱导用户下载所谓“模型文件”，相应“模型文件”实为 Vidar、GhostSocks 等木马。 微软指出，此次事件属于“蹭热点”攻击，黑客只是借用 DeepSeek 名称作为诱饵进行钓鱼，DeepSeek 官方代码和账号本身并未被入侵。官方强调，DeepSeek V4 是通过 API 和 Hugging Face 发布，并没有在",
+      "language": "zh-CN"
+    },
+    {
+      "id": "06f5be52919578",
+      "url": "https://www.ithome.com/0/946/977.htm",
+      "title": "若攻破 Pixel 手机 Titan M2 安全芯片，最高可拿走谷歌 150 万美元奖金",
+      "summary": "IT之家 5 月 6 日消息，谷歌正在下调发现针对安卓系统和 Chrome 浏览器普通漏洞的奖励金额，但向任何能实现无需点击、永久破解谷歌 Pixel 手机 Titan M2 安全芯片的人员开出高达 150 万美元（IT之家注：现汇率约合 1026 万元人民币）的漏洞赏金。 谷歌对安卓与 Chrome 漏洞奖励计划（VRP）进行了新一轮更新，宣布调整奖金发放规则，减少对低影响漏洞报告的奖励，转而侧重奖励可能对用户造成严重危害的复杂高危漏洞。此次调整已正式生效。 此次调整的核心",
+      "content": "IT之家 5 月 6 日消息，谷歌正在下调发现针对安卓系统和 Chrome 浏览器普通漏洞的奖励金额，但向任何能实现无需点击、永久破解谷歌 Pixel 手机 Titan M2 安全芯片的人员开出高达 150 万美元（IT之家注：现汇率约合 1026 万元人民币）的漏洞赏金。 谷歌对安卓与 Chrome 漏洞奖励计划（VRP）进行了新一轮更新，宣布调整奖金发放规则，减少对低影响漏洞报告的奖励，转而侧重奖励可能对用户造成严重危害的复杂高危漏洞。此次调整已正式生效。 此次调整的核心",
+      "category": "consumer",
+      "tags": [
+        "VR",
+        "手机"
+      ],
+      "publish_time": "2026-05-06T19:15:24+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/977.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.934051+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "若攻破 Pixel 手机 Titan M2 安全芯片，最高可拿走谷歌 150 万美元奖金",
+      "original_summary": "IT之家 5 月 6 日消息，谷歌正在下调发现针对安卓系统和 Chrome 浏览器普通漏洞的奖励金额，但向任何能实现无需点击、永久破解谷歌 Pixel 手机 Titan M2 安全芯片的人员开出高达 150 万美元（IT之家注：现汇率约合 1026 万元人民币）的漏洞赏金。 谷歌对安卓与 Chrome 漏洞奖励计划（VRP）进行了新一轮更新，宣布调整奖金发放规则，减少对低影响漏洞报告的奖励，转而侧重奖励可能对用户造成严重危害的复杂高危漏洞。此次调整已正式生效。 此次调整的核心",
+      "language": "zh-CN"
+    },
+    {
+      "id": "6132bc146cb8d5",
+      "url": "https://www.ithome.com/0/946/975.htm",
+      "title": "宝马承诺：纯电 M3 将忠于 BMW M 的 DNA",
+      "summary": "IT之家 5 月 6 日消息，据外媒 Autocar 当地时间 4 日报道，将于 2027 年推出的宝马 M3 纯电版，以及下一代燃油版 M3，将成为宝马 M 阵容中的“双生车型”。两款车价格也会接近，处在同一水平区间。 据IT之家了解，新车将基于近期发布的 i3 打造，并采用全新的纯电 Neue Klasse 新世代架构。其将配备 4 台电机，分别驱动 4 个车轮， 最大功率接近 746 千瓦 。目前，新车已经进入密集路试阶段。 ▲ Autocar 绘制的假想图 纯电 M3",
+      "content": "IT之家 5 月 6 日消息，据外媒 Autocar 当地时间 4 日报道，将于 2027 年推出的宝马 M3 纯电版，以及下一代燃油版 M3，将成为宝马 M 阵容中的“双生车型”。两款车价格也会接近，处在同一水平区间。 据IT之家了解，新车将基于近期发布的 i3 打造，并采用全新的纯电 Neue Klasse 新世代架构。其将配备 4 台电机，分别驱动 4 个车轮， 最大功率接近 746 千瓦 。目前，新车已经进入密集路试阶段。 ▲ Autocar 绘制的假想图 纯电 M3",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T19:06:12+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/975.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.934195+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 29
+      },
+      "status": "published",
+      "original_title": "宝马承诺：纯电 M3 将忠于 BMW M 的 DNA",
+      "original_summary": "IT之家 5 月 6 日消息，据外媒 Autocar 当地时间 4 日报道，将于 2027 年推出的宝马 M3 纯电版，以及下一代燃油版 M3，将成为宝马 M 阵容中的“双生车型”。两款车价格也会接近，处在同一水平区间。 据IT之家了解，新车将基于近期发布的 i3 打造，并采用全新的纯电 Neue Klasse 新世代架构。其将配备 4 台电机，分别驱动 4 个车轮， 最大功率接近 746 千瓦 。目前，新车已经进入密集路试阶段。 ▲ Autocar 绘制的假想图 纯电 M3",
+      "language": "zh-CN"
+    },
+    {
+      "id": "8fae0f686f816d",
+      "url": "https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast",
+      "title": "剪裁",
+      "summary": "今年早些时候，在担任联邦调查局前二把手一段动荡的时期后，丹·邦吉诺回到了他也许最出名的领域：视频播客。邦吉诺在一月份退出该职位后，他开始晋升",
+      "content": "今年早些时候，在担任联邦调查局前二把手一段动荡的时期后，丹·邦吉诺回到了他也许最出名的领域：视频播客。邦吉诺在一月份退出该职位后，他开始晋升",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T19:00:00+08:00",
+      "sources": [
+        {
+          "name": "The Verge 科技媒体",
+          "url": "https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:38.353304+08:00",
+          "credibility": 84
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 84,
+        "opportunity_score": 31
+      },
+      "status": "published",
+      "original_title": "The clippening",
+      "original_summary": "Earlier this year, after a tumultuous period serving as the former second-in-command at the FBI, Dan Bongino went back to what he is perhaps known best for: video podcasting. After Bongino exited the role in January, he began promotion for",
+      "language": "zh-CN"
+    },
+    {
+      "id": "79cf02b38736e5",
+      "url": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
+      "title": "人工智能热潮推动历史性反弹，三星估值突破 1 万亿美元，股价上涨超过 15%",
+      "summary": "在该公司上周公布第一季度营业利润增长逾八倍之后，股价出现上涨。",
+      "content": "在该公司上周公布第一季度营业利润增长逾八倍之后，股价出现上涨。",
+      "category": "consumer",
+      "tags": [
+        "Samsung",
+        "AR"
+      ],
+      "publish_time": "2026-05-06T17:12:32+08:00",
+      "sources": [
+        {
+          "name": "CNBC 科技",
+          "url": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.259503+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "Samsung crosses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
+      "original_summary": "The rally comes after the company reported an over eightfold increase in first-quarter operating profits last week.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "7004380e53ccc6",
+      "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
+      "title": "Shivyuch 融雪",
+      "summary": "俄罗斯火山的活动几乎持续不断。",
+      "content": "俄罗斯火山的活动几乎持续不断。",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T12:01:00+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:25.254068+08:00",
+          "credibility": 95
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 95,
+        "opportunity_score": 42
+      },
+      "status": "published",
+      "original_title": "Melting Snow Off Shivelyuch",
+      "original_summary": "Near-constant activity continues on the volcano in Russia.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "3a11fc291509c5",
+      "url": "https://electrek.co/2026/05/05/toyota-hino-debut-new-le-series-electric-md-trucks-at-act-expo/",
+      "title": "丰田日野在 ACT 博览会上首次亮相新款 Le 系列电动 MD 卡车",
+      "summary": "丰田子公司日野卡车公司 (Hino Trucks) 紧随高贵的雷诺 Le Car 的脚步，推出全新全电动 Le 系列中型商用卡车，而新 Le 系列的 GVWR 相当于近 16 辆法国微型卡车的总重 (GVWR)",
+      "content": "丰田子公司日野卡车公司 (Hino Trucks) 紧随高贵的雷诺 Le Car 的脚步，推出全新全电动 Le 系列中型商用卡车，而新 Le 系列的 GVWR 相当于近 16 辆法国微型卡车的总重 (GVWR)",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T11:40:32+08:00",
+      "sources": [
+        {
+          "name": "Electrek 新能源",
+          "url": "https://electrek.co/2026/05/05/toyota-hino-debut-new-le-series-electric-md-trucks-at-act-expo/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:30.038454+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "Toyota Hino debut new Le Series electric MD trucks at ACT Expo",
+      "original_summary": "Toyota subsidiary Hino Trucks is following in the steps of the noble Renault Le Car with the all-new, all-electric Le Series of medium-duty commercial trucks – and the new Le Series packs a GVWR worth nearly sixteen of the tiny French minis",
+      "language": "zh-CN"
+    },
+    {
+      "id": "73d12af71b1df7",
+      "url": "https://www.cnbc.com/2026/05/05/amc-arena-one-live-concerts.html",
+      "title": "AMC 将通过 Arena One 合作伙伴放映现场音乐会",
+      "summary": "美国 89 个市场的 300 多个 AMC 地点将进行现场音乐会放映。票价从 40 美元到 75 美元不等。",
+      "content": "美国 89 个市场的 300 多个 AMC 地点将进行现场音乐会放映。票价从 40 美元到 75 美元不等。",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T05:24:21+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/05/amc-arena-one-live-concerts.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.932526+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 33
+      },
+      "status": "published",
+      "original_title": "AMC to screen live concerts through Arena One partnership",
+      "original_summary": "More than 300 AMC locations in 89 markets across the U.S. will be programmed for live concert screenings. Tickets will range from $40 to $75.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "354748940ca77d",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "title": "苹果计划让 iOS 27 成为一场选择你自己的 AI 模型冒险",
+      "summary": "据报道，随着苹果最新操作系统的更新，用户将可以选择他们想要使用哪些第三方人工智能模型来完成一系列任务。",
+      "content": "据报道，随着苹果最新操作系统的更新，用户将可以选择他们想要使用哪些第三方人工智能模型来完成一系列任务。",
+      "category": "consumer",
+      "tags": [
+        "苹果",
+        "AR"
+      ],
+      "publish_time": "2026-05-06T04:56:41+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:35.297022+08:00",
           "credibility": 86
         }
       ],
@@ -1336,7 +1267,186 @@
         "credibility_score": 86,
         "opportunity_score": 59
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "original_summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "a407306cd3ceee",
+      "url": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/",
+      "title": "大众汽车取代亚马逊成为 Rivian 最大股东",
+      "summary": "大众集团与 Rivian 成立价值 58 亿美元的合资企业后，其股份将继续增加。",
+      "content": "大众集团与 Rivian 成立价值 58 亿美元的合资企业后，其股份将继续增加。",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T03:58:57+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:35.297293+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "亚马逊",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "Volkswagen becomes Rivian’s top shareholder, displacing Amazon",
+      "original_summary": "VW Group's stake will continue to grow under the $5.8 billion joint venture with Rivian.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "96a76e6b90cc85",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "title": "Google 正在与 XPRIZE 和 Range Media Partners 合作举办价值 350 万美元的 Future Vision 电影竞赛。",
+      "summary": "Google 正在与 XPRIZE 和 Range Media Partners 合作举办价值 350 万美元的 Future Vision 电影竞赛。",
+      "content": "Google 正在与 XPRIZE 和 Range Media Partners 合作举办价值 350 万美元的 Future Vision 电影竞赛。",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-06T00:00:00+08:00",
+      "sources": [
+        {
+          "name": "谷歌 AI 博客",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:35.087962+08:00",
+          "credibility": 88
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 88,
+        "opportunity_score": 61
+      },
+      "status": "published",
+      "original_title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "original_summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "ae2d38c70a5ef7",
+      "url": "https://electrek.co/2026/05/05/volvo-trucks-adds-electric-pto-to-vnr-electric-semi-lineup/",
+      "title": "沃尔沃卡车将电动取力器添加到 VNR 电动半产品阵容",
+      "summary": "沃尔沃卡车宣布推出一款新型全电动取力器 (PTO)，该产品显着扩展了该品牌 VNR 电动半挂卡车的功能，随后推出了两款全新 HD 卡车产品。更多的…",
+      "content": "沃尔沃卡车宣布推出一款新型全电动取力器 (PTO)，该产品显着扩展了该品牌 VNR 电动半挂卡车的功能，随后推出了两款全新 HD 卡车产品。更多的…",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-05T23:37:52+08:00",
+      "sources": [
+        {
+          "name": "Electrek 新能源",
+          "url": "https://electrek.co/2026/05/05/volvo-trucks-adds-electric-pto-to-vnr-electric-semi-lineup/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:30.039525+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "苹果",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "高通",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "板块弱关联：消费电子",
+          "confidence": "sector"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 25
+      },
+      "status": "published",
+      "original_title": "Volvo Trucks adds electric PTO to VNR Electric semi lineup",
+      "original_summary": "Volvo Trucks announced a new, all-electric power take-off (PTO) that’s significantly expanding what the brand’s VNR Electric semi trucks are capable of – just before teasing not one but two all-new HD truck offerings. more…",
+      "language": "zh-CN"
+    },
+    {
+      "id": "8a52b12ec96df7",
+      "url": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
+      "title": "国土安全部滥用 20 世纪 30 年代的海关法，试图从 Google 获取有关加拿大人的数据",
+      "summary": "国土安全部以一名多年未进入美国的男子为目标，因他批评 ICE 的行动。",
+      "content": "国土安全部以一名多年未进入美国的男子为目标，因他批评 ICE 的行动。",
+      "category": "consumer",
+      "tags": [
+        "AR"
+      ],
+      "publish_time": "2026-05-05T22:02:19+08:00",
+      "sources": [
+        {
+          "name": "Ars Technica 科技媒体",
+          "url": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:39.117614+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "GOOGL",
+          "name": "谷歌",
+          "exchange": "NASDAQ",
+          "impact": "neutral",
+          "reason": "标题/摘要直接提及",
+          "confidence": "direct"
+        }
+      ],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "DHS abuses 1930s customs law in attempt to get data on Canadian from Google",
+      "original_summary": "DHS targeted a man who hadn't entered the US for years for criticism of ICE operations.",
+      "language": "zh-CN"
     }
   ]
 }

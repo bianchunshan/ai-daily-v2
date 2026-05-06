@@ -33,6 +33,7 @@ NEWS_DIR = ROOT / "data" / "news"
 STOCK_DB_PATH = ROOT / "data" / "stocks" / "database.json"
 STOCK_LATEST_PATH = ROOT / "data" / "stocks" / "latest.json"
 OPPORTUNITIES_PATH = ROOT / "data" / "opportunities.json"
+TRANSLATION_CACHE_PATH = ROOT / "scraper" / "translation_cache.json"
 
 CN_TZ = timezone(timedelta(hours=8))
 
@@ -59,10 +60,25 @@ class RealNewsScraper:
         NEWS_DIR.mkdir(parents=True, exist_ok=True)
         STOCK_LATEST_PATH.parent.mkdir(parents=True, exist_ok=True)
         self.stocks = self.load_stocks()
+        self.translation_cache = self.load_translation_cache()
 
     def load_stocks(self) -> list[dict[str, Any]]:
         data = json.loads(STOCK_DB_PATH.read_text(encoding="utf-8"))
         return data.get("stocks", [])
+
+    def load_translation_cache(self) -> dict[str, str]:
+        if not TRANSLATION_CACHE_PATH.exists():
+            return {}
+        try:
+            return json.loads(TRANSLATION_CACHE_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+
+    def save_translation_cache(self) -> None:
+        TRANSLATION_CACHE_PATH.write_text(
+            json.dumps(self.translation_cache, ensure_ascii=False, indent=2, sort_keys=True),
+            encoding="utf-8"
+        )
 
     def run(self) -> None:
         print("== AI日报每小时采集 ==")
@@ -78,6 +94,8 @@ class RealNewsScraper:
         recent = self.filter_recent(merged)
         enriched = [self.enrich_item(item) for item in recent]
         enriched.sort(key=lambda item: item["publish_time"], reverse=True)
+        enriched = self.limit_by_category(enriched)
+        self.localize_items(enriched)
 
         stock_quotes = self.fetch_stock_quotes(enriched)
         opportunities = self.build_opportunities(enriched, stock_quotes)
@@ -85,6 +103,7 @@ class RealNewsScraper:
         self.save_stock_quotes(stock_quotes)
         self.save_opportunities(opportunities)
         self.save_daily_digest(enriched, opportunities)
+        self.save_translation_cache()
         print(f"完成: 新闻 {len(enriched)} 条，机会 {len(opportunities)} 条，股票 {len(stock_quotes)} 只")
 
     def fetch_rss(self, source: Source) -> list[dict[str, Any]]:
@@ -145,7 +164,7 @@ class RealNewsScraper:
             "tags": self.tags_for(clean_title, clean_summary, category),
             "publish_time": published,
             "sources": [{
-                "name": source.name,
+                "name": source_display_name(source.name),
                 "url": link,
                 "verified": True,
                 "verify_time": now_iso(),
@@ -202,12 +221,88 @@ class RealNewsScraper:
         cutoff = datetime.now(CN_TZ) - timedelta(hours=self.retention_hours)
         return [item for item in items if parse_iso(item["publish_time"]) >= cutoff]
 
+    def limit_by_category(self, items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        counts = {cat: 0 for cat in self.categories}
+        limited = []
+        for item in items:
+            cat = item["category"]
+            if counts.get(cat, 0) >= self.per_category_limit:
+                continue
+            counts[cat] = counts.get(cat, 0) + 1
+            limited.append(item)
+        return limited
+
     def enrich_item(self, item: dict[str, Any]) -> dict[str, Any]:
         stocks = self.extract_stocks(item)
         item["stocks"] = stocks
         score = self.opportunity_score(item, stocks)
         item["metrics"]["opportunity_score"] = score
         return item
+
+    def localize_items(self, items: list[dict[str, Any]]) -> None:
+        for index, item in enumerate(items, 1):
+            original_title = item["title"]
+            original_summary = item.get("summary", "")
+            item["original_title"] = original_title
+            item["original_summary"] = original_summary
+            item["language"] = "zh-CN"
+            item["title"], item["summary"] = self.translate_pair(original_title, original_summary)
+            item["content"] = item["summary"] or item["title"]
+            item["tags"] = [translate_tag(tag) for tag in item.get("tags", [])]
+            if index % 30 == 0:
+                print(f"  翻译进度: {index}/{len(items)}")
+
+    def translate_pair(self, title: str, summary: str) -> tuple[str, str]:
+        if mostly_chinese(title) and mostly_chinese(summary):
+            return title, summary
+        joined = f"{title}\n|||AI_DAILY_SUMMARY|||\n{summary}"
+        translated = self.translate_to_chinese(joined)
+        translated = translated.replace("AI_DAILY_SUMMARY--", "|||AI_DAILY_SUMMARY|||")
+        translated = translated.replace("AI_DAILY_SUMMARY", "|||AI_DAILY_SUMMARY|||")
+        if "|||AI_DAILY_SUMMARY|||" in translated:
+            zh_title, zh_summary = translated.split("|||AI_DAILY_SUMMARY|||", 1)
+        elif "|||" in translated:
+            parts = [part for part in translated.split("|||") if part.strip()]
+            zh_title = parts[0] if parts else translated
+            zh_summary = parts[1] if len(parts) > 1 else self.translate_to_chinese(summary)
+        elif "---" in translated:
+            zh_title, zh_summary = translated.split("---", 1)
+        else:
+            zh_title, zh_summary = translated, self.translate_to_chinese(summary)
+        return cleanup_translation(zh_title, 180), cleanup_translation(zh_summary, 280)
+
+    def translate_to_chinese(self, text: str) -> str:
+        text = clean_text(text, 900)
+        if not text or mostly_chinese(text):
+            return text
+        cache_key = hashlib.sha1(text.encode("utf-8")).hexdigest()
+        if cache_key in self.translation_cache:
+            return self.translation_cache[cache_key]
+
+        params = urllib.parse.urlencode({
+            "client": "gtx",
+            "sl": "auto",
+            "tl": "zh-CN",
+            "dt": "t",
+            "q": text
+        })
+        url = f"https://translate.googleapis.com/translate_a/single?{params}"
+        for attempt in range(3):
+            try:
+                response = self.session.get(url, timeout=10)
+                if response.status_code != 200:
+                    raise ValueError(f"HTTP {response.status_code}")
+                data = response.json()
+                translated = "".join(part[0] for part in data[0] if part and part[0])
+                translated = clean_text(translated, 900)
+                if translated and translated != text:
+                    self.translation_cache[cache_key] = translated
+                    return translated
+            except Exception as exc:
+                if attempt == 2:
+                    print(f"  ! 翻译失败，保留原文: {text[:42]} ({exc})")
+                time.sleep(0.8 * (attempt + 1))
+        return text
 
     def extract_stocks(self, item: dict[str, Any]) -> list[dict[str, Any]]:
         raw_text = f"{item['title']} {item.get('summary', '')}"
@@ -303,7 +398,7 @@ class RealNewsScraper:
                 "change": None if change is None else round(float(change), 2),
                 "change_percent": None if change_percent is None else round(float(change_percent), 2),
                 "market_time": datetime.fromtimestamp(meta.get("regularMarketTime", time.time()), CN_TZ).isoformat(),
-                "source": "Yahoo Finance"
+                "source": "雅虎财经"
             }
         except Exception:
             return None
@@ -410,6 +505,14 @@ def clean_text(value: str, limit: int) -> str:
     return value[:limit].rstrip()
 
 
+def cleanup_translation(value: str, limit: int) -> str:
+    value = clean_text(value, limit)
+    value = value.replace("| | |", "").replace("|||", "")
+    value = value.replace("AI_DAILY_SUMMARY", "")
+    value = value.strip(" -—|")
+    return clean_text(value, limit)
+
+
 def text_of(entry: ET.Element, tag: str) -> str:
     node = entry.find(tag)
     if node is None and not tag.startswith("{"):
@@ -512,6 +615,72 @@ def stock_mentioned(raw_text: str, lower_text: str, stock: dict[str, Any]) -> bo
 
 def has_cjk(value: str) -> bool:
     return bool(re.search(r"[\u4e00-\u9fff]", value))
+
+
+def mostly_chinese(value: str) -> bool:
+    letters = re.findall(r"[A-Za-z\u4e00-\u9fff]", value)
+    if not letters:
+        return True
+    cjk = re.findall(r"[\u4e00-\u9fff]", value)
+    return len(cjk) / len(letters) >= 0.45
+
+
+def translate_tag(tag: str) -> str:
+    mapping = {
+        "artificial intelligence": "人工智能",
+        "AI": "人工智能",
+        "machine learning": "机器学习",
+        "semiconductor": "半导体",
+        "chip": "芯片",
+        "battery": "电池",
+        "EV": "电动车",
+        "robot": "机器人",
+        "robotics": "机器人",
+        "quantum": "量子",
+        "biotech": "生物科技",
+        "pharma": "制药",
+        "space": "航天",
+        "rocket": "火箭",
+        "satellite": "卫星",
+        "fusion": "核聚变",
+        "gaming": "游戏",
+        "game": "游戏",
+        "Apple": "苹果",
+        "Microsoft": "微软",
+        "Google": "谷歌",
+        "NVIDIA": "英伟达",
+        "Tesla": "特斯拉"
+    }
+    return mapping.get(tag, tag)
+
+
+def source_display_name(name: str) -> str:
+    mapping = {
+        "CNBC Technology": "CNBC 科技",
+        "CNBC Markets": "CNBC 市场",
+        "TechCrunch": "TechCrunch 科技媒体",
+        "The Verge": "The Verge 科技媒体",
+        "Ars Technica": "Ars Technica 科技媒体",
+        "MIT Technology Review": "麻省理工科技评论",
+        "Nature": "Nature 自然",
+        "ScienceDaily": "ScienceDaily 科学日报",
+        "Fierce Biotech": "Fierce Biotech 生物科技",
+        "BioPharma Dive": "BioPharma Dive 生物医药",
+        "GEN": "GEN 基因工程新闻",
+        "The Quantum Insider": "Quantum Insider 量子资讯",
+        "Quantum Computing Report": "量子计算报告",
+        "NASA": "美国国家航空航天局",
+        "SpaceNews": "SpaceNews 航天新闻",
+        "Electrek": "Electrek 新能源",
+        "pv magazine": "PV Magazine 光伏杂志",
+        "VentureBeat": "VentureBeat 科技媒体",
+        "Google AI Blog": "谷歌 AI 博客",
+        "OpenAI News": "OpenAI 新闻",
+        "IT之家": "IT之家",
+        "机器之心": "机器之心",
+        "财联社": "财联社"
+    }
+    return mapping.get(name, name)
 
 
 def build_logic(item: dict[str, Any]) -> str:

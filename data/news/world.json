@@ -3,25 +3,25 @@
   "category": "world",
   "category_name": "国际局势",
   "total": 30,
-  "updated": "2026-05-02T21:38:12.261860+08:00",
+  "updated": "2026-05-06T23:04:59.682673+08:00",
   "news": [
     {
-      "id": "f17c62baa12b10",
-      "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial",
-      "title": "AstraZeneca scraps FLAP inhibitor after flunking phase 2 asthma trial",
-      "summary": "AstraZeneca has scrapped an asthma program after the FLAP inhibitor flunked a phase 2 trial.",
-      "content": "AstraZeneca has scrapped an asthma program after the FLAP inhibitor flunked a phase 2 trial.",
+      "id": "2f58f8357b36cb",
+      "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
+      "title": "Windward 抓住了 1.65 亿美元的机遇，推动了长期 TSLP 的雄心",
+      "summary": "Windward Bio 正全力以赴，获得 1.65 亿美元的交叉融资，将其长效抗 TSLP 抗体推向 3 期，押注每年两次的给药方案将成为日益拥挤的呼吸系统疾病中的关键差异化因素。",
+      "content": "Windward Bio 正全力以赴，获得 1.65 亿美元的交叉融资，将其长效抗 TSLP 抗体推向 3 期，押注每年两次的给药方案将成为日益拥挤的呼吸系统疾病中的关键差异化因素。",
       "category": "world",
       "tags": [
-        "国际局势"
+        "war"
       ],
-      "publish_time": "2026-05-02T21:37:50.098862+08:00",
+      "publish_time": "2026-05-06T23:04:09.639707+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial",
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:50.098907+08:00",
+          "verify_time": "2026-05-06T23:04:09.639804+08:00",
           "credibility": 84
         }
       ],
@@ -33,25 +33,28 @@
         "credibility_score": 84,
         "opportunity_score": 49
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Windward catches $165M breeze to fuel long-acting TSLP ambitions",
+      "original_summary": "Windward Bio is in full sail with a $165 million crossover financing to push its long-acting anti-TSLP antibody into phase 3, betting that a twice-yearly dosing schedule will be a key differentiator in an increasingly crowded respiratory ma",
+      "language": "zh-CN"
     },
     {
-      "id": "c8b0d3f00206f5",
-      "url": "https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team",
-      "title": "Indivior warns of ‘significant impact’ on R&D team after opioid use disorder drug fails phase 2",
-      "summary": "Indivior ended internal development of an opioid use disorder candidate after a phase 2 trial missed its primary endpoint.",
-      "content": "Indivior ended internal development of an opioid use disorder candidate after a phase 2 trial missed its primary endpoint.",
+      "id": "00fc95db0d8887",
+      "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
+      "title": "在公共融资放缓的情况下，瑞士私营生物技术公司的融资额创历史新高",
+      "summary": "去年，瑞士私营生物技术公司的融资额创下新高，增长 38%，达到 11.5 亿瑞士法郎（15 亿美元）。然而，推动融资增长的公司数量相对较少，而许多同行却没有筹集到任何资金，例如",
+      "content": "去年，瑞士私营生物技术公司的融资额创下新高，增长 38%，达到 11.5 亿瑞士法郎（15 亿美元）。然而，推动融资增长的公司数量相对较少，而许多同行却没有筹集到任何资金，例如",
       "category": "world",
       "tags": [
-        "war"
+        "trade"
       ],
-      "publish_time": "2026-05-02T21:37:50.097495+08:00",
+      "publish_time": "2026-05-06T23:04:09.639048+08:00",
       "sources": [
         {
-          "name": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team",
+          "name": "Fierce Biotech 生物科技",
+          "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:50.097644+08:00",
+          "verify_time": "2026-05-06T23:04:09.639149+08:00",
           "credibility": 84
         }
       ],
@@ -61,57 +64,30 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 84,
-        "opportunity_score": 49
+        "opportunity_score": 53
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Private Swiss biotechs hit record funding amid slowdown in public financing",
+      "original_summary": "Funding for privately traded Swiss biotechs hit a new high last year, climbing 38% to 1.15 billion Swiss francs ($1.5 billion). However, a relatively small pool of companies drove the funding jump while many of their peers raised nothing, e",
+      "language": "zh-CN"
     },
     {
-      "id": "3c011cf1e851b2",
-      "url": "https://www.cnbc.com/2026/05/02/us-iran-war-credit-score-loans-mortgage-rates.html",
-      "title": "The U.S.-Iran war is coming for your credit score and mortgage application",
-      "summary": "The U.S.-Iran war and Strait of Hormuz closure have caused a global economic ripple effect, your credit score included as banks and lenders get tighter.",
-      "content": "The U.S.-Iran war and Strait of Hormuz closure have caused a global economic ripple effect, your credit score included as banks and lenders get tighter.",
-      "category": "world",
-      "tags": [
-        "war"
-      ],
-      "publish_time": "2026-05-02T21:17:18+08:00",
-      "sources": [
-        {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/02/us-iran-war-credit-score-loans-mortgage-rates.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:43.206168+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 46
-      },
-      "status": "published"
-    },
-    {
-      "id": "5e5563c192cef9",
-      "url": "https://www.ithome.com/0/946/070.htm",
-      "title": "全球单机容量最大 16 兆瓦漂浮式海上风电平台“三峡领航号”完成安装",
-      "summary": "IT之家 5 月 2 日消息，据央视新闻报道，今天（5 月 2 日），全球单机容量最大的 16 兆瓦漂浮式海上风电平台“三峡领航号”在广东阳江海域完成安装，标志着我国在深远海漂浮式风电技术领域取得新突破。 据介绍，“三峡领航号”由 16 兆瓦超大容量风机、半潜式浮体平台和新型系泊系统三部分组成。风机叶轮直径 252 米， 扫风面积相当于 7 个标准足球场的面积 ，叶尖最大高度超过 270 米。与传统固定式风机不同，它安装在一个长 80.82 米、宽 91 米、排水量达 2.4",
-      "content": "IT之家 5 月 2 日消息，据央视新闻报道，今天（5 月 2 日），全球单机容量最大的 16 兆瓦漂浮式海上风电平台“三峡领航号”在广东阳江海域完成安装，标志着我国在深远海漂浮式风电技术领域取得新突破。 据介绍，“三峡领航号”由 16 兆瓦超大容量风机、半潜式浮体平台和新型系泊系统三部分组成。风机叶轮直径 252 米， 扫风面积相当于 7 个标准足球场的面积 ，叶尖最大高度超过 270 米。与传统固定式风机不同，它安装在一个长 80.82 米、宽 91 米、排水量达 2.4",
+      "id": "db237e637e2990",
+      "url": "https://www.ithome.com/0/947/018.htm",
+      "title": "初创公司 Tin Can 的 100 美元“儿童座机”走红：多彩外观，相互间能免费通话",
+      "summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。 这款“儿童座机”售价 100 美元（IT之家注：现汇率约合 684 元人民币），是一部复古固定电话风格、支持 Wi-Fi 的设备，通过 Communities，家长和组织者可以批量订购。订单最低 50 部起可申请折扣",
+      "content": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。 这款“儿童座机”售价 100 美元（IT之家注：现汇率约合 684 元人民币），是一部复古固定电话风格、支持 Wi-Fi 的设备，通过 Communities，家长和组织者可以批量订购。订单最低 50 部起可申请折扣",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T21:16:27+08:00",
+      "publish_time": "2026-05-06T23:03:08+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/070.htm",
+          "url": "https://www.ithome.com/0/947/018.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.645583+08:00",
+          "verify_time": "2026-05-06T23:04:37.928080+08:00",
           "credibility": 78
         }
       ],
@@ -123,175 +99,28 @@
         "credibility_score": 78,
         "opportunity_score": 47
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "初创公司 Tin Can 的 100 美元“儿童座机”走红：多彩外观，相互间能免费通话",
+      "original_summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。 这款“儿童座机”售价 100 美元（IT之家注：现汇率约合 684 元人民币），是一部复古固定电话风格、支持 Wi-Fi 的设备，通过 Communities，家长和组织者可以批量订购。订单最低 50 部起可申请折扣",
+      "language": "zh-CN"
     },
     {
-      "id": "277f5f9f050ef6",
-      "url": "https://www.ithome.com/0/946/067.htm",
-      "title": "张雪机车 WSBK 匈牙利站夺冠，荣耀将推联名款“冠军手表”",
-      "summary": "IT之家 5 月 2 日消息，北京时间 5 月 2 日（今天）晚间，2026 赛季 WSBK 匈牙利站 WorldSSP 组别正赛中，张雪机车车手瓦伦丁 · 德比斯在巴拉顿公园赛道夺得冠军。 荣耀 CEO 李健在微博发文送上祝贺：恭喜 @张雪机车 摘得 WSBK 匈牙利站 SSP 组别第一回合正赛冠军，这是一场让我们所有观众都感到无比骄傲的比赛！ 李健宣布，作为张雪机车 WSBK 的首席战略合作品牌，荣耀将推出 与张雪机车的联名款手表 ，来庆祝这个历史性的夺冠时刻。“这既是对",
-      "content": "IT之家 5 月 2 日消息，北京时间 5 月 2 日（今天）晚间，2026 赛季 WSBK 匈牙利站 WorldSSP 组别正赛中，张雪机车车手瓦伦丁 · 德比斯在巴拉顿公园赛道夺得冠军。 荣耀 CEO 李健在微博发文送上祝贺：恭喜 @张雪机车 摘得 WSBK 匈牙利站 SSP 组别第一回合正赛冠军，这是一场让我们所有观众都感到无比骄傲的比赛！ 李健宣布，作为张雪机车 WSBK 的首席战略合作品牌，荣耀将推出 与张雪机车的联名款手表 ，来庆祝这个历史性的夺冠时刻。“这既是对",
+      "id": "f6f6edc758a228",
+      "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+      "title": "商务部霍华德·卢特尼克周三回答众议院小组提出的爱泼斯坦问题",
+      "summary": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
+      "content": "霍华德·卢特尼克 (Howard Lutnick) 今年 2 月向参议院委员会承认，他和家人于 2012 年访问了爱泼斯坦位于美属维尔京群岛的私人岛屿。",
       "category": "world",
       "tags": [
-        "国际局势"
+        "war"
       ],
-      "publish_time": "2026-05-02T21:00:36+08:00",
+      "publish_time": "2026-05-06T22:53:43+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/067.htm",
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.646283+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 47
-      },
-      "status": "published"
-    },
-    {
-      "id": "c1e69a3c903652",
-      "url": "https://www.ithome.com/0/946/065.htm",
-      "title": "三冠加冕！张雪机车 WSBK 匈牙利站第一回合正赛夺冠",
-      "summary": "IT之家 5 月 2 日消息，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）匈牙利站 WorldSSP 组别第一回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯夺得冠军。 据IT之家了解，此次匈牙利站的“逆风登顶”，是张雪机车继 WSBK 葡萄牙站包揽双冠之后，拿下的又一座冠军奖杯。 德比斯在最后一圈最后一个赛段完成关键超越，击败阿尔伯特 · 阿雷纳斯（雅马哈），为张雪机车在首个参赛赛季拿下第三场胜利。原本被视为另一夺冠热门的詹 · 厄恩居（雅马",
-      "content": "IT之家 5 月 2 日消息，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）匈牙利站 WorldSSP 组别第一回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯夺得冠军。 据IT之家了解，此次匈牙利站的“逆风登顶”，是张雪机车继 WSBK 葡萄牙站包揽双冠之后，拿下的又一座冠军奖杯。 德比斯在最后一圈最后一个赛段完成关键超越，击败阿尔伯特 · 阿雷纳斯（雅马哈），为张雪机车在首个参赛赛季拿下第三场胜利。原本被视为另一夺冠热门的詹 · 厄恩居（雅马",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T20:37:19+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/065.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.646765+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
-      },
-      "status": "published"
-    },
-    {
-      "id": "ed6ce48f00d3a0",
-      "url": "https://www.ithome.com/0/946/063.htm",
-      "title": "广汽昊铂 S600 部分规格公布：零百加速 4.3 秒，标配激光雷达",
-      "summary": "IT之家 5 月 2 日消息，广汽昊铂 S600 于 2026 北京车展开启盲订，定位“新豪华智慧运动 SUV”，官方现已公布新车的部分规格。 IT之家从官方介绍获悉，该车尺寸为 5015mm/1933mm/1700mm， 轴距为 2936mm ，提供茱比莉红、夜影黑、冰岩灰、玛瑙紫、极地白、液钛银、深海绿等车色，配备主动进气格栅 + 双真气道。 座舱方面，该车提供丹霞曦光、乌木流影、沙丘烁光内饰配色，配备主动升降音响、 18 点按摩零重力女王副驾 （同级唯一高低可调）、14",
-      "content": "IT之家 5 月 2 日消息，广汽昊铂 S600 于 2026 北京车展开启盲订，定位“新豪华智慧运动 SUV”，官方现已公布新车的部分规格。 IT之家从官方介绍获悉，该车尺寸为 5015mm/1933mm/1700mm， 轴距为 2936mm ，提供茱比莉红、夜影黑、冰岩灰、玛瑙紫、极地白、液钛银、深海绿等车色，配备主动进气格栅 + 双真气道。 座舱方面，该车提供丹霞曦光、乌木流影、沙丘烁光内饰配色，配备主动升降音响、 18 点按摩零重力女王副驾 （同级唯一高低可调）、14",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T20:12:12+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/063.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.647976+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
-      },
-      "status": "published"
-    },
-    {
-      "id": "c9275ff256feab",
-      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
-      "title": "The things we’re building",
-      "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepag",
-      "content": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepag",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T20:00:00+08:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:44.589765+08:00",
-          "credibility": 84
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 84,
-        "opportunity_score": 49
-      },
-      "status": "published"
-    },
-    {
-      "id": "a1c28b211bad97",
-      "url": "https://www.ithome.com/0/946/061.htm",
-      "title": "狮子洋通道建设工期过半：连接广州、东莞，预计 2029 年通车",
-      "summary": "IT之家 5 月 2 日消息，据央视新闻今日报道，在粤港澳大湾区，珠江口之上，继港珠澳大桥、深中通道之后的又一座“超级工程”—— 狮子洋通道，今天迎来建设新进展。 狮子洋通道控制性工程狮子洋大桥的东锚碇之上，距离地面 30 多米高，就在今天凌晨，这里完成了锚块的施工，工作人员在进行浇筑后的收面、养护等工作。 不仅是锚碇， 目前狮子洋通道项目的建设工期已经过半 ，部分互通、引桥等引线工程的建设进度已超过 50%，目前正进行箱梁架设、桥面板安装等施工，桥体的雏形已经基本呈现。 狮",
-      "content": "IT之家 5 月 2 日消息，据央视新闻今日报道，在粤港澳大湾区，珠江口之上，继港珠澳大桥、深中通道之后的又一座“超级工程”—— 狮子洋通道，今天迎来建设新进展。 狮子洋通道控制性工程狮子洋大桥的东锚碇之上，距离地面 30 多米高，就在今天凌晨，这里完成了锚块的施工，工作人员在进行浇筑后的收面、养护等工作。 不仅是锚碇， 目前狮子洋通道项目的建设工期已经过半 ，部分互通、引桥等引线工程的建设进度已超过 50%，目前正进行箱梁架设、桥面板安装等施工，桥体的雏形已经基本呈现。 狮",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T19:50:39+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/061.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.648666+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
-      },
-      "status": "published"
-    },
-    {
-      "id": "4bd194c0345f9e",
-      "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-      "summary": "Acoustic fire suppression goes commercial.",
-      "content": "Acoustic fire suppression goes commercial.",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T19:30:26+08:00",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:45.513606+08:00",
+          "verify_time": "2026-05-06T23:03:33.930234+08:00",
           "credibility": 86
         }
       ],
@@ -303,26 +132,29 @@
         "credibility_score": 86,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Commerce Sec. Howard Lutnick to answer Epstein questions from House panel Wednesday",
+      "original_summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+      "language": "zh-CN"
     },
     {
-      "id": "fba02ea687ac45",
-      "url": "https://www.ithome.com/0/946/060.htm",
-      "title": "2026 年“五一”档电影全国平均票价 36.9 元，近 4 年同期最低",
-      "summary": "IT之家 5 月 2 日消息，据央视新闻今日报道，“五一”前夕，各地推出了多种形式的惠民观影措施，让“五一”档电影票平均价格下降。据票务平台数据，截至 5 月 1 日晚 10 时许， 2026“五一”档全国平均票价为 36.9 元，为近 4 年同期最低 。 据灯塔专业版，2026 年五一档（5 月 1 日-5 月 5 日）档期总票房（含预售）突破 3 亿，影片《寒战 1994》《消失的人》《穿普拉达的女王 2》暂列档期票房前三。 IT之家附票房前 5 如下： 《寒战 1994",
-      "content": "IT之家 5 月 2 日消息，据央视新闻今日报道，“五一”前夕，各地推出了多种形式的惠民观影措施，让“五一”档电影票平均价格下降。据票务平台数据，截至 5 月 1 日晚 10 时许， 2026“五一”档全国平均票价为 36.9 元，为近 4 年同期最低 。 据灯塔专业版，2026 年五一档（5 月 1 日-5 月 5 日）档期总票房（含预售）突破 3 亿，影片《寒战 1994》《消失的人》《穿普拉达的女王 2》暂列档期票房前三。 IT之家附票房前 5 如下： 《寒战 1994",
+      "id": "802e09efbcd718",
+      "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
+      "title": "伯克希尔旗下的分销巨头将在美国阳光地带部署无人驾驶大型钻机",
+      "summary": "伯克希尔哈撒韦公司旗下的 McLane 是美国最大的分销公司之一，它正在与 Aurora 合作为其餐厅业务部署自动驾驶大型设备。",
+      "content": "伯克希尔哈撒韦公司旗下的 McLane 是美国最大的分销公司之一，它正在与 Aurora 合作为其餐厅业务部署自动驾驶大型设备。",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T19:26:52+08:00",
+      "publish_time": "2026-05-06T22:42:41+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/060.htm",
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.648982+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:03:33.930700+08:00",
+          "credibility": 86
         }
       ],
       "stocks": [],
@@ -330,165 +162,97 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 47
-      },
-      "status": "published"
-    },
-    {
-      "id": "ec714e057e3020",
-      "url": "https://www.ithome.com/0/946/037.htm",
-      "title": "华为乾崑｜启境 GT7 启动全国巡展，即将落地 18 城",
-      "summary": "IT之家 5 月 2 日消息，今天下午，华为乾崑｜启境汽车官微宣布：GT7 全国巡展进行时，即将落地 18 城： 宁波、杭州、成都、南京、厦门、郑州、广州、深圳、东莞、苏州、济南、长沙、南昌、重庆、上海、福州、西安、佛山 。 IT之家汇总各个城市巡展计划如下： 宁波：4 月 28 日-5 月 7 日，宏泰广场 杭州：5 月 1 日-5 月 10 日，滨江银泰 成都：5 月 1 日-5 月 10 日，万象城 南京：5 月 1 日-5 月 10 日，华采天地 厦门：5 月 1 日",
-      "content": "IT之家 5 月 2 日消息，今天下午，华为乾崑｜启境汽车官微宣布：GT7 全国巡展进行时，即将落地 18 城： 宁波、杭州、成都、南京、厦门、郑州、广州、深圳、东莞、苏州、济南、长沙、南昌、重庆、上海、福州、西安、佛山 。 IT之家汇总各个城市巡展计划如下： 宁波：4 月 28 日-5 月 7 日，宏泰广场 杭州：5 月 1 日-5 月 10 日，滨江银泰 成都：5 月 1 日-5 月 10 日，万象城 南京：5 月 1 日-5 月 10 日，华采天地 厦门：5 月 1 日",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T18:57:45+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/037.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.649821+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
-      },
-      "status": "published"
-    },
-    {
-      "id": "62425f3827d5b5",
-      "url": "https://www.ithome.com/0/946/033.htm",
-      "title": "国产大飞机 C919 首位女机长于悦顺利首飞",
-      "summary": "IT之家 5 月 2 日消息，5 月 1 日，南航 CZ3599 航班平稳落地南京禄口国际机场，全国首位国产大飞机 C919 女机长于悦，顺利完成了改装恢复资质后首个带队机长的航班任务。 据官方介绍，2025 年，于悦主动申请改装国产大飞机 C919，并在严格选拔中脱颖而出。在中国商飞经过两个多月高强度改装培训，顺利取得 C919 机型资质。经过自己不懈的努力，并通过各项理论考试、本场训练、航线检查等全项检验，5 月 1 日，于悦作为 C919 机型的带队机长，执飞商业航班。",
-      "content": "IT之家 5 月 2 日消息，5 月 1 日，南航 CZ3599 航班平稳落地南京禄口国际机场，全国首位国产大飞机 C919 女机长于悦，顺利完成了改装恢复资质后首个带队机长的航班任务。 据官方介绍，2025 年，于悦主动申请改装国产大飞机 C919，并在严格选拔中脱颖而出。在中国商飞经过两个多月高强度改装培训，顺利取得 C919 机型资质。经过自己不懈的努力，并通过各项理论考试、本场训练、航线检查等全项检验，5 月 1 日，于悦作为 C919 机型的带队机长，执飞商业航班。",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T17:22:43+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/033.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.650538+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
-        "opportunity_score": 43
-      },
-      "status": "published"
-    },
-    {
-      "id": "e4d6e04f252bb1",
-      "url": "https://www.ithome.com/0/946/031.htm",
-      "title": "零跑 C 系全球累计销量突破 75 万台，成品牌主力车型",
-      "summary": "IT之家 5 月 2 日消息，零跑汽车今日宣布，C 系 4 月累计销量 28611 台（含海外）。上市至今， 全球累计销量突破 750000 台 。 零跑汽车此前已公布 4 月交付数据：全系交付 71387 辆，同比增长 73.9%。由此可见，零跑 C 系列已经成为零跑汽车的主力车型。 IT之家注意到，2025 年度， 零跑汽车 C 系列年度销量突破 33 万台 ，其中 C10 销量突破 159000 台、C11 销量 95000 台、C16 销量 78060 台。",
-      "content": "IT之家 5 月 2 日消息，零跑汽车今日宣布，C 系 4 月累计销量 28611 台（含海外）。上市至今， 全球累计销量突破 750000 台 。 零跑汽车此前已公布 4 月交付数据：全系交付 71387 辆，同比增长 73.9%。由此可见，零跑 C 系列已经成为零跑汽车的主力车型。 IT之家注意到，2025 年度， 零跑汽车 C 系列年度销量突破 33 万台 ，其中 C10 销量突破 159000 台、C11 销量 95000 台、C16 销量 78060 台。",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T17:16:12+08:00",
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/031.htm",
-          "verified": true,
-          "verify_time": "2026-05-02T21:38:01.650707+08:00",
-          "credibility": 78
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 78,
+        "credibility_score": 86,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Berkshire-owned distribution giant to deploy driverless big rigs across U.S. Sun Belt",
+      "original_summary": "Berkshire Hathaway-owned McLane, one of America's biggest distribution companies, is deploying self-driving big rigs with Aurora for its restaurants business.",
+      "language": "zh-CN"
     },
     {
-      "id": "546c47662bb9a3",
-      "url": "https://www.ithome.com/0/946/030.htm",
-      "title": "微软承认 Win11 小组件混乱且易令人分心，宣布进行“春季清理”",
-      "summary": "IT之家 5 月 2 日消息，据外媒 neowin 今日报道，微软 2021 年推出 Windows 11 小组件时，原本想让用户快速查看天气、日程、股票等信息。可真正落地后，体验并不理想。 鼠标一悬停就自动打开、任务栏不断出现提醒和角标，再加上默认塞进来的 MSN 资讯流 ，反而让小组件成了不少用户眼中的打扰来源。 报道称，很多人希望微软 回到 Windows 7 桌面小工具的“更直接”的思路 ，或者参考苹果近年在 macOS 中提供的小组件体验。目前，微软先从现有小组件体",
-      "content": "IT之家 5 月 2 日消息，据外媒 neowin 今日报道，微软 2021 年推出 Windows 11 小组件时，原本想让用户快速查看天气、日程、股票等信息。可真正落地后，体验并不理想。 鼠标一悬停就自动打开、任务栏不断出现提醒和角标，再加上默认塞进来的 MSN 资讯流 ，反而让小组件成了不少用户眼中的打扰来源。 报道称，很多人希望微软 回到 Windows 7 桌面小工具的“更直接”的思路 ，或者参考苹果近年在 macOS 中提供的小组件体验。目前，微软先从现有小组件体",
+      "id": "31107ff9bf19a4",
+      "url": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
+      "title": "Ken Griffin：Citadel 在迈阿密扩张，以回应纽约市市长 Mamdani 的“低俗”税务视频",
+      "summary": "马姆达尼办公室在回应格里芬的问题时表示，“我们的税收制度从根本上被破坏了。它奖励极端财富，而工薪阶层则被推向边缘。”",
+      "content": "马姆达尼办公室在回应格里芬的问题时表示，“我们的税收制度从根本上被破坏了。它奖励极端财富，而工薪阶层则被推向边缘。”",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T21:41:37+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.930427+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Ken Griffin: Citadel expanding in Miami in response to NYC Mayor Mamdani's 'poor taste' tax video",
+      "original_summary": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\"",
+      "language": "zh-CN"
+    },
+    {
+      "id": "fcb7a9e05a3860",
+      "url": "https://www.ithome.com/0/947/008.htm",
+      "title": "继社媒禁令后，印尼考虑为 7000 万名 16 岁以下人群祭出“网购禁令”",
+      "summary": "IT之家 5 月 6 日消息，据新华社报道，印度尼西亚政府官员 6 日说，正在考虑对 16 岁以下人群实施“网购禁令”， 以避免未成年人在网购平台遭遇诈骗 。 印尼通信和数字事务部长默蒂娅 · 哈菲兹表示，印尼出台针对 16 岁以下人群的社交媒体禁令后，接下来将把禁令扩展至购物网站。“电子商务平台将是下一个，因为我们发现 有孩子在网购时成为诈骗案受害者 。”不过，她没有说明“网购禁令”的详细方案。 今年 3 月 28 日，印尼正式实施针对 16 岁以下人群的“社媒禁令”，成为",
+      "content": "IT之家 5 月 6 日消息，据新华社报道，印度尼西亚政府官员 6 日说，正在考虑对 16 岁以下人群实施“网购禁令”， 以避免未成年人在网购平台遭遇诈骗 。 印尼通信和数字事务部长默蒂娅 · 哈菲兹表示，印尼出台针对 16 岁以下人群的社交媒体禁令后，接下来将把禁令扩展至购物网站。“电子商务平台将是下一个，因为我们发现 有孩子在网购时成为诈骗案受害者 。”不过，她没有说明“网购禁令”的详细方案。 今年 3 月 28 日，印尼正式实施针对 16 岁以下人群的“社媒禁令”，成为",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T17:01:44+08:00",
+      "publish_time": "2026-05-06T21:38:59+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/030.htm",
+          "url": "https://www.ithome.com/0/947/008.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.650866+08:00",
+          "verify_time": "2026-05-06T23:04:37.931083+08:00",
           "credibility": 78
         }
       ],
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        },
-        {
-          "symbol": "AAPL",
-          "name": "苹果",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
+      "stocks": [],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 59
+        "opportunity_score": 38
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "继社媒禁令后，印尼考虑为 7000 万名 16 岁以下人群祭出“网购禁令”",
+      "original_summary": "IT之家 5 月 6 日消息，据新华社报道，印度尼西亚政府官员 6 日说，正在考虑对 16 岁以下人群实施“网购禁令”， 以避免未成年人在网购平台遭遇诈骗 。 印尼通信和数字事务部长默蒂娅 · 哈菲兹表示，印尼出台针对 16 岁以下人群的社交媒体禁令后，接下来将把禁令扩展至购物网站。“电子商务平台将是下一个，因为我们发现 有孩子在网购时成为诈骗案受害者 。”不过，她没有说明“网购禁令”的详细方案。 今年 3 月 28 日，印尼正式实施针对 16 岁以下人群的“社媒禁令”，成为",
+      "language": "zh-CN"
     },
     {
-      "id": "520b70a5f6439f",
-      "url": "https://www.ithome.com/0/946/029.htm",
-      "title": "“五一”航班延误、退票改签等情况多发，公安机关发布防范电诈安全提示",
-      "summary": "IT之家 5 月 2 日消息，公安部刑侦局今日发文称，“五一”假期期间，铁路、民航等客流量大，票务紧张，航班延误、退票改签等情况多发，容易给不法分子以可乘之机， 机票退改签类电信网络诈骗案件可能呈现上升趋势 。 公安机关提示，收到机票退改签信息时，一定要通过航空公司官方 App 或客服电话确认航班状态，切勿点击陌生链接，切勿下载不明 App， 切勿开启“屏幕共享”或透露验证码 ，避免脱离官方平台操作。在接到任何主动理赔电话时，尤其要保持警惕，通过官方渠道核实，守护好自己的“钱",
-      "content": "IT之家 5 月 2 日消息，公安部刑侦局今日发文称，“五一”假期期间，铁路、民航等客流量大，票务紧张，航班延误、退票改签等情况多发，容易给不法分子以可乘之机， 机票退改签类电信网络诈骗案件可能呈现上升趋势 。 公安机关提示，收到机票退改签信息时，一定要通过航空公司官方 App 或客服电话确认航班状态，切勿点击陌生链接，切勿下载不明 App， 切勿开启“屏幕共享”或透露验证码 ，避免脱离官方平台操作。在接到任何主动理赔电话时，尤其要保持警惕，通过官方渠道核实，守护好自己的“钱",
+      "id": "ed969c27572698",
+      "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
+      "title": "海趣推出Agentic量子操作系统用于企业应用研发",
+      "summary": "内幕简报新闻稿 — 领先的量子中间件开发商 Haiqu 今天宣布推出 Agentic 量子操作系统 (OS)，这是第一个面向企业和科学量子的全栈量子智能平台。",
+      "content": "内幕简报新闻稿 — 领先的量子中间件开发商 Haiqu 今天宣布推出 Agentic 量子操作系统 (OS)，这是第一个面向企业和科学量子的全栈量子智能平台。",
       "category": "world",
       "tags": [
-        "国际局势"
+        "war"
       ],
-      "publish_time": "2026-05-02T16:59:02+08:00",
+      "publish_time": "2026-05-06T21:35:04+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/029.htm",
+          "name": "Quantum Insider 量子资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/haiqu-launches-agentic-quantum-operating-system-for-enterprise-applications-rd/",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.650957+08:00",
+          "verify_time": "2026-05-06T23:04:15.292250+08:00",
           "credibility": 78
         }
       ],
@@ -500,25 +264,28 @@
         "credibility_score": 78,
         "opportunity_score": 47
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Haiqu Launches Agentic Quantum Operating System For Enterprise Applications R&D",
+      "original_summary": "Insider Brief PRESS RELEASE — Haiqu, a leading developer of quantum middleware, today announced the launch of its Agentic Quantum Operating System (OS), the first full-stack quantum intelligence platform for enterprise and scientific quantu",
+      "language": "zh-CN"
     },
     {
-      "id": "cf1e5855e2e0ad",
-      "url": "https://www.ithome.com/0/946/028.htm",
-      "title": "蔚来乐道换电单日总量创历史新高，5 月 1 日单日 32289 单",
-      "summary": "IT之家 5 月 2 日消息，今日，蔚来旗下乐道宣布换电单日总量创历史新高，5 月 1 日单日换电 32,289 单。 IT之家注意到，2026 年 4 月 30 日 0 点至 5 月 6 日 24 点五一长假期间，除营运车辆外，所有乐道车主在高速路段（含出入口站）换电站换电，或通过乐道汽车 App 扫码充电， 可享免服务费权益 。本次活动不含第三方合作充电桩。 截至目前，蔚来全国建成 8,795 座充换电站，其中换电站 3,809 座，充电站 4,986 座、充电桩 28,",
-      "content": "IT之家 5 月 2 日消息，今日，蔚来旗下乐道宣布换电单日总量创历史新高，5 月 1 日单日换电 32,289 单。 IT之家注意到，2026 年 4 月 30 日 0 点至 5 月 6 日 24 点五一长假期间，除营运车辆外，所有乐道车主在高速路段（含出入口站）换电站换电，或通过乐道汽车 App 扫码充电， 可享免服务费权益 。本次活动不含第三方合作充电桩。 截至目前，蔚来全国建成 8,795 座充换电站，其中换电站 3,809 座，充电站 4,986 座、充电桩 28,",
+      "id": "28ec0d6fa6adf4",
+      "url": "https://www.ithome.com/0/947/003.htm",
+      "title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
+      "summary": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。 宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。 而据外媒 BMW Blog 今晚报道，从 2026 年第一季度销量看，Z4 在退场前 反而迎来一波需求回升 。今年 Q1 宝马交付 2555 辆 Z4，同比增长 4.9% 。不过，Z4",
+      "content": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。 宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。 而据外媒 BMW Blog 今晚报道，从 2026 年第一季度销量看，Z4 在退场前 反而迎来一波需求回升 。今年 Q1 宝马交付 2555 辆 Z4，同比增长 4.9% 。不过，Z4",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T16:43:45+08:00",
+      "publish_time": "2026-05-06T21:22:25+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/028.htm",
+          "url": "https://www.ithome.com/0/947/003.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651056+08:00",
+          "verify_time": "2026-05-06T23:04:37.931557+08:00",
           "credibility": 78
         }
       ],
@@ -530,25 +297,28 @@
         "credibility_score": 78,
         "opportunity_score": 47
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
+      "original_summary": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。 宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。 而据外媒 BMW Blog 今晚报道，从 2026 年第一季度销量看，Z4 在退场前 反而迎来一波需求回升 。今年 Q1 宝马交付 2555 辆 Z4，同比增长 4.9% 。不过，Z4",
+      "language": "zh-CN"
     },
     {
-      "id": "c325bf58ad9840",
-      "url": "https://www.ithome.com/0/946/027.htm",
-      "title": "张雪回应“820RR 赛道熄火”：倾角设定是 61 度就会熄火",
-      "summary": "IT之家 5 月 2 日消息，5 月 1 日，张雪机车创始人张雪在个人社交平台发视频，就用户反映的“张雪 820RR 赛道熄火”进行了回应。 张雪表示：“我们有一个用户现在在宁波赛道，他车子熄火的情况，我们已经找到问题了。我们原来车子倾角，就是我们的六轴， 设定的是 61 度，然后我们就会熄火 ，我们判断为摔车。因为宁波的那个赛道，可能车手是压到了 61 度，但是这个现在还不能确定，我们暂时是把倾角传感器关闭了，后面我们可能要再把倾角传感器调大一点。我觉得新车遇到一些问题，也",
-      "content": "IT之家 5 月 2 日消息，5 月 1 日，张雪机车创始人张雪在个人社交平台发视频，就用户反映的“张雪 820RR 赛道熄火”进行了回应。 张雪表示：“我们有一个用户现在在宁波赛道，他车子熄火的情况，我们已经找到问题了。我们原来车子倾角，就是我们的六轴， 设定的是 61 度，然后我们就会熄火 ，我们判断为摔车。因为宁波的那个赛道，可能车手是压到了 61 度，但是这个现在还不能确定，我们暂时是把倾角传感器关闭了，后面我们可能要再把倾角传感器调大一点。我觉得新车遇到一些问题，也",
+      "id": "59f6e6c3836345",
+      "url": "https://www.ithome.com/0/946/994.htm",
+      "title": "小米汽车：国家 B 级赛照培训北京站、厦门站 5 月 8 日开放报名",
+      "summary": "IT之家 5 月 6 日消息，今天晚间，小米汽车官微宣布：国家 B 级赛照培训北京站、厦门站同开，报名即将开启！ 具体时间上，两站报名将于 5 月 8 日上午 10 时同时开启， 北京站培训时间为 5 月 29 日-31 日，厦门站培训时间为 5 月 22 日-24 日 。 这项培训将在 FIA 国际汽联认证赛道 实地展开，并由中汽摩联认证教练全程带教，提供专业系统赛道课程，单人可实操 5 小时以上。同时，小米车主还有欢迎晚宴、赛服定妆照、模拟比赛等专属福利。 据IT之家了解",
+      "content": "IT之家 5 月 6 日消息，今天晚间，小米汽车官微宣布：国家 B 级赛照培训北京站、厦门站同开，报名即将开启！ 具体时间上，两站报名将于 5 月 8 日上午 10 时同时开启， 北京站培训时间为 5 月 29 日-31 日，厦门站培训时间为 5 月 22 日-24 日 。 这项培训将在 FIA 国际汽联认证赛道 实地展开，并由中汽摩联认证教练全程带教，提供专业系统赛道课程，单人可实操 5 小时以上。同时，小米车主还有欢迎晚宴、赛服定妆照、模拟比赛等专属福利。 据IT之家了解",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T16:30:41+08:00",
+      "publish_time": "2026-05-06T20:54:53+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/027.htm",
+          "url": "https://www.ithome.com/0/946/994.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651159+08:00",
+          "verify_time": "2026-05-06T23:04:37.931844+08:00",
           "credibility": 78
         }
       ],
@@ -560,25 +330,28 @@
         "credibility_score": 78,
         "opportunity_score": 43
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "小米汽车：国家 B 级赛照培训北京站、厦门站 5 月 8 日开放报名",
+      "original_summary": "IT之家 5 月 6 日消息，今天晚间，小米汽车官微宣布：国家 B 级赛照培训北京站、厦门站同开，报名即将开启！ 具体时间上，两站报名将于 5 月 8 日上午 10 时同时开启， 北京站培训时间为 5 月 29 日-31 日，厦门站培训时间为 5 月 22 日-24 日 。 这项培训将在 FIA 国际汽联认证赛道 实地展开，并由中汽摩联认证教练全程带教，提供专业系统赛道课程，单人可实操 5 小时以上。同时，小米车主还有欢迎晚宴、赛服定妆照、模拟比赛等专属福利。 据IT之家了解",
+      "language": "zh-CN"
     },
     {
-      "id": "26b5d30c8ddb7b",
-      "url": "https://www.ithome.com/0/946/025.htm",
-      "title": "交通运输部：5 月 1 日全社会跨区域人员流动量 33747 万人次，环比增长 52.9%",
-      "summary": "IT之家 5 月 2 日消息，今天下午，交通运输部公布最新数据： 2026 年 5 月 1 日，全社会跨区域人员流动量 33747 万人次，环比增长 52.9%，同比增长 1.4% 。 铁路客运量 2484.4 万人次，环比增长 25.5%，同比增长 7.5%。 公路人员流动量（包括高速公路及普通国省道非营业性小客车人员出行量、公路营业性客运量）30854 万人次，环比增长 56.1%，同比增长 1%。IT之家获悉，其中公路营业性客运量 4219 万人次，环比增长 16.5%",
-      "content": "IT之家 5 月 2 日消息，今天下午，交通运输部公布最新数据： 2026 年 5 月 1 日，全社会跨区域人员流动量 33747 万人次，环比增长 52.9%，同比增长 1.4% 。 铁路客运量 2484.4 万人次，环比增长 25.5%，同比增长 7.5%。 公路人员流动量（包括高速公路及普通国省道非营业性小客车人员出行量、公路营业性客运量）30854 万人次，环比增长 56.1%，同比增长 1%。IT之家获悉，其中公路营业性客运量 4219 万人次，环比增长 16.5%",
+      "id": "d0941c731e03ed",
+      "url": "https://www.ithome.com/0/946/992.htm",
+      "title": "福特 CEO 法利誓言要造美国人买得起的车：这是行业的优先任务",
+      "summary": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担， 必须成为汽车行业的优先任务 ，福特正在为此采取行动。 被问到美国消费者现在是否还能负担新车价格时，法利回答：“ 有些美国人 可以。但作为一个品牌，也作为一个行业，我们必须把工作做好，让汽车变得更可负担。我认为，未来几年你肯定会在福特看到这一点。” Kelley Blue Book 数据显示，目前美国新车 平均价格接近 5 万美元（IT之",
+      "content": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担， 必须成为汽车行业的优先任务 ，福特正在为此采取行动。 被问到美国消费者现在是否还能负担新车价格时，法利回答：“ 有些美国人 可以。但作为一个品牌，也作为一个行业，我们必须把工作做好，让汽车变得更可负担。我认为，未来几年你肯定会在福特看到这一点。” Kelley Blue Book 数据显示，目前美国新车 平均价格接近 5 万美元（IT之",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T16:28:58+08:00",
+      "publish_time": "2026-05-06T20:40:55+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/025.htm",
+          "url": "https://www.ithome.com/0/946/992.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651263+08:00",
+          "verify_time": "2026-05-06T23:04:37.932153+08:00",
           "credibility": 78
         }
       ],
@@ -588,27 +361,30 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 47
+        "opportunity_score": 43
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "福特 CEO 法利誓言要造美国人买得起的车：这是行业的优先任务",
+      "original_summary": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担， 必须成为汽车行业的优先任务 ，福特正在为此采取行动。 被问到美国消费者现在是否还能负担新车价格时，法利回答：“ 有些美国人 可以。但作为一个品牌，也作为一个行业，我们必须把工作做好，让汽车变得更可负担。我认为，未来几年你肯定会在福特看到这一点。” Kelley Blue Book 数据显示，目前美国新车 平均价格接近 5 万美元（IT之",
+      "language": "zh-CN"
     },
     {
-      "id": "548cdef9a7bffb",
-      "url": "https://www.ithome.com/0/946/024.htm",
-      "title": "荣耀手表 6 Plus 预计 5 月 25 日发布：首发 1000mAh 青海湖大电池，35 天超长续航",
-      "summary": "IT之家 5 月 2 日消息，京东平台显示，荣耀手表 6 Plus 预计将于 5 月 25 日发布，5 月 29 日正式开售，这款新品已开启预约。 IT之家注意到，荣耀手表 6 Plus 可选飞驰蓝、赛装灰、暮光棕、暗影黑四款配色，还有一个暗影黑（青春版）。配置方面，荣耀手表 6 Plus 内置行业首个 1000mAh 青海湖大电池， 续航可达 35 天 。 此外，该手表支持 120+ 种运动模式，配有进阶跑步运动、专业羽毛球、专业足球等运动模型，还能评估血压风险、防猝筛查研",
-      "content": "IT之家 5 月 2 日消息，京东平台显示，荣耀手表 6 Plus 预计将于 5 月 25 日发布，5 月 29 日正式开售，这款新品已开启预约。 IT之家注意到，荣耀手表 6 Plus 可选飞驰蓝、赛装灰、暮光棕、暗影黑四款配色，还有一个暗影黑（青春版）。配置方面，荣耀手表 6 Plus 内置行业首个 1000mAh 青海湖大电池， 续航可达 35 天 。 此外，该手表支持 120+ 种运动模式，配有进阶跑步运动、专业羽毛球、专业足球等运动模型，还能评估血压风险、防猝筛查研",
+      "id": "a300d80f89aaf3",
+      "url": "https://www.ithome.com/0/946/990.htm",
+      "title": "联合创新推出“GA27V1M MAX”27 英寸显示器：4K 160Hz / FHD 320Hz 双模 + 双扬 + 光线传感器，3499 元",
+      "summary": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器， 定价为 3499 元 ，部分地区国补后定价低至 3133.6 元。 京东 联合创新“GA27V1M MAX”显示器 3499 元 直达链接 该机采用纯白机身 / 支架，显示器配备的 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 1",
+      "content": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器， 定价为 3499 元 ，部分地区国补后定价低至 3133.6 元。 京东 联合创新“GA27V1M MAX”显示器 3499 元 直达链接 该机采用纯白机身 / 支架，显示器配备的 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 1",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T16:23:12+08:00",
+      "publish_time": "2026-05-06T20:25:32+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/024.htm",
+          "url": "https://www.ithome.com/0/946/990.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651369+08:00",
+          "verify_time": "2026-05-06T23:04:37.932441+08:00",
           "credibility": 78
         }
       ],
@@ -618,66 +394,63 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 47
+        "opportunity_score": 43
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "联合创新推出“GA27V1M MAX”27 英寸显示器：4K 160Hz / FHD 320Hz 双模 + 双扬 + 光线传感器，3499 元",
+      "original_summary": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器， 定价为 3499 元 ，部分地区国补后定价低至 3133.6 元。 京东 联合创新“GA27V1M MAX”显示器 3499 元 直达链接 该机采用纯白机身 / 支架，显示器配备的 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 1",
+      "language": "zh-CN"
     },
     {
-      "id": "3a66c7568a065d",
-      "url": "https://www.ithome.com/0/946/023.htm",
-      "title": "比亚迪 4 月各车型详细销量出炉：8 个车系破 2 万，均属于王朝、海洋系列",
-      "summary": "IT之家 5 月 2 日消息，昨天晚间，比亚迪公布了 2026 年 4 月销量成绩单：总量 321123 辆，乘用车 314100 辆，环比继续保持增长。随后来到今天，博主 @小迪快报 公布了比亚迪各车型的详细销量情况。 IT之家汇总如下： 王朝网 夏：当月 1700 辆，今年累计 6412 辆 秦：当月 24400 辆，今年累计 105914 辆 汉：当月 5870 辆，今年累计 22590 辆 唐：当月 7127 辆，今年累计 25125 辆 宋：当月 44069 辆，今",
-      "content": "IT之家 5 月 2 日消息，昨天晚间，比亚迪公布了 2026 年 4 月销量成绩单：总量 321123 辆，乘用车 314100 辆，环比继续保持增长。随后来到今天，博主 @小迪快报 公布了比亚迪各车型的详细销量情况。 IT之家汇总如下： 王朝网 夏：当月 1700 辆，今年累计 6412 辆 秦：当月 24400 辆，今年累计 105914 辆 汉：当月 5870 辆，今年累计 22590 辆 唐：当月 7127 辆，今年累计 25125 辆 宋：当月 44069 辆，今",
+      "id": "90dfdafd97ff31",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "title": "下载：海底科学和军事聊天机器人",
+      "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。廉价的海底跳跃潜水器可能会推动深海科学和采矿业上周，两个长方形潜水器",
+      "content": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。廉价的海底跳跃潜水器可能会推动深海科学和采矿业上周，两个长方形潜水器",
       "category": "world",
       "tags": [
-        "国际局势"
+        "military"
       ],
-      "publish_time": "2026-05-02T16:22:03+08:00",
+      "publish_time": "2026-05-06T20:10:00+08:00",
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/023.htm",
+          "name": "麻省理工科技评论",
+          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651558+08:00",
-          "credibility": 78
+          "verify_time": "2026-05-06T23:03:39.949202+08:00",
+          "credibility": 90
         }
       ],
-      "stocks": [
-        {
-          "symbol": "BYD",
-          "name": "比亚迪",
-          "exchange": "OTC",
-          "impact": "positive",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
+      "stocks": [],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 78,
+        "credibility_score": 90,
         "opportunity_score": 55
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "The Download: seafloor science and military chatbots",
+      "original_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblon",
+      "language": "zh-CN"
     },
     {
-      "id": "abcabb04f17fc8",
-      "url": "https://www.ithome.com/0/946/021.htm",
-      "title": "宾利飞驰将迎改款：更强调奢华感、更年轻，最早今年年末亮相",
-      "summary": "IT之家 5 月 2 日消息，当地时间 5 月 1 日，据外媒 Auto Express 报道，宾利飞驰即将迎来新一轮更新，这次重点放在外观上。新车外观会向欧陆 GT 靠拢，设计语言将会跟上最新家族风格。 宾利还没有公布新款飞驰的发布时间。按照目前判断，新车可能会在 今年晚些时候或 2027 年初亮相 ，并有望与即将推出的纯电“Urban SUV”同期发布。 从这辆原型车看，其前灯区域覆盖伪装贴纸，隐约出现的灯组轮廓与欧陆 GT 接近。现款两个独立圆形大灯将被 单灯设计 取代",
-      "content": "IT之家 5 月 2 日消息，当地时间 5 月 1 日，据外媒 Auto Express 报道，宾利飞驰即将迎来新一轮更新，这次重点放在外观上。新车外观会向欧陆 GT 靠拢，设计语言将会跟上最新家族风格。 宾利还没有公布新款飞驰的发布时间。按照目前判断，新车可能会在 今年晚些时候或 2027 年初亮相 ，并有望与即将推出的纯电“Urban SUV”同期发布。 从这辆原型车看，其前灯区域覆盖伪装贴纸，隐约出现的灯组轮廓与欧陆 GT 接近。现款两个独立圆形大灯将被 单灯设计 取代",
+      "id": "2c3c5424fb4c69",
+      "url": "https://www.ithome.com/0/946/978.htm",
+      "title": "消息称三星苏州家电生产继续，传闻此前未能与赛夫就国行销售谈妥",
+      "summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 而根据韩媒 ETNEWS 的报道， 三星位于苏州的家电工厂的生产仍将继续 。三星也将以此为契机加速业务重组，强化高端产品核心地位、外包低附加值家电制造、关停马来西亚家电工厂。 报道还指出，三星电子此前曾在中国大陆市场执行高端化差异化的产品策略，但显著高于国内制造商的定价导致运营难以为继；原材料和物流费用的上涨导致制造及分销成本增加，",
+      "content": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 而根据韩媒 ETNEWS 的报道， 三星位于苏州的家电工厂的生产仍将继续 。三星也将以此为契机加速业务重组，强化高端产品核心地位、外包低附加值家电制造、关停马来西亚家电工厂。 报道还指出，三星电子此前曾在中国大陆市场执行高端化差异化的产品策略，但显著高于国内制造商的定价导致运营难以为继；原材料和物流费用的上涨导致制造及分销成本增加，",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T15:48:31+08:00",
+      "publish_time": "2026-05-06T19:19:25+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/021.htm",
+          "url": "https://www.ithome.com/0/946/978.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.651692+08:00",
+          "verify_time": "2026-05-06T23:04:37.933919+08:00",
           "credibility": 78
         }
       ],
@@ -687,35 +460,105 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 42
+        "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "消息称三星苏州家电生产继续，传闻此前未能与赛夫就国行销售谈妥",
+      "original_summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 而根据韩媒 ETNEWS 的报道， 三星位于苏州的家电工厂的生产仍将继续 。三星也将以此为契机加速业务重组，强化高端产品核心地位、外包低附加值家电制造、关停马来西亚家电工厂。 报道还指出，三星电子此前曾在中国大陆市场执行高端化差异化的产品策略，但显著高于国内制造商的定价导致运营难以为继；原材料和物流费用的上涨导致制造及分销成本增加，",
+      "language": "zh-CN"
     },
     {
-      "id": "a3c606795b8a7d",
-      "url": "https://www.ithome.com/0/946/014.htm",
-      "title": "时隔 14 年：ICANN 启动新一轮通用顶级域申请",
-      "summary": "IT之家 5 月 2 日消息，互联网名称与数字地址分配机构 ICANN 当地时间 4 月 30 日宣布 2026 轮次新 gTLD（IT之家注：通用顶级域）项目现已开放申请窗口。 I CANN 的上一轮次 gTLD 申请还可追溯到 2012 年 ，当时推出了 1200 余个新 gTLD，包括 \".microsoft\" \".africa\" \".eco\" 等不同类型的域名。 图源：Pixabay ICANN 在 2026 轮次 将接受 27 种不同文字表达的 gTLD 申请 ，扩",
-      "content": "IT之家 5 月 2 日消息，互联网名称与数字地址分配机构 ICANN 当地时间 4 月 30 日宣布 2026 轮次新 gTLD（IT之家注：通用顶级域）项目现已开放申请窗口。 I CANN 的上一轮次 gTLD 申请还可追溯到 2012 年 ，当时推出了 1200 余个新 gTLD，包括 \".microsoft\" \".africa\" \".eco\" 等不同类型的域名。 图源：Pixabay ICANN 在 2026 轮次 将接受 27 种不同文字表达的 gTLD 申请 ，扩",
+      "id": "e70d6358b73877",
+      "url": "https://www.ithome.com/0/946/973.htm",
+      "title": "三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
+      "summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布 三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
+      "content": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布 三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T15:06:12+08:00",
+      "publish_time": "2026-05-06T19:02:49+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/014.htm",
+          "url": "https://www.ithome.com/0/946/973.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.652458+08:00",
+          "verify_time": "2026-05-06T23:04:37.934460+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
+      "original_summary": "IT之家 5 月 6 日消息，三星（中国）投资有限公司今日发布正式公告，宣布 三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品 。 三星表示，针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规， 继续为用户提供规范的售后服务 ，保障用户合法权益不受影响。 IT之家附上三星官方的相关 FAQ（相关常见问题）： 【产品保证及售后关联】 Q1：是否可以正常提供产品的售后服务呢？ A1：对于购买三星产品的顾客，根据《消费者",
+      "language": "zh-CN"
+    },
+    {
+      "id": "5fbcc31b4fe47e",
+      "url": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
+      "title": "地面站运营商努力应对军事目标",
+      "summary": "最近对云设施和卫星地面基础设施的袭击加剧了人们的担忧，即航天工业的一些最重要的资产正在成为现代冲突的目标。尽管是卫星之间的重要联系",
+      "content": "最近对云设施和卫星地面基础设施的袭击加剧了人们的担忧，即航天工业的一些最重要的资产正在成为现代冲突的目标。尽管是卫星之间的重要联系",
+      "category": "world",
+      "tags": [
+        "military",
+        "conflict"
+      ],
+      "publish_time": "2026-05-06T19:00:00+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.155466+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Ground station operators grapple with military targeting",
+      "original_summary": "Recent strikes on cloud facilities and satellite ground infrastructure are sharpening concerns that some of the space industry’s most critical assets are becoming targets in modern conflict. Despite being the essential link between satellit",
+      "language": "zh-CN"
+    },
+    {
+      "id": "02d490f84d2f3d",
+      "url": "https://thequantuminsider.com/2026/05/06/qctrl-practical-quantum-advantage-materials-discovery/",
+      "title": "Q-CTRL 通过量子计算将能源领域的材料发现速度提高 3,000 倍",
+      "summary": "内部简报新闻稿 — 量子基础设施软件领域的全球领导者 Q-CTRL 今天宣布，它使用 IBM Quantum Platform 将商业相关问题的速度提高了 3,000 倍。 Q-CTRL已取得明显成果",
+      "content": "内部简报新闻稿 — 量子基础设施软件领域的全球领导者 Q-CTRL 今天宣布，它使用 IBM Quantum Platform 将商业相关问题的速度提高了 3,000 倍。 Q-CTRL已取得明显成果",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T18:48:23+08:00",
+      "sources": [
+        {
+          "name": "Quantum Insider 量子资讯",
+          "url": "https://thequantuminsider.com/2026/05/06/qctrl-practical-quantum-advantage-materials-discovery/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:15.293266+08:00",
           "credibility": 78
         }
       ],
       "stocks": [
         {
-          "symbol": "MSFT",
-          "name": "微软",
-          "exchange": "NASDAQ",
+          "symbol": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
           "impact": "neutral",
           "reason": "标题/摘要直接提及",
           "confidence": "direct"
@@ -728,25 +571,28 @@
         "credibility_score": 78,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Q-CTRL Delivers 3,000x Speedup in Materials Discovery for the Energy Sector with Quantum Computing",
+      "original_summary": "Insider Brief PRESS RELEASE — Q-CTRL, the global leader in quantum infrastructure software, today announced it has achieved a 3,000 times speedup on a problem of commercial relevance using the IBM Quantum Platform. Q-CTRL has achieved evide",
+      "language": "zh-CN"
     },
     {
-      "id": "3bb8695be0468f",
-      "url": "https://thequantuminsider.com/2026/05/02/liquid-instruments-50m-series-c-keysight-nrfc/",
-      "title": "Liquid Instruments Expands with $50M Investment Round",
-      "summary": "Insider Brief PRESS RELEASE — Liquid Instruments, a pioneer in software-defined test solutions, today announced the close of its $50 million Series C funding round, co-led by Keysight Technologies, Inc. (NYSE: KEYS), a global leader in desi",
-      "content": "Insider Brief PRESS RELEASE — Liquid Instruments, a pioneer in software-defined test solutions, today announced the close of its $50 million Series C funding round, co-led by Keysight Technologies, Inc. (NYSE: KEYS), a global leader in desi",
+      "id": "354554342a0178",
+      "url": "https://www.ithome.com/0/946/970.htm",
+      "title": "鸿蒙智行问界汽车发布 2026 五一假期出行报告：总行驶行程达 4.3 亿公里、辅助驾驶占比 46.9%",
+      "summary": "IT之家 5 月 6 日消息，鸿蒙智行问界现已发布 2026 年度五一出行报告，数据统计周期为 2026 年 5 月 1 日至 2026 年 5 月 5 日。 五一期间，问界车主总行驶里程 4.3 亿公里，其中充电行驶里程 2.9 亿公里，占比 67.7%，总碳减排 7.2 万吨，相当于植树 639 万棵，其中出行超 1000 公里的车辆达 91369 辆。 其中，辅助驾驶行驶里程 1.7 亿公里，辅助驾驶里程占比 46.9%，较去年增长 10%、辅助驾驶活跃用户 66.7",
+      "content": "IT之家 5 月 6 日消息，鸿蒙智行问界现已发布 2026 年度五一出行报告，数据统计周期为 2026 年 5 月 1 日至 2026 年 5 月 5 日。 五一期间，问界车主总行驶里程 4.3 亿公里，其中充电行驶里程 2.9 亿公里，占比 67.7%，总碳减排 7.2 万吨，相当于植树 639 万棵，其中出行超 1000 公里的车辆达 91369 辆。 其中，辅助驾驶行驶里程 1.7 亿公里，辅助驾驶里程占比 46.9%，较去年增长 10%、辅助驾驶活跃用户 66.7",
       "category": "world",
       "tags": [
-        "war"
+        "国际局势"
       ],
-      "publish_time": "2026-05-02T15:00:00+08:00",
+      "publish_time": "2026-05-06T18:38:48+08:00",
       "sources": [
         {
-          "name": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/05/02/liquid-instruments-50m-series-c-keysight-nrfc/",
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/970.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:52.648028+08:00",
+          "verify_time": "2026-05-06T23:04:37.934944+08:00",
           "credibility": 78
         }
       ],
@@ -756,27 +602,30 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 78,
-        "opportunity_score": 47
+        "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "鸿蒙智行问界汽车发布 2026 五一假期出行报告：总行驶行程达 4.3 亿公里、辅助驾驶占比 46.9%",
+      "original_summary": "IT之家 5 月 6 日消息，鸿蒙智行问界现已发布 2026 年度五一出行报告，数据统计周期为 2026 年 5 月 1 日至 2026 年 5 月 5 日。 五一期间，问界车主总行驶里程 4.3 亿公里，其中充电行驶里程 2.9 亿公里，占比 67.7%，总碳减排 7.2 万吨，相当于植树 639 万棵，其中出行超 1000 公里的车辆达 91369 辆。 其中，辅助驾驶行驶里程 1.7 亿公里，辅助驾驶里程占比 46.9%，较去年增长 10%、辅助驾驶活跃用户 66.7",
+      "language": "zh-CN"
     },
     {
-      "id": "a658414a6a6c5c",
-      "url": "https://www.ithome.com/0/946/009.htm",
-      "title": "创历史新高！5 月 1 日全国铁路发送旅客 2484.4 万人次",
-      "summary": "IT之家 5 月 2 日消息，中国铁路今日宣布，5 月 1 日，全国铁路发送旅客 2484.4 万人次 ， 创单日旅客发送量历史新高 ，运输安全平稳有序。5 月 2 日，全国铁路预计发送旅客 1970 万人次，计划加开旅客列车 1222 列。 截至 5 月 2 日 8 时， 铁路 12306 已累计发售五一假期运输火车票 11718 万张 。从车票预售情况看，今日热门出发城市主要有北京、上海、广州、成都、杭州、深圳、郑州、南京、武汉、西安；热门到达城市主要有北京、杭州、广州、",
-      "content": "IT之家 5 月 2 日消息，中国铁路今日宣布，5 月 1 日，全国铁路发送旅客 2484.4 万人次 ， 创单日旅客发送量历史新高 ，运输安全平稳有序。5 月 2 日，全国铁路预计发送旅客 1970 万人次，计划加开旅客列车 1222 列。 截至 5 月 2 日 8 时， 铁路 12306 已累计发售五一假期运输火车票 11718 万张 。从车票预售情况看，今日热门出发城市主要有北京、上海、广州、成都、杭州、深圳、郑州、南京、武汉、西安；热门到达城市主要有北京、杭州、广州、",
+      "id": "479ffac5e8525c",
+      "url": "https://www.ithome.com/0/946/969.htm",
+      "title": "5.6 折二拍还是没人要：2 万个罗马仕充电宝、14 万根充电线再次因无人出价而流拍",
+      "summary": "IT之家 5 月 6 日消息，阿里资产司法拍卖平台显示，深圳华中科新材料技术有限公司名下的一批充电宝、充电线等资产于 5 月 5 日开启二拍，今天 10 点正式结束拍卖，本场拍卖因无人出价而流拍。 公开信息显示，深圳华中科新材料技术有限公司的大股东正是深圳罗马仕科技有限公司，被拍卖的充电宝等资产均为罗马仕品牌。资产评估价约 292.98 万元，相对于本次 164.08 万元的起拍价，相当于打了 5.6 折，但尽管如此还是无人愿意出价。 拍卖公告显示，相应拍卖标的物包括： 14",
+      "content": "IT之家 5 月 6 日消息，阿里资产司法拍卖平台显示，深圳华中科新材料技术有限公司名下的一批充电宝、充电线等资产于 5 月 5 日开启二拍，今天 10 点正式结束拍卖，本场拍卖因无人出价而流拍。 公开信息显示，深圳华中科新材料技术有限公司的大股东正是深圳罗马仕科技有限公司，被拍卖的充电宝等资产均为罗马仕品牌。资产评估价约 292.98 万元，相对于本次 164.08 万元的起拍价，相当于打了 5.6 折，但尽管如此还是无人愿意出价。 拍卖公告显示，相应拍卖标的物包括： 14",
       "category": "world",
       "tags": [
         "国际局势"
       ],
-      "publish_time": "2026-05-02T14:51:48+08:00",
+      "publish_time": "2026-05-06T18:33:26+08:00",
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/0/946/009.htm",
+          "url": "https://www.ithome.com/0/946/969.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:38:01.652913+08:00",
+          "verify_time": "2026-05-06T23:04:37.935073+08:00",
           "credibility": 78
         }
       ],
@@ -788,27 +637,162 @@
         "credibility_score": 78,
         "opportunity_score": 43
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "5.6 折二拍还是没人要：2 万个罗马仕充电宝、14 万根充电线再次因无人出价而流拍",
+      "original_summary": "IT之家 5 月 6 日消息，阿里资产司法拍卖平台显示，深圳华中科新材料技术有限公司名下的一批充电宝、充电线等资产于 5 月 5 日开启二拍，今天 10 点正式结束拍卖，本场拍卖因无人出价而流拍。 公开信息显示，深圳华中科新材料技术有限公司的大股东正是深圳罗马仕科技有限公司，被拍卖的充电宝等资产均为罗马仕品牌。资产评估价约 292.98 万元，相对于本次 164.08 万元的起拍价，相当于打了 5.6 折，但尽管如此还是无人愿意出价。 拍卖公告显示，相应拍卖标的物包括： 14",
+      "language": "zh-CN"
     },
     {
-      "id": "7eb9dd41aa351b",
-      "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
-      "title": "Trump says he's raising EU auto tariffs to 25%",
-      "summary": "The Supreme Court struck down Trump's \"reciprocal\" tariffs earlier this year, and Europe warned that its trade deal with Washington could be in jeopardy.",
-      "content": "The Supreme Court struck down Trump's \"reciprocal\" tariffs earlier this year, and Europe warned that its trade deal with Washington could be in jeopardy.",
+      "id": "c4a55d64fefbea",
+      "url": "https://www.cnbc.com/2026/05/06/lufthansa-q1-middle-east-conflict-2-billion-fuel-cost.html",
+      "title": "汉莎航空在伊朗战争期间削减了 20,000 架航班，面临近 20 亿美元的额外燃油成本",
+      "summary": "由于中东冲突带来“巨大挑战”，德国最大的航空公司汉莎航空正在承担额外的燃油成本。",
+      "content": "由于中东冲突带来“巨大挑战”，德国最大的航空公司汉莎航空正在承担额外的燃油成本。",
+      "category": "world",
+      "tags": [
+        "conflict",
+        "war"
+      ],
+      "publish_time": "2026-05-06T16:38:10+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/lufthansa-q1-middle-east-conflict-2-billion-fuel-cost.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.932379+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Lufthansa faces nearly $2 billion in extra fuel cost amid the Iran war, after axing 20,000 flights",
+      "original_summary": "Germany's largest airline, Lufthansa, is taking on additional fuel costs as the Middle East conflict poses 'enormous challenges.'",
+      "language": "zh-CN"
+    },
+    {
+      "id": "de9b4d91df7f3b",
+      "url": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
+      "title": "中国敦促伊朗不要恢复战争，敦促在特习峰会前重新开放霍尔木兹海峡",
+      "summary": "中国呼吁“立即恢复霍尔木兹海峡的航运交通”，尽管伊朗的声明中没有提及这一点。",
+      "content": "中国呼吁“立即恢复霍尔木兹海峡的航运交通”，尽管伊朗的声明中没有提及这一点。",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T16:28:18+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.931857+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "China presses Iran against resuming war, urges Hormuz reopening ahead of Trump-Xi summit",
+      "original_summary": "China called for a \"prompt resumption of shipping traffic through the Strait of Hormuz,\" though that point was absent in Iran's statement.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "ed0f4ebe1f0c6c",
+      "url": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
+      "title": "在全球人工智能竞赛中，一家受制裁的中国公司表示，更便宜的模型仍然可以获胜",
+      "summary": "联合创始人林大华表示，随着中国人工智能竞争的加剧，商汤科技正在转向多模态人工智能、低成本模式和海外扩张，以保持竞争力。",
+      "content": "联合创始人林大华表示，随着中国人工智能竞争的加剧，商汤科技正在转向多模态人工智能、低成本模式和海外扩张，以保持竞争力。",
       "category": "world",
       "tags": [
         "war",
-        "tariff",
-        "trade"
+        "sanction"
       ],
-      "publish_time": "2026-05-02T05:47:39+08:00",
+      "publish_time": "2026-05-06T13:09:56+08:00",
       "sources": [
         {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
+          "name": "CNBC 科技",
+          "url": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:43.206827+08:00",
+          "verify_time": "2026-05-06T23:03:33.259614+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "In the global AI race, a sanctioned Chinese firm says cheaper models can still win",
+      "original_summary": "As China’s AI competition intensifies, SenseTime is shifting toward multimodal AI, lower-cost models and overseas expansion to remain competitive, co-founder Lin Dahua said.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "d1cea56c348c5e",
+      "url": "https://quantumcomputingreport.com/quantum-machines-acquires-qharbor/",
+      "title": "Quantum Machines 收购 QHarbor 以扩大欧洲研发和控制堆栈能力",
+      "summary": "总部位于以色列的 Quantum Machines (QM) 收购了荷兰代尔夫特理工大学的衍生公司 QHarbor，以增强其软件能力并在荷兰量子中心建立实体存在。本次收购的条款不存在差异",
+      "content": "总部位于以色列的 Quantum Machines (QM) 收购了荷兰代尔夫特理工大学的衍生公司 QHarbor，以增强其软件能力并在荷兰量子中心建立实体存在。本次收购的条款不存在差异",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T06:50:36+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/quantum-machines-acquires-qharbor/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:21.714249+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 45
+      },
+      "status": "published",
+      "original_title": "Quantum Machines Acquires QHarbor to Expand European R&D and Control Stack Capabilities",
+      "original_summary": "Israel-based Quantum Machines (QM) has acquired QHarbor, a spin-off from TU Delft in the Netherlands, to bolster its software capabilities and establish a physical presence in the Dutch quantum hub. The terms of this acquisition were not di",
+      "language": "zh-CN"
+    },
+    {
+      "id": "58b8d2cb580038",
+      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html",
+      "title": "铝价正在飙升。以下是公司处理成本的方式",
+      "summary": "自伊朗战争爆发以来铝价的飙升给美国一些最大的公司带来了成本压力。",
+      "content": "自伊朗战争爆发以来铝价的飙升给美国一些最大的公司带来了成本压力。",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T05:17:20+08:00",
+      "sources": [
+        {
+          "name": "CNBC 市场",
+          "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:33.932191+08:00",
           "credibility": 86
         }
       ],
@@ -820,26 +804,29 @@
         "credibility_score": 86,
         "opportunity_score": 55
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Aluminum prices are surging. Here's how companies are handling the costs",
+      "original_summary": "Aluminum's surge since the start of the Iran war is creating cost pressures for some of America's largest companies.",
+      "language": "zh-CN"
     },
     {
-      "id": "0b28f7a4986be8",
-      "url": "https://www.cnbc.com/2026/05/01/trump-rejects-iran-peace-deal.html",
-      "title": "Trump tells Congress hostilities in Iran 'have terminated' as war powers deadline hits",
-      "summary": "Trump said there \"is tremendous discord\" among Iran's leaders, which has complicated efforts to end the war that the United States began in late February.",
-      "content": "Trump said there \"is tremendous discord\" among Iran's leaders, which has complicated efforts to end the war that the United States began in late February.",
+      "id": "59b97410754d78",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
+      "title": "科学家将“时间晶体”与真实设备连接，实现量子突破",
+      "summary": "一种无需能量输入就能永远“滴答作响”的奇怪物质，刚刚在现实世界的应用中迈出了一大步。这种量子系统被称为时间晶体，它不断地重复其运动——就像一个永远不会上发条的时钟——科学家",
+      "content": "一种无需能量输入就能永远“滴答作响”的奇怪物质，刚刚在现实世界的应用中迈出了一大步。这种量子系统被称为时间晶体，它不断地重复其运动——就像一个永远不会上发条的时钟——科学家",
       "category": "world",
       "tags": [
         "war"
       ],
-      "publish_time": "2026-05-02T05:08:03+08:00",
+      "publish_time": "2026-05-06T04:53:45+08:00",
       "sources": [
         {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/trump-rejects-iran-peace-deal.html",
+          "name": "ScienceDaily 科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:43.206700+08:00",
-          "credibility": 86
+          "verify_time": "2026-05-06T23:04:05.668032+08:00",
+          "credibility": 82
         }
       ],
       "stocks": [],
@@ -847,88 +834,31 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 86,
+        "credibility_score": 82,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Scientists connect “time crystal” to real device in quantum breakthrough",
+      "original_summary": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientist",
+      "language": "zh-CN"
     },
     {
-      "id": "bc2cd38629e45d",
-      "url": "https://www.cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
-      "title": "Atlassian stock soars 29% after earnings show strong cloud, data center growth",
-      "summary": "Atlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
-      "content": "Atlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
+      "id": "21c4609f26961c",
+      "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
+      "title": "Anthropic 首席执行官警告网络“危险时刻”，因为人工智能暴露了数千个漏洞",
+      "summary": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 警告称，人工智能为软件公司、政府和银行修复数以万计的漏洞创造了一个狭窄的窗口。",
+      "content": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 警告称，人工智能为软件公司、政府和银行修复数以万计的漏洞创造了一个狭窄的窗口。",
       "category": "world",
       "tags": [
         "war"
       ],
-      "publish_time": "2026-05-02T03:21:05+08:00",
+      "publish_time": "2026-05-06T03:36:16+08:00",
       "sources": [
         {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
+          "name": "CNBC 科技",
+          "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:42.491986+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "414a7d69ce81c9",
-      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-      "title": "Ubuntu infrastructure has been down for more than a day",
-      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-      "content": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T03:12:26+08:00",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:45.514059+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "22b457a5f873d4",
-      "url": "https://www.cnbc.com/2026/05/01/fed-powell-pirro-investigation.html",
-      "title": "Pirro keeps pressure on Fed's Powell despite dropping probe",
-      "summary": "The U.S. attorney is expected to imminently appeal a ruling blocking her investigation of the Fed's cost overruns.",
-      "content": "The U.S. attorney is expected to imminently appeal a ruling blocking her investigation of the Fed's cost overruns.",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-02T02:59:26+08:00",
-      "sources": [
-        {
-          "name": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/05/01/fed-powell-pirro-investigation.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:43.207178+08:00",
+          "verify_time": "2026-05-06T23:03:33.260111+08:00",
           "credibility": 86
         }
       ],
@@ -940,7 +870,143 @@
         "credibility_score": 86,
         "opportunity_score": 46
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
+      "original_summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "d27642d1272a5c",
+      "url": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
+      "title": "Startup 开发软件帮助军方利用商业成像卫星",
+      "summary": "Divergent Space 平台将跨多个提供商自动执行图像请求",
+      "content": "Divergent Space 平台将跨多个提供商自动执行图像请求",
+      "category": "world",
+      "tags": [
+        "military",
+        "war"
+      ],
+      "publish_time": "2026-05-06T03:00:00+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.155836+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Startup develops software to help military tap commercial imaging satellites",
+      "original_summary": "Divergent Space platform would automate imagery requests across multiple providers",
+      "language": "zh-CN"
+    },
+    {
+      "id": "ae82c38fd6decd",
+      "url": "https://quantumcomputingreport.com/eleqtron-secures-e57-million-61-5m-usd-series-a-to-scale-ion-trap-systems/",
+      "title": "eleQtron 获得 5700 万欧元（6150 万美元）A 轮融资，以扩展 MAGIC 俘获离子平台",
+      "summary": "总部位于锡根和汉堡的俘获离子量子计算机开发商 eleQtron 已完成 5700 万欧元（6150 万美元）的 A 轮融资。此次投资由 Schwarz Group 的 IT 部门 Schwarz Digits 牵头，",
+      "content": "总部位于锡根和汉堡的俘获离子量子计算机开发商 eleQtron 已完成 5700 万欧元（6150 万美元）的 A 轮融资。此次投资由 Schwarz Group 的 IT 部门 Schwarz Digits 牵头，",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T02:51:41+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/eleqtron-secures-e57-million-61-5m-usd-series-a-to-scale-ion-trap-systems/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:21.714763+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 49
+      },
+      "status": "published",
+      "original_title": "eleQtron Secures €57 Million ($61.5M USD) Series A to Scale MAGIC Trapped-Ion Platform",
+      "original_summary": "eleQtron, a developer of trapped-ion quantum computers based in Siegen and Hamburg, has closed a €57 million ($61.5M USD) Series A funding round. The investment is led by Schwarz Digits, the IT division of the Schwarz Group, with significan",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4da5f2f6564ffe",
+      "url": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+      "title": "Threads 最终将消息传递带入网络",
+      "summary": "通过将消息传递引入网络，Threads 正在使其桌面体验与 X 和 Bluesky 等竞争对手更加紧密地结合起来。",
+      "content": "通过将消息传递引入网络，Threads 正在使其桌面体验与 X 和 Bluesky 等竞争对手更加紧密地结合起来。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-06T02:34:20+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:35.297379+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Threads finally brings messaging to the web",
+      "original_summary": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "fd3a6bb3ba01bf",
+      "url": "https://quantumcomputingreport.com/quantware-secures-178m-series-b-to-scale-vio-architecture-and-expand-fabrication-capacity/",
+      "title": "QuantWare 获得 1.78 亿美元的 B 轮融资，以扩展 VIO™ 架构并扩大制造能力",
+      "summary": "总部位于代尔夫特的超导量子处理单元 (QPU) 开发商 QuantWare 宣布完成 1.78 亿美元（1.52 亿欧元）的 B 轮融资。该投资是有史以来最大的私募融资轮",
+      "content": "总部位于代尔夫特的超导量子处理单元 (QPU) 开发商 QuantWare 宣布完成 1.78 亿美元（1.52 亿欧元）的 B 轮融资。该投资是有史以来最大的私募融资轮",
+      "category": "world",
+      "tags": [
+        "war"
+      ],
+      "publish_time": "2026-05-06T01:52:19+08:00",
+      "sources": [
+        {
+          "name": "量子计算报告",
+          "url": "https://quantumcomputingreport.com/quantware-secures-178m-series-b-to-scale-vio-architecture-and-expand-fabrication-capacity/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:21.714912+08:00",
+          "credibility": 80
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 80,
+        "opportunity_score": 49
+      },
+      "status": "published",
+      "original_title": "QuantWare Secures $178M Series B to Scale VIO™ Architecture and Expand Fabrication Capacity",
+      "original_summary": "QuantWare, the Delft-based developer of superconducting quantum processing units (QPUs), has announced a $178 million (€152 million) Series B funding round. The investment, which represents the largest private round ever raised by a dedicat",
+      "language": "zh-CN"
     }
   ]
 }

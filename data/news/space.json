@@ -2,27 +2,28 @@
   "version": "3.0",
   "category": "space",
   "category_name": "商业航天",
-  "total": 24,
-  "updated": "2026-05-02T21:38:12.277197+08:00",
+  "total": 20,
+  "updated": "2026-05-06T23:04:59.697419+08:00",
   "news": [
     {
-      "id": "d8f24e6bf31b1f",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
-      "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
-      "summary": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronome",
-      "content": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronome",
+      "id": "5eb54a98ccd861",
+      "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
+      "title": "NASA 新技术模仿月球夜晚的极冷",
+      "summary": "当美国宇航局希望探索月球、火星及其他地方时，研究人员必须开发能够承受太空、其他行星及其卫星的极端温度的材料。在寒冷的条件下，橡胶会像玻璃一样破碎",
+      "content": "当美国宇航局希望探索月球、火星及其他地方时，研究人员必须开发能够承受太空、其他行星及其卫星的极端温度的材料。在寒冷的条件下，橡胶会像玻璃一样破碎",
       "category": "space",
       "tags": [
-        "space"
+        "航天",
+        "NASA"
       ],
-      "publish_time": "2026-05-02T11:43:17+08:00",
+      "publish_time": "2026-05-06T22:00:00+08:00",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
+          "name": "美国国家航空航天局",
+          "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:49.505171+08:00",
-          "credibility": 82
+          "verify_time": "2026-05-06T23:04:25.254027+08:00",
+          "credibility": 95
         }
       ],
       "stocks": [],
@@ -30,29 +31,165 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 82,
-        "opportunity_score": 42
+        "credibility_score": 95,
+        "opportunity_score": 60
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+      "original_summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glas",
+      "language": "zh-CN"
     },
     {
-      "id": "36dc71c6aa4262",
-      "url": "https://spacenews.com/the-opportunity-beyond-orbital-data-centers/",
-      "title": "The opportunity beyond orbital data centers",
-      "summary": "Investor attention is starting to shift toward ventures that could be enabled by orbital data centers, even as the massive computing networks proposed by SpaceX and others remain years from reality. The post The opportunity beyond orbital d",
-      "content": "Investor attention is starting to shift toward ventures that could be enabled by orbital data centers, even as the massive computing networks proposed by SpaceX and others remain years from reality. The post The opportunity beyond orbital d",
+      "id": "a2bc741b526a8b",
+      "url": "https://www.ithome.com/0/947/002.htm",
+      "title": "时代的眼泪：开播 24 年的星空卫视 5 月 8 日起暂停卫星传输服务",
+      "summary": "IT之家 5 月 6 日消息，今天下午，星空卫视通过官微发布《关于星空卫视暂停卫星传输服务的公告》。 公告称，星空卫视因运营困难，卫星公司通知 5 月 8 日将暂停卫星传输服务 ，对此深表歉意。星空卫视的品牌价值、内容制作能力与频道资源依然宝贵，正在积极寻求 战略投资与业务重组 的机会，并欢迎有意向的合作伙伴与之接洽，共同探讨包括 频道资产收购、内容平台合作、品牌转型运营 等在内的多种可能。 公告最后提到：“我们期待以新的模式延续星空卫视的初心与使命。” IT之家查询公开资料",
+      "content": "IT之家 5 月 6 日消息，今天下午，星空卫视通过官微发布《关于星空卫视暂停卫星传输服务的公告》。 公告称，星空卫视因运营困难，卫星公司通知 5 月 8 日将暂停卫星传输服务 ，对此深表歉意。星空卫视的品牌价值、内容制作能力与频道资源依然宝贵，正在积极寻求 战略投资与业务重组 的机会，并欢迎有意向的合作伙伴与之接洽，共同探讨包括 频道资产收购、内容平台合作、品牌转型运营 等在内的多种可能。 公告最后提到：“我们期待以新的模式延续星空卫视的初心与使命。” IT之家查询公开资料",
       "category": "space",
       "tags": [
-        "space",
-        "SpaceX"
+        "卫星"
       ],
-      "publish_time": "2026-05-02T03:10:35+08:00",
+      "publish_time": "2026-05-06T21:06:13+08:00",
       "sources": [
         {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/the-opportunity-beyond-orbital-data-centers/",
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/947/002.htm",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:55.628339+08:00",
+          "verify_time": "2026-05-06T23:04:37.931691+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "时代的眼泪：开播 24 年的星空卫视 5 月 8 日起暂停卫星传输服务",
+      "original_summary": "IT之家 5 月 6 日消息，今天下午，星空卫视通过官微发布《关于星空卫视暂停卫星传输服务的公告》。 公告称，星空卫视因运营困难，卫星公司通知 5 月 8 日将暂停卫星传输服务 ，对此深表歉意。星空卫视的品牌价值、内容制作能力与频道资源依然宝贵，正在积极寻求 战略投资与业务重组 的机会，并欢迎有意向的合作伙伴与之接洽，共同探讨包括 频道资产收购、内容平台合作、品牌转型运营 等在内的多种可能。 公告最后提到：“我们期待以新的模式延续星空卫视的初心与使命。” IT之家查询公开资料",
+      "language": "zh-CN"
+    },
+    {
+      "id": "27ce57b0d4051e",
+      "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+      "title": "reMarkable 的新款 Paper Pure 平板电脑回归基础，配备单色屏幕",
+      "summary": "新款 Paper Pure 比 reMarkable 2 更轻、更快，而 reMarkable 2 将于推出六年后退役。",
+      "content": "新款 Paper Pure 比 reMarkable 2 更轻、更快，而 reMarkable 2 将于推出六年后退役。",
+      "category": "space",
+      "tags": [
+        "launch"
+      ],
+      "publish_time": "2026-05-06T20:00:00+08:00",
+      "sources": [
+        {
+          "name": "TechCrunch 科技媒体",
+          "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:03:35.295523+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
+      "original_summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "86aa5edd668b83",
+      "url": "https://spacenews.com/astranis-secures-450-million-in-equity-debt-to-expand-small-geo-satellite-production/",
+      "title": "Astranis 获得 4.5 亿美元的股权和债务，以扩大小型 GEO 卫星生产",
+      "summary": "融资包括延迟提取设施，为卫星制造的分阶段扩张提供资金",
+      "content": "融资包括延迟提取设施，为卫星制造的分阶段扩张提供资金",
+      "category": "space",
+      "tags": [
+        "卫星"
+      ],
+      "publish_time": "2026-05-06T20:00:00+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/astranis-secures-450-million-in-equity-debt-to-expand-small-geo-satellite-production/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.155332+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 46
+      },
+      "status": "published",
+      "original_title": "Astranis secures $450 million in equity, debt to expand small GEO satellite production",
+      "original_summary": "Financing includes delayed-draw facility to fund staged expansion of satellite manufacturing",
+      "language": "zh-CN"
+    },
+    {
+      "id": "cd3e12bd507039",
+      "url": "https://www.ithome.com/0/946/968.htm",
+      "title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
+      "summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
+      "content": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
+      "category": "space",
+      "tags": [
+        "航天",
+        "SpaceX"
+      ],
+      "publish_time": "2026-05-06T18:30:57+08:00",
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/0/946/968.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:37.935212+08:00",
+          "credibility": 78
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 78,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "马斯克为自家晶圆厂砸重金，SpaceX 拟在得州 Terafab 工厂投资 550 亿美元",
+      "original_summary": "IT之家 5 月 6 日消息，北京时间 6 日（今天）傍晚，据彭博社报道，SpaceX 计划 投入 550 亿美元 （IT之家注：现汇率约合 3761.95 亿元人民币），在得克萨斯州启动新半导体生产设施建设，推动马斯克的“大工程”Terafab 晶圆厂项目落地。 格莱姆斯县网站发布的公开通知显示，SpaceX 计划在当地建设一座 下一代、垂直整合的半导体制造和先进计算生产设施 。如果后续阶段全部推进，项目总资本投资预计最高可达 1190 亿美元（现汇率约合 8139.48",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4460b1c679de50",
+      "url": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
+      "title": "在 NASA 可能发生的变化中，Voyager 对 Starlab “非常乐观”",
+      "summary": "Voyager Technologies 表示，如果 NASA 改变支持商业空间站开发的计划，该公司已做好准备。",
+      "content": "Voyager Technologies 表示，如果 NASA 改变支持商业空间站开发的计划，该公司已做好准备。",
+      "category": "space",
+      "tags": [
+        "航天",
+        "NASA"
+      ],
+      "publish_time": "2026-05-06T04:29:20+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.155569+08:00",
           "credibility": 86
         }
       ],
@@ -64,26 +201,28 @@
         "credibility_score": 86,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
+      "original_summary": "Voyager Technologies says it is ready should NASA change plans for supporting development of commercial space stations.",
+      "language": "zh-CN"
     },
     {
-      "id": "73cb57bee75fd4",
-      "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
-      "title": "NASA Kennedy Center Director Announces Plans to Retire",
-      "summary": "NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring. Prior to joining NASA, Petro worked in a variety of military and industry positions, ultimately beginning her career at the ag",
-      "content": "NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring. Prior to joining NASA, Petro worked in a variety of military and industry positions, ultimately beginning her career at the ag",
+      "id": "d47ee01910c2b3",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
+      "title": "好奇心博客，Sols 4879-4885：阿塔卡马的斗争",
+      "summary": "作者：William Farrand，空间科学研究所高级研究科学家 地球规划日期：2026 年 5 月 1 日星期五 智利的阿塔卡马沙漠是世界上最干燥的中纬度沙漠，仅接收 15 毫米（0.59 英寸）的降雨量。",
+      "content": "作者：William Farrand，空间科学研究所高级研究科学家 地球规划日期：2026 年 5 月 1 日星期五 智利的阿塔卡马沙漠是世界上最干燥的中纬度沙漠，仅接收 15 毫米（0.59 英寸）的降雨量。",
       "category": "space",
       "tags": [
-        "space",
-        "NASA"
+        "航天"
       ],
-      "publish_time": "2026-05-02T01:01:48+08:00",
+      "publish_time": "2026-05-06T04:00:45+08:00",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:54.800201+08:00",
+          "verify_time": "2026-05-06T23:04:25.254315+08:00",
           "credibility": 95
         }
       ],
@@ -95,120 +234,63 @@
         "credibility_score": 95,
         "opportunity_score": 60
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Curiosity Blog, Sols 4879-4885: Struggle at Atacama",
+      "original_summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, May 1, 2026 Chile’s Atacama desert is the driest mid-latitude desert in the world, receiving only 15 millimeters (0.59 inches) of pr",
+      "language": "zh-CN"
     },
     {
-      "id": "4b55327ad9e873",
-      "url": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
-      "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
-      "summary": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA’s Artemis II crewmembers CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman, right, ring the cl",
-      "content": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA’s Artemis II crewmembers CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman, right, ring the cl",
+      "id": "a89e82e2b2ec35",
+      "url": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
+      "title": "即将离任的 NRO 局长克里斯·斯科莱斯 (Chris Scolese) 的遗产：商业伙伴关系；公众参与",
+      "summary": "在 2022 年向情报和国家安全联盟发表的讲话中，国家侦察办公室主任克里斯·斯科利斯发出了警告。他说，正在发射的卫星数量创纪录，竞争对手包括",
+      "content": "在 2022 年向情报和国家安全联盟发表的讲话中，国家侦察办公室主任克里斯·斯科利斯发出了警告。他说，正在发射的卫星数量创纪录，竞争对手包括",
       "category": "space",
       "tags": [
-        "space",
-        "NASA"
-      ],
-      "publish_time": "2026-05-02T00:08:05+08:00",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:54.800447+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 55
-      },
-      "status": "published"
-    },
-    {
-      "id": "3fdfc2dd927487",
-      "url": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
-      "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
-      "summary": "Technicians at NASA’s Payload Hazardous Servicing Facility (PHSF) at the agency’s Kennedy Space Center in Florida offloaded eight high-efficiency particulate air (HEPA) wall modules and other ground support equipment on April 27. The equipm",
-      "content": "Technicians at NASA’s Payload Hazardous Servicing Facility (PHSF) at the agency’s Kennedy Space Center in Florida offloaded eight high-efficiency particulate air (HEPA) wall modules and other ground support equipment on April 27. The equipm",
-      "category": "space",
-      "tags": [
-        "space",
-        "NASA"
-      ],
-      "publish_time": "2026-05-01T23:44:03+08:00",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:54.800637+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 60
-      },
-      "status": "published"
-    },
-    {
-      "id": "cbcedda2e7024b",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
-      "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
-      "summary": "Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged pa",
-      "content": "Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged pa",
-      "category": "space",
-      "tags": [
-        "space",
-        "NASA"
-      ],
-      "publish_time": "2026-05-01T23:31:08+08:00",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:54.800785+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 60
-      },
-      "status": "published"
-    },
-    {
-      "id": "d930a8694d6007",
-      "url": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
-      "title": "Space Out This Summer with Variety of NASA STEM Activities",
-      "summary": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offe",
-      "content": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offe",
-      "category": "space",
-      "tags": [
-        "space",
-        "NASA",
+        "卫星",
         "launch"
       ],
-      "publish_time": "2026-05-01T22:03:30+08:00",
+      "publish_time": "2026-05-06T02:54:33+08:00",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:54.800921+08:00",
+          "verify_time": "2026-05-06T23:04:29.155949+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 59
+      },
+      "status": "published",
+      "original_title": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
+      "original_summary": "In a 2022 address to the Intelligence and National Security Alliance, the director of the National Reconnaissance Office, Chris Scolese, sounded a warning. Record numbers of satellites were being launched, he said, and competitors including",
+      "language": "zh-CN"
+    },
+    {
+      "id": "da3120aded2f0f",
+      "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
+      "title": "NASA 宇航员回答佛罗里达州学生的问题",
+      "summary": "佛罗里达州的学生将在国际空间站上听到 NASA 宇航员 Chris Williams 回答预先录制的科学、技术、工程和数学 (STEM) 问题。地对空通话将开始",
+      "content": "佛罗里达州的学生将在国际空间站上听到 NASA 宇航员 Chris Williams 回答预先录制的科学、技术、工程和数学 (STEM) 问题。地对空通话将开始",
+      "category": "space",
+      "tags": [
+        "航天",
+        "NASA"
+      ],
+      "publish_time": "2026-05-06T00:59:59+08:00",
+      "sources": [
+        {
+          "name": "美国国家航空航天局",
+          "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:25.254511+08:00",
           "credibility": 95
         }
       ],
@@ -220,107 +302,64 @@
         "credibility_score": 95,
         "opportunity_score": 64
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "NASA Astronaut to Answer Questions from Students in Florida",
+      "original_summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin a",
+      "language": "zh-CN"
     },
     {
-      "id": "93f86be3325ae3",
-      "url": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
-      "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
-      "summary": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
-      "content": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
+      "id": "cb21a5e8f05154",
+      "url": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
+      "title": "波兰航天公司 Eycore 发射首颗 SAR 地球观测卫星",
+      "summary": "波兰华沙——波兰航天公司 Eycore 发射了 Eycore-1，这是一颗配备该公司合成孔径雷达 (SAR) 技术的地球观测卫星。 5 月 3 日，猎鹰 9 号火箭从范登堡太空部队基地发射",
+      "content": "波兰华沙——波兰航天公司 Eycore 发射了 Eycore-1，这是一颗配备该公司合成孔径雷达 (SAR) 技术的地球观测卫星。 5 月 3 日，猎鹰 9 号火箭从范登堡太空部队基地发射",
       "category": "space",
       "tags": [
-        "rocket",
-        "satellite",
+        "航天",
+        "火箭",
+        "卫星",
         "launch"
       ],
-      "publish_time": "2026-05-01T20:39:03+08:00",
+      "publish_time": "2026-05-06T00:46:22+08:00",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:45.514767+08:00",
+          "verify_time": "2026-05-06T23:04:29.156095+08:00",
           "credibility": 86
         }
       ],
-      "stocks": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "neutral",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
+      "stocks": [],
       "metrics": {
         "views": 0,
         "shares": 0,
         "saves": 0,
         "credibility_score": 86,
-        "opportunity_score": 58
+        "opportunity_score": 55
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Polish space company Eycore launches first SAR Earth observation satellite",
+      "original_summary": "WARSAW, Poland — Polish space company Eycore has launched Eycore-1, an Earth observation satellite equipped with the company’s synthetic aperture radar (SAR) technology. The May 3 launch of a Falcon 9 rocket from Vandenberg Space Force Base",
+      "language": "zh-CN"
     },
     {
-      "id": "7e089b21306477",
-      "url": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/",
-      "title": "Amazon Leo passes 300 satellites with Atlas and Ariane launches",
-      "summary": "A pair of launches this week pushed the number of Amazon Leo satellites deployed to more than 300, but the company is still far short of a looming FCC milestone. The post Amazon Leo passes 300 satellites with Atlas and Ariane launches appea",
-      "content": "A pair of launches this week pushed the number of Amazon Leo satellites deployed to more than 300, but the company is still far short of a looming FCC milestone. The post Amazon Leo passes 300 satellites with Atlas and Ariane launches appea",
+      "id": "58d419276256ba",
+      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
+      "title": "美国宇航局研究表明早期生命依赖稀有金属",
+      "summary": "美国国家航空航天局 (NASA) 资助的科学家发现，30 亿多年前地球上的生命依赖于金属钼，而金属钼在当时的环境中极其稀缺。这项研究于周二发表在《自然通讯》上，",
+      "content": "美国国家航空航天局 (NASA) 资助的科学家发现，30 亿多年前地球上的生命依赖于金属钼，而金属钼在当时的环境中极其稀缺。这项研究于周二发表在《自然通讯》上，",
       "category": "space",
       "tags": [
-        "satellite",
-        "launch"
-      ],
-      "publish_time": "2026-05-01T20:01:08+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.628747+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [
-        {
-          "symbol": "AMZN",
-          "name": "亚马逊",
-          "exchange": "NASDAQ",
-          "impact": "positive",
-          "reason": "标题/摘要直接提及",
-          "confidence": "direct"
-        }
-      ],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 63
-      },
-      "status": "published"
-    },
-    {
-      "id": "bf69bf1eea8e8b",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
-      "title": "Hubble Spots a Starry Spiral",
-      "summary": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral",
-      "content": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral",
-      "category": "space",
-      "tags": [
-        "space",
         "NASA"
       ],
-      "publish_time": "2026-05-01T19:48:55+08:00",
+      "publish_time": "2026-05-06T00:34:49+08:00",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
+          "name": "美国国家航空航天局",
+          "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:54.801045+08:00",
+          "verify_time": "2026-05-06T23:04:25.254577+08:00",
           "credibility": 95
         }
       ],
@@ -332,26 +371,28 @@
         "credibility_score": 95,
         "opportunity_score": 60
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "NASA Research Shows Early Life Relied on Rare Metal",
+      "original_summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the",
+      "language": "zh-CN"
     },
     {
-      "id": "2469bd190cc1ba",
-      "url": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
-      "title": "Space Force taps K2 satellites to test laser communications for missile-defense",
-      "summary": "Experiments will attempt to establish crosslinks from medium Earth orbit satellites The post Space Force taps K2 satellites to test laser communications for missile-defense appeared first on SpaceNews .",
-      "content": "Experiments will attempt to establish crosslinks from medium Earth orbit satellites The post Space Force taps K2 satellites to test laser communications for missile-defense appeared first on SpaceNews .",
+      "id": "b50d127cd88c86",
+      "url": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
+      "title": "令 Artemis 2 黯然失色的预算提案",
+      "summary": "《阿尔忒弥斯 2》在很多方面都取得了成功。这次任务持续了仅仅九天多一点，证明了猎户座飞船可以安全地支持宇航员绕月旅行。猎户座只用了一些小技术就完成了飞行",
+      "content": "《阿尔忒弥斯 2》在很多方面都取得了成功。这次任务持续了仅仅九天多一点，证明了猎户座飞船可以安全地支持宇航员绕月旅行。猎户座只用了一些小技术就完成了飞行",
       "category": "space",
       "tags": [
-        "space",
-        "satellite"
+        "航天"
       ],
-      "publish_time": "2026-05-01T08:30:54+08:00",
+      "publish_time": "2026-05-05T23:00:00+08:00",
       "sources": [
         {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:55.628967+08:00",
+          "verify_time": "2026-05-06T23:04:29.156237+08:00",
           "credibility": 86
         }
       ],
@@ -363,26 +404,29 @@
         "credibility_score": 86,
         "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "The budget proposal that overshadowed Artemis 2",
+      "original_summary": "Artemis 2 was a success in more ways than one. The mission, lasting just over nine days, demonstrated that the Orion spacecraft could safely support a crew on a trip around the moon. Orion made it through the flight with only minor technica",
+      "language": "zh-CN"
     },
     {
-      "id": "0f0f7ae7bf7422",
-      "url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
-      "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-      "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
-      "content": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+      "id": "cf7380ea3180f4",
+      "url": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
+      "title": "将太空智能扩展到海洋表面以下",
+      "summary": "确保战略水域安全的压力不断增加，推动了对海底活动进行更持久监测的需求，为卫星连接的自主船只创造了机会，这些船只可以监视天基传感器无法到达的区域。",
+      "content": "确保战略水域安全的压力不断增加，推动了对海底活动进行更持久监测的需求，为卫星连接的自主船只创造了机会，这些船只可以监视天基传感器无法到达的区域。",
       "category": "space",
       "tags": [
-        "space",
-        "launch"
+        "航天",
+        "卫星"
       ],
-      "publish_time": "2026-05-01T05:35:02+08:00",
+      "publish_time": "2026-05-05T21:56:36+08:00",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:45.514986+08:00",
+          "verify_time": "2026-05-06T23:04:29.156292+08:00",
           "credibility": 86
         }
       ],
@@ -392,58 +436,31 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 86,
-        "opportunity_score": 55
+        "opportunity_score": 51
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Extending space-enabled intelligence below the ocean surface",
+      "original_summary": "Rising pressure to secure strategic waters is driving demand for more persistent monitoring of subsea activity, creating opportunities for satellite-connected autonomous vessels that can watch areas beyond the reach of space-based sensors.",
+      "language": "zh-CN"
     },
     {
-      "id": "ca4313f3508d64",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
-      "title": "NASA Invites Media to Ireland Artemis Accords Signing",
-      "summary": "Ireland will sign the Artemis Accords during a ceremony at 3 p.m. EDT Monday, May 4, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Ambassador of Ireland to the United States of America Geraldine Byrne Nason",
-      "content": "Ireland will sign the Artemis Accords during a ceremony at 3 p.m. EDT Monday, May 4, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Ambassador of Ireland to the United States of America Geraldine Byrne Nason",
+      "id": "57f3be120b8650",
+      "url": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
+      "title": "Quantum Space 聘请 Bridenstine 担任首席执行官",
+      "summary": "美国宇航局前局长吉姆·布里登斯汀将加入量子空间担任首席执行官，该公司正在寻求国家安全领域的新兴机遇。",
+      "content": "美国宇航局前局长吉姆·布里登斯汀将加入量子空间担任首席执行官，该公司正在寻求国家安全领域的新兴机遇。",
       "category": "space",
       "tags": [
+        "航天",
         "NASA"
       ],
-      "publish_time": "2026-05-01T04:45:59+08:00",
+      "publish_time": "2026-05-05T21:00:00+08:00",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:54.801223+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 60
-      },
-      "status": "published"
-    },
-    {
-      "id": "e5f6c58ac4b9df",
-      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
-      "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
-      "content": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
-      "category": "space",
-      "tags": [
-        "space",
-        "SpaceX"
-      ],
-      "publish_time": "2026-05-01T03:36:55+08:00",
-      "sources": [
-        {
-          "name": "CNBC Technology",
-          "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:42.493532+08:00",
+          "verify_time": "2026-05-06T23:04:29.156391+08:00",
           "credibility": 86
         }
       ],
@@ -453,30 +470,32 @@
         "shares": 0,
         "saves": 0,
         "credibility_score": 86,
-        "opportunity_score": 63
+        "opportunity_score": 46
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Quantum Space hires Bridenstine as CEO",
+      "original_summary": "Former NASA Administrator Jim Bridenstine is joining Quantum Space as its chief executive as the company pursues emerging opportunities in national security space.",
+      "language": "zh-CN"
     },
     {
-      "id": "e654f9a4c4e6f8",
-      "url": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
-      "title": "Odyssey Team Celebrates on a Global Map of Mars",
-      "summary": "Description Team members past and present from NASA’s 2001 Mars Odyssey orbiter mission gathered on April 15, 2026, to celebrate 25 years since the spacecraft’s launch, which took place April 7, 2001. For the occasion, the team rolled out a",
-      "content": "Description Team members past and present from NASA’s 2001 Mars Odyssey orbiter mission gathered on April 15, 2026, to celebrate 25 years since the spacecraft’s launch, which took place April 7, 2001. For the occasion, the team rolled out a",
+      "id": "91094901f37ea5",
+      "url": "https://electrek.co/2026/05/05/juiced-bikes-is-back-new-e-bikes-models-bring-big-power-better-safety-and-aggressive-pricing/",
+      "title": "Juiced Bikes 回来了：新型电动自行车带来更大的动力、更好的安全性和更低的价格",
+      "summary": "Juiced Bikes 正式回归。在该品牌被 Lectric eBikes（也许是廉价电动自行车领域最著名的品牌）背后的团队收购后，Juiced 重新推出了新的重点 - 以及两款感觉非常相似的新型号",
+      "content": "Juiced Bikes 正式回归。在该品牌被 Lectric eBikes（也许是廉价电动自行车领域最著名的品牌）背后的团队收购后，Juiced 重新推出了新的重点 - 以及两款感觉非常相似的新型号",
       "category": "space",
       "tags": [
-        "space",
-        "NASA",
+        "航天",
         "launch"
       ],
-      "publish_time": "2026-05-01T02:19:29+08:00",
+      "publish_time": "2026-05-05T21:00:00+08:00",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
+          "name": "Electrek 新能源",
+          "url": "https://electrek.co/2026/05/05/juiced-bikes-is-back-new-e-bikes-models-bring-big-power-better-safety-and-aggressive-pricing/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:54.801367+08:00",
-          "credibility": 95
+          "verify_time": "2026-05-06T23:04:30.039917+08:00",
+          "credibility": 78
         }
       ],
       "stocks": [],
@@ -484,278 +503,68 @@
         "views": 0,
         "shares": 0,
         "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 64
+        "credibility_score": 78,
+        "opportunity_score": 47
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Juiced Bikes is back: New e-bikes bring big power, better safety, and lower prices",
+      "original_summary": "Juiced Bikes is officially back. After the brand was acquired by the team behind Lectric eBikes , perhaps the biggest name in the budget e-bike space, Juiced is relaunching with a renewed focus – and two new models that feel very much like",
+      "language": "zh-CN"
     },
     {
-      "id": "07ad0f77bf0735",
-      "url": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
-      "title": "What’s Up: May 2026 Skywatching Tips from NASA",
-      "summary": "Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a rare blue moon to end the month.",
-      "content": "Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a rare blue moon to end the month.",
+      "id": "d8c55cf8aa30b5",
+      "url": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
+      "title": "Hancom InSpace 获得高光谱传感器",
+      "summary": "丹佛 — — 韩国 Hancom InSpace 正在利用 Sejong-3 扩大其地球观测星座，Sejong-3 是一颗带有高光谱传感器的立方体卫星，于 3 月份通过 SpaceX Transporter 共享飞行器发射升空，目前正在进行调试。 “世宗",
+      "content": "丹佛 — — 韩国 Hancom InSpace 正在利用 Sejong-3 扩大其地球观测星座，Sejong-3 是一颗带有高光谱传感器的立方体卫星，于 3 月份通过 SpaceX Transporter 共享飞行器发射升空，目前正在进行调试。 “世宗",
       "category": "space",
       "tags": [
-        "NASA"
-      ],
-      "publish_time": "2026-05-01T02:13:34+08:00",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:54.801464+08:00",
-          "credibility": 95
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 95,
-        "opportunity_score": 60
-      },
-      "status": "published"
-    },
-    {
-      "id": "bd49775f140c3d",
-      "url": "https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/",
-      "title": "York Space to buy satcom terminal manufacturer All.Space",
-      "summary": "The estimated $355 million deal would make All.Space a wholly owned subsidiary of York Space The post York Space to buy satcom terminal manufacturer All.Space appeared first on SpaceNews .",
-      "content": "The estimated $355 million deal would make All.Space a wholly owned subsidiary of York Space The post York Space to buy satcom terminal manufacturer All.Space appeared first on SpaceNews .",
-      "category": "space",
-      "tags": [
-        "space"
-      ],
-      "publish_time": "2026-04-30T21:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.629981+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published"
-    },
-    {
-      "id": "7e2fc9d0a4bf0b",
-      "url": "https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/",
-      "title": "Planet and Carbon Mapper to fly SWIR Tanager",
-      "summary": "SAN FRANCISCO – Planet is developing a new version of its Tanager spacecraft with enhanced capability to detect and monitor methane and trace-gas emissions. In contrast to the hyperspectral Tanager-1, launched in 2024, the new satellite wil",
-      "content": "SAN FRANCISCO – Planet is developing a new version of its Tanager spacecraft with enhanced capability to detect and monitor methane and trace-gas emissions. In contrast to the hyperspectral Tanager-1, launched in 2024, the new satellite wil",
-      "category": "space",
-      "tags": [
-        "space",
-        "satellite",
-        "launch"
-      ],
-      "publish_time": "2026-04-30T21:00:00+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.630220+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published"
-    },
-    {
-      "id": "dd4107cdc4d785",
-      "url": "https://spacenews.com/morocco-signs-the-artemis-accords/",
-      "title": "Morocco signs the Artemis Accords",
-      "summary": "Morocco signed the Artemis Accords April 29, becoming the third country to do so in the last 10 days. The post Morocco signs the Artemis Accords appeared first on SpaceNews .",
-      "content": "Morocco signed the Artemis Accords April 29, becoming the third country to do so in the last 10 days. The post Morocco signs the Artemis Accords appeared first on SpaceNews .",
-      "category": "space",
-      "tags": [
-        "space"
-      ],
-      "publish_time": "2026-04-30T19:43:26+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/morocco-signs-the-artemis-accords/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.630478+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "5159222f89f527",
-      "url": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
-      "title": "Cosmoleap secures $73 million for reusable rocket with tower catch recovery",
-      "summary": "Chinese launch startup Cosmoleap has secured significant funding for its reusable rocket plans as it works towards a debut launch in 2027. The post Cosmoleap secures $73 million for reusable rocket with tower catch recovery appeared first o",
-      "content": "Chinese launch startup Cosmoleap has secured significant funding for its reusable rocket plans as it works towards a debut launch in 2027. The post Cosmoleap secures $73 million for reusable rocket with tower catch recovery appeared first o",
-      "category": "space",
-      "tags": [
-        "rocket",
-        "launch"
-      ],
-      "publish_time": "2026-04-30T18:57:05+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.630597+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published"
-    },
-    {
-      "id": "84670f17dd9d38",
-      "url": "https://spacenews.com/canadian-space-agency-cancels-spire-satellite-contract/",
-      "title": "Canadian Space Agency cancels Spire satellite contract",
-      "summary": "The Canadian Space Agency has canceled a contract it awarded last year to Spire Global to construct a fleet of wildfire-monitoring smallsats. The post Canadian Space Agency cancels Spire satellite contract appeared first on SpaceNews .",
-      "content": "The Canadian Space Agency has canceled a contract it awarded last year to Spire Global to construct a fleet of wildfire-monitoring smallsats. The post Canadian Space Agency cancels Spire satellite contract appeared first on SpaceNews .",
-      "category": "space",
-      "tags": [
-        "space",
-        "satellite"
-      ],
-      "publish_time": "2026-04-30T08:43:07+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/canadian-space-agency-cancels-spire-satellite-contract/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.630707+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "d555e691a8621b",
-      "url": "https://spacenews.com/space-force-selects-firms-to-build-counter-surveillance-payloads-for-satellites/",
-      "title": "Space Force selects firms to build counter-surveillance payloads for satellites",
-      "summary": "Under SBIR contracts from the Space Rapid Capabilities Office, companies will develop payloads capable of detecting emissions from ground-based radars that track U.S. satellites The post Space Force selects firms to build counter-surveillan",
-      "content": "Under SBIR contracts from the Space Rapid Capabilities Office, companies will develop payloads capable of detecting emissions from ground-based radars that track U.S. satellites The post Space Force selects firms to build counter-surveillan",
-      "category": "space",
-      "tags": [
-        "space",
-        "satellite"
-      ],
-      "publish_time": "2026-04-30T05:21:44+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/space-force-selects-firms-to-build-counter-surveillance-payloads-for-satellites/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.631087+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published"
-    },
-    {
-      "id": "c16f04b088943f",
-      "url": "https://spacenews.com/falcon-9-rocket-stage-projected-to-impact-moons-near-side-in-august/",
-      "title": "Falcon 9 rocket stage projected to impact moon’s near side in August",
-      "summary": "A spent Falcon 9 stage used to launch a pair of commercial lunar landers is projected to impact the moon Aug. 5, according to astronomers. The post Falcon 9 rocket stage projected to impact moon’s near side in August appeared first on Space",
-      "content": "A spent Falcon 9 stage used to launch a pair of commercial lunar landers is projected to impact the moon Aug. 5, according to astronomers. The post Falcon 9 rocket stage projected to impact moon’s near side in August appeared first on Space",
-      "category": "space",
-      "tags": [
-        "space",
-        "rocket",
-        "launch"
-      ],
-      "publish_time": "2026-04-29T23:27:10+08:00",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/falcon-9-rocket-stage-projected-to-impact-moons-near-side-in-august/",
-          "verified": true,
-          "verify_time": "2026-05-02T21:37:55.631246+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 55
-      },
-      "status": "published"
-    },
-    {
-      "id": "94923b63f9b7a7",
-      "url": "https://spacenews.com/falcon-heavy-launches-final-viasat-3-terabit-class-satellite/",
-      "title": "Falcon Heavy launches final ViaSat-3 terabit-class satellite",
-      "summary": "A SpaceX Falcon Heavy launched the third and final terabit-class ViaSat-3 broadband satellite toward geostationary orbit April 29, putting Viasat on course to finish a constellation more than a decade in the making. The post Falcon Heavy la",
-      "content": "A SpaceX Falcon Heavy launched the third and final terabit-class ViaSat-3 broadband satellite toward geostationary orbit April 29, putting Viasat on course to finish a constellation more than a decade in the making. The post Falcon Heavy la",
-      "category": "space",
-      "tags": [
-        "space",
+        "航天",
         "SpaceX",
-        "satellite",
         "launch"
       ],
-      "publish_time": "2026-04-29T23:13:32+08:00",
+      "publish_time": "2026-05-05T20:00:00+08:00",
       "sources": [
         {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/falcon-heavy-launches-final-viasat-3-terabit-class-satellite/",
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
           "verified": true,
-          "verify_time": "2026-05-02T21:37:55.631358+08:00",
+          "verify_time": "2026-05-06T23:04:29.156562+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "Hancom InSpace gains hyperspectral sensor",
+      "original_summary": "DENVER – South Korea’s Hancom InSpace is expanding its Earth-observation constellation with Sejong-3, a cubesat with a hyperspectral sensor, launched in March on a SpaceX Transporter rideshare and currently undergoing commissioning. “Sejong",
+      "language": "zh-CN"
+    },
+    {
+      "id": "18d2271600d832",
+      "url": "https://spacenews.com/ignition-relaunches-artemis-plans/",
+      "title": "Ignition 重新启动 Artemis 计划",
+      "summary": "3 月 24 日，来自整个航天行业的高管和来自数十个国家的官员涌入 NASA 华盛顿总部，不确定他们被叫来要听什么。该机构仅宣布了这一被称为“点火”的活动",
+      "content": "3 月 24 日，来自整个航天行业的高管和来自数十个国家的官员涌入 NASA 华盛顿总部，不确定他们被叫来要听什么。该机构仅宣布了这一被称为“点火”的活动",
+      "category": "space",
+      "tags": [
+        "航天",
+        "NASA",
+        "launch"
+      ],
+      "publish_time": "2026-05-05T19:00:00+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/ignition-relaunches-artemis-plans/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.156635+08:00",
           "credibility": 86
         }
       ],
@@ -767,7 +576,115 @@
         "credibility_score": 86,
         "opportunity_score": 50
       },
-      "status": "published"
+      "status": "published",
+      "original_title": "Ignition relaunches Artemis plans",
+      "original_summary": "On March 24, executives from across the space industry and officials from dozens of countries filed into NASA’s Washington headquarters, unsure what they had been called to hear. The agency had announced the event — dubbed “Ignition” — only",
+      "language": "zh-CN"
+    },
+    {
+      "id": "5000e3de309d5d",
+      "url": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
+      "title": "Firefly 计划夏末发射首枚 Alpha Block 2 火箭",
+      "summary": "萤火虫航空航天公司计划在今年夏末推出其阿尔法火箭的升级版，因为该公司看到对该火箭的强劲需求，特别是在国家安全应用方面。",
+      "content": "萤火虫航空航天公司计划在今年夏末推出其阿尔法火箭的升级版，因为该公司看到对该火箭的强劲需求，特别是在国家安全应用方面。",
+      "category": "space",
+      "tags": [
+        "航天",
+        "火箭",
+        "launch"
+      ],
+      "publish_time": "2026-05-05T08:45:52+08:00",
+      "sources": [
+        {
+          "name": "SpaceNews 航天新闻",
+          "url": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:29.156726+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 55
+      },
+      "status": "published",
+      "original_title": "Firefly plans late summer launch of first Alpha Block 2 rocket",
+      "original_summary": "Firefly Aerospace plans to debut the upgraded version of its Alpha rocket late this summer as it sees strong demand for the vehicle, particularly for national security applications.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "aedcfaee00a530",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
+      "title": "在阿耳忒弥斯二号成功之后，美国宇航局向月球迈出了一大步",
+      "summary": "阿耳忒弥斯二号证明了美国宇航局的深空系统已经为下一次飞跃做好了准备。凭借改进的隔热罩性能和精确的着陆精度，猎户座在高速返回中幸存下来，而 SLS 火箭则牢牢锁定了其轨道。就连发射p",
+      "content": "阿耳忒弥斯二号证明了美国宇航局的深空系统已经为下一次飞跃做好了准备。凭借改进的隔热罩性能和精确的着陆精度，猎户座在高速返回中幸存下来，而 SLS 火箭则牢牢锁定了其轨道。就连发射p",
+      "category": "space",
+      "tags": [
+        "航天",
+        "火箭",
+        "NASA",
+        "launch"
+      ],
+      "publish_time": "2026-05-04T19:45:06+08:00",
+      "sources": [
+        {
+          "name": "ScienceDaily 科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:05.668877+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "NASA just took a huge step toward the Moon after Artemis II success",
+      "original_summary": "Artemis II proved NASA’s deep space systems are ready for the next leap. Orion survived its high-speed return with improved heat shield performance and pinpoint landing accuracy, while the SLS rocket nailed its trajectory. Even the launch p",
+      "language": "zh-CN"
+    },
+    {
+      "id": "3e2b8fcf699286",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
+      "title": "NASA 关闭了已有 49 年历史的航行者 1 号仪器以维持其生命",
+      "summary": "航海者一号刚刚关闭了一台已有近 50 年历史的仪器，以便在深空保持活力。该航天器的能量严重不足，迫使美国宇航局做出谨慎的牺牲才能继续其任务。尽管停业，但仍在继续",
+      "content": "航海者一号刚刚关闭了一台已有近 50 年历史的仪器，以便在深空保持活力。该航天器的能量严重不足，迫使美国宇航局做出谨慎的牺牲才能继续其任务。尽管停业，但仍在继续",
+      "category": "space",
+      "tags": [
+        "航天",
+        "NASA"
+      ],
+      "publish_time": "2026-05-04T19:27:10+08:00",
+      "sources": [
+        {
+          "name": "ScienceDaily 科学日报",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
+          "verified": true,
+          "verify_time": "2026-05-06T23:04:05.669027+08:00",
+          "credibility": 82
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 82,
+        "opportunity_score": 47
+      },
+      "status": "published",
+      "original_title": "NASA shuts down 49-year-old Voyager 1 instrument to keep it alive",
+      "original_summary": "Voyager 1 just powered down a nearly 50-year-old instrument to stay alive in deep space. The spacecraft is running critically low on energy, forcing NASA to make careful sacrifices to keep its mission going. Despite the shutdown, it continu",
+      "language": "zh-CN"
     }
   ]
 }
