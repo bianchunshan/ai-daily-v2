@@ -6,13 +6,18 @@
 
 // ==================== 配置常量 ====================
 const CONFIG = {
-    VERSION: '2.0.0',
+    VERSION: '3.1.0',
     API_BASE: 'data/news',
     ITEMS_PER_PAGE: 10,
     CACHE_TTL: 5 * 60 * 1000, // 5分钟缓存
     DEBOUNCE_DELAY: 300,
     SCROLL_THRESHOLD: 200
 };
+
+function dataUrl(path) {
+    const separator = path.includes('?') ? '&' : '?';
+    return `${path}${separator}v=${CONFIG.VERSION}-${Date.now()}`;
+}
 
 // ==================== 状态管理 ====================
 const State = {
@@ -126,7 +131,7 @@ const DataService = {
         }
 
         try {
-            const response = await fetch(`${CONFIG.API_BASE}/all.json`);
+            const response = await fetch(dataUrl(`${CONFIG.API_BASE}/all.json`), { cache: 'no-store' });
             if (!response.ok) throw new Error('Failed to load');
             
             const data = await response.json();
@@ -151,7 +156,7 @@ const DataService = {
         if (cached) return cached;
 
         try {
-            const response = await fetch(`${CONFIG.API_BASE}/${category}.json`);
+            const response = await fetch(dataUrl(`${CONFIG.API_BASE}/${category}.json`), { cache: 'no-store' });
             const data = await response.json();
             Utils.cache.set(cacheKey, data.news);
             return data.news;
@@ -169,7 +174,7 @@ const DataService = {
         if (cached) return cached;
 
         try {
-            const response = await fetch('data/opportunities.json');
+            const response = await fetch(dataUrl('data/opportunities.json'), { cache: 'no-store' });
             if (!response.ok) throw new Error('Failed to load opportunities');
             const data = await response.json();
             const opportunities = data.opportunities || [];
@@ -189,7 +194,7 @@ const DataService = {
         if (cached) return cached;
 
         try {
-            const response = await fetch('data/stocks/latest.json');
+            const response = await fetch(dataUrl('data/stocks/latest.json'), { cache: 'no-store' });
             if (!response.ok) throw new Error('Failed to load stock quotes');
             const data = await response.json();
             const quotes = data.quotes || {};
