@@ -11,8 +11,19 @@
       "country": "US",
       "market_cap": "3.2T",
       "description": "全球领先的GPU和AI芯片设计公司",
-      "tags": ["AI芯片", "GPU", "数据中心", "自动驾驶"],
-      "related_categories": ["ai", "semiconductor", "robotics"]
+      "tags": [
+        "AI芯片",
+        "GPU",
+        "数据中心",
+        "自动驾驶"
+      ],
+      "related_categories": [
+        "ai",
+        "semiconductor",
+        "robotics"
+      ],
+      "stooq_symbol": "nvda.us",
+      "currency": "USD"
     },
     {
       "symbol": "AMD",
@@ -23,8 +34,17 @@
       "country": "US",
       "market_cap": "180B",
       "description": "CPU、GPU和数据中心解决方案提供商",
-      "tags": ["CPU", "GPU", "数据中心"],
-      "related_categories": ["semiconductor", "ai"]
+      "tags": [
+        "CPU",
+        "GPU",
+        "数据中心"
+      ],
+      "related_categories": [
+        "semiconductor",
+        "ai"
+      ],
+      "stooq_symbol": "amd.us",
+      "currency": "USD"
     },
     {
       "symbol": "INTC",
@@ -35,8 +55,15 @@
       "country": "US",
       "market_cap": "95B",
       "description": "全球领先的CPU制造商",
-      "tags": ["CPU", "晶圆代工"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "CPU",
+        "晶圆代工"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "intc.us",
+      "currency": "USD"
     },
     {
       "symbol": "TSM",
@@ -47,8 +74,15 @@
       "country": "TW",
       "market_cap": "850B",
       "description": "全球最大的晶圆代工厂",
-      "tags": ["晶圆代工", "先进制程"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "晶圆代工",
+        "先进制程"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "tsm.us",
+      "currency": "USD"
     },
     {
       "symbol": "ASML",
@@ -59,8 +93,15 @@
       "country": "NL",
       "market_cap": "280B",
       "description": "全球唯一EUV光刻机制造商",
-      "tags": ["光刻机", "半导体设备"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "光刻机",
+        "半导体设备"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "asml.us",
+      "currency": "USD"
     },
     {
       "symbol": "AVGO",
@@ -71,8 +112,17 @@
       "country": "US",
       "market_cap": "800B",
       "description": "芯片和基础设施软件解决方案",
-      "tags": ["芯片", "AI芯片", "软件"],
-      "related_categories": ["semiconductor", "ai"]
+      "tags": [
+        "芯片",
+        "AI芯片",
+        "软件"
+      ],
+      "related_categories": [
+        "semiconductor",
+        "ai"
+      ],
+      "stooq_symbol": "avgo.us",
+      "currency": "USD"
     },
     {
       "symbol": "QCOM",
@@ -83,8 +133,16 @@
       "country": "US",
       "market_cap": "180B",
       "description": "移动通信芯片设计商",
-      "tags": ["手机芯片", "5G", "IoT"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "手机芯片",
+        "5G",
+        "IoT"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "qcom.us",
+      "currency": "USD"
     },
     {
       "symbol": "AMAT",
@@ -95,8 +153,15 @@
       "country": "US",
       "market_cap": "150B",
       "description": "半导体制造设备供应商",
-      "tags": ["半导体设备", "材料"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "半导体设备",
+        "材料"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "amat.us",
+      "currency": "USD"
     },
     {
       "symbol": "MU",
@@ -107,8 +172,17 @@
       "country": "US",
       "market_cap": "120B",
       "description": "存储芯片制造商",
-      "tags": ["内存", "存储", "DRAM", "NAND"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "内存",
+        "存储",
+        "DRAM",
+        "NAND"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "mu.us",
+      "currency": "USD"
     },
     {
       "symbol": "LRCX",
@@ -119,8 +193,14 @@
       "country": "US",
       "market_cap": "95B",
       "description": "半导体刻蚀设备供应商",
-      "tags": ["刻蚀设备"],
-      "related_categories": ["semiconductor"]
+      "tags": [
+        "刻蚀设备"
+      ],
+      "related_categories": [
+        "semiconductor"
+      ],
+      "stooq_symbol": "lrcx.us",
+      "currency": "USD"
     },
     {
       "symbol": "MSFT",
@@ -131,8 +211,18 @@
       "country": "US",
       "market_cap": "3.1T",
       "description": "全球最大的软件公司，Azure云和OpenAI投资者",
-      "tags": ["云计算", "AI", "软件", "游戏"],
-      "related_categories": ["ai", "market"]
+      "tags": [
+        "云计算",
+        "AI",
+        "软件",
+        "游戏"
+      ],
+      "related_categories": [
+        "ai",
+        "market"
+      ],
+      "stooq_symbol": "msft.us",
+      "currency": "USD"
     },
     {
       "symbol": "GOOGL",
@@ -143,8 +233,18 @@
       "country": "US",
       "market_cap": "2.0T",
       "description": "搜索引擎和AI技术领导者",
-      "tags": ["搜索", "AI", "云计算", "自动驾驶"],
-      "related_categories": ["ai", "robotics"]
+      "tags": [
+        "搜索",
+        "AI",
+        "云计算",
+        "自动驾驶"
+      ],
+      "related_categories": [
+        "ai",
+        "robotics"
+      ],
+      "stooq_symbol": "googl.us",
+      "currency": "USD"
     },
     {
       "symbol": "AMZN",
@@ -155,8 +255,17 @@
       "country": "US",
       "market_cap": "1.9T",
       "description": "电商和AWS云服务巨头",
-      "tags": ["电商", "云计算", "AI"],
-      "related_categories": ["ai", "market"]
+      "tags": [
+        "电商",
+        "云计算",
+        "AI"
+      ],
+      "related_categories": [
+        "ai",
+        "market"
+      ],
+      "stooq_symbol": "amzn.us",
+      "currency": "USD"
     },
     {
       "symbol": "META",
@@ -167,8 +276,17 @@
       "country": "US",
       "market_cap": "1.5T",
       "description": "Facebook母公司，元宇宙和AI投资者",
-      "tags": ["社交", "AI", "元宇宙", "VR"],
-      "related_categories": ["ai"]
+      "tags": [
+        "社交",
+        "AI",
+        "元宇宙",
+        "VR"
+      ],
+      "related_categories": [
+        "ai"
+      ],
+      "stooq_symbol": "meta.us",
+      "currency": "USD"
     },
     {
       "symbol": "TSLA",
@@ -179,8 +297,19 @@
       "country": "US",
       "market_cap": "800B",
       "description": "电动汽车和清洁能源公司",
-      "tags": ["电动车", "能源存储", "自动驾驶", "机器人"],
-      "related_categories": ["energy", "robotics", "bci"]
+      "tags": [
+        "电动车",
+        "能源存储",
+        "自动驾驶",
+        "机器人"
+      ],
+      "related_categories": [
+        "energy",
+        "robotics",
+        "bci"
+      ],
+      "stooq_symbol": "tsla.us",
+      "currency": "USD"
     },
     {
       "symbol": "AAPL",
@@ -191,8 +320,17 @@
       "country": "US",
       "market_cap": "3.5T",
       "description": "全球领先的AI终端和硬件生态公司",
-      "tags": ["手机", "电脑", "服务"],
-      "related_categories": ["ai", "semiconductor"]
+      "tags": [
+        "手机",
+        "电脑",
+        "服务"
+      ],
+      "related_categories": [
+        "ai",
+        "semiconductor"
+      ],
+      "stooq_symbol": "aapl.us",
+      "currency": "USD"
     },
     {
       "symbol": "NFLX",
@@ -203,8 +341,15 @@
       "country": "US",
       "market_cap": "380B",
       "description": "全球领先的流媒体平台",
-      "tags": ["流媒体", "内容"],
-      "related_categories": ["gaming"]
+      "tags": [
+        "流媒体",
+        "内容"
+      ],
+      "related_categories": [
+        "gaming"
+      ],
+      "stooq_symbol": "nflx.us",
+      "currency": "USD"
     },
     {
       "symbol": "CRM",
@@ -215,8 +360,16 @@
       "country": "US",
       "market_cap": "280B",
       "description": "CRM软件领导者",
-      "tags": ["SaaS", "CRM", "AI"],
-      "related_categories": ["ai"]
+      "tags": [
+        "SaaS",
+        "CRM",
+        "AI"
+      ],
+      "related_categories": [
+        "ai"
+      ],
+      "stooq_symbol": "crm.us",
+      "currency": "USD"
     },
     {
       "symbol": "ADBE",
@@ -227,8 +380,15 @@
       "country": "US",
       "market_cap": "200B",
       "description": "创意和文档软件领导者",
-      "tags": ["创意软件", "AI"],
-      "related_categories": ["ai"]
+      "tags": [
+        "创意软件",
+        "AI"
+      ],
+      "related_categories": [
+        "ai"
+      ],
+      "stooq_symbol": "adbe.us",
+      "currency": "USD"
     },
     {
       "symbol": "NOW",
@@ -239,8 +399,15 @@
       "country": "US",
       "market_cap": "180B",
       "description": "企业工作流平台",
-      "tags": ["SaaS", "工作流"],
-      "related_categories": ["ai"]
+      "tags": [
+        "SaaS",
+        "工作流"
+      ],
+      "related_categories": [
+        "ai"
+      ],
+      "stooq_symbol": "now.us",
+      "currency": "USD"
     },
     {
       "symbol": "PLTR",
@@ -251,8 +418,16 @@
       "country": "US",
       "market_cap": "180B",
       "description": "大数据分析和AI平台",
-      "tags": ["大数据", "AI", "政府"],
-      "related_categories": ["ai"]
+      "tags": [
+        "大数据",
+        "AI",
+        "政府"
+      ],
+      "related_categories": [
+        "ai"
+      ],
+      "stooq_symbol": "pltr.us",
+      "currency": "USD"
     },
     {
       "symbol": "SNOW",
@@ -263,8 +438,15 @@
       "country": "US",
       "market_cap": "55B",
       "description": "云数据平台",
-      "tags": ["数据云", "分析"],
-      "related_categories": ["ai"]
+      "tags": [
+        "数据云",
+        "分析"
+      ],
+      "related_categories": [
+        "ai"
+      ],
+      "stooq_symbol": "snow.us",
+      "currency": "USD"
     },
     {
       "symbol": "LLY",
@@ -275,8 +457,16 @@
       "country": "US",
       "market_cap": "750B",
       "description": "全球领先的制药公司，减肥药领导者",
-      "tags": ["减肥药", "糖尿病", "创新药"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "减肥药",
+        "糖尿病",
+        "创新药"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "lly.us",
+      "currency": "USD"
     },
     {
       "symbol": "NVO",
@@ -287,8 +477,15 @@
       "country": "DK",
       "market_cap": "450B",
       "description": "丹麦制药巨头，司美格鲁肽制造商",
-      "tags": ["减肥药", "糖尿病"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "减肥药",
+        "糖尿病"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "nvo.us",
+      "currency": "USD"
     },
     {
       "symbol": "JNJ",
@@ -299,8 +496,16 @@
       "country": "US",
       "market_cap": "380B",
       "description": "全球医疗保健领导者",
-      "tags": ["制药", "医疗器械", "消费品"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "制药",
+        "医疗器械",
+        "消费品"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "jnj.us",
+      "currency": "USD"
     },
     {
       "symbol": "PFE",
@@ -311,8 +516,15 @@
       "country": "US",
       "market_cap": "160B",
       "description": "全球领先的制药公司",
-      "tags": ["疫苗", "创新药"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "疫苗",
+        "创新药"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "pfe.us",
+      "currency": "USD"
     },
     {
       "symbol": "MRNA",
@@ -323,8 +535,15 @@
       "country": "US",
       "market_cap": "45B",
       "description": "mRNA疫苗技术领导者",
-      "tags": ["mRNA", "疫苗"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "mRNA",
+        "疫苗"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "mrna.us",
+      "currency": "USD"
     },
     {
       "symbol": "BIIB",
@@ -335,8 +554,15 @@
       "country": "US",
       "market_cap": "35B",
       "description": "神经科学和罕见病药物",
-      "tags": ["神经科学", "罕见病"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "神经科学",
+        "罕见病"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "biib.us",
+      "currency": "USD"
     },
     {
       "symbol": "REGN",
@@ -347,8 +573,15 @@
       "country": "US",
       "market_cap": "100B",
       "description": "创新生物制药公司",
-      "tags": ["抗体", "基因治疗"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "抗体",
+        "基因治疗"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "regn.us",
+      "currency": "USD"
     },
     {
       "symbol": "VRTX",
@@ -359,8 +592,15 @@
       "country": "US",
       "market_cap": "120B",
       "description": "囊性纤维化治疗领导者",
-      "tags": ["基因治疗", "罕见病"],
-      "related_categories": ["biotech"]
+      "tags": [
+        "基因治疗",
+        "罕见病"
+      ],
+      "related_categories": [
+        "biotech"
+      ],
+      "stooq_symbol": "vrtx.us",
+      "currency": "USD"
     },
     {
       "symbol": "IBM",
@@ -371,8 +611,18 @@
       "country": "US",
       "market_cap": "230B",
       "description": "企业IT服务和量子计算领导者",
-      "tags": ["IT服务", "量子计算", "AI", "云计算"],
-      "related_categories": ["quantum", "ai"]
+      "tags": [
+        "IT服务",
+        "量子计算",
+        "AI",
+        "云计算"
+      ],
+      "related_categories": [
+        "quantum",
+        "ai"
+      ],
+      "stooq_symbol": "ibm.us",
+      "currency": "USD"
     },
     {
       "symbol": "IONQ",
@@ -383,8 +633,15 @@
       "country": "US",
       "market_cap": "3B",
       "description": "量子计算公司",
-      "tags": ["量子计算", "量子比特"],
-      "related_categories": ["quantum"]
+      "tags": [
+        "量子计算",
+        "量子比特"
+      ],
+      "related_categories": [
+        "quantum"
+      ],
+      "stooq_symbol": "ionq.us",
+      "currency": "USD"
     },
     {
       "symbol": "RGTI",
@@ -395,8 +652,14 @@
       "country": "US",
       "market_cap": "0.8B",
       "description": "量子计算公司",
-      "tags": ["量子计算"],
-      "related_categories": ["quantum"]
+      "tags": [
+        "量子计算"
+      ],
+      "related_categories": [
+        "quantum"
+      ],
+      "stooq_symbol": "rgti.us",
+      "currency": "USD"
     },
     {
       "symbol": "BYD",
@@ -408,8 +671,16 @@
       "country": "CN",
       "market_cap": "90B",
       "description": "全球领先的新能源汽车和电池制造商",
-      "tags": ["电动车", "电池", "新能源"],
-      "related_categories": ["energy"]
+      "tags": [
+        "电动车",
+        "电池",
+        "新能源"
+      ],
+      "related_categories": [
+        "energy"
+      ],
+      "stooq_symbol": "1211.hk",
+      "currency": "HKD"
     }
   ]
 }

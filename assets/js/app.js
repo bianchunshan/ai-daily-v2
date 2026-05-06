@@ -6,7 +6,7 @@
 
 // ==================== 配置常量 ====================
 const CONFIG = {
-    VERSION: '3.4.0',
+    VERSION: '3.5.0',
     API_BASE: 'data/news',
     ITEMS_PER_PAGE: 10,
     CACHE_TTL: 5 * 60 * 1000, // 5分钟缓存
@@ -244,7 +244,19 @@ const DataService = {
         return meta.quote_symbol || symbol.replace('.SH', '.SS');
     },
 
+    stooqSymbolFor(symbol) {
+        const meta = this.getStockMeta(symbol);
+        if (meta.stooq_symbol) return meta.stooq_symbol;
+        const exchange = meta.exchange || '';
+        if (exchange === 'NASDAQ' || exchange === 'NYSE') return `${symbol.toLowerCase()}.us`;
+        if (exchange === 'HKEX') return `${String(meta.quote_symbol || symbol).replace('.HK', '').toLowerCase()}.hk`;
+        return symbol.toLowerCase();
+    },
+
     async fetchRealtimeQuote(symbol) {
+        const stooqQuote = await this.fetchStooqQuote(symbol);
+        if (stooqQuote) return stooqQuote;
+
         const quoteSymbol = this.quoteSymbolFor(symbol);
         const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(quoteSymbol)}?range=1d&interval=1m`;
 
@@ -278,6 +290,44 @@ const DataService = {
         } catch (e) {
             console.warn(`实时行情加载失败 ${symbol}:`, e);
             return State.stockQuotes?.[symbol] || null;
+        }
+    },
+
+    async fetchStooqQuote(symbol) {
+        const stooqSymbol = this.stooqSymbolFor(symbol);
+        const fallback = State.stockQuotes?.[symbol] || {};
+        const url = `https://stooq.com/q/l/?s=${encodeURIComponent(stooqSymbol)}&f=sd2t2ohlcv&h&e=csv`;
+
+        try {
+            const response = await fetch(url, { cache: 'no-store' });
+            if (!response.ok) throw new Error('Stooq quote request failed');
+            const csv = await response.text();
+            const [headerLine, valueLine] = csv.trim().split(/\r?\n/);
+            if (!headerLine || !valueLine || valueLine.includes('N/D')) throw new Error('Stooq quote missing data');
+            const headers = headerLine.split(',');
+            const values = valueLine.split(',');
+            const row = Object.fromEntries(headers.map((header, index) => [header, values[index]]));
+            const price = Number(row.Close);
+            if (!Number.isFinite(price)) throw new Error('Stooq quote missing close');
+            const marketTime = row.Date && row.Time
+                ? new Date(`${row.Date}T${row.Time}+08:00`).toISOString()
+                : new Date().toISOString();
+            const quote = {
+                symbol,
+                quote_symbol: this.quoteSymbolFor(symbol),
+                stooq_symbol: stooqSymbol,
+                price: Number(price.toFixed(2)),
+                currency: fallback.currency || this.getStockMeta(symbol).currency || 'USD',
+                change: fallback.change,
+                change_percent: fallback.change_percent,
+                market_time: marketTime,
+                source: 'Stooq 延迟行情'
+            };
+            State.stockQuotes = { ...State.stockQuotes, [symbol]: quote };
+            return quote;
+        } catch (e) {
+            console.warn(`Stooq 行情加载失败 ${symbol}:`, e);
+            return null;
         }
     },
 
@@ -689,6 +739,8 @@ const App = {
         const related = State.news.find(n => n.stocks?.some(s => s.symbol === symbol))?.stocks?.find(s => s.symbol === symbol);
         const name = related?.name || meta.name || symbol;
         const quoteSymbol = quote?.quote_symbol || DataService.quoteSymbolFor(symbol);
+        const stooqSymbol = quote?.stooq_symbol || DataService.stooqSymbolFor(symbol);
+        const chartUrl = `https://stooq.com/c/?s=${encodeURIComponent(stooqSymbol)}&c=1d&t=l&a=lg&b=0&v=${Date.now()}`;
         const price = typeof quote?.price === 'number' ? quote.price.toFixed(2) : '--';
         const changePercent = typeof quote?.change_percent === 'number' ? quote.change_percent : null;
         const isPositive = (changePercent || 0) >= 0;
@@ -726,8 +778,8 @@ const App = {
                 
                 <div class="grid md:grid-cols-3 gap-4 mb-8">
                     <div class="glass rounded-xl p-4">
-                        <div class="text-gray-400 text-sm mb-1">行情刷新</div>
-                        <div class="text-xl font-bold">实时优先</div>
+                        <div class="text-gray-400 text-sm mb-1">行情代码</div>
+                        <div class="text-xl font-bold">${stooqSymbol}</div>
                     </div>
                     <div class="glass rounded-xl p-4">
                         <div class="text-gray-400 text-sm mb-1">涨跌额</div>
@@ -738,6 +790,19 @@ const App = {
                         <div class="text-xl font-bold text-primary">
                             ${relatedCount}
                         </div>
+                    </div>
+                </div>
+
+                <div class="mb-8">
+                    <div class="flex flex-wrap items-center justify-between gap-3 mb-3">
+                        <h3 class="text-lg font-semibold">行情图</h3>
+                        <span class="text-xs text-gray-500">Stooq · ${stooqSymbol}</span>
+                    </div>
+                    <div class="rounded-xl border border-border overflow-hidden bg-white p-2">
+                        <img src="${chartUrl}"
+                             alt="${symbol} 行情图"
+                             class="w-full min-h-[260px] object-contain"
+                             loading="lazy">
                     </div>
                 </div>
 
@@ -938,14 +1003,23 @@ const App = {
             clearInterval(State.stockRefreshTimer);
             State.stockRefreshTimer = null;
         }
-        history.pushState('', document.title, window.location.pathname + window.location.search);
+        history.replaceState('', document.title, window.location.pathname + window.location.search);
         document.getElementById('detail-view')?.classList.add('hidden');
         document.getElementById('list-view')?.classList.remove('hidden');
     },
 
     handleRoute() {
         const hash = window.location.hash.replace(/^#\/?/, '');
-        if (!hash) return;
+        if (!hash) {
+            if (State.stockRefreshTimer) {
+                clearInterval(State.stockRefreshTimer);
+                State.stockRefreshTimer = null;
+            }
+            document.getElementById('detail-view')?.classList.add('hidden');
+            document.getElementById('list-view')?.classList.remove('hidden');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            return;
+        }
         const [type, id] = hash.split('/');
         if (type === 'news' && id) this.renderNewsDetail(id);
         if (type === 'stock' && id) this.renderStockDetail(id);
