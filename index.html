@@ -72,6 +72,7 @@
             min-height: 100vh;
             color: #e0e0e0;
             line-height: 1.6;
+            overflow-x: hidden;
         }
         
         /* GPU加速 */
@@ -203,6 +204,51 @@
             .hide-mobile { display: none !important; }
             .grid-cols-mobile { grid-template-columns: repeat(2, 1fr) !important; }
         }
+
+        @media (max-width: 640px) {
+            main {
+                padding-top: 5.25rem !important;
+            }
+
+            .news-card {
+                border-radius: 12px;
+            }
+
+            .news-card:hover,
+            .source-tag:hover,
+            .stock-card:hover {
+                transform: none;
+                box-shadow: none;
+            }
+
+            .category-btn {
+                min-height: 112px;
+                padding: 0.875rem !important;
+            }
+
+            .category-btn p {
+                overflow-wrap: anywhere;
+            }
+
+            .stock-card {
+                max-width: 100%;
+                min-height: 34px;
+            }
+
+            #news-container {
+                min-height: 420px !important;
+            }
+
+            #section-title {
+                font-size: 1.375rem;
+                line-height: 1.2;
+            }
+
+            #back-to-top {
+                right: 1rem;
+                bottom: 1rem;
+            }
+        }
         
         /* 性能优化：content-visibility */
         .content-visibility-auto {
@@ -242,21 +288,21 @@
     <!-- Header -->
     <header class="fixed top-0 left-0 right-0 z-50 glass gpu-accelerate">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
+            <div class="flex items-center justify-between h-16 gap-3">
                 <!-- Logo -->
-                <div class="flex items-center gap-3 cursor-pointer" onclick="filterCategory('all')">
+                <div class="flex items-center gap-3 cursor-pointer min-w-0" onclick="filterCategory('all')">
                     <div class="relative">
                         <i class="fas fa-robot text-3xl text-primary"></i>
                         <span class="absolute -top-1 -right-1 w-3 h-3 bg-success rounded-full pulse-glow"></span>
                     </div>
                     <div>
-                        <h1 class="text-xl font-bold gradient-text">前沿科技日报</h1>
+                        <h1 class="text-xl font-bold gradient-text whitespace-nowrap">前沿科技日报</h1>
                         <p class="text-xs text-gray-400" id="current-date"></p>
                     </div>
                 </div>
                 
                 <!-- Actions -->
-                <div class="flex items-center gap-3">
+                <div class="flex items-center gap-2 shrink-0">
                     <!-- 验证标识 -->
                     <div class="hidden md:flex items-center gap-2 px-3 py-1.5 bg-success/10 rounded-full border border-success/30">
                         <i class="fas fa-shield-alt text-success text-sm"></i>
@@ -299,7 +345,7 @@
         <div id="list-view" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             
             <!-- 统计数据 -->
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 mb-8">
                 <div class="glass rounded-xl p-4 border border-border">
                     <div class="text-gray-400 text-xs mb-1">今日更新</div>
                     <div class="text-2xl font-bold text-white" id="stat-total">1,100</div>
@@ -323,13 +369,13 @@
             </div>
 
             <!-- 分类快捷入口 -->
-            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-3 mb-8" id="category-grid">
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-3 mb-8" id="category-grid">
                 <!-- 动态生成 -->
             </div>
 
             <!-- 资讯列表 -->
-            <div class="flex items-center justify-between mb-6">
-                <div class="flex items-center gap-3">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-6">
+                <div class="flex items-center gap-3 min-w-0">
                     <h2 class="text-2xl font-bold" id="section-title">全部资讯</h2>
                     <span class="px-2 py-1 bg-primary/20 text-primary text-xs rounded-full" id="news-count">加载中...</span>
                 </div>

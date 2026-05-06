@@ -375,16 +375,17 @@ class RealNewsScraper:
 
     def fetch_stock_quotes(self, items: list[dict[str, Any]]) -> dict[str, Any]:
         symbols = sorted({stock["symbol"] for item in items for stock in item.get("stocks", [])})
+        stock_by_symbol = {stock["symbol"]: stock for stock in self.stocks}
         quotes = {}
         for symbol in symbols[:60]:
-            quote = self.fetch_yahoo_quote(symbol)
+            quote = self.fetch_yahoo_quote(symbol, stock_by_symbol.get(symbol, {}))
             if quote:
                 quotes[symbol] = quote
             time.sleep(0.15)
         return quotes
 
-    def fetch_yahoo_quote(self, symbol: str) -> dict[str, Any] | None:
-        yahoo_symbol = symbol.replace(".SH", ".SS")
+    def fetch_yahoo_quote(self, symbol: str, stock: dict[str, Any] | None = None) -> dict[str, Any] | None:
+        yahoo_symbol = (stock or {}).get("quote_symbol") or symbol.replace(".SH", ".SS")
         url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(yahoo_symbol)}?range=5d&interval=1d"
         try:
             data = self.session.get(url, timeout=12).json()
@@ -398,6 +399,7 @@ class RealNewsScraper:
             change_percent = None if change is None else change / previous * 100
             return {
                 "symbol": symbol,
+                "quote_symbol": yahoo_symbol,
                 "price": round(float(price), 2),
                 "currency": meta.get("currency", "USD"),
                 "change": None if change is None else round(float(change), 2),

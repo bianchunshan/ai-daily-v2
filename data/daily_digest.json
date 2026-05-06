@@ -2,8 +2,8 @@
   "date": "2026-05-07",
   "type": "daily_digest",
   "summary": {
-    "total_new": 110,
-    "breaking": 10,
+    "total_new": 119,
+    "breaking": 9,
     "opportunities": 15,
     "by_category": {
       "biotech": 18,
@@ -12,7 +12,7 @@
       "world": 18,
       "energy": 21,
       "gaming": 3,
-      "space": 13,
+      "space": 22,
       "semiconductor": 5,
       "quantum": 7,
       "bci": 1
@@ -40,14 +40,6 @@
         "MRNA",
         "VRTX"
       ]
-    },
-    {
-      "id": "da3120aded2f0f",
-      "title": "美国航天局宇航员回答佛罗里达州学生的问题",
-      "category": "space",
-      "credibility": 95,
-      "opportunity_score": 64,
-      "stocks": []
     },
     {
       "id": "78ffdc3e424204",
@@ -98,7 +90,17 @@
       "stocks": [
         "NVO"
       ]
+    },
+    {
+      "id": "7fd7635574ec52",
+      "title": "您可以在搜索中尝试的 5 个园艺技巧",
+      "category": "ai",
+      "credibility": 88,
+      "opportunity_score": 61,
+      "stocks": [
+        "GOOGL"
+      ]
     }
   ],
-  "generated_at": "2026-05-07T00:20:26.420958+08:00"
+  "generated_at": "2026-05-07T00:32:51.747847+08:00"
 }

@@ -3,7 +3,7 @@
   "category": "world",
   "category_name": "国际局势",
   "total": 18,
-  "updated": "2026-05-07T00:20:26.405080+08:00",
+  "updated": "2026-05-07T00:32:51.730831+08:00",
   "news": [
     {
       "id": "7391040b6dfa1e",
@@ -21,7 +21,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.653959+08:00",
+          "verify_time": "2026-05-07T00:32:06.752671+08:00",
           "credibility": 86
         }
       ],
@@ -54,7 +54,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.654424+08:00",
+          "verify_time": "2026-05-07T00:32:06.751584+08:00",
           "credibility": 86
         }
       ],
@@ -69,6 +69,39 @@
       "status": "published",
       "original_title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
       "original_summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
+      "language": "zh-CN"
+    },
+    {
+      "id": "4b1ae5d1f0ef5f",
+      "url": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html",
+      "title": "纽约联储研究显示，飙升的天然气价格对低收入家庭的伤害更大",
+      "summary": "低收入消费者通过减少购买来补偿较高的天然气价格。",
+      "content": "低收入消费者通过减少购买来补偿较高的天然气价格。",
+      "category": "world",
+      "tags": [
+        "国际局势"
+      ],
+      "publish_time": "2026-05-07T00:16:55+08:00",
+      "sources": [
+        {
+          "name": "美国财经媒体·市场",
+          "url": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html",
+          "verified": true,
+          "verify_time": "2026-05-07T00:32:06.751930+08:00",
+          "credibility": 86
+        }
+      ],
+      "stocks": [],
+      "metrics": {
+        "views": 0,
+        "shares": 0,
+        "saves": 0,
+        "credibility_score": 86,
+        "opportunity_score": 51
+      },
+      "status": "published",
+      "original_title": "Surging gas prices are hurting lower income households harder, New York Fed study shows",
+      "original_summary": "Lower-income consumers are compensating for higher gas prices by buying less.",
       "language": "zh-CN"
     },
     {
@@ -87,7 +120,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.655114+08:00",
+          "verify_time": "2026-05-07T00:32:06.753907+08:00",
           "credibility": 86
         }
       ],
@@ -120,7 +153,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.653534+08:00",
+          "verify_time": "2026-05-07T00:32:06.752287+08:00",
           "credibility": 86
         }
       ],
@@ -153,7 +186,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.662216+08:00",
+          "verify_time": "2026-05-07T00:32:06.761444+08:00",
           "credibility": 86
         }
       ],
@@ -195,7 +228,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.656638+08:00",
+          "verify_time": "2026-05-07T00:32:06.755770+08:00",
           "credibility": 86
         }
       ],
@@ -210,39 +243,6 @@
       "status": "published",
       "original_title": "Berkshire-owned distribution giant to deploy driverless big rigs across U.S. Sun Belt",
       "original_summary": "Berkshire Hathaway-owned McLane, one of America's biggest distribution companies, is deploying self-driving big rigs with Aurora for its restaurants business.",
-      "language": "zh-CN"
-    },
-    {
-      "id": "c1b456af98b74b",
-      "url": "https://www.cnbc.com/2026/05/06/were-trimming-a-big-winner-and-buying-the-dip-in-a-stock-that-shouldnt-be-down.html",
-      "title": "我们正在淘汰一只大赢家，并逢低买入一只不应该下跌的股票",
-      "summary": "我们周三进行两笔交易。",
-      "content": "我们周三进行两笔交易。",
-      "category": "world",
-      "tags": [
-        "国际局势"
-      ],
-      "publish_time": "2026-05-06T23:51:06+08:00",
-      "sources": [
-        {
-          "name": "美国财经媒体·市场",
-          "url": "https://www.cnbc.com/2026/05/06/were-trimming-a-big-winner-and-buying-the-dip-in-a-stock-that-shouldnt-be-down.html",
-          "verified": true,
-          "verify_time": "2026-05-07T00:19:33.659667+08:00",
-          "credibility": 86
-        }
-      ],
-      "stocks": [],
-      "metrics": {
-        "views": 0,
-        "shares": 0,
-        "saves": 0,
-        "credibility_score": 86,
-        "opportunity_score": 51
-      },
-      "status": "published",
-      "original_title": "We're trimming a big winner and buying the dip in a stock that shouldn't be down",
-      "original_summary": "We are making two trades Wednesday.",
       "language": "zh-CN"
     },
     {
@@ -261,7 +261,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.660721+08:00",
+          "verify_time": "2026-05-07T00:32:06.760469+08:00",
           "credibility": 86
         }
       ],
@@ -294,7 +294,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/restaurant-brands-international-qsr-q1-2026-earnings.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.660378+08:00",
+          "verify_time": "2026-05-07T00:32:06.760087+08:00",
           "credibility": 86
         }
       ],
@@ -327,7 +327,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/former-yankee-mariano-rivera-mlb-salary-cap.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.656938+08:00",
+          "verify_time": "2026-05-07T00:32:06.756517+08:00",
           "credibility": 86
         }
       ],
@@ -360,7 +360,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.658969+08:00",
+          "verify_time": "2026-05-07T00:32:06.758955+08:00",
           "credibility": 86
         }
       ],
@@ -393,7 +393,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.657618+08:00",
+          "verify_time": "2026-05-07T00:32:06.757252+08:00",
           "credibility": 86
         }
       ],
@@ -426,7 +426,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.657980+08:00",
+          "verify_time": "2026-05-07T00:32:06.757647+08:00",
           "credibility": 86
         }
       ],
@@ -459,7 +459,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.657250+08:00",
+          "verify_time": "2026-05-07T00:32:06.756825+08:00",
           "credibility": 86
         }
       ],
@@ -492,7 +492,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/947/008.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:20:08.143435+08:00",
+          "verify_time": "2026-05-07T00:32:33.733316+08:00",
           "credibility": 78
         }
       ],
@@ -525,7 +525,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/994.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:20:08.145826+08:00",
+          "verify_time": "2026-05-07T00:32:33.735551+08:00",
           "credibility": 78
         }
       ],
@@ -559,7 +559,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.655537+08:00",
+          "verify_time": "2026-05-07T00:32:06.754781+08:00",
           "credibility": 86
         }
       ],
@@ -592,7 +592,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.660064+08:00",
+          "verify_time": "2026-05-07T00:32:06.759696+08:00",
           "credibility": 86
         }
       ],

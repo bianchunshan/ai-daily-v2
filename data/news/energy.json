@@ -3,7 +3,7 @@
   "category": "energy",
   "category_name": "新能源",
   "total": 21,
-  "updated": "2026-05-07T00:20:26.408192+08:00",
+  "updated": "2026-05-07T00:32:51.734502+08:00",
   "news": [
     {
       "id": "8730190bd89df5",
@@ -21,7 +21,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/06/ford-in-advanced-talks-sell-eu-plant-geely/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:56.745735+08:00",
+          "verify_time": "2026-05-07T00:32:23.874113+08:00",
           "credibility": 78
         }
       ],
@@ -37,7 +37,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -71,7 +71,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/05/lucid-lcid-q1-2026.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.663600+08:00",
+          "verify_time": "2026-05-07T00:32:06.762835+08:00",
           "credibility": 86
         }
       ],
@@ -87,7 +87,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -121,7 +121,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/there-are-now-more-than-2-million-uk-solar-installations/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.207341+08:00",
+          "verify_time": "2026-05-07T00:32:24.872889+08:00",
           "credibility": 78
         }
       ],
@@ -137,7 +137,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -174,7 +174,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/firm-solar-and-storage-costs-fall-to-54-mwh-says-irena/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.208154+08:00",
+          "verify_time": "2026-05-07T00:32:24.873445+08:00",
           "credibility": 78
         }
       ],
@@ -190,7 +190,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -224,7 +224,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/dutch-partners-explore-bringing-silicon-pv-into-space/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.208847+08:00",
+          "verify_time": "2026-05-07T00:32:24.873926+08:00",
           "credibility": 78
         }
       ],
@@ -240,7 +240,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -274,7 +274,7 @@
           "name": "IT之家",
           "url": "https://www.ithome.com/0/946/985.htm",
           "verified": true,
-          "verify_time": "2026-05-07T00:20:08.150606+08:00",
+          "verify_time": "2026-05-07T00:32:33.741484+08:00",
           "credibility": 78
         }
       ],
@@ -290,7 +290,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -324,7 +324,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/norwegian-startup-testing-hybrid-solar-wave-wind-system/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.209358+08:00",
+          "verify_time": "2026-05-07T00:32:24.874377+08:00",
           "credibility": 78
         }
       ],
@@ -340,7 +340,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -374,7 +374,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/sinovoltaics-launches-free-tool-for-project-specific-pv-module-test-scopes/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.209842+08:00",
+          "verify_time": "2026-05-07T00:32:24.874821+08:00",
           "credibility": 78
         }
       ],
@@ -390,7 +390,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -424,7 +424,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/pv-module-recycling-technologies-progressing-says-iea-pvps/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.210384+08:00",
+          "verify_time": "2026-05-07T00:32:24.875294+08:00",
           "credibility": 78
         }
       ],
@@ -440,7 +440,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -474,7 +474,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/06/massachusetts-proposes-first-in-the-nation-e-bike-and-moped-laws-based-on-speed/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:56.758291+08:00",
+          "verify_time": "2026-05-07T00:32:23.876113+08:00",
           "credibility": 78
         }
       ],
@@ -490,7 +490,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -526,7 +526,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.210782+08:00",
+          "verify_time": "2026-05-07T00:32:24.875684+08:00",
           "credibility": 78
         }
       ],
@@ -542,7 +542,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -576,7 +576,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/fraunhofer-ise-opens-perovskite-silicon-tandem-scale-up-lab/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.211173+08:00",
+          "verify_time": "2026-05-07T00:32:24.876070+08:00",
           "credibility": 78
         }
       ],
@@ -592,7 +592,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -626,7 +626,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.211718+08:00",
+          "verify_time": "2026-05-07T00:32:24.876620+08:00",
           "credibility": 78
         }
       ],
@@ -642,7 +642,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -676,7 +676,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/solar-panels-reduces-thermal-stress-in-dairy-barns-during-critical-afternoon-hours/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.212253+08:00",
+          "verify_time": "2026-05-07T00:32:24.877105+08:00",
           "credibility": 78
         }
       ],
@@ -692,7 +692,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -726,7 +726,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/brazil-revokes-3-57-gw-of-solar-permits-amid-grid-connection-constraints/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.212725+08:00",
+          "verify_time": "2026-05-07T00:32:24.877527+08:00",
           "credibility": 78
         }
       ],
@@ -742,7 +742,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -776,7 +776,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/arctech-debuts-topcon-photovoltaic-pavement-solution/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.213097+08:00",
+          "verify_time": "2026-05-07T00:32:24.877887+08:00",
           "credibility": 78
         }
       ],
@@ -792,7 +792,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -826,7 +826,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/really-quick-charge-greenlane-ceo-talks-expansion-deals-and-more/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:56.758983+08:00",
+          "verify_time": "2026-05-07T00:32:23.876594+08:00",
           "credibility": 78
         }
       ],
@@ -842,7 +842,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -876,7 +876,7 @@
           "name": "光伏杂志",
           "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:58.214740+08:00",
+          "verify_time": "2026-05-07T00:32:24.878711+08:00",
           "credibility": 78
         }
       ],
@@ -892,7 +892,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -926,7 +926,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/rivian-rivn-mulls-in-house-lidar-autonomous-driving-stack/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:56.760853+08:00",
+          "verify_time": "2026-05-07T00:32:23.877999+08:00",
           "credibility": 78
         }
       ],
@@ -942,7 +942,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -976,7 +976,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/high-power-ev-charging-us-busiest-freight-routes-greenlane/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:56.761786+08:00",
+          "verify_time": "2026-05-07T00:32:23.878845+08:00",
           "credibility": 78
         }
       ],
@@ -992,7 +992,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"
@@ -1026,7 +1026,7 @@
           "name": "新能源交通媒体",
           "url": "https://electrek.co/2026/05/05/ev-charger-system-runs-like-a-mini-power-plant-10-mw-abb/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:56.762555+08:00",
+          "verify_time": "2026-05-07T00:32:23.879884+08:00",
           "credibility": 78
         }
       ],
@@ -1042,7 +1042,7 @@
         {
           "symbol": "BYD",
           "name": "比亚迪",
-          "exchange": "OTC",
+          "exchange": "HKEX",
           "impact": "neutral",
           "reason": "板块弱关联：新能源",
           "confidence": "sector"

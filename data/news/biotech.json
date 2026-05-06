@@ -3,7 +3,7 @@
   "category": "biotech",
   "category_name": "创新药",
   "total": 18,
-  "updated": "2026-05-07T00:20:26.410429+08:00",
+  "updated": "2026-05-07T00:32:51.736041+08:00",
   "news": [
     {
       "id": "7109623c745eda",
@@ -16,13 +16,13 @@
         "美国 FDA",
         "基因治疗"
       ],
-      "publish_time": "2026-05-07T00:19:43.955295+08:00",
+      "publish_time": "2026-05-07T00:32:14.749867+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.955695+08:00",
+          "verify_time": "2026-05-07T00:32:14.750262+08:00",
           "credibility": 84
         }
       ],
@@ -66,13 +66,13 @@
       "tags": [
         "trial"
       ],
-      "publish_time": "2026-05-07T00:19:43.954840+08:00",
+      "publish_time": "2026-05-07T00:32:14.749465+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.955280+08:00",
+          "verify_time": "2026-05-07T00:32:14.749857+08:00",
           "credibility": 84
         }
       ],
@@ -116,13 +116,13 @@
       "tags": [
         "创新药"
       ],
-      "publish_time": "2026-05-07T00:19:43.954070+08:00",
+      "publish_time": "2026-05-07T00:32:14.749005+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.954820+08:00",
+          "verify_time": "2026-05-07T00:32:14.749455+08:00",
           "credibility": 84
         }
       ],
@@ -166,13 +166,13 @@
       "tags": [
         "创新药"
       ],
-      "publish_time": "2026-05-07T00:19:43.953591+08:00",
+      "publish_time": "2026-05-07T00:32:14.748511+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/american-biotech-innovation-alliance-debuts-unify-domestic-strategy-amid-global-threats",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.954062+08:00",
+          "verify_time": "2026-05-07T00:32:14.748987+08:00",
           "credibility": 84
         }
       ],
@@ -217,13 +217,13 @@
         "创新药",
         "制药"
       ],
-      "publish_time": "2026-05-07T00:19:43.949858+08:00",
+      "publish_time": "2026-05-07T00:32:14.745100+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotechs-redwood-city-outpost",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.950445+08:00",
+          "verify_time": "2026-05-07T00:32:14.745491+08:00",
           "credibility": 84
         }
       ],
@@ -268,13 +268,13 @@
         "制药",
         "GLP-1"
       ],
-      "publish_time": "2026-05-07T00:19:43.948803+08:00",
+      "publish_time": "2026-05-07T00:32:14.744224+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/novo-ceo-insists-no-change-plan-cagrisema-launch-after-single-chamber-device-ditched",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.949370+08:00",
+          "verify_time": "2026-05-07T00:32:14.744645+08:00",
           "credibility": 84
         }
       ],
@@ -310,13 +310,13 @@
       "tags": [
         "创新药"
       ],
-      "publish_time": "2026-05-07T00:19:43.948024+08:00",
+      "publish_time": "2026-05-07T00:32:14.743811+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/avalos-phase-2-win-fuels-pursuit-abbvie-despite-placebo-headwind",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.948778+08:00",
+          "verify_time": "2026-05-07T00:32:14.744215+08:00",
           "credibility": 84
         }
       ],
@@ -360,13 +360,13 @@
       "tags": [
         "创新药"
       ],
-      "publish_time": "2026-05-07T00:19:43.945027+08:00",
+      "publish_time": "2026-05-07T00:32:14.742067+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.945625+08:00",
+          "verify_time": "2026-05-07T00:32:14.742690+08:00",
           "credibility": 84
         }
       ],
@@ -410,13 +410,13 @@
       "tags": [
         "制药"
       ],
-      "publish_time": "2026-05-07T00:19:43.944461+08:00",
+      "publish_time": "2026-05-07T00:32:14.741283+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/gsk-pens-1b-deal-chinas-siranbio-oligonucleotide-could-reduce-adominal-fat",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.945004+08:00",
+          "verify_time": "2026-05-07T00:32:14.742042+08:00",
           "credibility": 84
         }
       ],
@@ -460,13 +460,13 @@
       "tags": [
         "创新药"
       ],
-      "publish_time": "2026-05-07T00:19:43.943836+08:00",
+      "publish_time": "2026-05-07T00:32:14.740455+08:00",
       "sources": [
         {
           "name": "美国创新药媒体",
           "url": "https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:43.944435+08:00",
+          "verify_time": "2026-05-07T00:32:14.741216+08:00",
           "credibility": 84
         }
       ],
@@ -516,7 +516,7 @@
           "name": "美国生物医药媒体",
           "url": "https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:44.964945+08:00",
+          "verify_time": "2026-05-07T00:32:15.900111+08:00",
           "credibility": 84
         }
       ],
@@ -566,7 +566,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/heavy-chain-bsabs-more-manufacturable-than-light-chains/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:51.308334+08:00",
+          "verify_time": "2026-05-07T00:32:17.282954+08:00",
           "credibility": 82
         }
       ],
@@ -616,7 +616,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/researchers-spinout-simplifies-the-purification-of-viral-vectors/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:51.309007+08:00",
+          "verify_time": "2026-05-07T00:32:17.283480+08:00",
           "credibility": 82
         }
       ],
@@ -666,7 +666,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/moss-powering-the-next-drug-frontier/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:51.309831+08:00",
+          "verify_time": "2026-05-07T00:32:17.283899+08:00",
           "credibility": 82
         }
       ],
@@ -716,7 +716,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/regulators-should-rely-on-peers-gmp-audits-to-cut-inspection-burden/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:51.311121+08:00",
+          "verify_time": "2026-05-07T00:32:17.284364+08:00",
           "credibility": 82
         }
       ],
@@ -766,7 +766,7 @@
           "name": "美国生物医药媒体",
           "url": "https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:44.965398+08:00",
+          "verify_time": "2026-05-07T00:32:15.900861+08:00",
           "credibility": 84
         }
       ],
@@ -816,7 +816,7 @@
           "name": "美国财经媒体·市场",
           "url": "https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:33.661184+08:00",
+          "verify_time": "2026-05-07T00:32:06.760809+08:00",
           "credibility": 86
         }
       ],
@@ -866,7 +866,7 @@
           "name": "基因工程新闻",
           "url": "https://www.genengnews.com/topics/bioprocessing/light-controlled-gene-expression-platform-reportedly-doubles-standard-fed-batch-manufacturing-performance/",
           "verified": true,
-          "verify_time": "2026-05-07T00:19:51.312592+08:00",
+          "verify_time": "2026-05-07T00:32:17.285516+08:00",
           "credibility": 82
         }
       ],

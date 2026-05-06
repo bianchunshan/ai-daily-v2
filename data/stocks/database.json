@@ -400,9 +400,10 @@
     },
     {
       "symbol": "BYD",
+      "quote_symbol": "1211.HK",
       "name": "比亚迪",
       "name_en": "BYD Company",
-      "exchange": "OTC",
+      "exchange": "HKEX",
       "sector": "电动车/新能源",
       "country": "CN",
       "market_cap": "90B",
