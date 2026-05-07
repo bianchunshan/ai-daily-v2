@@ -3,7 +3,7 @@
  * @version 2.0
  */
 
-const CACHE_NAME = 'frontier-tech-daily-cache-v9';
+const CACHE_NAME = 'frontier-tech-daily-cache-v10';
 const STATIC_ASSETS = [
     './',
     './index.html',
@@ -40,6 +40,13 @@ self.addEventListener('activate', (event) => {
 // 拦截请求
 self.addEventListener('fetch', (event) => {
     const { request } = event;
+    const url = new URL(request.url);
+    
+    // 页面和主脚本必须网络优先，避免用户长期看到旧版本。
+    if (request.mode === 'navigate' || url.pathname.endsWith('/index.html') || url.pathname.endsWith('/assets/js/app.js')) {
+        event.respondWith(networkFirst(request));
+        return;
+    }
     
     // 数据API请求 - 网络优先
     if (request.url.includes('/data/news/') || request.url.includes('/data/stocks/') || request.url.includes('/data/opportunities.json') || request.url.includes('/data/daily_digest.json')) {
