@@ -6,7 +6,7 @@
 
 // ==================== 配置常量 ====================
 const CONFIG = {
-    VERSION: '3.5.0',
+    VERSION: '3.6.0',
     API_BASE: 'data/news',
     ITEMS_PER_PAGE: 10,
     CACHE_TTL: 5 * 60 * 1000, // 5分钟缓存
@@ -296,7 +296,7 @@ const DataService = {
     async fetchStooqQuote(symbol) {
         const stooqSymbol = this.stooqSymbolFor(symbol);
         const fallback = State.stockQuotes?.[symbol] || {};
-        const url = `https://stooq.com/q/l/?s=${encodeURIComponent(stooqSymbol)}&f=sd2t2ohlcv&h&e=csv`;
+        const url = `https://stooq.com/q/l/?s=${encodeURIComponent(stooqSymbol)}&f=sd2t2ohlcvp&h&e=csv&_=${Date.now()}`;
 
         try {
             const response = await fetch(url, { cache: 'no-store' });
@@ -309,6 +309,9 @@ const DataService = {
             const row = Object.fromEntries(headers.map((header, index) => [header, values[index]]));
             const price = Number(row.Close);
             if (!Number.isFinite(price)) throw new Error('Stooq quote missing close');
+            const previous = Number(row.Prev);
+            const change = Number.isFinite(previous) && previous !== 0 ? price - previous : null;
+            const changePercent = change === null ? null : change / previous * 100;
             const marketTime = row.Date && row.Time
                 ? new Date(`${row.Date}T${row.Time}+08:00`).toISOString()
                 : new Date().toISOString();
@@ -318,8 +321,8 @@ const DataService = {
                 stooq_symbol: stooqSymbol,
                 price: Number(price.toFixed(2)),
                 currency: fallback.currency || this.getStockMeta(symbol).currency || 'USD',
-                change: fallback.change,
-                change_percent: fallback.change_percent,
+                change: change === null ? fallback.change : Number(change.toFixed(2)),
+                change_percent: changePercent === null ? fallback.change_percent : Number(changePercent.toFixed(2)),
                 market_time: marketTime,
                 source: 'Stooq 延迟行情'
             };
@@ -727,7 +730,7 @@ const App = {
      * 显示股票详情
      */
     async showStockDetail(symbol) {
-        window.location.hash = `stock/${symbol}`;
+        history.pushState({ view: 'stock', id: symbol }, document.title, `${window.location.pathname}${window.location.search}#stock/${symbol}`);
         await this.renderStockDetail(symbol);
     },
 
@@ -850,6 +853,7 @@ const App = {
             }
         });
         window.addEventListener('hashchange', () => this.handleRoute());
+        window.addEventListener('popstate', () => this.handleRoute());
     },
 
     /**
@@ -931,7 +935,7 @@ const App = {
     },
 
     showNewsDetail(id) {
-        window.location.hash = `news/${id}`;
+        history.pushState({ view: 'news', id }, document.title, `${window.location.pathname}${window.location.search}#news/${id}`);
         this.renderNewsDetail(id);
     },
 

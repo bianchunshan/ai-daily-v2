@@ -278,10 +278,12 @@
     </style>
 </head>
 <body>
-    <!-- Service Worker 注册 -->
+    <!-- 禁用旧离线缓存，避免页面和行情脚本长期停留在旧版本 -->
     <script>
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('sw.js').catch(console.error);
+            navigator.serviceWorker.getRegistrations()
+                .then(registrations => registrations.forEach(registration => registration.unregister()))
+                .catch(console.error);
         }
     </script>
 
@@ -465,6 +467,6 @@
     </button>
 
     <!-- JavaScript -->
-    <script src="assets/js/app.js?v=3.5.0"></script>
+    <script src="assets/js/app.js?v=3.6.0"></script>
 </body>
 </html>
